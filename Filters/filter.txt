@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-26T12:34:00.614Z
+! Last modified: 2022-12-26T18:22:00.666Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23074,6 +23074,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||gateway.foresee.com^
+||analytics.foresee.com^
 ||hatmiso.net^
 ||t.influ2.com^
 ||trk.adbutter.net^
@@ -26494,6 +26496,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||chubbycreature.com^
 ||restrainstorm.com^
 ||sugarfriction.com^
 ||fortunatemark.com^
@@ -27587,6 +27590,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.crea.ca^
 ||stat.airdroid.com^
 ||tracker.ranker.com^
 ||unagi*.amazon.
@@ -31787,7 +31791,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
-||analytics.foresee.com^
 ||analytics.googlepeer.cloud^
 ||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
@@ -32032,7 +32035,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ga-beacon.appspot.com^
 ||ga.webdigi.co.uk^
 ||ganon.yahoo.com^
-||gateway.foresee.com^
 ||gemius.mgr.consensu.org^
 ||geo.ertya.com^
 ||geo.gorillanation.com^
