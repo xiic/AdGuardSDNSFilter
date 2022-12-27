@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-27T12:34:22.382Z
+! Last modified: 2022-12-27T18:22:23.128Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3337,6 +3337,7 @@ vkcdnservice.appspot.com^
 ||afrier.com^
 ||afriet.com^
 ||afriflatry.co^
+||afrigh.com^
 ||afssdmin.com^
 ||afteen.com^
 ||aftent.com^
@@ -4061,6 +4062,7 @@ vkcdnservice.appspot.com^
 ||arraignmentinclose.com^
 ||arrenothanca.xyz^
 ||arridedoregano.tech^
+||arrism.com^
 ||arrivalselfcontrolrealization.com^
 ||arrivaltroublesome.com^
 ||arrivedeuropean.com^
@@ -5455,6 +5457,7 @@ vkcdnservice.appspot.com^
 ||breathebuds.com^
 ||breathtricklealleviate.com^
 ||bred4tula.com^
+||breechesbottomelf.com^
 ||breedingunspeakableplaice.com^
 ||breedtagask.com^
 ||breemi.com^
@@ -5758,6 +5761,7 @@ vkcdnservice.appspot.com^
 ||capricornnestlevile.com^
 ||capsheirspages.com^
 ||captainad.com^
+||captchafine.live^
 ||captiongodfather.com^
 ||captivatecustomergentlemen.com^
 ||captivateholscrook.com^
@@ -7848,6 +7852,7 @@ vkcdnservice.appspot.com^
 ||effateuncrisp.com^
 ||effectivecpmcontent.com^
 ||effectivecpmgate.com^
+||effectivecreativeformat.com^
 ||effectivecreativeformats.com^
 ||effectivedisplaycontent.com^
 ||effectivedisplayformat.com^
@@ -9928,6 +9933,7 @@ vkcdnservice.appspot.com^
 ||himediads.com^
 ||himediadx.com^
 ||himekingrow.com^
+||himhedrankslo.xyz^
 ||himselves.com^
 ||himselvesobr.club^
 ||hinlargecon.com^
@@ -10146,6 +10152,7 @@ vkcdnservice.appspot.com^
 ||hvooyieoei.com^
 ||hvvevjiuq.com^
 ||hwpnocpctu.com^
+||hxgqqxopf.com^
 ||hxoewq.com^
 ||hycikesty.pro^
 ||hydnoraraasch.tech^
@@ -11217,6 +11224,7 @@ vkcdnservice.appspot.com^
 ||koopheen.com^
 ||koora2live.com^
 ||koovapou.xyz^
+||koowlxlovl.com^
 ||kopehngtragen.com^
 ||koppiesgriever.com^
 ||koradu.com^
@@ -11445,6 +11453,7 @@ vkcdnservice.appspot.com^
 ||layer-ad.org^
 ||layerloop.com^
 ||layingprocuregather.com^
+||lazypeacefullyutterly.com^
 ||lbbxuenncq.com^
 ||lcaaixdgdfygx.com^
 ||lcdwjuzdkpxnss.com^
@@ -13694,6 +13703,7 @@ vkcdnservice.appspot.com^
 ||otdsngganpsgru.com^
 ||othandhadb.xyz^
 ||othbhe2.com^
+||othdgemanow.xyz^
 ||othecknotinda.com^
 ||otheyrami.xyz^
 ||othonnabusaos.com^
@@ -13809,6 +13819,7 @@ vkcdnservice.appspot.com^
 ||ovfratlkxerv.xyz^
 ||ovibospeseta.com^
 ||ovsliqrcwqsqfxf.xyz^
+||ovvwunawrt.com^
 ||ovxeeiuhjoenoeb.xyz^
 ||owenexposure.com^
 ||owewary.com^
@@ -14808,6 +14819,7 @@ vkcdnservice.appspot.com^
 ||psaudous.com^
 ||psaukaux.net^
 ||psaukrik.net^
+||psausuck.net^
 ||psautiultvvsqxj.xyz^
 ||psauwush.net^
 ||psazamajy.pro^
@@ -18327,6 +18339,7 @@ vkcdnservice.appspot.com^
 ||uloprjcy.xyz^
 ||ulourgaz.net^
 ||ulried.com^
+||ulrzovfukgkljw.com^
 ||ultanceev.com^
 ||ultimowraxle.com^
 ||ultingcoempa.xyz^
@@ -21817,6 +21830,7 @@ vkcdnservice.appspot.com^
 ||d1e28xq8vu3baf.cloudfront.net^
 ||d1e9rtdi67kart.cloudfront.net^
 ||d1ebha2k07asm5.cloudfront.net^
+||d1err2upj040z.cloudfront.net^
 ||d1esebcdm6wx7j.cloudfront.net^
 ||d1ev866ubw90c6.cloudfront.net^
 ||d1ezlc9vy4yc7g.cloudfront.net^
@@ -26351,8 +26365,6 @@ vkcdnservice.appspot.com^
 ||webflowmetrics.com^
 ||webforensics.co.uk^
 ||webglstats.com^
-||webgozar.com^
-||webgozar.ir^
 ||webhits.de^
 ||webiqonline.com^
 ||webkatalog.li^
@@ -27675,7 +27687,6 @@ vkcdnservice.appspot.com^
 ||tracking.univtec.com^
 ||counter.sberbank.ru^
 ||mxpl.9gag.com^
-||click.e.change.org^
 ||cryo.socialblade.com^
 ||sp.welcometothejungle.com^
 ||analytics.evolution-x.org^
