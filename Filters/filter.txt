@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-06T01:40:12.806Z
+! Last modified: 2023-01-06T06:23:50.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3753,6 +3753,7 @@ vkcdnservice.appspot.com^
 ||amberdub.com^
 ||ambersvelars.com^
 ||ambientplatform.vn^
+||ambiliarcarwin.com^
 ||ambitious-upstairs.pro^
 ||ambolicrighto.com^
 ||ambra.com^
@@ -8622,6 +8623,7 @@ vkcdnservice.appspot.com^
 ||fegrofaxe.pro^
 ||feinthonouredadornment.com^
 ||fejla.com^
+||fellap.com^
 ||felonlosel.com^
 ||feltlonelyand.xyz^
 ||femefaih.com^
@@ -9316,6 +9318,7 @@ vkcdnservice.appspot.com^
 ||ginepija.com^
 ||gingercompute.com^
 ||ginningsteri.com^
+||gipostart-1.co^
 ||girdlespittle.com^
 ||girise.com^
 ||girl7y.com^
@@ -9941,6 +9944,7 @@ vkcdnservice.appspot.com^
 ||hehadinqu.info^
 ||hehighursoo.com^
 ||heinndoo.one^
+||heinndoorhises.info^
 ||heiqirelle.com^
 ||heirchurchill.com^
 ||heiressplane.com^
@@ -10205,6 +10209,7 @@ vkcdnservice.appspot.com^
 ||hpzdwnkb.com^
 ||hq3x.com^
 ||hqawqssuvqyl.xyz^
+||hqmavhsorp.com^
 ||hqoadthspnju.com^
 ||hqpass.com^
 ||hqtbnelkvax.com^
@@ -13755,6 +13760,7 @@ vkcdnservice.appspot.com^
 ||onwasrv.com^
 ||oo00.biz^
 ||oocdqgado.xyz^
+||oodnaturedf.xyz^
 ||oodraune.com^
 ||oodroglu.net^
 ||oodsauns.net^
@@ -15820,6 +15826,7 @@ vkcdnservice.appspot.com^
 ||restorationpencil.com^
 ||restrictbench.com^
 ||restrictionsempty.com^
+||resulf.com^
 ||resultedmundconceal.com^
 ||resultlinks.com^
 ||resultsz.com^
@@ -17299,6 +17306,7 @@ vkcdnservice.appspot.com^
 ||starterplaicebrow.com^
 ||startpagea.com^
 ||starvards.com^
+||starvardsee.xyz^
 ||starvationdefence.com^
 ||stastips.net^
 ||stat-rock.com^
@@ -19777,6 +19785,7 @@ vkcdnservice.appspot.com^
 ||wp20.ru^
 ||wpadmngr.com^
 ||wpncdn.com^
+||wpnetwork.eu^
 ||wpnjs.com^
 ||wpnrtnmrewunrtok.xyz^
 ||wpnsrv.com^
