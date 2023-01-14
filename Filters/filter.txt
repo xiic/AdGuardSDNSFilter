@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-14T12:32:36.116Z
+! Last modified: 2023-01-14T18:21:12.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9529,6 +9529,7 @@ vkcdnservice.appspot.com^
 ||glecmaim.net^
 ||gleebsex.net^
 ||gleechie.net^
+||gleefulwaflib.com^
 ||gleejoad.net^
 ||gleemsomto.com^
 ||gleitmappy.com^
@@ -12947,6 +12948,7 @@ vkcdnservice.appspot.com^
 ||mopnatrestriction.com^
 ||mopnixhem.com^
 ||moradu.com^
+||morbidlocally.com^
 ||morbitempus.com^
 ||mordieuweeshee.com^
 ||mordoops.com^
@@ -18305,6 +18307,7 @@ vkcdnservice.appspot.com^
 ||thoamike.xyz^
 ||thoartuw.com^
 ||thofandew.com^
+||tholedfubbery.com^
 ||thompaur.com^
 ||thongaspredo.com^
 ||thongrooklikelihood.com^
@@ -20682,6 +20685,7 @@ vkcdnservice.appspot.com^
 ||zer1ads.com^
 ||zerg.pro^
 ||zeroidtech.com^
+||zestedmalays.com^
 ||zestekygri.com^
 ||zesty-beer.pro^
 ||zetadeo.com^
@@ -20707,6 +20711,7 @@ vkcdnservice.appspot.com^
 ||zilchesmoated.com^
 ||zillahhayers.com^
 ||zim-zim-zam.com^
+||zimg.jp^
 ||zimill.com^
 ||zincdatawipe.com^
 ||zinmnubj1cfr.com^
@@ -30834,9 +30839,11 @@ vkcdnservice.appspot.com^
 ||onespot-tracking.herokuapp.com^
 ||open.delivery.net^
 ||openxcdn.net^
+||optimeeze.appspot.com^
 ||optimizely.appspot.com^
 ||orts.wixawin.com^
 ||p.delivery.net^
+||p.typekit.net^
 ||p.yotpo.com^
 ||page-events-ustats.udemy.com^
 ||pagesense-collect.zoho.com^
@@ -31094,6 +31101,7 @@ vkcdnservice.appspot.com^
 ||track.vscash.com^
 ||track.wayin.com^
 ||track.yfret.com^
+||tracker-dot-optimeeze.appspot.com^
 ||tracker.affiliate.iqoption.com^
 ||tracker.affirm.com^
 ||tracker.arc.io^
