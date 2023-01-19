@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-19T12:37:33.605Z
+! Last modified: 2023-01-19T18:24:40.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2489,6 +2489,7 @@ vkcdnservice.appspot.com^
 ||79xmz3lmss.com^
 ||7a07c25a29.com^
 ||7a6a4e9e27.com^
+||7a7f07591f.com^
 ||7a864ece03.com^
 ||7adea8620f.com^
 ||7anfpatlo8lwmb.com^
@@ -4154,6 +4155,7 @@ vkcdnservice.appspot.com^
 ||ariadnethreadmin.com^
 ||arielpri2nce8ss09.com^
 ||arikhwglvc.xyz^
+||ariotgribble.com^
 ||aripplebeluga.com^
 ||arisedammiral.com^
 ||arithmeticshovel.com^
@@ -7522,6 +7524,7 @@ vkcdnservice.appspot.com^
 ||diplomasewerivory.com^
 ||dipobeds.com^
 ||dippingearlier.com^
+||dipseymontia.com^
 ||diptaich.com^
 ||direbitterly.com^
 ||direce.com^
@@ -8129,6 +8132,7 @@ vkcdnservice.appspot.com^
 ||eegnacou.com^
 ||eehuzaih.com^
 ||eeksidro.com^
+||eelipaus.net^
 ||eemedlikeama.xyz^
 ||eempacmy.com^
 ||eensoans.com^
@@ -8600,6 +8604,7 @@ vkcdnservice.appspot.com^
 ||exportspring.com^
 ||exposuremixed.com^
 ||expressvampire.com^
+||expwyredocks.com^
 ||exrtbsrv.com^
 ||extend.tv^
 ||extendedcocktailchapel.com^
@@ -9950,6 +9955,7 @@ vkcdnservice.appspot.com^
 ||grtexch.com^
 ||grtyj.com^
 ||grudgemotivate.com^
+||grudgewallet.com^
 ||grudreeb.com^
 ||grumblecrytopless.com^
 ||gruponn.com^
@@ -10030,6 +10036,7 @@ vkcdnservice.appspot.com^
 ||h8brccv4zf5h.com^
 ||h8vzwpv.com^
 ||h98s.com^
+||habaerashiksas.com^
 ||habbubrauraci.live^
 ||habithate.com^
 ||habitofstic.xyz^
@@ -12294,6 +12301,7 @@ vkcdnservice.appspot.com^
 ||losingfoundation.com^
 ||losingoldfry.com^
 ||lotionmodule.com^
+||lotosmarkkaa.com^
 ||lotreal.com^
 ||lotsnippier.cam^
 ||lotsooms.com^
@@ -13091,6 +13099,7 @@ vkcdnservice.appspot.com^
 ||mopnatrestriction.com^
 ||mopnixhem.com^
 ||moradu.com^
+||moraec.xyz^
 ||morbidlocally.com^
 ||morbitempus.com^
 ||mordieuweeshee.com^
@@ -13107,6 +13116,7 @@ vkcdnservice.appspot.com^
 ||morred.com^
 ||morrowfreezer.com^
 ||morsinsaner.uno^
+||mortalskeer.com^
 ||mortypush.com^
 ||mosked.com^
 ||moslemtaxon.guru^
@@ -13446,6 +13456,7 @@ vkcdnservice.appspot.com^
 ||nehodyshy.pro^
 ||nelado.xyz^
 ||nellads.com^
+||nemesiacalesa.website^
 ||nemewagro.com^
 ||nemgnephyfmt.xyz^
 ||neogaeakasher.com^
@@ -16878,6 +16889,7 @@ vkcdnservice.appspot.com^
 ||satisfactionpredictmusic.com^
 ||satisfactorilybewitchgreatness.com^
 ||satisfactorydipforeman.com^
+||satraefreath.com^
 ||saturdayaremoaning.com^
 ||saturdayloathe.com^
 ||saturdaymarryspill.com^
@@ -20234,6 +20246,7 @@ vkcdnservice.appspot.com^
 ||whuptaiz.net^
 ||wibtntmvox.com^
 ||wickedlongingbelfry.com^
+||wickiupcopalms.com^
 ||widaimty.com^
 ||wideeyedlady.pro^
 ||wideliber.com^
@@ -20549,6 +20562,7 @@ vkcdnservice.appspot.com^
 ||xhuwypebxqlt.com^
 ||xidx.org^
 ||xijgedjgg5f55.com^
+||xijojwonz.com^
 ||xilbalar.com^
 ||xilqhukky.com^
 ||xineday.com^
