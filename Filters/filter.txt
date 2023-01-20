@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-20T06:24:26.889Z
+! Last modified: 2023-01-20T12:37:21.137Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||efully.info^
+||davzwyavjm.com^
+||xpblitgpg.com^
+||nezuel.com^
+||ptiftols.net^
 ||fikccnef.top^
 ||buqkrzbrucz.com^
 ||styrianauf.com^
@@ -5416,6 +5421,7 @@ vkcdnservice.appspot.com^
 ||bmcdn2.com^
 ||bmcdn3.com^
 ||bmcdn4.com^
+||bmcdn5.com^
 ||bmkz57b79pxk.com^
 ||bmybkeo.com^
 ||bn5x.net^
@@ -20460,6 +20466,7 @@ vkcdnservice.appspot.com^
 ||wreathabble.com^
 ||wreckergaboon.com^
 ||wreckgroupads.com^
+||wrenchsound.store^
 ||wretchauraflirt.com^
 ||wrfgenwgdfi.xyz^
 ||wrient.com^
@@ -29726,6 +29733,7 @@ vkcdnservice.appspot.com^
 ||impression.link^
 ||imtwjwoasak.com^
 ||indicative.com^
+||infinity-tracking.com^
 ||infopro-insight.com^
 ||infoprodata.com^
 ||ingage.tech^
