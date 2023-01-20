@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-19T18:24:40.792Z
+! Last modified: 2023-01-20T01:40:27.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -591,7 +591,6 @@
 ||postsupport.net^
 ||brunettemattersrefused.com^
 ||v00ske77693f.com^
-||ad.lomadee.com^
 ||adshares.net^
 ||tonemedia.com^
 ||71213zhazha.com^
@@ -5947,6 +5946,7 @@ vkcdnservice.appspot.com^
 ||carcelshatches.com^
 ||carcflma.de^
 ||cardiwersg.com^
+||cardloomed.com^
 ||careful-oven.pro^
 ||carenterhosi.xyz^
 ||careuropecreatures.com^
@@ -6481,6 +6481,7 @@ vkcdnservice.appspot.com^
 ||cloud-repository.com^
 ||cloudcdn.ml^
 ||cloudcnfare.com^
+||clouddecrease.com^
 ||cloudflare.solutions^
 ||cloudfrale.com^
 ||cloudiiv.com^
@@ -8353,6 +8354,7 @@ vkcdnservice.appspot.com^
 ||enoughts.info^
 ||enrilov.info^
 ||enrobeddhuti.space^
+||enroes.com^
 ||enseelgrippy.com^
 ||ensueswill.com^
 ||entalsindust.one^
@@ -8495,6 +8497,7 @@ vkcdnservice.appspot.com^
 ||etoexukpre.com^
 ||etracking.pro^
 ||ettilt.com^
+||ettjvrjujt.xyz^
 ||ettlingnidana.com^
 ||etyequiremuk.work^
 ||euahvyde.xyz^
@@ -8551,6 +8554,7 @@ vkcdnservice.appspot.com^
 ||exarchykhu.store^
 ||exceedinglydiscovered.com^
 ||excellenceads.com^
+||exceph.com^
 ||exceptexchange.com^
 ||exchak.com^
 ||exchangediscreditmast.com^
@@ -8931,6 +8935,7 @@ vkcdnservice.appspot.com^
 ||figuredcurrantcroak.com^
 ||fiinann.com^
 ||fijekone.com^
+||filchimpossible.com^
 ||filegrab.xyz^
 ||filehosttds.ru^
 ||fileqn.pw^
@@ -10496,6 +10501,7 @@ vkcdnservice.appspot.com^
 ||hqpass.com^
 ||hqtbnelkvax.com^
 ||hrahdmon.com^
+||hreerfdfgourg.com.ua^
 ||hrmationeng.xyz^
 ||hrptaxegfly.com^
 ||hrsaeecwvkg.com^
@@ -11802,6 +11808,7 @@ vkcdnservice.appspot.com^
 ||kvezz.com^
 ||kvhfff.top^
 ||kvhttt.top^
+||kvjkkwyomjrx.com^
 ||kvkddd.top^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kwarh.com^
@@ -11938,6 +11945,7 @@ vkcdnservice.appspot.com^
 ||latvianswived.com^
 ||latvik.com^
 ||laufonie.net^
+||laugoust.com^
 ||laugue.com^
 ||lauhefoo.com^
 ||lauhoosh.net^
@@ -14266,6 +14274,7 @@ vkcdnservice.appspot.com^
 ||oqsujyxbsl.xyz^
 ||oqtusbgdeoshoc.com^
 ||orahmaggi.xyz^
+||oralmaliciousmonday.com^
 ||orangeads.fr^
 ||oraporn.com^
 ||orariaivylike.space^
@@ -15457,6 +15466,7 @@ vkcdnservice.appspot.com^
 ||prosumsit.com^
 ||protagcdn.com^
 ||protally.net^
+||protectedpeat.com^
 ||protectheader.com^
 ||protecthumor.com^
 ||protectionabate.com^
@@ -17070,6 +17080,7 @@ vkcdnservice.appspot.com^
 ||semirawbatter.com^
 ||sempcxjajh.com^
 ||semsicou.net^
+||semupgrjbnlhi.com^
 ||send-news.net^
 ||sength.com^
 ||senigh.com^
@@ -17699,6 +17710,7 @@ vkcdnservice.appspot.com^
 ||spideramebian.com^
 ||spidersmerithenceforward.com^
 ||spidersprimary.com^
+||spikethat.xyz^
 ||spikscabrin.com^
 ||spinaleighth.com^
 ||spinalmultiple.com^
@@ -19407,6 +19419,7 @@ vkcdnservice.appspot.com^
 ||unwillingsnick.com^
 ||unwroteorcinus.com^
 ||uod2quk646.com^
+||uomsogicgi.com^
 ||up4u.me^
 ||uparceuson.com^
 ||updateenow.com^
@@ -19682,6 +19695,7 @@ vkcdnservice.appspot.com^
 ||verblife-5.co^
 ||verdictdisingenuousfruitless.com^
 ||verifychocolate.com^
+||veryinterestvids.xyz^
 ||veryn1ce.com^
 ||verytransions.xyz^
 ||vespymedia.com^
@@ -20444,6 +20458,7 @@ vkcdnservice.appspot.com^
 ||wqzyxxrrep.com^
 ||wrathfultower.pro^
 ||wreathabble.com^
+||wreckergaboon.com^
 ||wreckgroupads.com^
 ||wretchauraflirt.com^
 ||wrfgenwgdfi.xyz^
@@ -20610,6 +20625,7 @@ vkcdnservice.appspot.com^
 ||xprivate.cc^
 ||xqgwymog.xyz^
 ||xqmyebdrunebsh.xyz^
+||xqrykosuvwibnw.com^
 ||xqzlgbbe.com^
 ||xrfabakydcwngov.xyz^
 ||xruonpmunan.com^
@@ -20969,6 +20985,7 @@ vkcdnservice.appspot.com^
 ||zeydsapps.com^
 ||zeypreland.com^
 ||zferral.com^
+||zfopakkt.com^
 ||zhmpqpqna.com^
 ||zhmzsjvkii.com^
 ||zhokar.com^
@@ -22860,6 +22877,7 @@ vkcdnservice.appspot.com^
 ||d1wv5x2u0qrvjw.cloudfront.net^
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1ybdlg8aoufn.cloudfront.net^
+||d1ytalcrl612d7.cloudfront.net^
 ||d1zjr9cc2zx7cg.cloudfront.net^
 ||d1zrs4deyai5xm.cloudfront.net^
 ||d1zw85ny9dtn37.cloudfront.net^
@@ -31972,6 +31990,7 @@ vkcdnservice.appspot.com^
 ||clearsale.com.br^
 ||enviou.com.br^
 ||hariken.co^
+||lomadee.com^
 ||percycle.com^
 ||pmweb.com.br^
 ||premiumads.com.br^
@@ -32364,6 +32383,7 @@ vkcdnservice.appspot.com^
 ||tracking.novem.pl^
 ||trc.gpcdn.pl^
 ! Portuguese
+||analytics.spun.com.br^
 ||api.nobeta.com.br^
 ||collect.chaordicsystems.com^
 ||events.chaordicsystems.com^
