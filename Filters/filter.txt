@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-23T01:38:00.449Z
+! Last modified: 2023-01-23T06:23:44.462Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -28549,7 +28549,6 @@ vkcdnservice.appspot.com^
 ||securedvisit.com^
 ||site24x7rum.eu^
 ||sitedataprocessing.com^
-||sixtrk.com^
 ||sjpf.io^
 ||snptrk.com^
 ||soapfighters.com^
@@ -28654,10 +28653,8 @@ vkcdnservice.appspot.com^
 ||aprtn.com^
 ||apsis1.com^
 ||apsislead.com^
-||apxy.io^
 ||aralego.net^
 ||ardalio.com^
-||arianelab.com^
 ||arrivalist.com^
 ||arsdev.net^
 ||ascend.ai^
@@ -28774,7 +28771,6 @@ vkcdnservice.appspot.com^
 ||datamind.ru^
 ||datasteam.io^
 ||datazoom.io^
-||dc.tremormedia.com^
 ||ddm.io^
 ||deep-content.io^
 ||deepattention.com^
@@ -28940,7 +28936,6 @@ vkcdnservice.appspot.com^
 ||koji-analytics.com^
 ||kokos.click^
 ||konduit.me^
-||ktxtr.com^
 ||l2.io^
 ||leadberry.com^
 ||leadbi.com^
@@ -29192,7 +29187,6 @@ vkcdnservice.appspot.com^
 ||squeezely.tech^
 ||ssm.codes^
 ||stackadapt.com^
-||stadsvc.com^
 ||star-cntr-5.com^
 ||stat-track.com^
 ||stat.social^
@@ -29526,7 +29520,6 @@ vkcdnservice.appspot.com^
 ||g1thub.com^
 ||gay-hotvideo.net^
 ||googleanalytcs.com^
-||greengaming.de^
 ||gus.host^
 ||hashcoin.co^
 ||hashnest.com^
@@ -29601,7 +29594,6 @@ vkcdnservice.appspot.com^
 ||usa.cc^
 ||verifypow.com^
 ||wasm.stream
-||wbmwss.beetv.net^
 ||webassembly.stream^
 ||webmine.pro^
 ||webxmr.com^
@@ -29743,7 +29735,6 @@ vkcdnservice.appspot.com^
 ||placeframe.com^
 ||planesorder.com^
 ||plantrelation.com^
-||pluckytaste.com^
 ||pointlesspocket.com^
 ||pricklydebt.com^
 ||propertypotato.com^
@@ -29903,7 +29894,6 @@ vkcdnservice.appspot.com^
 ||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
-||analytics.googlepeer.cloud^
 ||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
@@ -30262,7 +30252,6 @@ vkcdnservice.appspot.com^
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||log-*.previewnetworks.com^
-||log-global.aliyuncs.com^
 ||log.artipbox.net^
 ||log.cookieyes.com^
 ||log.go.com^
@@ -30308,7 +30297,6 @@ vkcdnservice.appspot.com^
 ||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
-||metrixlablw.customers.luna.net^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
 ||mon.domdog.io^
@@ -30861,7 +30849,6 @@ vkcdnservice.appspot.com^
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
 ||seal.qualys.com^
-||seal.verisign.com^
 ||secure.trust-guard.com^
 ||securitymetrics.com^
 ||shield.sitelock.com^
@@ -30994,7 +30981,6 @@ vkcdnservice.appspot.com^
 ||cctvgb.com.cn^
 ||cdnmaster.cn^
 ||cr-nielsen.com^
-||elevenmedia.cn^
 ||emarbox.com^
 ||ggxt.net^
 ||gostats.cn^
@@ -31193,7 +31179,6 @@ vkcdnservice.appspot.com^
 ||gdeslon.ru^
 ||get4click.ru^
 ||gnezdo.ru^
-||hobbi.xyz^
 ||idntfy.ru^
 ||imrk.net^
 ||infostroy.nnov.ru^
@@ -31217,7 +31202,6 @@ vkcdnservice.appspot.com^
 ||teletarget.ru^
 ||theactivetag.com^
 ||tophitbit.com^
-||tpm.pw^
 ||upravel.com^
 ||utraff.com^
 ||variti.net^
@@ -31276,9 +31260,7 @@ vkcdnservice.appspot.com^
 ||artemis-cdn.ocdn.eu^
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
-||cdntrf.de^
 ||cgicounter.onlinehome.de^
-||cnt2.stroeerdp.de^
 ||collector.ozeex.com^
 ||collector.rn.de^
 ||com.econa.com^
@@ -31288,7 +31270,6 @@ vkcdnservice.appspot.com^
 ||ctr-iwb.nmg.de^
 ||ctr-opc.nmg.de^
 ||ctr.nmg.de^
-||d.finative.eu^
 ||d.nativendo.de^
 ||d.omsnative.de^
 ||data.econa.com^
@@ -31297,7 +31278,6 @@ vkcdnservice.appspot.com^
 ||fc.webmasterpro.de^
 ||geo.mtvnn.com^
 ||geo.xcel.io^
-||im.aol.de^
 ||info.elba.at^
 ||live.cxo.name^
 ||liveviewer.ez.no^
@@ -31565,7 +31545,6 @@ vkcdnservice.appspot.com^
 ||neurotrack.neurolake.io^
 ||segmentor.snowfox-ai.com^
 ||tags.cmp.tail.digital^
-||track.e7r.com.br^
 ||track.noddus.com^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
