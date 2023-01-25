@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-25T12:37:51.918Z
+! Last modified: 2023-01-25T18:22:01.078Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3513,6 +3513,7 @@ vkcdnservice.appspot.com^
 ||ajointstalder.website^
 ||ajoqysuc.xyz^
 ||ajorinryeso.com^
+||ajsyxphfpr.com^
 ||ajuyacxneja.xyz^
 ||ajwbkgejrxxrr.xyz^
 ||ajxx98.online^
@@ -3526,6 +3527,7 @@ vkcdnservice.appspot.com^
 ||akrenmnqgkfai.top^
 ||akspecuaa.xyz^
 ||aktdrdfdconxvy.xyz^
+||alanibelen.com^
 ||alanticgecking.uno^
 ||alas4kanmfa6a4mubte.com^
 ||alaskan4kleeskai.com^
@@ -3972,6 +3974,7 @@ vkcdnservice.appspot.com^
 ||appzeyland.com^
 ||apricotaimless.com^
 ||aprilineffective.com^
+||apritifunbid.com^
 ||apromoweb.com^
 ||apsmediaagency.com^
 ||aptimorph.com^
@@ -4377,6 +4380,7 @@ vkcdnservice.appspot.com^
 ||aurallyhypaton.com^
 ||aurdosti.com^
 ||aureigabelle.com^
+||aureliancathy.com^
 ||aurjueeh.com^
 ||ausoafab.net^
 ||ausomsup.net^
@@ -7776,6 +7780,7 @@ vkcdnservice.appspot.com^
 ||eagerlyshuggy.com^
 ||eagernessstrongergreet.com^
 ||eagleapi.io^
+||eagletskoku.com^
 ||ealeo.com^
 ||eanddrsgankru.com.ua^
 ||eapdypexshbrps.com^
@@ -9057,6 +9062,7 @@ vkcdnservice.appspot.com^
 ||fyglovilo.pro^
 ||fykdxpdnhy.com^
 ||fzbjzlwcnd.com^
+||fzommizpo.com^
 ||fztmn.top^
 ||g-statistic.com^
 ||g1sysa.com^
@@ -11158,6 +11164,7 @@ vkcdnservice.appspot.com^
 ||kangaroohiccups.com^
 ||kankingwith.com^
 ||kanoodle.com^
+||kansanscichar.com^
 ||kantarmedia.com^
 ||kantiwl.com^
 ||kapotlyka.com^
@@ -14441,6 +14448,7 @@ vkcdnservice.appspot.com^
 ||photographingmake.com^
 ||photographingstirinput.com^
 ||phouvemp.net^
+||phouwims.net^
 ||phrans.com^
 ||phrensaltier.com^
 ||phsism.com^
@@ -15908,6 +15916,7 @@ vkcdnservice.appspot.com^
 ||rhythmxchange.com^
 ||ribsaiji.com^
 ||ribunews.com^
+||ribworkstylus.com^
 ||ric-ric-rum.com^
 ||ricead.com^
 ||ricettadellanonna.com^
@@ -16340,6 +16349,7 @@ vkcdnservice.appspot.com^
 ||salutationcheerlessdemote.com^
 ||salutationdove.com^
 ||samage-bility.icu^
+||samaniclucked.com^
 ||samazd.com^
 ||samghasps.com^
 ||samplerpouch.com^
@@ -17362,6 +17372,7 @@ vkcdnservice.appspot.com^
 ||stempelcosier.com^
 ||stenadewy.pro^
 ||stenchdaltonrunaway.com^
+||stengskelped.com^
 ||step-step-go.com^
 ||stepkeydo.com^
 ||stepmotherincomingpluck.com^
@@ -17996,6 +18007,7 @@ vkcdnservice.appspot.com^
 ||thoamike.xyz^
 ||thoartuw.com^
 ||thofandew.com^
+||tholedfubbery.com^
 ||thomasbarlowpro.com^
 ||thompaur.com^
 ||thongaspredo.com^
@@ -18166,6 +18178,7 @@ vkcdnservice.appspot.com^
 ||toiletapparel.com^
 ||tojadeso.xyz^
 ||tokenads.com^
+||tokofyttes.com^
 ||tokyoredcirce.com^
 ||tolerableinflectionkazan.com^
 ||tollyeric.com^
@@ -20137,6 +20150,7 @@ vkcdnservice.appspot.com^
 ||ylx-4.com^
 ||ym-a.cc^
 ||ym8p.net^
+||ymkomlhgzbpitp.com^
 ||ymqhiigpnt.com^
 ||ymzrrizntbhde.com^
 ||ynklendr.online^
@@ -23443,6 +23457,10 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tracking-api-4lasu2nlcq-ew.a.run.app^
+||optimeeze.appspot.com^
+||tracker-dot-optimeeze.appspot.com^
+||tag.imagino.com^
 ||cntxtfl.com^
 ||ztrck.me^
 ||trk.lightdatahouse.com^
@@ -30479,7 +30497,6 @@ vkcdnservice.appspot.com^
 ||onespot-tracking.herokuapp.com^
 ||open.delivery.net^
 ||openxcdn.net^
-||optimeeze.appspot.com^
 ||optimizely.appspot.com^
 ||orts.wixawin.com^
 ||p.delivery.net^
@@ -30681,7 +30698,6 @@ vkcdnservice.appspot.com^
 ||tag.brandcdn.com^
 ||tag.elevaate.io^
 ||tag.flagship.io^
-||tag.imagino.com^
 ||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
@@ -30742,7 +30758,6 @@ vkcdnservice.appspot.com^
 ||track.vscash.com^
 ||track.wayin.com^
 ||track.yfret.com^
-||tracker-dot-optimeeze.appspot.com^
 ||tracker.affiliate.iqoption.com^
 ||tracker.affirm.com^
 ||tracker.arc.io^
@@ -30768,7 +30783,6 @@ vkcdnservice.appspot.com^
 ||tracker.wpserveur.net^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^
-||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking.*.miui.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
