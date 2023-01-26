@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-26T06:23:16.925Z
+! Last modified: 2023-01-26T12:38:40.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||omjitjlhx.com^
+||gnenuelnn.com^
+||pusishegre.com^
+||kcddjusnew.com^
+||koabouch.net^
+||beinri.com^
 ||wyoxmklaa.xyz^
 ||phaithoo.xyz^
 ||bbangads.b-cdn.net^
@@ -2410,6 +2416,7 @@ vkcdnservice.appspot.com^
 ||7jrahgc.de^
 ||7lyonline.com^
 ||7me0ssd6.de^
+||7mmtv.top^
 ||7two0.rocks^
 ||80055404.vtt^
 ||800c7864eb.com^
@@ -23457,6 +23464,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||track.my1elitclub.com^
+||openfpcdn.io^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||optimeeze.appspot.com^
 ||tracker-dot-optimeeze.appspot.com^
@@ -28696,7 +28705,6 @@ vkcdnservice.appspot.com^
 ||nimbleswan.io^
 ||notifpush.com^
 ||nxakpj4ac8gkd53.info^
-||openfpcdn.io^
 ||oppuz.com^
 ||opti-digital.com^
 ||optistats.ovh^
