@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-26T12:38:40.242Z
+! Last modified: 2023-01-26T18:22:52.534Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -32,13 +32,9 @@
 ||phaithoo.xyz^
 ||bbangads.b-cdn.net^
 ||ukrait.com^
-||qnytqafoxu.com^
-||xpblitgpg.com^
 ||whychymithy.com^
 ||efully.info^
-||davzwyavjm.com^
 ||nezuel.com^
-||ptiftols.net^
 ||fikccnef.top^
 ||buqkrzbrucz.com^
 ||styrianauf.com^
@@ -120,7 +116,6 @@
 ||glefeesh.net^
 ||vlcdownloads.com^
 ||trqs.vip^
-||goomaphy.com^
 ||theupgradedata.com^
 ||theloveapproach.com^
 ||blfoddifghcmeyc.com^
@@ -152,7 +147,6 @@
 ||oobuthie.net^
 ||wugabts.com^
 ||flaxim.com^
-||booptuwa.net^
 ||mtdkhfguafqijx.com^
 ||oodrampi.com^
 ||sameplace.lol^
@@ -4839,6 +4833,7 @@ vkcdnservice.appspot.com^
 ||bearerassistance.com^
 ||bearingpreoccupationadmonish.com^
 ||bearoner.com^
+||bearpawclouty.com^
 ||bearsdisdainmathematics.com^
 ||beassilentasaf.xyz^
 ||beastintruder.com^
@@ -5382,6 +5377,7 @@ vkcdnservice.appspot.com^
 ||booleanfalces.website^
 ||boom-boom-vroom.com^
 ||boonsbarcas.uno^
+||booptuwa.net^
 ||booshout.com^
 ||boost-next.co.jp^
 ||boostcdn.net^
@@ -8377,6 +8373,7 @@ vkcdnservice.appspot.com^
 ||exposuremixed.com^
 ||expressalike.com^
 ||expressvampire.com^
+||expwyredocks.com^
 ||exrtbsrv.com^
 ||extend.tv^
 ||extendedcocktailchapel.com^
@@ -8502,6 +8499,7 @@ vkcdnservice.appspot.com^
 ||falconisleclip.com^
 ||falkag.net^
 ||falsemulticultural.com^
+||falsenalice.com^
 ||falsifylilac.com^
 ||falsifythomas.com^
 ||falytjfsydnxstr.xyz^
@@ -9522,6 +9520,7 @@ vkcdnservice.appspot.com^
 ||goofypismica.com^
 ||googleapi.club^
 ||goohimom.net^
+||goomaphy.com^
 ||gooods4you.com^
 ||goosebomb.com^
 ||goostist.com^
@@ -10688,6 +10687,7 @@ vkcdnservice.appspot.com^
 ||introfykeeler.tech^
 ||intrudeaccess.com^
 ||intrudesome.com^
+||intuitspisan.com^
 ||inuapixndextq.xyz^
 ||inurneddoggish.com^
 ||invadedwherevoluntary.com^
@@ -10846,6 +10846,7 @@ vkcdnservice.appspot.com^
 ||jadeepso.net^
 ||jads.co^
 ||jaftouja.net^
+||jafwmixumww.com^
 ||jagged-yellow.pro^
 ||jaggiertridii.com^
 ||jailabridge.com^
@@ -10931,6 +10932,7 @@ vkcdnservice.appspot.com^
 ||jestbiases.com^
 ||jestinvaderspeedometer.com^
 ||jetgatem.com^
+||jetsomkhulda.com^
 ||jetsowilk.com^
 ||jettrujole.com^
 ||jetx.info^
@@ -12453,6 +12455,7 @@ vkcdnservice.appspot.com^
 ||methodrumour.com^
 ||methoxyunpaled.com^
 ||methree-salien.icu^
+||metingsaeta.com^
 ||metopeharriet.com^
 ||metosk.com^
 ||metresetbackbayonet.com^
@@ -12561,6 +12564,7 @@ vkcdnservice.appspot.com^
 ||miswirewittall.uno^
 ||miszonepionic.space^
 ||mitosesgawking.com^
+||mittylargen.com^
 ||mixandfun.com^
 ||mixnewsbest.com^
 ||mixpo.com^
@@ -15111,6 +15115,7 @@ vkcdnservice.appspot.com^
 ||ptewarin.net^
 ||ptewauta.net^
 ||ptidsezi.com^
+||ptiftols.net^
 ||ptinouth.com^
 ||ptipsixo.com^
 ||ptipsout.net^
@@ -15370,6 +15375,7 @@ vkcdnservice.appspot.com^
 ||qn-5.com^
 ||qnsr.com^
 ||qnudcjkud.xyz^
+||qnytqafoxu.com^
 ||qoaaa.com^
 ||qofowyki.xyz^
 ||qomuchorindownlo.xyz^
@@ -15736,6 +15742,7 @@ vkcdnservice.appspot.com^
 ||remarkablyson.com^
 ||remedyeloise.com^
 ||remembercompetitioninexplicable.com^
+||remexpeeks.com^
 ||remeyr.com^
 ||reminews.com^
 ||remintrex.com^
@@ -16100,6 +16107,7 @@ vkcdnservice.appspot.com^
 ||rothoglyro.pro^
 ||rotondahogs.com^
 ||rouar.com^
+||roucoutaivers.com^
 ||roudoduor.com^
 ||rouinfernapean.com^
 ||roujonoa.net^
@@ -18872,6 +18880,7 @@ vkcdnservice.appspot.com^
 ||uponhariyamar.com^
 ||uponsurskita.com^
 ||uppardjets.com^
+||upperched.com^
 ||uppoin.com^
 ||uppsyduckan.com^
 ||upregisteelon.com^
@@ -19654,6 +19663,7 @@ vkcdnservice.appspot.com^
 ||whuptaiz.net^
 ||wibtntmvox.com^
 ||wickedlongingbelfry.com^
+||wickiupcopalms.com^
 ||widaimty.com^
 ||wideeyedlady.pro^
 ||wideliber.com^
@@ -19996,6 +20006,7 @@ vkcdnservice.appspot.com^
 ||xoalt.com^
 ||xoktditxsmr.xyz^
 ||xoliter.com^
+||xpblitgpg.com^
 ||xpctraffic.com^
 ||xpectthatmy.shop^
 ||xpollo.com^
