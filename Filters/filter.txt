@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-27T06:23:41.694Z
+! Last modified: 2023-01-27T12:35:16.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||paulty.com^
 ||omjitjlhx.com^
 ||gnenuelnn.com^
 ||pusishegre.com^
@@ -1376,6 +1377,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d25m254rjp3rii.cloudfront.net^
 ||creative.live7mm.tv^
 ||ad.petel.bg^
 ||d2o03z2xnyxlz5.cloudfront.net^
@@ -6005,7 +6007,6 @@ vkcdnservice.appspot.com^
 ||chapsartore.com^
 ||chaptersus.com^
 ||characcaslon.com^
-||chargebee.com^
 ||chargenews.com^
 ||chargeplatform.com^
 ||chargerbeakers.com^
@@ -23492,6 +23493,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||nakanohito.jp^
 ||track.my1elitclub.com^
 ||openfpcdn.io^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
@@ -29227,7 +29229,6 @@ vkcdnservice.appspot.com^
 ||mytrack.pro^
 ||myvisitorcounter.com^
 ||n74s9.com^
-||nakanohito.jp^
 ||natero.com^
 ||navigator.io^
 ||ncaudienceexchange.com^
@@ -30263,6 +30264,7 @@ vkcdnservice.appspot.com^
 ||collect.usefathom.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
+||collector.api.video^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
