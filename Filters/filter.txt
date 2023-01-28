@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-28T12:33:16.021Z
+! Last modified: 2023-01-28T18:21:16.337Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||95a056626e.com^
 ||paulty.com^
 ||omjitjlhx.com^
 ||gnenuelnn.com^
@@ -4439,6 +4440,7 @@ vkcdnservice.appspot.com^
 ||avkyu1tesnwy.com^
 ||avnyvfqiqiidu.xyz^
 ||avoidanudaic.xyz^
+||avonsour.com^
 ||avppuqrudc.com^
 ||avprvdlsfdmp.xyz^
 ||avulsedcherty.com^
@@ -4820,6 +4822,7 @@ vkcdnservice.appspot.com^
 ||bccda4ab57.com^
 ||bcd7ad4271.com^
 ||bcf8fbea24.com^
+||bcgbbzxackpk.com^
 ||bcguwwgkms.xyz^
 ||bclikeqt.com^
 ||bcloudhost.com^
@@ -5440,6 +5443,7 @@ vkcdnservice.appspot.com^
 ||bqnqrr53.com^
 ||br3azil334nutsz.com^
 ||braggingreorganizeunderworld.com^
+||bragpsychicsophomore.com^
 ||braidroll.com^
 ||brainian.club^
 ||brainient.com^
@@ -5815,6 +5819,7 @@ vkcdnservice.appspot.com^
 ||carrellsubdit.com^
 ||carrotraining.com^
 ||cartining-specute.com^
+||cartoonpeecommissioner.com^
 ||caruagedlr.com^
 ||carvyre.com^
 ||casalemedia.com^
@@ -6417,6 +6422,7 @@ vkcdnservice.appspot.com^
 ||coinenoisg.xyz^
 ||coinio.cc^
 ||coixclamps.com^
+||cokxeoil.com^
 ||colanbalkily.com^
 ||colarak.com^
 ||cold-cold-freezing.com^
@@ -7201,6 +7207,7 @@ vkcdnservice.appspot.com^
 ||designatejumped.com^
 ||desktopnotificationshub.com^
 ||desolatewreck.com^
+||despik.com^
 ||desponddietist.com^
 ||deswhatlike.biz^
 ||desxpbub.xyz^
@@ -7952,6 +7959,7 @@ vkcdnservice.appspot.com^
 ||eetseemp.net^
 ||eetsooso.net^
 ||eetyed.com^
+||eewhaukr.xyz^
 ||eewheeds.com^
 ||eexaitie.net^
 ||eezavops.net^
@@ -8024,6 +8032,7 @@ vkcdnservice.appspot.com^
 ||elaboratehall.pro^
 ||elasticad.net^
 ||elbertmemoria.com^
+||eldestcontribution.com^
 ||eldestequivalentdrain.com^
 ||eleavers.com^
 ||electnext.com^
@@ -9592,6 +9601,7 @@ vkcdnservice.appspot.com^
 ||grammarselfish.com^
 ||gramrebecca.com^
 ||granarybroughtfun.com^
+||granct.com^
 ||grandchildfee.com^
 ||granddaughterfashioned.com^
 ||granddaughterrepresentationintroduce.com^
@@ -10848,6 +10858,7 @@ vkcdnservice.appspot.com^
 ||iytafcpbnyauogj.xyz^
 ||izapteensuls.com^
 ||izitrckr.com^
+||izpcocomarfbrs.com^
 ||izrnvo.com^
 ||j1t05wk6.cfd^
 ||j4a73n7v5k.com^
@@ -11426,6 +11437,7 @@ vkcdnservice.appspot.com^
 ||koutobey.net^
 ||koxeebee.net^
 ||kozuyzcciaygg.com^
+||kpkgkkbs.xyz^
 ||kqhi97lf.de^
 ||kqpdnmkkvuu.com^
 ||kqwhorpvy.xyz^
@@ -11442,6 +11454,7 @@ vkcdnservice.appspot.com^
 ||ksdqhiaythajdv.com^
 ||ksehinkitw.hair^
 ||kt5850pjz0.com^
+||ktaehxdlf.com^
 ||kthwaalso.xyz^
 ||ktkjmp.com^
 ||ktobedirectu.autos^
@@ -12779,6 +12792,7 @@ vkcdnservice.appspot.com^
 ||moundgrandmotherel.com^
 ||mountainbender.xyz^
 ||mouraipoucuk.com^
+||moutosoeksaadlh.com^
 ||movad.de^
 ||movad.net^
 ||movcpm.com^
@@ -14060,6 +14074,7 @@ vkcdnservice.appspot.com^
 ||oxynticarkab.com^
 ||oyi9f1kbaj.com^
 ||oynylsvecloxnis.xyz^
+||oyrwfiaafd.com^
 ||ozardoog.net^
 ||ozdfhysr.com^
 ||ozectynptd.com^
@@ -14546,6 +14561,7 @@ vkcdnservice.appspot.com^
 ||ping-traffic.info^
 ||pinkpig2le8tt09.com^
 ||pinocularoud.xyz^
+||pinoffence.com^
 ||pinprickplums.com^
 ||pinwalerompers.com^
 ||pioneersuspectedjury.com^
@@ -18121,6 +18137,7 @@ vkcdnservice.appspot.com^
 ||ticalsisamine.space^
 ||tick-tock.net^
 ||ticketswinning.com^
+||tickleinclosetried.com^
 ||tickmatureparties.com^
 ||ticrite.com^
 ||tictacfrison.com^
@@ -20083,6 +20100,7 @@ vkcdnservice.appspot.com^
 ||xxfejeacw.com^
 ||xxlargepop.com^
 ||xxltr.com^
+||xxmaqoupnd.com^
 ||xxxadv.com^
 ||xxxbannerswap.com^
 ||xxxex.com^
@@ -23521,6 +23539,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||cookie.codemarketing.cloud^
 ||nakanohito.jp^
 ||track.my1elitclub.com^
 ||openfpcdn.io^
