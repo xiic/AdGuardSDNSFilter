@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-29T09:40:21.921Z
+! Last modified: 2023-01-29T12:33:35.388Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -23559,6 +23559,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||behavior.tongdun.net^
 ||cookie.codemarketing.cloud^
 ||nakanohito.jp^
 ||track.my1elitclub.com^
@@ -26994,6 +26995,8 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||carvecakes.com^
+||measlymiddle.com^
 ||vengefulgrass.com^
 ||chubbycreature.com^
 ||restrainstorm.com^
@@ -28725,6 +28728,7 @@ vkcdnservice.appspot.com^
 ||fasttiger.io^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
+||firstblackphase.com^
 ||fixel.ai^
 ||fn-pz.com^
 ||fpapi.io^
@@ -28835,6 +28839,7 @@ vkcdnservice.appspot.com^
 ||seadform.net^
 ||securedvisit.com^
 ||site24x7rum.eu^
+||sitecounter.site^
 ||sitedataprocessing.com^
 ||sjpf.io^
 ||snptrk.com^
@@ -30950,6 +30955,7 @@ vkcdnservice.appspot.com^
 ||ucounter.ucoz.net^
 ||uid.mediacorp.sg^
 ||units.knotch.it^
+||us-central1-markuphero.cloudfunctions.net^
 ||user.userguiding.com^
 ||usersegment.wpdigital.net^
 ||vdrn.redplum.com^
@@ -31924,7 +31930,9 @@ vkcdnservice.appspot.com^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
 ! Turkish
+||collector.wawlabs.com^
 ||statistics.daktilo.com^
+||stats.vidyome.com^
 ! Ukranian
 ||informers.sinoptik.ua^
 ! Vietnamese
