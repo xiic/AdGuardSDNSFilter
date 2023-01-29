@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-29T06:21:56.795Z
+! Last modified: 2023-01-29T09:40:21.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -23617,6 +23617,7 @@ vkcdnservice.appspot.com^
 ||f4cebacks.com^
 ||pixmg.com^
 ||serveipqs.com^
+||insights-collector.newrelic.com^
 ||analytics.126.net^
 ||metrics.userguiding.com^
 ||ptztvpremium.com^
@@ -25788,7 +25789,6 @@ vkcdnservice.appspot.com^
 ||jwmstats.com^
 ||jwpltx.com^
 ||kameleoon.com^
-||kampyle.com^
 ||kavijaseuranta.fi^
 ||kerebro.com^
 ||keymetric.net^
@@ -28608,6 +28608,7 @@ vkcdnservice.appspot.com^
 ||metrics.macys.net^
 ||metrics.sdkbox.com^
 ||mlb.did.ijinshan.com^
+||mobile-collector.newrelic.com^
 ||mobilelog.upqzfile.com^
 ||ms.cmcm.com^
 ||mtlog.droid4x.cn^
@@ -28955,7 +28956,6 @@ vkcdnservice.appspot.com^
 ||autoline-top.com^
 ||avapartner.com^
 ||awstats.cloud^
-||axiom.co^
 ||azointel.com^
 ||b1js.com^
 ||baremetrics.com^
@@ -29305,7 +29305,6 @@ vkcdnservice.appspot.com^
 ||netcore.co.in^
 ||netcoresmartech.com^
 ||netrefer.com^
-||newrelic.com^
 ||ninjacat.io^
 ||nmrodam.com^
 ||northstartravelmedia.com^
@@ -30000,6 +29999,7 @@ vkcdnservice.appspot.com^
 ||marriedbelief.com^
 ||massivebasket.com^
 ||measurecaption.com^
+||meltmilk.com^
 ||messyoranges.com^
 ||minuterhythm.com^
 ||miscreantmoon.com^
@@ -30101,6 +30101,7 @@ vkcdnservice.appspot.com^
 ||trapteaching.com^
 ||tzwaw.pw^
 ||unbecomingbikes.com^
+||unbecominglamp.com^
 ||understoodocean.com^
 ||verdantanswer.com^
 ||vivaciousveil.com^
@@ -31994,6 +31995,7 @@ vkcdnservice.appspot.com^
 ||atax.gamestats.com^
 ||atax.ign.com^
 ||atax.teamxbox.com^
+||beacon-1.newrelic.com^
 ||beacon.ehow.com^
 ||beacon.examiner.com^
 ||beacon.indieclicktv.com^
