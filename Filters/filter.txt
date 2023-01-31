@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-31T06:24:45.071Z
+! Last modified: 2023-01-31T12:36:55.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||khment.com^
+||eparil.com^
 ||95a056626e.com^
 ||paulty.com^
 ||omjitjlhx.com^
@@ -22910,6 +22912,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||jtbo*.nqxvevk.cn^
 ||nasimobi.com^
 ||wd.adcolony.xyz^
 ||im.ov.yahoo.co.jp^
@@ -23629,6 +23632,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||firstblackphase.com^
 ||rferl.c.goolara.net^
 ||behavior.tongdun.net^
 ||cookie.codemarketing.cloud^
@@ -28187,7 +28191,9 @@ vkcdnservice.appspot.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
+||dlsdk.appsflyer.com^
 ||dls2s.appsflyer.com^
+||inapps.appsflyersdk.com^
 ||launches.appsflyersdk.com^
 ||cdn-settings.appsflyersdk.com^
 ||appsflyer-report.honkaiimpact3.com^
@@ -28799,7 +28805,6 @@ vkcdnservice.appspot.com^
 ||fasttiger.io^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
-||firstblackphase.com^
 ||fixel.ai^
 ||fn-pz.com^
 ||fpapi.io^
