@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-01T12:38:01.441Z
+! Last modified: 2023-02-01T18:23:33.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||kmmsfoqbhc.xyz^
+||paroasse.xyz^
 ||despik.com^
 ||cottxdaaetckn.com^
 ||gpwpaqnxpwhqufz.sbs^
@@ -4706,6 +4708,7 @@ vkcdnservice.appspot.com^
 ||banquetunarmedgrater.com^
 ||bantercubicle.com^
 ||bantergleameddecline.com^
+||banteryquartin.com^
 ||bantgoau.com^
 ||bapkgkskdtjkd.xyz^
 ||baptismmattressstoppage.com^
@@ -5067,6 +5070,7 @@ vkcdnservice.appspot.com^
 ||bgun5cxxi2dv.com^
 ||bgxerhrcqkdpjib.xyz^
 ||bh3.net^
+||bharalhallahs.com^
 ||bhcont.com^
 ||bhcumsc.com^
 ||bhqhxbrmd.xyz^
@@ -6741,6 +6745,7 @@ vkcdnservice.appspot.com^
 ||ctsccrxfaqiq.xyz^
 ||ctsjackupspete.com^
 ||ctuklyeconnec.xyz^
+||ctxoxmia.com^
 ||cubeclause.com^
 ||cubenliven.com^
 ||cubeslichees.com^
@@ -6840,6 +6845,7 @@ vkcdnservice.appspot.com^
 ||d0main.ru^
 ||d1b9b1cxai2c03.cloudfront.net^
 ||d1bcb5ca9f.com^
+||d1z2jf7jlzjs58.cloudfront.net^
 ||d24ak3f2b.top^
 ||d25ee3531d.com^
 ||d29gqcij.com^
@@ -7200,6 +7206,7 @@ vkcdnservice.appspot.com^
 ||dgmatix.com^
 ||dgmaustralia.com^
 ||dgpcdn.org^
+||dgxmvglp.com^
 ||dh956.com^
 ||dharmaashman.com^
 ||dhhixhjeroqljtl.xyz^
@@ -9202,6 +9209,7 @@ vkcdnservice.appspot.com^
 ||gforanoppo.com^
 ||gfsdloocn.com^
 ||gfstrck.com^
+||ggedandoscarr.xyz^
 ||ggjcswb4rln4.com^
 ||ggkk.xyz^
 ||gglx.me^
@@ -9721,6 +9729,7 @@ vkcdnservice.appspot.com^
 ||hakeyelled.website^
 ||halchludwig.com^
 ||halfpriceozarks.com^
+||halibiuslicing.com^
 ||halileo.com^
 ||hallalifondish.space^
 ||halleyperson.pro^
@@ -10318,6 +10327,7 @@ vkcdnservice.appspot.com^
 ||ihhqwaurke.com^
 ||ihjtrncfoha.com^
 ||ihoabsop.xyz^
+||ihoolrun.net^
 ||ihopuchcomp.xyz^
 ||ihsarnaut.store^
 ||ihzuephjxb.com^
@@ -10859,6 +10869,7 @@ vkcdnservice.appspot.com^
 ||jikicotho.pro^
 ||jillbuildertuck.com^
 ||jilorunmy.buzz^
+||jilqwiooctiuf.com^
 ||jimopuwa.com^
 ||jincanfohn.website^
 ||jingenfirm.com^
@@ -11465,6 +11476,7 @@ vkcdnservice.appspot.com^
 ||last-actor.pro^
 ||lasticalsdeb.xyz^
 ||latentcreeper.com^
+||lateralphonesecurity.xyz^
 ||latgqaolitkli.com^
 ||latinnathathem.com^
 ||lationwordsi.xyz^
@@ -11940,6 +11952,7 @@ vkcdnservice.appspot.com^
 ||lybunbacwf.com^
 ||lycheemosses.com^
 ||lycopinrekey.com^
+||lyemiatteffulrf.xyz^
 ||lyingdownt.xyz^
 ||lyjegushe.pro^
 ||lylufhuxqwi.com^
@@ -13117,6 +13130,7 @@ vkcdnservice.appspot.com^
 ||noksauxi.com^
 ||nolrougn.com^
 ||nomadtricesurfing.com^
+||nomathoo.net^
 ||nomeuspagrus.com^
 ||nominalpowerlessunable.com^
 ||nomnemtalions.com^
@@ -13457,6 +13471,7 @@ vkcdnservice.appspot.com^
 ||oillesssris.guru^
 ||oilwellcuprene.com^
 ||ointmentaloofpincers.com^
+||oixohmve.com^
 ||oiycak.com^
 ||ojapanelm.xyz^
 ||ojfxjdiusut.com^
@@ -13755,6 +13770,7 @@ vkcdnservice.appspot.com^
 ||othbhe2.com^
 ||othdgemanow.xyz^
 ||othecknotinda.com^
+||othersfohi.com^
 ||otheyrami.xyz^
 ||othonnabusaos.com^
 ||otiatryenfeoff.live^
@@ -14000,6 +14016,7 @@ vkcdnservice.appspot.com^
 ||paripartners.ru^
 ||parishleft.com^
 ||parisjeroleinpg.com^
+||parkautomaticallyinfallible.com^
 ||parkdumbest.com^
 ||parkingridiculous.com^
 ||parkurl.com^
@@ -14495,6 +14512,7 @@ vkcdnservice.appspot.com^
 ||pocrd.cc^
 ||pocrowpush.com^
 ||podosupsurge.com^
+||podsklzegshmnd.com^
 ||podsolnu9hi10.com^
 ||poembetray.com^
 ||poeticgum.com^
@@ -15016,6 +15034,7 @@ vkcdnservice.appspot.com^
 ||puddrupose.com^
 ||pudrardu.net^
 ||pueral.com^
+||puerty.com^
 ||puggedproses.com^
 ||pugmillcolitis.website^
 ||pugsgivehugs.com^
@@ -15199,6 +15218,7 @@ vkcdnservice.appspot.com^
 ||qertewrt.com^
 ||qfdn3gyfbs.com^
 ||qfjherc.com^
+||qfoafjopdj.com^
 ||qgevavwyafjf.com^
 ||qgnlbjkxrzb.com^
 ||qgnqsebea.com^
@@ -15636,6 +15656,7 @@ vkcdnservice.appspot.com^
 ||rescuephrase.com^
 ||researchers.pw^
 ||resemblanceilluminatedcigarettes.com^
+||reservedwantrealistic.com^
 ||reservehearingmissing.com^
 ||resetmascara.com^
 ||resetoccultkeeper.com^
@@ -15756,6 +15777,7 @@ vkcdnservice.appspot.com^
 ||rgyxispegu.xyz^
 ||rhemistdimyary.tech^
 ||rhendam.com^
+||rhesusvitrite.com^
 ||rhinoceroscoketooth.com^
 ||rhiospsea.one^
 ||rhkyufodw8ochdr3ogsite.com^
@@ -15928,6 +15950,7 @@ vkcdnservice.appspot.com^
 ||ropeanres.com^
 ||ropemoon.com^
 ||roredi.com^
+||rorgoops.com^
 ||rorserdy.com^
 ||rosafun.com^
 ||rosalscrite.com^
@@ -16348,6 +16371,7 @@ vkcdnservice.appspot.com^
 ||searchsecurer.com^
 ||seatsrehearseinitial.com^
 ||seayipsex.com^
+||secludealcoholoverwhelm.com^
 ||secondboy.pro^
 ||secondunderminecalm.com^
 ||secrecysatisfy.com^
@@ -16712,6 +16736,7 @@ vkcdnservice.appspot.com^
 ||sixminutes.biz^
 ||sixtybirthsuperstition.com^
 ||siziermamas.com^
+||sizzlerisoflor.com^
 ||sjomilbedwarf.digital^
 ||sjtactic.com^
 ||skcapepyshdr.xyz^
@@ -16852,6 +16877,7 @@ vkcdnservice.appspot.com^
 ||snugslackmakeup.com^
 ||snurpsermon.space^
 ||snwpqybkb.com^
+||snxewpxrhegslq.com^
 ||soaheeme.net^
 ||soalonie.com^
 ||soap-wash.com^
@@ -17276,6 +17302,7 @@ vkcdnservice.appspot.com^
 ||stpmgo.com^
 ||strainemergency.com^
 ||straitreedanimated.com^
+||straji.com^
 ||strakerecombs.website^
 ||strangelyfaintestgreenhouse.com^
 ||strangersincentive.com^
@@ -18933,7 +18960,9 @@ vkcdnservice.appspot.com^
 ||vfyxjsclor.com^
 ||vg4u8rvq65t6.com^
 ||vgw35hwr4w6x.com^
+||vhjwlmlhd.com^
 ||vhmjevcgc.xyz^
+||vhrtgvzcmrfoo.com^
 ||viabagona.com^
 ||viagengarr.com^
 ||viahollow.com^
@@ -19900,6 +19929,7 @@ vkcdnservice.appspot.com^
 ||yfddaetiu.xyz^
 ||yfedatherappear.com.ua^
 ||yforaglasys.xyz^
+||yfqnmourhgim.com^
 ||yguuoibdsscki.com^
 ||ygzkedoxwhqlzp.com^
 ||yhhthemostb.xyz^
@@ -30726,7 +30756,6 @@ vkcdnservice.appspot.com^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
 ||d1yu67rmchodpo.cloudfront.net^
-||d1z2jf7jlzjs58.cloudfront.net^
 ||d1z9vm58yath60.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
 ||d21o24qxwf7uku.cloudfront.net^
