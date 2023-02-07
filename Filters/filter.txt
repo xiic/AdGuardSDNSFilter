@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-07T12:37:33.335Z
+! Last modified: 2023-02-07T18:23:31.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -6890,6 +6890,7 @@ vkcdnservice.appspot.com^
 ||d2ship.com^
 ||d31c6d951c.com^
 ||d37aacdbcc.com^
+||d3g5ovfngjw9bw.cloudfront.net^
 ||d4d48974197052ea.com^
 ||d576de5d7d.com^
 ||d5df191530.com^
@@ -11684,6 +11685,7 @@ vkcdnservice.appspot.com^
 ||leftoverdense.com^
 ||legalledgtjuj.club^
 ||legcatastrophetransmitted.com^
+||legendsmaestri.com^
 ||legerbbs.com^
 ||legerikath.com^
 ||leggygagbighearted.com^
@@ -12162,6 +12164,7 @@ vkcdnservice.appspot.com^
 ||mainnewsfuse.com^
 ||mainroll.com^
 ||maiptica.com^
+||mairunoa.xyz^
 ||maisvznypp.com^
 ||majasgaol.com^
 ||majestydeference.com^
@@ -14793,6 +14796,7 @@ vkcdnservice.appspot.com^
 ||portoutsid.xyz^
 ||portserratic.com^
 ||poseidthewave.com^
+||poseurtwicet.digital^
 ||poshhateful.com^
 ||positive-news.net^
 ||positive-news.org^
@@ -16467,6 +16471,7 @@ vkcdnservice.appspot.com^
 ||saviourketonic.com^
 ||savouryliaison.com^
 ||sawedhindgut.com^
+||sawmonwhomble.com^
 ||sawsdaggly.com^
 ||sawyerbravery.com^
 ||saycasksabnegation.com^
@@ -16741,6 +16746,7 @@ vkcdnservice.appspot.com^
 ||shealapish.com^
 ||sheeftee.net^
 ||sheenaup.net^
+||sheengoa.com^
 ||sheerdaulpusher.com^
 ||sheeroop.com^
 ||sheetchi.net^
@@ -22490,7 +22496,6 @@ vkcdnservice.appspot.com^
 ||d3fkv551xkjrmm.cloudfront.net^
 ||d3flai6f7brtcx.cloudfront.net^
 ||d3frqqoat98cng.cloudfront.net^
-||d3g5ovfngjw9bw.cloudfront.net^
 ||d3hib26r77jdus.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
 ||d3hj4iyx6t1waz.cloudfront.net^
