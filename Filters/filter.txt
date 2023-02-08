@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-08T12:36:50.680Z
+! Last modified: 2023-02-08T18:24:11.121Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -5135,6 +5135,7 @@ vkcdnservice.appspot.com^
 ||bigrourg.net^
 ||bigsport.today^
 ||biinminigihi.com^
+||bijitsoa.com^
 ||bijwawr.com^
 ||bikrurda.net^
 ||bilecontagiousswine.com^
@@ -13820,6 +13821,7 @@ vkcdnservice.appspot.com^
 ||oorwithabitofst.info^
 ||ootchaig.xyz^
 ||ootchoft.com^
+||ootibsay.xyz^
 ||oovilsol.com^
 ||ooxookrekaun.com^
 ||oozyunmix.com^
@@ -17060,6 +17062,7 @@ vkcdnservice.appspot.com^
 ||smg8oo4njst45oene.com^
 ||smigro.info^
 ||smileoffennec.com^
+||smirkscapos.com^
 ||smises.com^
 ||smisit.com^
 ||smists.com^
@@ -18367,6 +18370,7 @@ vkcdnservice.appspot.com^
 ||totogetica.com^
 ||touchycart.com^
 ||touglesy.net^
+||toumnahrafale.com^
 ||touphipt.com^
 ||tournamentplot.com^
 ||touroumu.com^
@@ -18943,6 +18947,7 @@ vkcdnservice.appspot.com^
 ||unwarydebite.com^
 ||unwillingsnick.com^
 ||unwisecommence.com^
+||unwoobater.com^
 ||unwroteorcinus.com^
 ||uod2quk646.com^
 ||up4u.me^
@@ -23563,6 +23568,7 @@ vkcdnservice.appspot.com^
 !
 ! The list of bug-tracker services(Sentry, etc.)
 ! Add as commented rules. Will be used in additional list and/or strict DNS
+! ||rum.cronitor.io^$third-party
 ! ||in.appcenter.ms^
 ! ||api.loganalytics.io^
 ! ||crashlyticsreports-pa.googleapis.com^
