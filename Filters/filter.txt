@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-09T06:25:26.847Z
+! Last modified: 2023-02-09T12:39:35.204Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||biocdn.net^
 ||xszcdn.com^
 ||myownshop.at^
 ||uads.store^
@@ -6066,6 +6067,7 @@ vkcdnservice.appspot.com^
 ||cheetieaha.com^
 ||cheewhoa.net^
 ||chefishoani.com^
+||chekacony.com^
 ||chekajie.com^
 ||chekseme.net^
 ||cheksoam.com^
@@ -6546,6 +6548,7 @@ vkcdnservice.appspot.com^
 ||connectionads.com^
 ||connexplace.com^
 ||connextra.com^
+||conorentail.com^
 ||conoret.com^
 ||conquercaniceberg.com^
 ||conquestdrawers.com^
@@ -7727,6 +7730,7 @@ vkcdnservice.appspot.com^
 ||dustywrenchdesigned.com^
 ||dutorterraom.com^
 ||dutravisne.com^
+||duwsikdimo.com^
 ||dvaminusodin.net^
 ||dviccvivms.com^
 ||dvigukindal.com^
@@ -8456,6 +8460,7 @@ vkcdnservice.appspot.com^
 ||f37d6b16c3.com^
 ||f397fd95eb.com^
 ||f3a173b897.com^
+||f3abc0d1b3.com^
 ||f3udfa7nfguhni.com^
 ||f451b7f622.com^
 ||f4906b7c15ba.com^
@@ -8876,6 +8881,7 @@ vkcdnservice.appspot.com^
 ||foakiwhazoja.com^
 ||foamidsputt.com^
 ||foapsovi.net^
+||fobeetch.net^
 ||focalex.com^
 ||focump.com^
 ||fogayeown.com^
@@ -10997,6 +11003,7 @@ vkcdnservice.appspot.com^
 ||jhoncj.com^
 ||jhzotqafwgb.com^
 ||jiawen88.com^
+||jibaeolia.com^
 ||jibmenbebloom.com^
 ||jifdrogtovz.com^
 ||jiffehxjwvpoefo.xyz^
@@ -15933,6 +15940,7 @@ vkcdnservice.appspot.com^
 ||retargetcore.com^
 ||retargeter.com^
 ||retauwhu.com^
+||retentrhason.com^
 ||rethowilmari.com^
 ||retionattings.xyz^
 ||retiringvarieties.com^
@@ -16513,6 +16521,7 @@ vkcdnservice.appspot.com^
 ||saviourketonic.com^
 ||savouryliaison.com^
 ||sawedhindgut.com^
+||sawmontlookups.com^
 ||sawmonwhomble.com^
 ||sawsdaggly.com^
 ||sawyerbravery.com^
@@ -18521,6 +18530,7 @@ vkcdnservice.appspot.com^
 ||tritat3.info^
 ||tritishnowy.live^
 ||triumphantplace.com^
+||trizonemellite.com^
 ||trk-aspernatur.com^
 ||trk-consulatu.com^
 ||trk-epicurei.com^
@@ -18983,6 +18993,7 @@ vkcdnservice.appspot.com^
 ||uppoin.com^
 ||uppsyduckan.com^
 ||upregisteelon.com^
+||upridables.website^
 ||uprightmidsummer.com^
 ||uprimp.com^
 ||uprims.com^
@@ -23615,6 +23626,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||log.trackingio.com^
 ||region1.analytics.google.com^
 ||google-analytics.com^
 ||iad.anm.co.uk^
@@ -23658,7 +23670,6 @@ vkcdnservice.appspot.com^
 ||traffic.wdc.center^
 ||evnt.iol.it^
 ||frog.editorx.com^
-||e.metarouter.io^
 ||tzegilo.com^
 ||data.hicloud.com^
 ||cdn.mavi.digital^
@@ -27055,6 +27066,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||magicaljoin.com^
 ||exchangedetail.com^
 ||dustyhammer.com^
 ||carvecakes.com^
@@ -29231,6 +29243,7 @@ vkcdnservice.appspot.com^
 ||gweini.com^
 ||haloscan.com^
 ||havasedge.com^
+||hbwrapper.com^
 ||heatmap.services^
 ||heyhelga.net^
 ||heylink.com^
@@ -29341,6 +29354,7 @@ vkcdnservice.appspot.com^
 ||mediago.io^
 ||mediaweaver.jp^
 ||memo.co^
+||metarouter.io^
 ||metricode.com^
 ||miadates.com^
 ||mixi.mn^
@@ -30066,7 +30080,6 @@ vkcdnservice.appspot.com^
 ||literatelight.com^
 ||livelyreward.com^
 ||ludicrousarch.com^
-||magicaljoin.com^
 ||magicalmonth.com^
 ||maliciousmusic.com^
 ||marriedbelief.com^
@@ -30250,6 +30263,7 @@ vkcdnservice.appspot.com^
 ||analytics.digitalpfizer.com^
 ||analytics.disneyinternational.com^
 ||analytics.dvidshub.net^
+||analytics.edgekey.net^
 ||analytics.eggoffer.com^
 ||analytics.erepublic.com^
 ||analytics.fabricators.ltd^
