@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-08T19:12:51.503Z
+! Last modified: 2023-02-09T01:41:27.911Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -5180,6 +5180,7 @@ vkcdnservice.appspot.com^
 ||bitads.io^
 ||bitbeat7.com^
 ||bitcoin-news.vip^
+||bitdiko.com^
 ||biteburied.com^
 ||bitesizedtreat.pro^
 ||biticesar.com^
@@ -6648,6 +6649,7 @@ vkcdnservice.appspot.com^
 ||counciladvertising.net^
 ||councilcoveauto.com^
 ||counda.com^
+||coundt.com^
 ||countertrck.com^
 ||countessbridge.com^
 ||countilde.online^
@@ -7040,6 +7042,7 @@ vkcdnservice.appspot.com^
 ||dchoseitfromt.com.ua^
 ||dcovesaysh.xyz^
 ||dcpxroykfpnnpm.xyz^
+||dcuonsugikrma.com^
 ||dcynwezfon.com^
 ||dd09af1279.com^
 ||dd8af8726c.com^
@@ -10852,6 +10855,7 @@ vkcdnservice.appspot.com^
 ||itweedler.com^
 ||itweepinbelltor.com^
 ||itzekromom.com^
+||iuclpbgxyfddk.xyz^
 ||iupot.com^
 ||iuprhjal.com^
 ||iuwzdf.com^
@@ -11181,6 +11185,7 @@ vkcdnservice.appspot.com^
 ||jwplayer.space^
 ||jwt8e5vzc1.com^
 ||jwycmuozlpu.com^
+||jyaneuan.com^
 ||jyarkinhechershedt.xyz^
 ||jygotubvpyguak.com^
 ||jyjgtpurrwg.xyz^
@@ -11594,6 +11599,7 @@ vkcdnservice.appspot.com^
 ||landscapeuproar.com^
 ||landslidechoreloft.com^
 ||landupoatour.com.ua^
+||landupoatouwe.xyz^
 ||lanistaads.com^
 ||laniusburkei.com^
 ||lankychaosrun.com^
@@ -12196,6 +12202,7 @@ vkcdnservice.appspot.com^
 ||majorinryesop.lol^
 ||majorityevaluatewiped.com^
 ||majorworkertop.com^
+||makemehappy.pro^
 ||makesboundlessvirtue.com^
 ||makespram.com^
 ||makingnude.com^
@@ -15420,6 +15427,7 @@ vkcdnservice.appspot.com^
 ||qaykb.com^
 ||qbkzvophvva.com^
 ||qcffrrsyaxcccx.xyz^
+||qctnglnhfkhcjue.com^
 ||qdagihwi.xyz^
 ||qdatasales.com^
 ||qdmil.com^
@@ -16632,6 +16640,7 @@ vkcdnservice.appspot.com^
 ||sefsdvc.com^
 ||sefuge.com^
 ||sefytiavhavrds.com^
+||seibertspart.com^
 ||seinpounday.com^
 ||seizecrashsophia.com^
 ||seizedorientationenrich.com^
@@ -19926,6 +19935,7 @@ vkcdnservice.appspot.com^
 ||worred.com^
 ||worriesteapotairborne.com^
 ||worrycrevicewholly.com^
+||worseobscureplastic.com^
 ||worthconesquadron.com^
 ||worthersefim.club^
 ||worthless-living.pro^
