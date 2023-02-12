@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-11T18:22:11.913Z
+! Last modified: 2023-02-12T01:44:20.969Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -21728,6 +21728,7 @@ vkcdnservice.appspot.com^
 ||ppcwebspy.com^
 ||prebid.org^
 ||prebidwrapper.com^
+||primis-amp.tech^
 ||promo-reklama.ru^
 ||proper.io^
 ||pubdirecte.com^
@@ -22957,10 +22958,6 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
-!
-! com.kakao.talk
-.ad.kakaocorp.com^
-.ad.kakao.com^
 !
 ||api-ad-adapter.wps.com^
 ||jtbo*.nqxvevk.cn^
@@ -30052,6 +30049,7 @@ vkcdnservice.appspot.com^
 ||beginnerpancake.com^
 ||begintrain.com^
 ||bizarrebaseball.com^
+||blushingbread.com^
 ||bouncyfront.com^
 ||burstblade.com^
 ||bustlingbath.com^
@@ -31813,6 +31811,7 @@ vkcdnservice.appspot.com^
 ||datacollector-dra.dt.hicloud.com^
 ||dcbpm.suning.cn^
 ||epro.sogou.com^
+||experiments.sparanoid.net^
 ||g.yccdn.com^
 ||haostat.qihoo.com^
 ||hyrankhit.meldingcloud.com^
