@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-13T12:38:18.702Z
+! Last modified: 2023-02-13T18:24:54.535Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||omxriphi.com^
 ||poflix.com^
 ||egikoilnbwk.com^
 ||xmvftaoz.com^
@@ -5010,6 +5011,7 @@ vkcdnservice.appspot.com^
 ||ber2g8e3keley.com^
 ||berhima.xyz^
 ||berkshiretoday.xyz^
+||berses.com^
 ||berthformttet.com.ua^
 ||berthsorry.com^
 ||berush.com^
@@ -11817,6 +11819,7 @@ vkcdnservice.appspot.com^
 ||lenmit.com^
 ||lensesunduke.website^
 ||leonbetvouum.com^
+||leonidwolvers.com^
 ||leonodikeu9sj10.com^
 ||leontius-eli.com^
 ||leoyard.com^
@@ -12181,6 +12184,7 @@ vkcdnservice.appspot.com^
 ||lwgadm.com^
 ||lwjvyd.com^
 ||lwppiglets.website^
+||lwvtxpwjv.com^
 ||lx2rv.com^
 ||lxfsimoastsiite.xyz^
 ||lxphwibrkt.xyz^
@@ -17184,6 +17188,7 @@ vkcdnservice.appspot.com^
 ||smirkscapos.com^
 ||smises.com^
 ||smisit.com^
+||smisto.com^
 ||smists.com^
 ||smoggydisplay.pro^
 ||smokesplical.com^
@@ -18257,6 +18262,7 @@ vkcdnservice.appspot.com^
 ||thoseads.com^
 ||thosemethod.pro^
 ||thoudroa.net^
+||thouedslipped.life^
 ||thoughclassifiedjeff.com^
 ||thoughtleadr.com^
 ||thoughtsusta.xyz^
@@ -19486,6 +19492,7 @@ vkcdnservice.appspot.com^
 ||vmhzvqzx.com^
 ||vmraahnmspzy.com^
 ||vmuid.com^
+||vnbgcquiihu.xyz^
 ||vneffwecka.com^
 ||vnfunsvrtm.com^
 ||vnjvupnrboobpz.com^
@@ -19530,6 +19537,7 @@ vkcdnservice.appspot.com^
 ||vossulekuk.com^
 ||votemoodyexcavate.com^
 ||vouceeco.com^
+||vouglftxohkcuu.com^
 ||vouhecem.net^
 ||vounaipu.net^
 ||vowcertainly.com^
@@ -19711,6 +19719,7 @@ vkcdnservice.appspot.com^
 ||waxpigbaa.com^
 ||waxtamnit.com^
 ||wayfarerspoutpraise.com^
+||waygatecrowbar.com^
 ||waymarkgentiin.com^
 ||waymentriddel.com^
 ||waynagmay.com^
