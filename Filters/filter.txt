@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-14T12:40:53.736Z
+! Last modified: 2023-02-14T18:24:32.781Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2799,6 +2799,7 @@ vkcdnservice.appspot.com^
 ||acquawes.xyz^
 ||acquirethem.com^
 ||acquitfigreside.com^
+||acrevenene.com^
 ||acronycgrimes.com^
 ||acrossgained.com^
 ||acscdn.com^
@@ -4677,6 +4678,7 @@ vkcdnservice.appspot.com^
 ||bagwynbilgier.com^
 ||bahfhgfdibgbcegbgg.ru^
 ||bahmemohod.com^
+||bahutuophian.com^
 ||baikogru.net^
 ||baileyflossallpurpose.com^
 ||bailifftent.com^
@@ -5904,6 +5906,7 @@ vkcdnservice.appspot.com^
 ||catwrite.com^
 ||cauchoforegut.space^
 ||caugs.com^
+||caulibotas.com^
 ||caunaurou.com^
 ||cauthaushoas.com^
 ||cautiouscooperativegentlemen.com^
@@ -10815,6 +10818,7 @@ vkcdnservice.appspot.com^
 ||intrudesome.com^
 ||intuitspisan.com^
 ||inuapixndextq.xyz^
+||inuregestura.com^
 ||inurneddoggish.com^
 ||invadedwherevoluntary.com^
 ||invaderannihilationperky.com^
@@ -15690,6 +15694,7 @@ vkcdnservice.appspot.com^
 ||radioearphonesaggravation.com^
 ||radiusfellowship.com^
 ||radiusmarketing.com^
+||raftybuts.com^
 ||rag3ca7t5amubr8eedffin.com^
 ||ragapa.com^
 ||rageagainstthesoap.com^
@@ -18018,6 +18023,7 @@ vkcdnservice.appspot.com^
 ||tallysaturatesnare.com^
 ||talsauve.com^
 ||tamperstationerycultivate.com^
+||tanandatable.com^
 ||tangiblewhereuponprestige.com^
 ||tankastapia.com^
 ||tantialcottish.xyz^
@@ -19956,6 +19962,7 @@ vkcdnservice.appspot.com^
 ||whourgie.com^
 ||whoursie.com^
 ||whouseem.com^
+||whoutchi.net^
 ||whoutsiy.net^
 ||whoutsog.net^
 ||whouvike.com^
@@ -23819,6 +23826,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||cra.hum.works^
 ||log.trackingio.com^
 ||region1.analytics.google.com^
 ||google-analytics.com^
@@ -27258,6 +27266,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||aliasanvil.com^
 ||shiveringspot.com^
 ||magicaljoin.com^
 ||exchangedetail.com^
