@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-13T18:24:54.535Z
+! Last modified: 2023-02-14T01:44:51.823Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2653,6 +2653,7 @@ vkcdnservice.appspot.com^
 ||abburmyer.com^
 ||abclefabletor.com^
 ||abcporntube.com^
+||abdlnk.com^
 ||abdlnkjs.com^
 ||abdurantom.com^
 ||abedbudgetserenity.com^
@@ -2694,6 +2695,7 @@ vkcdnservice.appspot.com^
 ||abould.com^
 ||abouzune.net^
 ||aboveredirect.top^
+||abpjs23.com^
 ||abrasivematch.com^
 ||abridgeoverwhelmfireball.com^
 ||abrinchapper.com^
@@ -5661,6 +5663,7 @@ vkcdnservice.appspot.com^
 ||buoyantmanufacturer.pro^
 ||bupatp.com^
 ||buphoolo.net^
+||buqokcv.com^
 ||burbibape.com^
 ||burdiesfogyish.com^
 ||bureauxcope.casa^
@@ -6150,6 +6153,7 @@ vkcdnservice.appspot.com^
 ||chl7rysobc3ol6xla.com^
 ||chlibopi.xyz^
 ||chligh.com^
+||chlodd.com^
 ||cho7932105co3l2ate3covere53d.com^
 ||choahees.net^
 ||chobsang.net^
@@ -11374,6 +11378,7 @@ vkcdnservice.appspot.com^
 ||keterrehepren.xyz^
 ||ketobeparto.xyz^
 ||ketoo.com^
+||kettleheedless.com^
 ||kevelandean.com^
 ||kewhulawi.com^
 ||keydawnawe.com^
@@ -14360,6 +14365,7 @@ vkcdnservice.appspot.com^
 ||pathloaded.com^
 ||pathosacetals.com^
 ||patibe.com^
+||patienceboostboss.com^
 ||patioeasternopera.com^
 ||patiotheoretical.com^
 ||patithatspartal.pro^
@@ -14400,6 +14406,7 @@ vkcdnservice.appspot.com^
 ||pc20160301.com^
 ||pc2ads.com^
 ||pcbuqpdytqanufu.xyz^
+||pceepmcccvxxotg.com^
 ||pclk.name^
 ||pcmclks.com^
 ||pctlwm.com^
@@ -14645,6 +14652,7 @@ vkcdnservice.appspot.com^
 ||pickytime.com^
 ||picnicnorthernincompetent.com^
 ||picsofdream.today^
+||picsservices.info^
 ||picsti.com^
 ||pictela.net^
 ||pierisrapgae.com^
@@ -17993,6 +18001,7 @@ vkcdnservice.appspot.com^
 ||tarvemowhay.com^
 ||taryarguestio.com^
 ||taskproceduresseverely.com^
+||tasmok.com^
 ||tassed.com^
 ||tastingraise.com^
 ||tasty-election.com^
@@ -20537,6 +20546,7 @@ vkcdnservice.appspot.com^
 ||yuppads.com^
 ||yuppyads.com^
 ||yuqadu.xyz^
+||yvgqjswenws.com^
 ||yvmads.com^
 ||yvoria.com^
 ||yvzgazds6d.com^
@@ -29008,6 +29018,7 @@ vkcdnservice.appspot.com^
 ||mediamathrdrt.com^
 ||mediapvx.com^
 ||mediapxv.com^
+||mitour.de^
 ||mm-api.agency^
 ||mors22.com^
 ||mrpdata.net^
@@ -29367,7 +29378,6 @@ vkcdnservice.appspot.com^
 ||giddyuptrk.com^
 ||gim.co.il^
 ||glassboxcdn.com^
-||glia.com^
 ||globalsiteanalytics.com^
 ||gnpge.com^
 ||go2link.net^
@@ -29639,7 +29649,6 @@ vkcdnservice.appspot.com^
 ||rumpelstiltskinhead.com^
 ||s7target.ru^
 ||safe-click.net^
-||salemove.com^
 ||salesviewer.com^
 ||salesviewer.org^
 ||san-spr-01.net^
@@ -30541,6 +30550,7 @@ vkcdnservice.appspot.com^
 ||clicktale.pantherssl.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
+||client-logger.salemove.com^
 ||client.tahono.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
@@ -31850,6 +31860,7 @@ vkcdnservice.appspot.com^
 ||analytics.valiuz.com^
 ||at.360.audion.fm^
 ||btstats.devtribu.fr^
+||capping.sirius.press^
 ||collect-v6.51.la^
 ||compteur.websiteout.net^
 ||core.unit-sense.net^
