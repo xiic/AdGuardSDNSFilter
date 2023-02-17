@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-17T12:36:52.384Z
+! Last modified: 2023-02-17T18:24:15.099Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||pilgrimarduouscorruption.com^
+||affelseaeinera.org^
+||dgemanowhowe.xyz^
+||farasiverived.org^
 ||bluffsouttore.com^
 ||adxfire.com^
 ||adxfire.in^
@@ -3307,7 +3311,6 @@ vkcdnservice.appspot.com^
 ||affectionatelypartiesdependant.com^
 ||affectionmimic.com^
 ||affectionsexterminate.com^
-||affelseaeinera.org^
 ||affelseaeineral.xyz^
 ||affiliate-robot.com^
 ||affiliate-wg.com^
@@ -7342,7 +7345,6 @@ vkcdnservice.appspot.com^
 ||dfyouolsdq.com^
 ||dgafgadsgkjg.top^
 ||dgemanowhot.com.ua^
-||dgemanowhowe.xyz^
 ||dgmatix.com^
 ||dgmaustralia.com^
 ||dgpcdn.org^
@@ -11368,6 +11370,7 @@ vkcdnservice.appspot.com^
 ||kareaumatzot.com^
 ||karsauwi.xyz^
 ||karshagirdled.com^
+||kartingsoja.com^
 ||karvarcloit.com^
 ||kasheglesy.pro^
 ||kastafor.com^
@@ -13386,6 +13389,7 @@ vkcdnservice.appspot.com^
 ||nicesthoarfrostsooner.com^
 ||nicheads.com^
 ||nichedlinks.com^
+||nichegreatunemployment.com^
 ||nichools.com^
 ||nichrnmxrlplt.com^
 ||nickeeha.net^
@@ -15424,6 +15428,7 @@ vkcdnservice.appspot.com^
 ||ptoosteg.com^
 ||ptoumsid.net^
 ||ptoushoa.com^
+||ptousteg.net^
 ||ptoutsexe.com^
 ||ptp22.com^
 ||ptp24.com^
@@ -24179,7 +24184,6 @@ vkcdnservice.appspot.com^
 ||lightstep.medium.systems^
 ||cyberanalytics.nl^
 ||analytics.test.cheggnet.com^
-||03c844c9-d265-4006-a39d-400e6cb40bb7.xyz^
 ||sitealyse.de^
 ||wait.re^
 ||analytics-script.ad-shield.io^
@@ -24203,7 +24207,6 @@ vkcdnservice.appspot.com^
 ||init.blackcrow.ai^
 ||taplytics.com^
 ||event-stream.spot.im^
-||1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz^
 ||track.swaptrap.live^
 ||triplewhale-pixel.web.app^
 ||tracking.hyros.com^
