@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-17T06:25:19.927Z
+! Last modified: 2023-02-17T12:36:52.384Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||bluffsouttore.com^
 ||adxfire.com^
 ||adxfire.in^
 ||befirstcdn.com^
@@ -23939,6 +23940,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||b.karte.io^
 ||cra.hum.works^
 ||log.trackingio.com^
 ||region1.analytics.google.com^
@@ -28577,6 +28579,7 @@ vkcdnservice.appspot.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||node.aibeacon.jp^
 ||wsmetrics.batch.com^
 ||log.isnssdk.com^
 ||log-tb.isnssdk.com^
@@ -32197,6 +32200,7 @@ vkcdnservice.appspot.com^
 ||analytics.livesense.marketing^
 ||analyzer51.fc2.com^
 ||asumi.shinobi.jp^
+||b0.yahoo.co.jp^
 ||bvr.snva.jp^
 ||counter2.blog.livedoor.com^
 ||log.f-tra.com^
