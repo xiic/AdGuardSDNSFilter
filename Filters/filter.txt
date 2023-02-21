@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-21T01:45:52.598Z
+! Last modified: 2023-02-21T06:24:44.429Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -30582,6 +30582,7 @@ vkcdnservice.appspot.com^
 ||curlycannon.com^
 ||currentcollar.com^
 ||curvedsquirrel.com^
+||cushiondrum.com^
 ||cushionpig.com^
 ||cutecalculator.com^
 ||debonairdust.com^
@@ -30589,6 +30590,7 @@ vkcdnservice.appspot.com^
 ||desirebucket.com^
 ||difficultfog.com^
 ||distancefinger.com^
+||distributionneck.com^
 ||distributiontomatoes.com^
 ||disturbedquiet.com^
 ||dogcollarfavourbluff.com^
@@ -30636,6 +30638,7 @@ vkcdnservice.appspot.com^
 ||joyoussurprise.com^
 ||k54nw.pw^
 ||kittyaction.com^
+||knottyswing.com^
 ||lameletters.com^
 ||leapfaucet.com^
 ||literatelight.com^
@@ -30670,6 +30673,8 @@ vkcdnservice.appspot.com^
 ||planesorder.com^
 ||plantrelation.com^
 ||pointlesspocket.com^
+||pointlessprofit.com^
+||priceypies.com^
 ||pricklydebt.com^
 ||propertypotato.com^
 ||psychedelicchess.com^
@@ -30739,6 +30744,7 @@ vkcdnservice.appspot.com^
 ||stringsmile.com^
 ||stupendoussnow.com^
 ||stupidscene.com^
+||swankysquare.com^
 ||swimslope.com^
 ||synonymousrule.com^
 ||tdzvm.pw^
@@ -30755,6 +30761,7 @@ vkcdnservice.appspot.com^
 ||unbecominglamp.com^
 ||understoodocean.com^
 ||verdantanswer.com^
+||virtualvincent.com^
 ||vivaciousveil.com^
 ||voraciousgrip.com^
 ||voyagepotato.com^
