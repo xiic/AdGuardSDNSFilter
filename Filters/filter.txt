@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-22T12:38:41.238Z
+! Last modified: 2023-02-22T18:24:45.703Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||tintedparticular.com^
+||itchinglikely.com^
+||iwistracks.com^
+||ojtosjaqkrr.com^
 ||usedaifi.xyz^
 ||reotiedygrf.xyz^
 ||ironcladtrouble.com^
@@ -151,7 +155,6 @@
 ||montlusa.top^
 ||xhyjrivwa.com^
 ||gointhe.space^
-||3d55ty.cfeucdn.com^
 ||pornjustx.com^
 ||tumblebit.com^
 ||amltaqap.com^
@@ -200,7 +203,6 @@
 ||sgnetwork.co^
 ||bulky-battle.com^
 ||sizokiwhe.pro^
-||upset.xsuffer.com^
 ||dhlyikbubkibk.com^
 ||hdatssfpxrwbxs.com^
 ||ovalfunny.com^
@@ -265,7 +267,6 @@
 ||pqnnjjpzarpb.com^
 ||elgdkzio.com^
 ||impreslvedate.com^
-||iumlidwsvpm.com^
 ||yrkycfjq.com^
 ||mfjpwroy.com^
 ||frwslristg.com^
@@ -290,7 +291,6 @@
 ||privatespace.click^
 ||bg4nxu2u5t.com^
 ||aopdqdrkgqbtgci.com^
-||modichytdc.com^
 ||brazzerssurvey.com^
 ||ee-softs.com^
 ||adunity.com^
@@ -329,7 +329,6 @@
 ||bluepartner.pl^
 ||selectmedia.asia^
 ||ad.22betpartners.com^
-||ad.vhls.ru.com^
 ||jaavnacsdw.com^
 ||s3t3d2y8.afcdn.net^
 ||rontent.powvibeo.me^
@@ -5851,6 +5850,7 @@ vkcdnservice.appspot.com^
 ||cabnnr.com^
 ||caboclonymphly.com^
 ||cabord.com^
+||cabotinbesnare.com^
 ||cachoustewing.com^
 ||cadbitff.com^
 ||cadencecovetousfireplace.com^
@@ -7403,6 +7403,7 @@ vkcdnservice.appspot.com^
 ||desen4.info^
 ||deserted-employment.pro^
 ||deserterstrugglingdistil.com^
+||desgao1zt7irn.cloudfront.net^
 ||desigactinific.org^
 ||designatejumped.com^
 ||desktopnotificationshub.com^
@@ -10077,6 +10078,7 @@ vkcdnservice.appspot.com^
 ||gyppedsquiss.com^
 ||gypsiedjilt.com^
 ||gypsyardently.com^
+||gyratesequal.website^
 ||gytychuna.com^
 ||gyyejoeqc.com^
 ||gziduzaj.com^
@@ -12344,6 +12346,7 @@ vkcdnservice.appspot.com^
 ||lotteryhibernateauthorized.com^
 ||louchees.net^
 ||loud-tower.pro^
+||loughsquashee.com^
 ||louisaprocedureegoism.com^
 ||loukoost.net^
 ||loulauzo.com^
@@ -13145,6 +13148,7 @@ vkcdnservice.appspot.com^
 ||moonprocessed.com^
 ||moontuftboy.com^
 ||moooginnumit.com^
+||moorscliv.life^
 ||mootermedia.com^
 ||moothbagel.com^
 ||mooxar.com^
@@ -15630,6 +15634,7 @@ vkcdnservice.appspot.com^
 ||psozoult.net^
 ||pssy.xyz^
 ||pstreetma.com^
+||psubooth.com^
 ||psuhexitu.pro^
 ||psuphuns.net^
 ||psurdoak.com^
@@ -20350,6 +20355,7 @@ vkcdnservice.appspot.com^
 ||whilar.com^
 ||whilefitsaltered.com^
 ||whileo.com^
+||whiletilth.com^
 ||whilol.com^
 ||whilot.com^
 ||whilov.com^
@@ -21182,6 +21188,7 @@ vkcdnservice.appspot.com^
 ||zonupiza.com^
 ||zoopaweb.com^
 ||zoopsame.com^
+||zoopsiasaltire.com^
 ||zoopy.xyz^
 ||zoozistu.net^
 ||zorango.com^
