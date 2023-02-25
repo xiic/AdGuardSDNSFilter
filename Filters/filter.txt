@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-25T06:23:36.893Z
+! Last modified: 2023-02-25T12:34:58.917Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2071,6 +2071,7 @@ vkcdnservice.appspot.com^
 ||2bps53igop02.com^
 ||2c2a1b058e.com^
 ||2c3a97984f45.com^
+||2c4rrl8pe.de^
 ||2c6bcbbb82ce911.com^
 ||2cb2df849a.com^
 ||2ce506d192.com^
@@ -5933,6 +5934,7 @@ vkcdnservice.appspot.com^
 ||caesak.com^
 ||caglaikr.net^
 ||cagothie.net^
+||cahhjxvvruqwql.com^
 ||caimoasy.net^
 ||caipowho.net^
 ||cairalei.com^
@@ -7962,6 +7964,7 @@ vkcdnservice.appspot.com^
 ||drillcompensate.com^
 ||drillpatiotrash.com^
 ||driverpartially.com^
+||drivewayilluminatedconstitute.com^
 ||drizzlerules.com^
 ||drjgjngf.com^
 ||drkness.net^
@@ -8068,6 +8071,7 @@ vkcdnservice.appspot.com^
 ||dwaktyqa.com^
 ||dwaterver.xyz^
 ||dwaterverya.xyz^
+||dwddvpmiqis.xyz^
 ||dweatherbe.xyz^
 ||dwetwdstom1020.com^
 ||dwiden.com^
@@ -8589,6 +8593,7 @@ vkcdnservice.appspot.com^
 ||equitydefault.com^
 ||equityjesusdisappointment.com^
 ||eraserindecent.com^
+||ercoeteasacom.com^
 ||erdeally.com^
 ||erefwukouln.xyz^
 ||eremuribleak.com^
@@ -10048,6 +10053,7 @@ vkcdnservice.appspot.com^
 ||gqubkbuinx.com^
 ||gr8y7z1xaq30.com^
 ||gracaiko.net^
+||gracefulbayonetlukewarm.com^
 ||gracelessaffected.com^
 ||gracelesssolicitor.com^
 ||graceofnoon.com^
@@ -11466,6 +11472,7 @@ vkcdnservice.appspot.com^
 ||jaqtwibmeni.com^
 ||jarbirdkorait.com^
 ||jashautchord.com^
+||jasrqsbha.com^
 ||jatsekse.net^
 ||jattepush.com^
 ||jaubeebe.net^
@@ -11493,6 +11500,7 @@ vkcdnservice.appspot.com^
 ||jcbyeqvstf.xyz^
 ||jchgcipyywszqt.com^
 ||jcyunk2.com^
+||jczilospvsniq.com^
 ||jdoqocy.com^
 ||je8fn.com^
 ||jeannemildconfusion.com^
@@ -12607,6 +12615,7 @@ vkcdnservice.appspot.com^
 ||lovemateforyou.com^
 ||loverevenue.com^
 ||loversarrivaladventurer.com^
+||lovewellat.guru^
 ||lowdodrioon.com^
 ||loweredinflammable.com^
 ||lowgraveleron.com^
@@ -14065,6 +14074,7 @@ vkcdnservice.appspot.com^
 ||npdyxhvefuqkj.xyz^
 ||npecialukiz.com^
 ||npecialukize.lol^
+||npnbwfpftjpqwc.com^
 ||nposition.club^
 ||npracticalwhic.buzz^
 ||npufamaclazl.com^
@@ -14275,6 +14285,7 @@ vkcdnservice.appspot.com^
 ||ocubafyv.xyz^
 ||oddscornflower.com^
 ||oddsresemble.com^
+||odeerofhisk.xyz^
 ||odinistromneya.com^
 ||odipjwipwwyus.xyz^
 ||odourprop.com^
@@ -14652,6 +14663,7 @@ vkcdnservice.appspot.com^
 ||oscism.com^
 ||osdoshcwyaev.xyz^
 ||osfjiqj.com^
+||oshdarvitop.com^
 ||oshxhofaf.com^
 ||osifelanseante.lol^
 ||oskiwood.com^
@@ -14794,6 +14806,7 @@ vkcdnservice.appspot.com^
 ||ovfratlkxerv.xyz^
 ||ovibospeseta.com^
 ||ovsliqrcwqsqfxf.xyz^
+||ovvjxjqvj.com^
 ||ovvwunawrt.com^
 ||owbroinothiermol.xyz^
 ||owbroinothiermon.com.ua^
@@ -15770,6 +15783,7 @@ vkcdnservice.appspot.com^
 ||privacycounter.com^
 ||privacysearching.com^
 ||privacywithholdrepose.com^
+||prizeimpertinentforbidden.com^
 ||prizel.com^
 ||prizerspirned.com^
 ||prjhvswdjoly.xyz^
@@ -17042,6 +17056,7 @@ vkcdnservice.appspot.com^
 ||rorserdy.com^
 ||rosafun.com^
 ||rosalscrite.com^
+||rosebrandy.com^
 ||rosebudspeaks.com^
 ||rosqb6vb1cqp.com^
 ||rosyruffian.com^
@@ -18572,6 +18587,7 @@ vkcdnservice.appspot.com^
 ||suffeteinset.com^
 ||sufficientretiredbunker.com^
 ||sufficientridiculevenison.com^
+||sufips.com^
 ||suggestedhappyspun.com^
 ||suggestionwallpaperhump.com^
 ||suinglygaggler.com^
@@ -18941,6 +18957,7 @@ vkcdnservice.appspot.com^
 ||tensorsbancos.com^
 ||tenthsfrumpy.com^
 ||tentionirreg.com^
+||tentletunkept.uno^
 ||tentmess.com^
 ||teracent.net^
 ||teracreative.com^
@@ -19383,6 +19400,7 @@ vkcdnservice.appspot.com^
 ||touchycart.com^
 ||touglesy.net^
 ||toumnahrafale.com^
+||toumyyepsc.com^
 ||touphipt.com^
 ||tournamentplot.com^
 ||touroumu.com^
@@ -21083,6 +21101,7 @@ vkcdnservice.appspot.com^
 ||writtenanonymousgum.com^
 ||writtenlistened.com^
 ||wrkl.xyz^
+||wronal.com^
 ||wrotos.com^
 ||wrotov.com^
 ||wrrzje.com^
