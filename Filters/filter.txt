@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-28T12:38:51.796Z
+! Last modified: 2023-02-28T18:25:18.104Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -24833,6 +24833,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||hotjar.io^
 ||hellosmpl.com^
 ||1800cnt.com^
 ||tag.nifty.com^
@@ -28281,6 +28282,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||boundlessbrake.com^
 ||distributionneck.com^
 ||aliasanvil.com^
 ||shiveringspot.com^
@@ -29390,7 +29392,6 @@ vkcdnservice.appspot.com^
 ||api.setting.intl.miui.com^
 ||data.sec.intl.miui.com^
 ||log.avlyun.sec.intl.miui.com^
-||tracking.intl.miui.com^
 ||metok.sys.miui.com^
 ||mazu.sec.miui.com^
 ||auth.be.sec.miui.com^
@@ -29480,6 +29481,7 @@ vkcdnservice.appspot.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||logservice.hicloud.com^
 ||logger.growstarry.com^
 ||beacon-api.aliyuncs.com^
 ||adash.man.aliyuncs.com^
@@ -30492,7 +30494,6 @@ vkcdnservice.appspot.com^
 ||holdonstranger.com^
 ||horzrb.com^
 ||hospitality-optimizer.com^
-||hotjar.io^
 ||hscta.net^
 ||humanpresence.app^
 ||iaudienc.com^
@@ -31228,7 +31229,6 @@ vkcdnservice.appspot.com^
 ||bleachbubble.com^
 ||blushingbread.com^
 ||bouncyfront.com^
-||boundlessbrake.com^
 ||burstblade.com^
 ||bustlingbath.com^
 ||calendarrate.com^
@@ -32317,7 +32317,6 @@ vkcdnservice.appspot.com^
 ||app.chat.xiaomi.net^
 ||extmaps-api.yandex.net^
 ||logbak.hicloud.com^
-||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
 ||metrics.icloud.com^
