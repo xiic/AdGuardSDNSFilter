@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-03T12:36:44.131Z
+! Last modified: 2023-03-03T18:25:17.882Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||shookahi.xyz^
 ||pubgw.yahoo.com^
 ||chabadokor.com^
 ||paghai.com^
@@ -30,7 +31,6 @@
 ||posawaj.com^
 ||warlockstallioniso.com^
 ||pepperysergeantrisky.com^
-||shookahi.xyz^
 ||trribbup.xyz^
 ||truthfulsensor.com^
 ||groopsie.net^
@@ -25322,7 +25322,6 @@ vkcdnservice.appspot.com^
 ||pghub.io^
 ||henwilkson.com^
 ||logevt.pubfinity.com^
-||stat.tiara.kakao.com^
 ||ast.red.asp.appirits.com^
 ||pagesense.io^
 ||livetracker.*.pangea-cms.com^
@@ -26214,7 +26213,6 @@ vkcdnservice.appspot.com^
 ||24log.de^
 ||24log.ru^
 ||2cnt.net^
-||2o7.net^
 ||360i.com^
 ||360tag.com^
 ||360tag.net^
@@ -29463,6 +29461,7 @@ vkcdnservice.appspot.com^
 ||eulerian.belambra.fr^
 ||eulerian.belambra.be^
 ! Adobe Experience Cloud
+||2o7.net^
 ||data.adobedc.net^
 ! Commanders Act
 ||tagcommander.com^
@@ -29530,6 +29529,8 @@ vkcdnservice.appspot.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
+! xiaomi mi band app
+||datacollector-*.dt.hicloud.com^
 ||app-analytics-ru.huami.com^
 ! spb tv android app
 ||metrics.spbtv.com^
@@ -29555,21 +29556,43 @@ vkcdnservice.appspot.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
-||dlsdk.appsflyer.com^
-||dls2s.appsflyer.com^
-||inapps.appsflyersdk.com^
-||launches.appsflyersdk.com^
-||cdn-settings.appsflyersdk.com^
-||appsflyer-report.honkaiimpact3.com^
+-conversions.appsflyersdk.com^
+-gcdsdk.appsflyersdk.com^
+-launches.appsflyersdk.com^
+cdn-settings.appsflyersdk.com^
+||adrevenue.appsflyer.com^
 ||af-event-logger.appsflyer.com^
-||inapps.appsflyer.com^
-||gcdsdk.appsflyer.com^
-||statsgoogle.appsflyer.com^
-||impression.appsflyer.com^
 ||api.appsflyer.com^
-||register.appsflyer.com^
+||api2.appsflyer.com^
+||app.appsflyer.com^
+||appsflyer-report.honkaiimpact3.com^
+||attr.appsflyer.com^
+||banner.appsflyer.com^
+||cdn-settings.appsflyersdk.com^
+||cdn.appsflyer.com^
+||cdnappicons.appsflyer.com^
+||conversions.appsflyer.com^
+||dls2s.appsflyer.com^
+||dlsdk.appsflyer.com^
 ||events.appsflyer.com^
+||fvalid.appsflyer.com^
+||gcd-s2s.appsflyer.com^
+||gcdsdk.appsflyer.com^
+||hq1.appsflyer.com^
+||impression.appsflyer.com^
+||inapps.appsflyer.com^
+||inapps.appsflyersdk.com^
+||launches.appsflyer.com^
+||launches.appsflyersdk.com^
+||onelink.appsflyer.com^
+||register.appsflyer.com^
+||sdk-services.appsflyer.com^
+||sdk.appsflyer.com^
+||statsgoogle.appsflyer.com^
 ||track.appsflyer.com^
+||validate.appsflyer.com^
+||wa.appsflyer.com^
+
 ! QQ
 ||mtrace.qq.com^
 ||sngmta.qq.com^
@@ -29804,7 +29827,6 @@ vkcdnservice.appspot.com^
 ||pingtas.qq.com^
 ||alogus.umeng.com^
 ||errlogos.umeng.com^
-||datacollector-*.dt.hicloud.com^
 ||tenant-content.apm.appfolio-analytics.com^
 ||log.avlyun.com^
 ||api-analytics.prod.birdapp.com^
@@ -29818,7 +29840,6 @@ vkcdnservice.appspot.com^
 ||telemetry.voxeet.com^
 ||usertrack.appcpi.net^
 ||api*.amplitude.com^
-||conversions.appsflyer.com^
 ||collect.serious.li^
 ||analytics.jodelapis.com^
 ||analytics.mobilegamestats.com^
@@ -30073,6 +30094,7 @@ vkcdnservice.appspot.com^
 ||ws.ksmobile.net^
 ||www-google-analytics.l.google.com^
 ||ymtracking.com^
+! UC Browser
 ||upoll.umengcloud.com^
 ||utop.umengcloud.com^
 ! KingRoot
