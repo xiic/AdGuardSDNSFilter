@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-06T06:25:49.180Z
+! Last modified: 2023-03-06T12:39:15.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1325,9 +1325,6 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/17139
 ||gjc.gjirafa.com^
 ||code.ainsyndication.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/54572
-||ads1-adselo.com^
-||adsy.mail.bg^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/140344
 ||eph-adsjutarnji.cdn.sysbee.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/17278
@@ -6945,10 +6942,12 @@ vkcdnservice.appspot.com^
 ||d0f85db8ee56f5c6.com^
 ||d0main.ru^
 ||d1bcb5ca9f.com^
+||d20nuqz94uw3np.cloudfront.net^
 ||d24ak3f2b.top^
 ||d25ee3531d.com^
 ||d29gqcij.com^
 ||d2e48d0dce.com^
+||d2jp0uspx797vc.cloudfront.net^
 ||d2ship.com^
 ||d31c6d951c.com^
 ||d37aacdbcc.com^
@@ -7167,6 +7166,7 @@ vkcdnservice.appspot.com^
 ||defeatureother.xyz^
 ||defectpayslips.com^
 ||defendergracelessown.com^
+||defenseneckpresent.com^
 ||defensetraverse.com^
 ||defensiveevidence.pro^
 ||deferencedilutemurmur.com^
@@ -7422,6 +7422,7 @@ vkcdnservice.appspot.com^
 ||dimpuxoh.net^
 ||dimreproofjumped.com^
 ||dimseeje.com^
+||dinahmerfolk.life^
 ||dinclinx.com^
 ||dindlebrooder.digital^
 ||dingholog.com^
@@ -7809,6 +7810,7 @@ vkcdnservice.appspot.com^
 ||ductquest.com^
 ||ductrealistic.com^
 ||ducubchooa.com^
+||ducvkabzox.com^
 ||dudair.com^
 ||dudaixou.com^
 ||dudslubesviol.com^
@@ -9223,6 +9225,7 @@ vkcdnservice.appspot.com^
 ||frabwiccy.com^
 ||fracs.xyz^
 ||fragilebiggerbetty.com^
+||frailcockroachconfiguration.com^
 ||frailshootingexamination.com^
 ||framentyder.pro^
 ||frameworkdeserve.com^
@@ -9906,6 +9909,7 @@ vkcdnservice.appspot.com^
 ||goupeecy.com^
 ||gouryvouster.com^
 ||gousouse.com^
+||gouzaich.com^
 ||govbusi.info^
 ||governessmagnituderecoil.com^
 ||governorretired.com^
@@ -10172,6 +10176,7 @@ vkcdnservice.appspot.com^
 ||haihaime.net^
 ||haijosho.net^
 ||haikcarlage.com^
+||hailerroloway.com^
 ||hailstonenerve.com^
 ||hairoak.com^
 ||haithoaz.net^
@@ -11813,6 +11818,7 @@ vkcdnservice.appspot.com^
 ||kikoosso.net^
 ||kikoucuy.net^
 ||kikugrotzen.com^
+||kileysgreeney.com^
 ||kiltyyoginis.com^
 ||kiltzekujalf.com^
 ||kimsacka.net^
@@ -16106,6 +16112,7 @@ vkcdnservice.appspot.com^
 ||pubtm.com^
 ||pucxriavjcp.com^
 ||puddingamass.com^
+||puddingdefeated.com^
 ||puddrupose.com^
 ||pudrardu.net^
 ||pueral.com^
@@ -16581,6 +16588,7 @@ vkcdnservice.appspot.com^
 ||reasus.com^
 ||reate.info^
 ||rebakedenosist.com^
+||rebbredbe.com^
 ||rebel.ai^
 ||rebillsegomism.com^
 ||rebindskayoes.com^
@@ -17473,6 +17481,7 @@ vkcdnservice.appspot.com^
 ||saunafortyeasy.com^
 ||saunasisley.life^
 ||saunasupposedly.com^
+||saunutha.xyz^
 ||sauptoacoa.com^
 ||saurug.com^
 ||saushoag.net^
@@ -18377,6 +18386,7 @@ vkcdnservice.appspot.com^
 ||spotxcdn.com^
 ||spotxchange.com^
 ||spoutable.com^
+||spratstatters.com^
 ||sprayswisha.com^
 ||spreau.com^
 ||sprettyruckus.com^
@@ -23760,7 +23770,6 @@ vkcdnservice.appspot.com^
 ||d205jrj5h1616x.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d20kfqepj430zj.cloudfront.net^
-||d20nuqz94uw3np.cloudfront.net^
 ||d213cc9tw38vai.cloudfront.net^
 ||d21f25e9uvddd7.cloudfront.net^
 ||d21m5j4ptsok5u.cloudfront.net^
