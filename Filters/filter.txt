@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-07T06:25:45.332Z
+! Last modified: 2023-03-07T12:39:33.437Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||funnwphcfijvmd.xyz^
+||adeepado.xyz^
+||seethafo.xyz^
 ||assaystalonic.com^
 ||aawulszemel.com^
 ||lmgdmwyd.com^
@@ -28552,6 +28555,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||talltouch.com^
 ||knitstamp.com^
 ||boundlessbrake.com^
 ||distributionneck.com^
@@ -31603,6 +31607,7 @@ cdn-settings.appsflyersdk.com^
 ||infamousstream.com^
 ||instrumentinsect.com^
 ||jailbulb.com^
+||jimny.pro^
 ||joyoussurprise.com^
 ||k54nw.pw^
 ||kittyaction.com^
@@ -31645,6 +31650,7 @@ cdn-settings.appsflyersdk.com^
 ||pointlesspocket.com^
 ||pointlessprofit.com^
 ||potatoinvention.com^
+||predictplate.com^
 ||priceypies.com^
 ||pricklydebt.com^
 ||propertypotato.com^
