@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-09T12:40:27.509Z
+! Last modified: 2023-03-09T18:23:55.273Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1369,6 +1369,14 @@
 ! spellchecker.lu ad
 ||reklammen.spellchecker.lu^
 ||free.xjs.lol^
+!
+!---------------------------------------------------------------------
+!------------------------------ Mongolian ----------------------------
+!---------------------------------------------------------------------
+! NOTE: Mongolian
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/144502
+||bn.gogo.mn^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68502
 ||widget.tippebannere.no^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/128653
@@ -6556,6 +6564,7 @@ vkcdnservice.appspot.com^
 ||comunicazio.com^
 ||comurbate.com^
 ||comwgi.com^
+||comymandars.info^
 ||conative.network^
 ||conatysystems.com^
 ||concealbeakerdough.com^
@@ -8626,6 +8635,7 @@ vkcdnservice.appspot.com^
 ||ewooe6df.com^
 ||ewoutosh.com^
 ||ewoverth.buzz^
+||ewqkrfjkqz.com^
 ||ewrerew29w09.com^
 ||ewruuqe5p8ca.com^
 ||exacdn.com^
@@ -9219,6 +9229,7 @@ vkcdnservice.appspot.com^
 ||foldertopichoot.com^
 ||foldexcitedlyevery.com^
 ||foldhesitation.com^
+||foldhewiser.com^
 ||foldingfileartist.com^
 ||foldupbriningjeanne.com^
 ||folgam.com^
@@ -11603,6 +11614,7 @@ vkcdnservice.appspot.com^
 ||jitdknclhdpfzyvkio.bid^
 ||jittery-period.pro^
 ||jitteryhire.pro^
+||jiudashi.shop^
 ||jiwire.com^
 ||jixbzapmuli.com^
 ||jizzarchives.com^
@@ -12313,6 +12325,7 @@ vkcdnservice.appspot.com^
 ||leaderpub.fr^
 ||leading-fishing.pro^
 ||leadinghunch.com^
+||leadingservicesintimate.com^
 ||leadmediapartners.com^
 ||leadzutw.com^
 ||leagent.info^
@@ -13323,6 +13336,7 @@ vkcdnservice.appspot.com^
 ||mirafaren.pw^
 ||miragederbend.com^
 ||mirishkeeps.com^
+||misaglam.com^
 ||misbornsubitem.space^
 ||misear.com^
 ||misguidedstork.com^
@@ -15183,6 +15197,7 @@ vkcdnservice.appspot.com^
 ||patodonalgomball.store^
 ||patriotapelles.com^
 ||patriotinvestorlustre.com^
+||patronageunlock.com^
 ||patrondescendantprecursor.com^
 ||patronimproveyourselves.com^
 ||patroposalun.pro^
@@ -15504,6 +15519,7 @@ vkcdnservice.appspot.com^
 ||picsfun.space^
 ||picshouse.online^
 ||picsofdream.com^
+||picsofdream.info^
 ||picsofdream.today^
 ||picsservices.info^
 ||picsti.com^
@@ -17860,6 +17876,7 @@ vkcdnservice.appspot.com^
 ||separationreverttap.com^
 ||separenujilo.club^
 ||separine.com^
+||sephur.com^
 ||septfd2em64eber.com^
 ||sequelswosbird.com^
 ||seqyirmgh.xyz^
@@ -18110,6 +18127,7 @@ vkcdnservice.appspot.com^
 ||silasagreement.com^
 ||silebu.xyz^
 ||silenitmanby.info^
+||silentinevitable.com^
 ||silklanguish.com^
 ||sillinessinterfere.com^
 ||sillrochester.com^
@@ -18879,6 +18897,7 @@ vkcdnservice.appspot.com^
 ||subserecajones.com^
 ||subsezavlp.com^
 ||subsistgrew.com^
+||subsor.com^
 ||substantialequilibrium.com^
 ||subtillglowed.com^
 ||subtle-selection.pro^
@@ -19884,6 +19903,7 @@ vkcdnservice.appspot.com^
 ||triedecu.com^
 ||triedfavourable.com^
 ||trienestooth.com^
+||trifaosmous.com^
 ||triflinguncertainforensic.com^
 ||triflingzenithenergetic.com^
 ||trigami.com^
@@ -24297,6 +24317,7 @@ vkcdnservice.appspot.com^
 ||dc5k8fg5ioc8s.cloudfront.net^
 ||dcai7bdiz5toz.cloudfront.net^
 ||ddlh1467paih3.cloudfront.net^
+||ddmuiijrdvv0s.cloudfront.net^
 ||ddvbjehruuj5y.cloudfront.net^
 ||ddvfoj5yrl2oi.cloudfront.net^
 ||de2nsnw1i3egd.cloudfront.net^
