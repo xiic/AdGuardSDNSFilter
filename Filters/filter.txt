@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-13T06:25:04.232Z
+! Last modified: 2023-03-13T12:38:27.992Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1135,6 +1135,8 @@
 ||dianomi.com^
 !+ NOT_OPTIMIZED
 ||leaderhistliness.info^
+!+ NOT_OPTIMIZED
+||amazon-adsystem.com^
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
 ||stripe.rs-1028-a.com^
@@ -3544,7 +3546,6 @@ vkcdnservice.appspot.com^
 ||amazinelistrun.pro^
 ||amazinelistrun.xyz^
 ||amazingdomain.sbs^
-||amazon-adsystem.com^
 ||amazon-cornerstone.com^
 ||ambaab.com^
 ||ambassadorpotentsummer.com^
@@ -5108,6 +5109,7 @@ vkcdnservice.appspot.com^
 ||birtun.com^
 ||birtuwhaim.com^
 ||birung.club^
+||bisetsoliped.com^
 ||bisleyserrano.com^
 ||bit-ad.com^
 ||bitads.io^
@@ -7473,6 +7475,7 @@ vkcdnservice.appspot.com^
 ||dikkoplida.cam^
 ||diktatslopseed.com^
 ||dilacteorma.info^
+||dilatesdubbers.com^
 ||dilemmatryingless.com^
 ||dilliskunhome.com^
 ||dillsloppy.com^
@@ -10306,6 +10309,7 @@ vkcdnservice.appspot.com^
 ||hamusprecony.com^
 ||handbagadequate.com^
 ||handbagcordial.com^
+||handkerchiefpersonnel.com^
 ||handlingblare.com^
 ||handsenvious.com^
 ||handspiketha.xyz^
@@ -11413,6 +11417,7 @@ vkcdnservice.appspot.com^
 ||itchydesignate.com^
 ||itchytidying.com^
 ||itcleffaom.com^
+||itczebimbos.com^
 ||itdise.info^
 ||iteassemblyj.xyz^
 ||itecoust.com^
@@ -11886,6 +11891,7 @@ vkcdnservice.appspot.com^
 ||keepinfit.net^
 ||keepingconcerned.com^
 ||keepsosto.com^
+||keepsouh.com^
 ||keeptaza.com^
 ||keezoupe.net^
 ||kegsandremembrance.com^
@@ -16437,6 +16443,7 @@ vkcdnservice.appspot.com^
 ||putrr7.com^
 ||putrr8.com^
 ||putrunsspawn.com^
+||puttooretried.com^
 ||puwpush.com^
 ||puxonsir.net^
 ||puzzlementevolve.com^
@@ -19200,6 +19207,7 @@ vkcdnservice.appspot.com^
 ||tapsirsa.net^
 ||taracareewitu.xyz^
 ||taroads.com^
+||taroccomediant.com^
 ||tarokbien.com^
 ||tarotien.com^
 ||tarrilyathenee.com^
@@ -20287,6 +20295,7 @@ vkcdnservice.appspot.com^
 ||uncoverherbal.com^
 ||uncree.com^
 ||unctic.com^
+||uncuredbotts.guru^
 ||undailysnout.com^
 ||undedfracted.club^
 ||undeenardoo.com^
@@ -43385,6 +43394,7 @@ cdn-settings.appsflyersdk.com^
 ||hioek.cyou^
 ||wangsf.ltd^
 ||kezldfv.cn^
+||4bds.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
