@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-21T06:23:09.371Z
+! Last modified: 2023-03-21T12:32:55.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -36201,6 +36201,7 @@ cdn-settings.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||laimroll.ru^
 ||burningpushing.info^
 ||riamiavid.com^
 ||octolinkcom.me^
@@ -42126,7 +42127,6 @@ cdn-settings.appsflyersdk.com^
 ! Oct 2022
 ||hfvamxbcfccycm.com^
 ||xwmxdrnl.com^
-! Sep 2022
 ! 205.251.197.235, 205.251.198.251, 205.251.193.177, 205.251.195.134
 
 !
@@ -43899,6 +43899,7 @@ cdn-settings.appsflyersdk.com^
 ||jwujvjo.cn^
 ||jched3.com^
 ||arks.red^
+||hyk9.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
