@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-23T06:23:01.912Z
+! Last modified: 2023-03-23T12:37:09.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||gotchaih.com^
 ||yidbyhersle.xyz^
 ||choacmax.xyz^
 ||isnconcfiplu.xyz^
@@ -30895,7 +30896,6 @@ vkcdnservice.appspot.com^
 ||beacon.toyota.co.jp^
 ||beacon.tws.toyota.jp^
 ||beacon.walmart.ca^
-||beacon.walmart.com^
 ||beacon.watch.impress.co.jp^
 ||beacon.wikia-services.com^
 ||beacon.www.theguardian.com^
@@ -34431,6 +34431,7 @@ cdn-settings.appsflyersdk.com^
 ||closedcows.com^
 ||clumsyrock.com^
 ||colossalclouds.com^
+||combativecar.com^
 ||combativedetail.com^
 ||combbit.com^
 ||conceptualizereading.com^
@@ -44063,6 +44064,7 @@ cdn-settings.appsflyersdk.com^
 ||ychuanyi.ltd^
 ||zukddms.cn^
 ||mzybirdnest.com^
+||orgaorg.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -49789,6 +49791,7 @@ cdn-settings.appsflyersdk.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||27gh.cc^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -51148,6 +51151,7 @@ analytics-*.aasaam.com
 ||analytics.global.sky.com^
 ||analytics.thevideo.me^
 ||analyzer52.fc2.com^
+||beacon.walmart.com^
 ||clientlog.portal.office.com^
 ||cnt.nuvid.com^
 ||cnt.vivatube.com^
