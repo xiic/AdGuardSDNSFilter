@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-30T06:23:28.140Z
+! Last modified: 2023-03-30T12:36:42.086Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -5361,6 +5361,7 @@ vkcdnservice.appspot.com^
 ||bkxwqhwcwnr.xyz^
 ||bkypaqsirm.com^
 ||bl0uxepb4o.com^
+||bl230126pb.com^
 ||blaasopdive.com^
 ||blabhorol.com^
 ||blablahub.com^
@@ -10730,6 +10731,7 @@ vkcdnservice.appspot.com^
 ||haiveegi.com^
 ||hakeyelled.website^
 ||halchludwig.com^
+||halerugeogeny.com^
 ||halfhaled.com^
 ||halfpriceozarks.com^
 ||halfwayoverreact.com^
@@ -15236,6 +15238,7 @@ vkcdnservice.appspot.com^
 ||omgt5.com^
 ||omhmzjxe.com^
 ||omikhainpretts.xyz^
+||ominateamt.com^
 ||omitbailey.com^
 ||omjigrivrccwcn.xyz^
 ||omkogswhetc.com^
@@ -15394,6 +15397,7 @@ vkcdnservice.appspot.com^
 ||opertyvaluationiam.xyz^
 ||opgemgyrrjc.com^
 ||opgolan.com^
+||ophiticprevail.life^
 ||ophoacit.com^
 ||ophoadee.xyz^
 ||ophophiz.xyz^
@@ -16119,6 +16123,7 @@ vkcdnservice.appspot.com^
 ||pharmcash.com^
 ||phartemt.xyz^
 ||phastoag.com^
+||phatchoa.net^
 ||phaudree.com^
 ||phaurtuh.net^
 ||phbbfrgneth.com^
@@ -16281,6 +16286,7 @@ vkcdnservice.appspot.com^
 ||pipsol.net^
 ||piquperkin.com^
 ||pirist.com^
+||pirogidecnet.com^
 ||pirouque.com^
 ||pirtecho.net^
 ||pisism.com^
@@ -16829,6 +16835,7 @@ vkcdnservice.appspot.com^
 ||prosboshas.com^
 ||prosecutionsocktrap.com^
 ||prosecutorcessationdial.com^
+||prosecutorkettle.com^
 ||prospectconductorcheerfully.com^
 ||prospecttunaante.com^
 ||prosperent.com^
@@ -17502,6 +17509,7 @@ vkcdnservice.appspot.com^
 ||rddywd.com^
 ||rdqlaobjxmx.com^
 ||rdrceting.com^
+||rdrctgoweb.com^
 ||rdrtrk.com^
 ||rdsb2.club^
 ||rdtk.io^
@@ -18244,6 +18252,7 @@ vkcdnservice.appspot.com^
 ||rubymillsnpro.com^
 ||ruckletawpy.com^
 ||rudderaxis.com^
+||rudemend.com^
 ||rudimentarynuisancesynchronize.com^
 ||rudzz.com^
 ||rufadses.net^
@@ -21337,6 +21346,7 @@ vkcdnservice.appspot.com^
 ||untusthemailha.com.ua^
 ||untusthemailhwe.xyz^
 ||unumbonum.com^
+||unurbancompony.com^
 ||unusual-major.pro^
 ||unusuallygravely.com^
 ||unvanilluxer.com^
@@ -22150,6 +22160,7 @@ vkcdnservice.appspot.com^
 ||weeklideals.com^
 ||weeklyimplement.pro^
 ||weelgaiting.com^
+||weepingpretext.com^
 ||weeplypriapic.website^
 ||weeragedeafer.com^
 ||weethery.com^
@@ -22551,6 +22562,7 @@ vkcdnservice.appspot.com^
 ||wrkl.xyz^
 ||wronal.com^
 ||wronti.com^
+||wrotop.com^
 ||wrotos.com^
 ||wrotov.com^
 ||wrrzje.com^
@@ -25629,6 +25641,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||rqmob.com^
 ||ads-server.mxplay.com^
 ||mxaserver.mxplay.com^
 ||contextualadv.com^
@@ -33009,7 +33022,6 @@ vkcdnservice.appspot.com^
 ||udc.msn.com^
 ||uep.gaijin.net^
 ||ui.oix.net^
-||uid.mavencoalition.io^
 ||uie.data.cbc.ca^
 ||ut.gamersyde.com^
 ||ut.o2.pl^
@@ -33134,7 +33146,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.tenjin.com^
 ||tracker.mtrtb.com^
 ||tracking.ws.eurosport.com^
-||tracker.rqmob.com^
 ||analysis.polarisoffice.com
 ||fraudmetrix.cn^
 ||plbslog.umeng.com^
@@ -33197,6 +33208,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
+register.appsflyersdk.com^
 conversions.appsflyersdk.com^
 gcdsdk.appsflyersdk.com^
 -launches.appsflyersdk.com^
@@ -33221,7 +33233,7 @@ cdn-settings.appsflyersdk.com^
 ||hq1.appsflyer.com^
 ||impression.appsflyer.com^
 ||inapps.appsflyer.com^
-||inapps.appsflyersdk.com^
+inapps.appsflyersdk.com^
 ||launches.appsflyer.com^
 ||launches.appsflyersdk.com^
 ||onelink.appsflyer.com^
@@ -33262,6 +33274,10 @@ cdn-settings.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||profiler-collector.wshareit.com^
+||hellay.net^
+||receiver-metis.infeng.site^
+||dt.beyla.site^
 ||collect.analytics.unity3d.com^
 ||accscdn.m.taobao.com^
 ||acs.m.taobao.com^
@@ -37311,7 +37327,6 @@ cdn-settings.appsflyersdk.com^
 ||degjciidgieiaeigecb.ru^
 ||jqdnvg.com^
 ||mjnxku.com^
-||rdrctgoweb.com^
 ||refpahrwzjlv.top^
 ||zzxjlr.com^
 ||zargutivisor.info^
@@ -44784,6 +44799,7 @@ cdn-settings.appsflyersdk.com^
 ||yangsir.xyz^
 ||qianqian.red^
 ||gcejdac.cn^
+||a44u.icu^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
