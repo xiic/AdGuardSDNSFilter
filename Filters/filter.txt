@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-06T18:20:59.619Z
+! Last modified: 2023-04-07T01:19:06.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -26007,6 +26007,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||hellay.net^
 ||rqmob.com^
 ||ads-server.mxplay.com^
 ||mxaserver.mxplay.com^
@@ -33668,7 +33669,6 @@ inapps.appsflyersdk.com^
 !
 ||biddingmax.apse.trk.rixserv.com^
 ||profiler-collector.wshareit.com^
-||hellay.net^
 ||receiver-metis.infeng.site^
 ||dt.beyla.site^
 ||collect.analytics.unity3d.com^
@@ -41438,6 +41438,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||jpshopes.com^
 ||safemy-ios.com^
 ||ad.owlair.net^
 ||presco.ai^
@@ -44187,6 +44188,10 @@ inapps.appsflyersdk.com^
 ||zdlnhv.xyz^
 ||zjqs.shop^
 ||znnodl.xyz^
+||rcxysoj.cn^
+||hhrnxr.xyz^
+||otwiss.xyz^
+||poopd.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
