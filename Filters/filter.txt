@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-08T06:20:36.756Z
+! Last modified: 2023-04-08T09:29:42.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -54,6 +54,7 @@
 ||lahobexy.com^
 ||xrlkvghzi.com^
 ||gotchaih.com^
+||static.ads.crakmedia.com^
 ||yidbyhersle.xyz^
 ||choacmax.xyz^
 ||isnconcfiplu.xyz^
@@ -22204,7 +22205,6 @@ vkcdnservice.appspot.com^
 ||adbetnet.com^
 ||adbit.biz^
 ||adcalm.com^
-||adcell.com^
 ||adclickafrica.com^
 ||adcolony.com^
 ||adconity.com^
@@ -22733,7 +22733,6 @@ vkcdnservice.appspot.com^
 ||cpfclassifieds.com^
 ||cpm.media^
 ||cpmleader.com^
-||crakmedia.com^
 ||creativecdn.com^
 ||crispads.com^
 ||croea.com^
@@ -23555,7 +23554,6 @@ vkcdnservice.appspot.com^
 ||vadpay.com^
 ||validclick.com^
 ||valuead.com^
-||valuecommerce.com^
 ||vashoot.com^
 ||velti.com^
 ||vemba.com^
@@ -25232,7 +25230,6 @@ vkcdnservice.appspot.com^
 ! ||events.backtrace.io^
 ! ||events.split.io^
 ! ||in.appcenter.ms^
-! ||logz.io^$third-party
 ! ||notify.bugsnag.com^
 ! ||opentelemetry.io^
 ! ||raygun.io^
@@ -25266,6 +25263,8 @@ vkcdnservice.appspot.com^
 ||adxlog-adnet.vivo.com.cn^
 ||user-analysis.7moor.com^
 ||sirdata.io^
+||t.counter.dev^
+||cdn.counter.dev^
 ||log.collectaction.com^
 ||cometlytrack.com^
 ||trueroas.io^
@@ -25277,6 +25276,7 @@ vkcdnservice.appspot.com^
 ||f11-ads.com^
 ||eagle-insight.com^
 ||realtimely.io^
+||t.adcell.com^
 ||iplogger.org^
 ||iplogger.com^
 ||maper.info^
@@ -29909,6 +29909,8 @@ vkcdnservice.appspot.com^
 ||log.gomlab.com^
 ||gtm.tipranks.com^
 ||st.film.ru^
+||trj.valuecommerce.com^
+||aml.valuecommerce.com^
 ||thoth.utyug.media^
 ||prod.fennec.atp.fox^
 ||analytics.data.visenze.com^
@@ -33078,7 +33080,6 @@ inapps.appsflyersdk.com^
 ||conversionfly.com^
 ||convertcart.com^
 ||cookieless-data.com^
-||counter.dev^
 ||crazyclickstats.com^
 ||crtx.info^
 ||cttracking02.com^
@@ -33283,7 +33284,6 @@ inapps.appsflyersdk.com^
 ||loginhood.io^
 ||logmatic.io^
 ||logrocket.io^
-||logz.io^
 ||loopa.net.au^
 ||lr-in-prod.com^
 ||lyngro.com^
@@ -34666,7 +34666,6 @@ inapps.appsflyersdk.com^
 ||snaps.vidiemi.com^
 ||snowplow.swm.digital^
 ||solutions.invocacdn.com^
-||sonar.viously.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||speedtrap.shopdirect.com^
 ||ssa.stepstone.com^
@@ -39986,7 +39985,6 @@ inapps.appsflyersdk.com^
 ||expdirclk.com^
 ||pompass.net^
 ||v2st.shinobi.jp^
-||yads.c.yimg.jp^
 ||link-a.net^
 ||corectcustom.com^
 ||moro-douga.link^
@@ -40257,6 +40255,9 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||ad.jp.ap.valuecommerce.com^
+||ad.jp.ap.g.valuecommerce.com^
+||ads.jp.ap.g.valuecommerce.com^
 ||valuecommerce.ne.jp^
 ||sgad.surfsnow.jp^
 ||mbadv.nan.co.jp^
@@ -41313,7 +41314,6 @@ inapps.appsflyersdk.com^
 ||skattamindre.se^
 ||sleeknote.com^
 ||smetrics.aftonbladet.se^
-||snap.licdn.com^
 ||sneakersisverige.com^
 ||sociuslive.com^
 ||source.advisible.com^
@@ -42729,6 +42729,7 @@ inapps.appsflyersdk.com^
 ||kayzqar.cn^
 ||lianxi.link^
 ||kzjqraj.cn^
+||codeice.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -50323,6 +50324,11 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1283
+! Blocked by ||adperfect.com^
+@@||chathamdailynews.remembering.ca^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
+@@||catchup.thisisdax.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1239
 @@||px.a8.net^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1221
@@ -50377,7 +50383,6 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/107168
 @@||netatmo.commander1.com^|
 ! https://github.com/easylist/easylist/pull/9904
-@@||clj.valuecommerce.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
 ! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
