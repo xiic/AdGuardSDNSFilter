@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-09T01:25:57.876Z
+! Last modified: 2023-04-09T06:20:50.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -4926,6 +4926,7 @@ vkcdnservice.appspot.com^
 ||beerhaphazard.com^
 ||beeshanoozuk.com^
 ||beestsiskins.com^
+||beetlestrooped.life^
 ||beetrootopposeddwelling.com^
 ||beevakum.net^
 ||beevalt.com^
@@ -5657,6 +5658,7 @@ vkcdnservice.appspot.com^
 ||btagmedia.com^
 ||btaoc.xyz^
 ||btcadtop.com^
+||btcnews.one^
 ||btdirectnav.com^
 ||btdnav.com^
 ||btnativedirect.com^
@@ -6806,6 +6808,7 @@ vkcdnservice.appspot.com^
 ||coollycollegeexpertise.com^
 ||coolstreamsearch.com^
 ||coonandeg.xyz^
+||coonceder.space^
 ||cooperatetimes.com^
 ||cooperativepassenger.com^
 ||coostujina.com^
@@ -8180,6 +8183,7 @@ vkcdnservice.appspot.com^
 ||earact.com^
 ||eardepth-prisists.com^
 ||eargentssep.one^
+||eariod.com^
 ||earlapspur.com^
 ||earlapssmalm.com^
 ||earlieraccelerateshoplifting.com^
@@ -9048,6 +9052,7 @@ vkcdnservice.appspot.com^
 ||fdelphaswcealifornica.com^
 ||fdf4.com^
 ||fdiirjong.com^
+||fdjigxyxstiu.xyz^
 ||fdlvnldfnyhicc.xyz^
 ||fe7qygqi2p2h.com^
 ||fe95a992e6afb.com^
@@ -9228,6 +9233,7 @@ vkcdnservice.appspot.com^
 ||firumuti.xyz^
 ||fishkekcamp.com^
 ||fishyscalpelweight.com^
+||fissay.com^
 ||fistifyzelotic.com^
 ||fistofzeus.com^
 ||fitcenterz.com^
@@ -9318,6 +9324,7 @@ vkcdnservice.appspot.com^
 ||flylikeaguy.com^
 ||flymob.com^
 ||flytechb.com^
+||fmkoyjqnxdj.com^
 ||fmlodpskbybfu.xyz^
 ||fmpub.net^
 ||fmsads.com^
@@ -9520,6 +9527,7 @@ vkcdnservice.appspot.com^
 ||ftblltrck.com^
 ||ftcpvpgdga.xyz^
 ||ftd.agency^
+||ftheownounci.com^
 ||fthkmwrkqg.com^
 ||ftigholm.site^
 ||ftjcfx.com^
@@ -9862,12 +9870,14 @@ vkcdnservice.appspot.com^
 ||givemysoft.ru^
 ||givenconserve.com^
 ||givensidewaysremoved.com^
+||givide.com^
 ||givill.com^
 ||givingboyfriend.pro^
 ||givingsol.com^
 ||gixiluros.com^
 ||gizzenaceric.com^
 ||gjonfartyb.com^
+||gkajoujsjqu.com^
 ||gkngokwjmykp.xyz^
 ||gkpblxyup.xyz^
 ||gl-cash.com^
@@ -10232,6 +10242,7 @@ vkcdnservice.appspot.com^
 ||grounded-card.pro^
 ||groundtheco.xyz^
 ||groupian.io^
+||groutf.com^
 ||growebads.com^
 ||growingfailure.pro^
 ||grown-inpp-code.com^
@@ -10923,6 +10934,7 @@ vkcdnservice.appspot.com^
 ||hwpnocpctu.com^
 ||hxlvqndylyoi.xyz^
 ||hxoewq.com^
+||hxwjmeveeb.com^
 ||hybridgermandespicable.com^
 ||hycantyoubelik.com^
 ||hydnoraraasch.tech^
@@ -11900,6 +11912,7 @@ vkcdnservice.appspot.com^
 ||keapeiros.xyz^
 ||kebyartopsman.website^
 ||kecmuhot.net^
+||kedasensiblemot.com^
 ||keechavy.com^
 ||keegesta.com^
 ||keegleedaphi.com^
@@ -12875,6 +12888,7 @@ vkcdnservice.appspot.com^
 ||madcpms.com^
 ||maddenbusy.com^
 ||madehimn.xyz^
+||madnessindians.com^
 ||madratesforall.com^
 ||madriyelowd.com^
 ||madrogueindulge.com^
@@ -13123,6 +13137,7 @@ vkcdnservice.appspot.com^
 ||mdadx.com^
 ||mdcytqwnbr.com^
 ||mdfbrsfkufamsr.com^
+||mdkkbrbhlji.com^
 ||mdn2015x1.com^
 ||mdqiieoiqvn.xyz^
 ||meadowleader.com^
@@ -13133,6 +13148,7 @@ vkcdnservice.appspot.com^
 ||meases.com^
 ||measurementaz.com^
 ||meatinerhitles.xyz^
+||mechanicsforgave.com^
 ||meconicoutfish.com^
 ||mecurs.com^
 ||medadelem.xyz^
@@ -13411,6 +13427,7 @@ vkcdnservice.appspot.com^
 ||mmctsvc.com^
 ||mmgads.com^
 ||mmismm.com^
+||mmmutajbpalv.com^
 ||mmondi.com^
 ||mmotraffic.com^
 ||mn1nm.com^
@@ -13852,6 +13869,7 @@ vkcdnservice.appspot.com^
 ||nbr9.xyz^
 ||nbstatic.com^
 ||nbycustomlad.com^
+||nceaskedasensi.com^
 ||ncecafvdeu.shop^
 ||ncefoundanges.com^
 ||ncernedas.one^
@@ -15520,6 +15538,7 @@ vkcdnservice.appspot.com^
 ||picsti.com^
 ||pictela.net^
 ||pidanpaven.com^
+||pidsyiuj.com^
 ||pierisrapgae.com^
 ||pierlinks.com^
 ||pierremarkeraffliction.com^
@@ -16597,6 +16616,7 @@ vkcdnservice.appspot.com^
 ||quotecosmopolitandetached.com^
 ||quotes.com^
 ||qupurda.com^
+||qvvjbmaop.com^
 ||qwa3ldhn9u0t.com^
 ||qwerfdx.com^
 ||qwertytracks.com^
@@ -16724,6 +16744,7 @@ vkcdnservice.appspot.com^
 ||rcblkkhfvrxyn.com^
 ||rceottoqgark.com^
 ||rcf3occ8.de^
+||rcmnhlcok.com^
 ||rcpttankert.com^
 ||rcuacroossonek.xyz^
 ||rcurn.com^
@@ -17949,6 +17970,7 @@ vkcdnservice.appspot.com^
 ||shbzek.com^
 ||shealapish.com^
 ||sheduparton.website^
+||sheecmee.xyz^
 ||sheeftee.net^
 ||sheenaup.net^
 ||sheengoa.com^
@@ -18336,6 +18358,7 @@ vkcdnservice.appspot.com^
 ||sodamash.com^
 ||sodamidhankie.com^
 ||sofcryingfo.xyz^
+||soffitsfermal.guru^
 ||sofinpushpile.com^
 ||soft-com.biz^
 ||softboxik1.ru^
@@ -21229,10 +21252,12 @@ vkcdnservice.appspot.com^
 ||whistedsynapte.com^
 ||whizduly.com^
 ||whjepqhsxed.xyz^
+||whlywrxthn.com^
 ||whnoxcmxgbqrq.xyz^
 ||whoachoh.com^
 ||whoavaud.net^
 ||whoevercloakroom.com^
+||whole-win.pro^
 ||wholecommonposts.com^
 ||wholecoolposts.com^
 ||wholecoolstories.com^
@@ -21641,6 +21666,7 @@ vkcdnservice.appspot.com^
 ||xhaeuubhi.xyz^
 ||xhr0.xyz^
 ||xhvtkbnecqd.com^
+||xhxondbtvhboa.com^
 ||xhzz3moj1dsd.com^
 ||xidx.org^
 ||xijgedjgg5f55.com^
@@ -22018,6 +22044,7 @@ vkcdnservice.appspot.com^
 ||zcode7.me^
 ||zcoptry.com^
 ||zdajdudqfq.com^
+||zdjljvsi.com^
 ||zdsfnagupwkztl.com^
 ||zeads.com^
 ||zealeddrizzly.com^
@@ -34432,6 +34459,7 @@ inapps.appsflyersdk.com^
 ||counter.hyipexplorer.com^
 ||counter.maases.com^
 ||counter.packa2.cz^
+||counter.powr.io^
 ||counter.powweb.com^
 ||counter.tldw.me^
 ||counters.freewebs.com^
@@ -42801,6 +42829,8 @@ inapps.appsflyersdk.com^
 ||ej65.xyz^
 ||gzexsc.top^
 ||enahmy.xyz^
+||itoken.pro^
+||jvkckeg.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
