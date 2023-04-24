@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-23T18:20:12.243Z
+! Last modified: 2023-04-24T01:26:19.659Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -44340,6 +44340,7 @@ inapps.appsflyersdk.com^
 ||akdhiahcjojdkck.com^
 ||alejd.xyz^
 ||almabelen.com^
+||amryqmm.cn^
 ||aniauu2.cc^
 ||aniem44.cc^
 ||anifk71.cc^
@@ -44375,8 +44376,10 @@ inapps.appsflyersdk.com^
 ||ddkep.xyz^
 ||ddlipf.xyz^
 ||doccd.xyz^
+||donku.club^
 ||dqazwsxd.xyz^
 ||dtjhtp.xyz^
+||dtnhjzl.xyz^
 ||ealdi.xyz^
 ||ecav5.com^
 ||ej65.xyz^
@@ -44430,8 +44433,10 @@ inapps.appsflyersdk.com^
 ||iqybys.xyz^
 ||itoken.pro^
 ||iughyy7919.com^
+||jbtfmis.xyz^
 ||jbzjegn.cn^
 ||jeedi.xyz^
+||jeidd.xyz^
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiuba20230320.live^
@@ -44439,6 +44444,7 @@ inapps.appsflyersdk.com^
 ||jvkckeg.cn^
 ||jwjdpab.cn^
 ||jwronx.xyz^
+||jyxfvp.xyz^
 ||kayzqar.cn^
 ||kbabqnd.cn^
 ||kfocoq.xyz^
@@ -44492,6 +44498,7 @@ inapps.appsflyersdk.com^
 ||qianjiao45wde15.xyz^
 ||qingdou.ltd^
 ||qiwjiy.xyz^
+||qkcaqq.xyz^
 ||qpoiwnelc.com^
 ||qqied.xyz^
 ||qwahk.com^
@@ -44511,6 +44518,7 @@ inapps.appsflyersdk.com^
 ||sjalipa.cn^
 ||skluff.com^
 ||smailes.pro^
+||smlmupi.cn^
 ||smmmqq.com^
 ||sozrrkx.xyz^
 ||szsbiw.xyz^
@@ -44518,6 +44526,7 @@ inapps.appsflyersdk.com^
 ||tfonlyuse.shop^
 ||tianma704.ltd^
 ||tmochyf.cn^
+||tpjmqq.com^
 ||tqdpqq.com^
 ||turifb.xyz^
 ||txphjl.xyz^
@@ -44534,6 +44543,7 @@ inapps.appsflyersdk.com^
 ||v0cf.xyz^
 ||vel7.xyz^
 ||vjhjxh.xyz^
+||vlinz.icu^
 ||vnlqcod.cn^
 ||vorluic.cn^
 ||vujhaib.cn^
@@ -44551,6 +44561,7 @@ inapps.appsflyersdk.com^
 ||wjaqc.xyz^
 ||wvwl.cn^
 ||wwgqqq.com^
+||wxxmt.xyz^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xckyqq.com^
@@ -44569,6 +44580,7 @@ inapps.appsflyersdk.com^
 ||yingnanyyds.com^
 ||yisangyyds.com^
 ||yulingaa.xyz^
+||yywh.vip^
 ||zbvchabjbcj.com^
 ||zdkdwk.buzz^
 ||zdlnhv.xyz^
@@ -44584,18 +44596,13 @@ inapps.appsflyersdk.com^
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||tpjmqq.com^
-||smlmupi.cn^
-||vlinz.icu^
-||qkcaqq.xyz^
-||jeidd.xyz^
-||jyxfvp.xyz^
-||jbtfmis.xyz^
-||dtnhjzl.xyz^
-||yywh.vip^
-||amryqmm.cn^
-||donku.club^
-||wxxmt.xyz^
+||xlsds888.xyz^
+||on-you.cn^
+||xkdlqq.com^
+||yuebog.xyz^
+||maoqxyl.xyz^
+||koekd.xyz^
+||rizgtf.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -50758,7 +50765,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||daima.aixiaola.com^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -51137,6 +51143,7 @@ inapps.appsflyersdk.com^
 ||dai18.mumu01.com^
 ||dai18.shangc.net^
 ||dail01.wanmeilr.com^
+||daima.aixiaola.com^
 ||daima.diaoben.net^
 ||daima.ijq.tv^
 ||daima.ssata.cn^
