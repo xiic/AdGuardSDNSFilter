@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-27T01:26:00.367Z
+! Last modified: 2023-04-27T06:23:33.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -27048,6 +27048,7 @@ vkcdnservice.appspot.com^
 ||pt.appirits.com^
 ||d2hrivdxn8ekm8.cloudfront.net^
 ||track.cmcassets.com^
+||script.fixel.ai^
 ||pix.pub^
 ||yext-pixel.com^
 ||h5.eagllwin.com^
@@ -34391,7 +34392,6 @@ inapps.appsflyersdk.com^
 ||fasttiger.io^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
-||fixel.ai^
 ||fn-pz.com^
 ||fpapi.io^
 ||fpaux.net^
@@ -34488,7 +34488,6 @@ inapps.appsflyersdk.com^
 ||p2r14.com^
 ||p7cloud.net^
 ||pageid.info^
-||pdflive.org^
 ||pixel-tracker.com^
 ||pixrealm.com^
 ||pjstat.com^
@@ -34970,7 +34969,6 @@ inapps.appsflyersdk.com^
 ||mpio.io^
 ||mppapi.io^
 ||msecure108.com^
-||mstat.ga^
 ||mstrlytcs.com^
 ||murdoog.com^
 ||musthird.com^
@@ -35125,7 +35123,6 @@ inapps.appsflyersdk.com^
 ||siteplug.com^
 ||siteswithcontent.com^
 ||smadex.com^
-||smart-data-systems.com^
 ||smart-dmp.com^
 ||smartclip-services.com^
 ||smartology.co^
@@ -35333,7 +35330,6 @@ inapps.appsflyersdk.com^
 ||getpushmonkey.com^
 ||gravitec.net^
 ||heroesdom.com^
-||highfalutinhoney.com^
 ||hrbpark.bid^
 ||jeeng.com^
 ||kattepush.com^
@@ -35374,7 +35370,6 @@ inapps.appsflyersdk.com^
 ||pushprofit.ru^
 ||pushwize.com^
 ||pushwoosh.com^
-||reconditerespect.com^
 ||reprocautious.com^
 ||shroughtened.com^
 ||sm-epsilon.com^
@@ -35419,7 +35414,6 @@ inapps.appsflyersdk.com^
 ||adminer.com^
 ||altpool.pro^
 ||andlache.com^
-||anybest.site
 ||axoncoho.tk^
 ||baiduccdn1.com^
 ||bewaslac.com^
@@ -35449,7 +35443,6 @@ inapps.appsflyersdk.com^
 ||coinminingonline.com^
 ||coinwebmining.com^
 ||cookiescript.info^
-||crypto-coins.club^
 ||crypto-coins.com^
 ||crypto-coins.info^
 ||crypto-pool.fr^
@@ -35514,7 +35507,6 @@ inapps.appsflyersdk.com^
 ||monerise.com^
 ||moneroocean.stream^
 ||mutinyhq.com^
-||mwor.gq^
 ||nabaza.com^
 ||nablabee.com^
 ||nathetsof.com^
@@ -35551,7 +35543,6 @@ inapps.appsflyersdk.com^
 ||sushipool.com^
 ||swiftmining.win^
 ||tmmp.io^
-||trustmeiamapro.de^
 ||turnsocial.com^
 ||usa.cc^
 ||verifypow.com^
@@ -35673,6 +35664,7 @@ inapps.appsflyersdk.com^
 ||hearinglizards.com^
 ||helpcollar.com^
 ||hesitanttoothpaste.com^
+||highfalutinhoney.com^
 ||honorablehydrant.com^
 ||hoplaugh.com^
 ||hosenews.com^
@@ -35752,6 +35744,7 @@ inapps.appsflyersdk.com^
 ||rangecake.com^
 ||recommenddoor.com^
 ||reconditeprison.com^
+||reconditerespect.com^
 ||recordbutter.com^
 ||representativeray.com^
 ||rhetoricalveil.com^
@@ -35845,7 +35838,6 @@ inapps.appsflyersdk.com^
 ||wellgroomedapparel.com^
 ||whineattempt.com^
 ||wtaccesscontrol.com^
-||yamstamp.com
 ||yamstamp.com^
 ||youthfulnoise.com^
 ||zestycrime.com^
@@ -36168,7 +36160,6 @@ inapps.appsflyersdk.com^
 ||geoip.cookieyes.com^
 ||geoip.instiengage.com^
 ||geoip.nekudo.com^
-||geoip.spotpass.io^
 ||geolocation.outreach.com^
 ||gi-client-tracking.goodgamestudios.com^
 ||go.toutapp.com^
@@ -36229,7 +36220,6 @@ inapps.appsflyersdk.com^
 ||loglady.skypicker.com^
 ||logs-api.shoprunner.com^
 ||logs.animaapp.com^
-||logs.vmixcore.com^
 ||lore.circulate.com^
 ||lucid.mjhassoc.com^
 ||ma.logsss.com^
@@ -36349,6 +36339,7 @@ inapps.appsflyersdk.com^
 ||service.trustpid.com^
 ||shared.65twenty.com^
 ||slackb.com^
+||smart-data-systems.com^
 ||smrt.as^
 ||snaps.vidiemi.com^
 ||snowplow.swm.digital^
@@ -36452,7 +36443,6 @@ inapps.appsflyersdk.com^
 ||tr-op.datatrics.com^
 ||tr.cloud-media.fr^
 ||tr.datatrics.com^
-||tr1.mailperformance.com^
 ||traccoon.intellectsoft.net^
 ||track.360playvid.info^
 ||track.99acres.com^
@@ -36709,7 +36699,6 @@ inapps.appsflyersdk.com^
 ||businessclick.ch^
 ||content-garden.com^
 ||contiamo.com^
-||count.im^
 ||dcmn.io^
 ||dl8.me^
 ||etrust.eu^
@@ -37134,7 +37123,6 @@ inapps.appsflyersdk.com^
 ||tracking.emsmobile.de^
 ||tracking.gameforge.de^
 ||tracking.hannoversche.de^
-||tracking.ladies.de^
 ||tracking.mindshare.de^
 ||tracking.srv2.de^
 ||tracking.webtradecenter.com^
@@ -37209,7 +37197,6 @@ inapps.appsflyersdk.com^
 ||track.ra.icast.cn^
 ||track.tomwx.net^
 ||tracking.cat898.com^
-||useg.nextdigital.com.hk^
 ||web-trace.ksapisrv.com^
 ! Croatian
 ||tracking.vid4u.org^
@@ -37282,7 +37269,6 @@ inapps.appsflyersdk.com^
 ||tracker.iltrovatore.it^
 ||tracking.trovaprezzi.it^
 ||tracks.arubamediamarketing.it^
-||tracy.sadv.dadapro.com^
 ||vppst.iltrovatore.it^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
@@ -37351,7 +37337,6 @@ inapps.appsflyersdk.com^
 ||counter.reddigital.ru^
 ||counter.star.lg.ua^
 ||dbex-tracker-v2.driveback.ru^
-||delivery.hunterycity.com^
 ||error.videonow.ru^
 ||ip.up66.ru^
 ||metrics.aviasales.ru^
@@ -44704,6 +44689,9 @@ inapps.appsflyersdk.com^
 ||jvmxrug.xyz^
 ||nedes.xyz^
 ||zmfdjb.xyz^
+||gykyec.xyz^
+||kjwysxs.cn^
+||rencaihome.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -51757,6 +51745,7 @@ analytics-*.aasaam.com
 ||affiliate.digikala.com^
 
 # >> B <<
+||backlink.ir^
 ||behtarinseo.ir^
 ||boorantech.com^
 ||behinava.com^
@@ -51955,7 +51944,6 @@ analytics-*.aasaam.com
 ||yekbux.com^
 
 # >> Z <<
-||zanboor.net^
 
 # >> A <<
 ||analytics.asiatech.ir^
