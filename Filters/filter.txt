@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-02T01:25:12.495Z
+! Last modified: 2023-05-02T06:22:29.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -30717,6 +30717,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||longingtrees.com^
 ||knottyswing.com^
 ||beamvolcano.com^
 ||blackbrake.com^
@@ -36073,7 +36074,6 @@ inapps.appsflyersdk.com^
 ||legalleg.com^
 ||literatelight.com^
 ||livelyreward.com^
-||longingtrees.com^
 ||losslace.com^
 ||ludicrousarch.com^
 ||magicalmonth.com^
@@ -36698,6 +36698,7 @@ inapps.appsflyersdk.com^
 ||r.stripe.com^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
+||recs.shareaholic.com^
 ||refer.ccbill.com^
 ||refer.wordpress.com^
 ||removeads.workers.dev^
@@ -45153,6 +45154,8 @@ inapps.appsflyersdk.com^
 ||ceodk.xyz^
 ||bjwh8.xyz^
 ||9h622.top^
+||zhuxiao11.cn^
+||pepnsnq.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
