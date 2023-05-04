@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-03T18:21:10.313Z
+! Last modified: 2023-05-04T01:23:35.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -6420,6 +6420,7 @@ vkcdnservice.appspot.com^
 ||causcs.com^
 ||causingguard.com^
 ||cauthaushoas.com^
+||cautiotumfie.com^
 ||cautiouscooperativegentlemen.com^
 ||cauwausa.net^
 ||cavernousshift.pro^
@@ -10242,6 +10243,7 @@ vkcdnservice.appspot.com^
 ||forearmthrobjanuary.com^
 ||forecastsinglegait.com^
 ||foregogabbro.life^
+||foresawmartins.com^
 ||foreverhealthsculptor.com^
 ||foreyeshehadtw.com^
 ||forflygonom.com^
@@ -13707,6 +13709,7 @@ vkcdnservice.appspot.com^
 ||literaryfledlitter.com^
 ||literaturehogwhack.com^
 ||literpeore.com^
+||lithelytwick.com^
 ||lithogsicket.com^
 ||lithyphiomia.com^
 ||littlecutecats.com^
@@ -19837,6 +19840,7 @@ vkcdnservice.appspot.com^
 ||skcapepyshdr.xyz^
 ||skeeingfondu.life^
 ||skeletal-if.pro^
+||skepcaranx.com^
 ||sketbhang.guru^
 ||sketchflutter.com^
 ||sketchinferiorunits.com^
@@ -22063,6 +22067,7 @@ vkcdnservice.appspot.com^
 ||unhaftcharing.com^
 ||unhatedprotei.com^
 ||unhau.com^
+||unhaveabobra.com^
 ||unhealthyproduct.pro^
 ||unhelerrevoke.website^
 ||unhorseaa.com^
@@ -23033,6 +23038,7 @@ vkcdnservice.appspot.com^
 ||wegotmedia.com^
 ||wehras.com^
 ||weibiaoju6.com^
+||weighertutania.com^
 ||wel-wel-fie.com^
 ||welfarefit.com^
 ||wellhello.com^
@@ -37059,6 +37065,7 @@ inapps.appsflyersdk.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
+||tracking.bababam.com^
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
 ||tracking.chilipiper.com^
@@ -45352,6 +45359,12 @@ inapps.appsflyersdk.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||gorpgeu.xyz^
+||lxyl66.cn^
+||eciea.xyz^
+||poppy.fit^
+||lcjyll.xyz^
+||x4csq.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
