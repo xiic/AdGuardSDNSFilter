@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-06T01:20:26.396Z
+! Last modified: 2023-05-06T06:20:46.381Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -18505,6 +18505,7 @@ vkcdnservice.appspot.com^
 ||recesslikeness.com^
 ||recesssignary.com^
 ||rechampouinerai.website^
+||recheatputs.com^
 ||recipesunny.com^
 ||reciprocaldandy.com^
 ||reciprocaldowntownabout.com^
@@ -20349,6 +20350,7 @@ vkcdnservice.appspot.com^
 ||soysapslad.com^
 ||spacelala.com^
 ||spaceshipads.com^
+||spacetraveldin.com^
 ||spaciouslanentablelanentablepigs.com^
 ||spadeballroom.com^
 ||spaderonium.com^
@@ -37168,6 +37170,7 @@ inapps.appsflyersdk.com^
 ||rum.layer0.co^
 ||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
+||rw.marchex.io^
 ||s.logsss.com^
 ||sa.scorpion.co^
 ||scripts.psyma.com^
@@ -45663,6 +45666,8 @@ inapps.appsflyersdk.com^
 ||srkl.pw^
 ||twnafj.xyz^
 ||gwide.xyz^
+||bjcpjab.cn^
+||lwh147.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
