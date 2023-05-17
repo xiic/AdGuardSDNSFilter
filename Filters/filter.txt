@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-16T18:21:00.869Z
+! Last modified: 2023-05-17T01:27:30.511Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -28045,6 +28045,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||code.r5hsid.ru^
 ||stats.sprocketrocket.co^
 ||zcode11.me^
 ||mgtmod01.com^
@@ -32660,6 +32661,9 @@ vkcdnservice.appspot.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||stat.gc.my.games^
+||1l-hit.vkplay.ru^
+||1l-view.my.games^
 ||apptics.zoho.com^
 ||a*.smlog.co.kr^
 ||cdn.smlog.co.kr^
@@ -34926,6 +34930,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.setting.intl.miui.com^
 ||data.sec.intl.miui.com^
 ||log.avlyun.sec.intl.miui.com^
+||tracking.*.miui.com^
 ||metok.sys.miui.com^
 ||mazu.sec.miui.com^
 ||auth.be.sec.miui.com^
@@ -37274,7 +37279,6 @@ inapps.appsflyersdk.com^
 ||cod.bitrec.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
-||collect.*.miui.com^
 ||collect.alphastream.io^
 ||collect.cloudsponge.com^
 ||collect.iteam-dress.com^
@@ -37491,7 +37495,6 @@ inapps.appsflyersdk.com^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
 ||metrics.onshape.com^
-||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
 ||mlweb.dmlab.hu^
@@ -37523,7 +37526,6 @@ inapps.appsflyersdk.com^
 ||perso.aws.arc.pub^
 ||pets.channeladvisor.com^
 ||pi.ispot.tv^
-||ping-dot-acp-magento.appspot.com^
 ||ping.dozuki.com^
 ||ping.instantsearchplus.com^
 ||pings.vidpulse.com^
@@ -37549,7 +37551,6 @@ inapps.appsflyersdk.com^
 ||pm.boostintegrated.com^
 ||porpoise.azettl.net^
 ||pr.blogflux.com^
-||prd-collector-auth.playbuzz.com^
 ||prf.vagnt.com^
 ||privacy.outdoorsg.com^
 ||processor.asccommunications.com^
@@ -37576,7 +37577,6 @@ inapps.appsflyersdk.com^
 ||reports-api.sqreen.io^
 ||reports.pagesuite-professional.co.uk^
 ||reports.sdiapi.com^
-||response.pure360.com^
 ||rest.wildstar-online.com^
 ||rs.sinajs.cn^
 ||rtc.multiscreensite.com^
@@ -37654,7 +37654,6 @@ inapps.appsflyersdk.com^
 ||statsadv.dadapro.com^
 ||statsapi.screen9.com^
 ||statscollector-1.agora.io^
-||statsd.zmags.com^
 ||statt-collect.herokuapp.com^
 ||sunlightmetrics.b-cdn.net^
 ||survey.interquest.com^
@@ -37692,7 +37691,6 @@ inapps.appsflyersdk.com^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tagtracking.vibescm.com^
-||targeting.*.arcpublishing.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
 ||telemetry.tableausoftware.com^
@@ -37728,11 +37726,8 @@ inapps.appsflyersdk.com^
 ||track.untd.com^
 ||track.venatusmedia.com^
 ||track.vscash.com^
-||track.wayin.com^
 ||track.yfret.com^
-||tracker.affiliate.iqoption.com^
 ||tracker.beezup.com^
-||tracker.data-vp.com^
 ||tracker.financialcontent.com^
 ||tracker.icerocket.com^
 ||tracker.jkstremum.xyz^
@@ -37750,7 +37745,6 @@ inapps.appsflyersdk.com^
 ||tracker.wpserveur.net^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^
-||tracking.*.miui.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
@@ -37758,7 +37752,6 @@ inapps.appsflyersdk.com^
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
 ||tracking.chilipiper.com^
-||tracking.customerly.io^
 ||tracking.drsfostersmith.com^
 ||tracking.drum.io^
 ||tracking.edvisors.com^
@@ -37770,7 +37763,6 @@ inapps.appsflyersdk.com^
 ||tracking.interweave.com^
 ||tracking.jotform.com^
 ||tracking.leadlander.com^
-||tracking.legacyoffers.com^
 ||tracking.listhub.net^
 ||tracking.livingsocial.com^
 ||tracking.pacharge.com^
@@ -37778,7 +37770,6 @@ inapps.appsflyersdk.com^
 ||tracking.plinga.de^
 ||tracking.practicefusion.com^
 ||tracking.rapidape.com^
-||tracking.rightmessage.com^
 ||tracking.searchmarketing.com^
 ||tracking.sembox.it^
 ||tracking.sezzle.com^
@@ -37802,7 +37793,6 @@ inapps.appsflyersdk.com^
 ||usersegment.wpdigital.net^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
-||vmstats.varrando.com^
 ||vortex.data.microsoft.com^
 ||vst.sibnet.ru^
 ||vstat.borderlessbd.com^
@@ -46215,6 +46205,16 @@ inapps.appsflyersdk.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
 ||zxgko.cn^
+||majunguo.cn^
+||lorenop.icu^
+||twbqqq.com^
+||xvrvgod.xyz^
+||zvfaxh.xyz^
+||jwandla.top^
+||ppjttn.xyz^
+||caozhixiong.cn^
+||ncyksuw.xyz^
+||jquerydns.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
