@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-06T06:21:40.477Z
+! Last modified: 2023-06-06T12:35:38.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||worshipstubborn.com^
+||unmightboxen.com^
+||sbkuuzozlm.com^
 ||soodihee.net^
 ||biubxxaxucyou.com^
 ||scptp1.com^
@@ -33329,6 +33332,7 @@ vkcdnservice.appspot.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||stats.online-convert.com^
 ||ss.azuremagazine.com^
 ||logger*.kma.go.kr^
 ||webtracking.fe.union-investment.de^
@@ -36104,6 +36108,7 @@ inapps.appsflyersdk.com^
 ||astat.bugly.qq.com^
 ||ios.bugly.qq.com^
 ||fdplttrk.com^
+||tracking-*.trnox.com^
 ||tracking.trnox.com^
 ||rts.mobula.sdk.duapps.com^
 ||omni-ads.omni.news^
@@ -44626,8 +44631,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-06-04 07:53:14 CEST
-# entries:        1105
+# last updated:   2023-06-06 08:24:41 CEST
+# entries:        1110
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -44854,6 +44859,7 @@ inapps.appsflyersdk.com^
 ||investerarbrevet.se^
 ||ion.btcswe.com^
 ||jackwolfskinsverige.com.se^
+||js.glitnoraffiliates.com^
 ||js.pafpartners.com^
 ||jss.jajja.com^
 ||jssdk.pulse.schibsted.com^
@@ -44927,6 +44933,7 @@ inapps.appsflyersdk.com^
 ||nordishopping.com^
 ||norranstats.azurewebsites.net^
 ||norstatsurveys.com^
+||ntrfr.expekt.se^
 ||nucleusanalytics.io^
 ||oas.market.se^
 ||omni-ad-blocket.herokuapp.com^
@@ -47215,6 +47222,9 @@ inapps.appsflyersdk.com^
 ||pohpll.xyz^
 ||rcsden.top^
 ||bxoiksm.xyz^
+||heretrail.com^
+||isancio.top^
+||dsbt7.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
