@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-13T12:34:28.191Z
+! Last modified: 2023-06-13T18:20:59.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||eukova.com^
+||beehomemade.com^
 ||begripecheatee.guru^
 ||ezzmmvzleayjm.top^
 ||cythat.com^
@@ -28341,11 +28343,8 @@ vkcdnservice.appspot.com^
 ||silvermob.com^
 ||i.singular.net^
 ||sdk-api-v1.singular.net^
-||t.singular.net^
 ||skadnetwork.singular.net^
-||view-prod.ad.singular.net^
 ||sitescout.com^
-||slb.gedawang.com^
 ||smartadserver.com^
 ||splash.appsgeyser.com^
 ||sscefsol.com^
@@ -28365,7 +28364,6 @@ vkcdnservice.appspot.com^
 ||tpc.googlesyndication.com^
 ||track.cpatool.net^
 ||trackimpression.com^
-||tracking.acekoala.com^
 ||tracking.applift.com^
 ||traff10wap.com^
 ||traktum.com^
@@ -28376,7 +28374,6 @@ vkcdnservice.appspot.com^
 ||ultraadserver.com^
 ||umbel.com^
 ||unicume.com^
-||update.sdk.batmobi.net^
 ||upsight.com^
 ||usekahuna.com^
 ||vidout.net^
@@ -28402,7 +28399,6 @@ vkcdnservice.appspot.com^
 ||oclasrv.com$important
 !----- For HTTPS websites when HTTPS filtering is disabled ------
 ||n152adserv.com^
-||rg.yottos.com^
 !----------------------------------------------------------------
 
 !
@@ -31943,6 +31939,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||rebelswing.com^
 ||tightpowder.com^
 ||tidymitten.com^
 ||groovyornament.com^
@@ -33081,6 +33078,8 @@ vkcdnservice.appspot.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||health-metrics-api.setapp.com^
+||collect.alipay.com^
 ||track.lookerpets.com^
 ||stats.online-convert.com^
 ||ss.azuremagazine.com^
@@ -33574,7 +33573,6 @@ vkcdnservice.appspot.com^
 ||analytics.nextopia.net^
 ||analytics.ooyala.com^
 ||analytics.ovh.com^
-||analytics.pinterest.com^
 ||analytics.plaid.com^
 ||analytics.plex.tv^
 ||analytics.pointdrive.linkedin.com^
@@ -37439,7 +37437,6 @@ inapps.appsflyersdk.com^
 ||rainyrule.com^
 ||rangecake.com^
 ||rebelhen.com^
-||rebelswing.com^
 ||recommenddoor.com^
 ||reconditeprison.com^
 ||reconditerespect.com^
@@ -37614,6 +37611,7 @@ inapps.appsflyersdk.com^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
+||analytics.pinterest.com^
 ||analytics.pixels.ai^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -43727,6 +43725,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||jciwztfj.com^
 ||zhengliyqq.com^
 ||ra5.xyz^
 ||joiwnq2.cn^
@@ -47057,7 +47056,6 @@ inapps.appsflyersdk.com^
 ||zxcrr.com^
 ||zxgko.cn^
 ||zzqrr.com^
-||jciwztfj.com^
 ||ybixvc.top^
 ||baidubvjsbvv.com^
 ||trp69.top^
@@ -47069,6 +47067,8 @@ inapps.appsflyersdk.com^
 ||s6in.cc^
 ||neg2zos.icu^
 ||cqpczsu.cn^
+||qcb2xeg.icu^
+||igscn.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
