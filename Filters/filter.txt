@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-25T02:04:33.617Z
+! Last modified: 2023-06-25T12:37:42.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -8469,6 +8469,7 @@ vkcdnservice.appspot.com^
 ||declaredjuvenile.com^
 ||declaredpolitics.com^
 ||declarefollowersuspected.com^
+||declinebladdersbed.com^
 ||declinedmildlyreckon.com^
 ||declinetongarage.com^
 ||decoctionembedded.com^
@@ -12915,6 +12916,7 @@ vkcdnservice.appspot.com^
 ||igameunion.com^
 ||igaming-warp-service.io^
 ||igarabealing.website^
+||igbiraintsv.com^
 ||iglephoo.xyz^
 ||igloohq.com^
 ||igmcsvrgxpebh.xyz^
@@ -18699,6 +18701,7 @@ vkcdnservice.appspot.com^
 ||pourersdammer.guru^
 ||poushoza.net^
 ||poutauge.net^
+||powdermealfilth.com^
 ||powerad.ai^
 ||poweradblocker.com^
 ||powerain.biz^
@@ -19680,6 +19683,7 @@ vkcdnservice.appspot.com^
 ||raudeecu.com^
 ||raufoomoochi.com^
 ||raujurum.net^
+||raukaury.com^
 ||raunowhy.xyz^
 ||raupsica.net^
 ||raupsoap.com^
@@ -19921,6 +19925,7 @@ vkcdnservice.appspot.com^
 ||regnumyelp.digital^
 ||regott.com^
 ||regretfactor.com^
+||regrettabletoken.com^
 ||regrowsmudless.com^
 ||regrupontihe.com^
 ||reguid.com^
@@ -20221,9 +20226,11 @@ vkcdnservice.appspot.com^
 ||rhiospsea.one^
 ||rhkaljxsxlxn.xyz^
 ||rhkyufodw8ochdr3ogsite.com^
+||rhoecusteased.life^
 ||rhombicsomeday.com^
 ||rhubarbraise.com^
 ||rhudsplm.com^
+||rhungs.com^
 ||rhvdsplm.com^
 ||rhxdsplm.com^
 ||rhythmxchange.com^
@@ -20890,6 +20897,7 @@ vkcdnservice.appspot.com^
 ||scarletcashwi5.com^
 ||scarofnght.com^
 ||scarwan.com^
+||scbvydod.xyz^
 ||scenbe.com^
 ||scenespathreconciliation.com^
 ||schavsorpines.guru^
@@ -24229,6 +24237,7 @@ vkcdnservice.appspot.com^
 ||usnindioxime.website^
 ||usounoul.com^
 ||ussive.com^
+||ussord.com^
 ||ustithoo.net^
 ||ustive.com^
 ||usuade.com^
@@ -25400,6 +25409,7 @@ vkcdnservice.appspot.com^
 ||wnjjhksaue.com^
 ||wnp.com^
 ||wnrrhcyok.xyz^
+||wnutysqavt.com^
 ||wnyuehqewfisvby.com^
 ||woaembayed.uno^
 ||woafoame.net^
@@ -25561,6 +25571,7 @@ vkcdnservice.appspot.com^
 ||wrkl.xyz^
 ||wronal.com^
 ||wronti.com^
+||wrotad.com^
 ||wrotop.com^
 ||wrotov.com^
 ||wrotus.com^
@@ -25639,6 +25650,7 @@ vkcdnservice.appspot.com^
 ||wzdzht7am5.com^
 ||wzk5ndpc3x05.com^
 ||wzlbhfldl.com^
+||wzmidfgwyxfrd.com^
 ||wzogiwfapo.com^
 ||wzxty168.com^
 ||x-adservice.com^
@@ -25706,6 +25718,7 @@ vkcdnservice.appspot.com^
 ||xijojwonz.com^
 ||xilbalar.com^
 ||xilqhukky.com^
+||xilrajmzyvar.com^
 ||xineday.com^
 ||xipaaqgnrehpdns.com^
 ||xiryrnrz.com^
@@ -25945,6 +25958,7 @@ vkcdnservice.appspot.com^
 ||yinthesprin.xyz^
 ||yirtaycyytr.xyz^
 ||yiteattends.tech^
+||yixios.com^
 ||yizawe.xyz^
 ||yjgkcbvmnqnicep.xyz^
 ||ylasthepoityelthenl.xyz^
