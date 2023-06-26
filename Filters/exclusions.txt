@@ -1,3 +1,30 @@
+! Blocking by CNAME breaks many banking services
+||we-stats.com^
+! totaladblock.com - is not used to show ads
+||totaladblock.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1369
+||signalfx.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1349
+||non.li^
+! https://github.com/AdguardTeam/AdguardFilters/issues/151196
+||collector.appconsent.io^
+! https://github.com/hagezi/dns-blocklists/issues/1028
+||recruitics.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1337
+||datayi.cn^
+! https://github.com/AdguardTeam/AdguardFilters/issues/149689
+||izatcloud.net^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1308
+||logrocket.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1305
+||plerdy.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1303
+||capi.connatix.com^
+||cd.connatix.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1301
+||icanhazip.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1298
+||moshimo.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1260
 ||counter.dev^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1276
@@ -799,7 +826,8 @@ googletagmanager.com
 omtrdc.net
 scorecardresearch.com
 ! https://github.com/AdguardTeam/AdguardDNS/issues/89
-fwmrm.net
+/^\.fwmrm\.net\^/
+||fwmrm.net^
 ! too wide
 ||ru.net^
 ! too wide

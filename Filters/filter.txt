@@ -3,9 +3,9 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-26T18:24:41.444Z
+! Last modified: 2023-06-26T21:08:31.164Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.15
+! Compiled by @adguard/hostlist-compiler v1.0.19
 !
 !
 ! Source name: AdGuard Base filter ad servers
@@ -23353,7 +23353,6 @@ vkcdnservice.appspot.com^
 ||tosuicunea.com^
 ||totadblock.com^
 ||totalactualnewz.com^
-||totaladblock.com^
 ||totalcoolblog.com^
 ||totallifeguru.com^
 ||totalnicefeed.com^
@@ -29450,7 +29449,6 @@ vkcdnservice.appspot.com^
 ! ||api.loganalytics.io^
 ! ||apptrace.com^
 ! ||bugly.qcloud.com^
-! ||signalfx.com^
 ! ||cdn.signalfx.com^
 ! ||crash-reports.browser.yandex.net^
 ! ||crashlytics2.l.google.com^
@@ -29506,6 +29504,7 @@ vkcdnservice.appspot.com^
 ||wct-2.com^
 ||code.r5hsid.ru^
 ||stats.sprocketrocket.co^
+||analytics.recruitics.com^
 ||zcode11.me^
 ||mgtmod01.com^
 ||getlasso.co^
@@ -29711,7 +29710,6 @@ vkcdnservice.appspot.com^
 ||zerostats.com^
 ||track.coherentpath.com^
 ||qlitics.com^
-||we-stats.com^
 ||papi.look.360.cn^
 ||cdn.dsspn.com^
 ||ujm.hansel.io^
@@ -30034,6 +30032,7 @@ vkcdnservice.appspot.com^
 ||kissmetrics.io^
 ||sanity-dataplane.rudderstack.com^
 ||c1.politexpert.ru^
+||cdn.logrocket.com^
 ||ipmeta.io^
 ||analytics.daasrv.net^
 ||coll.v00yvd.xyz^
@@ -30133,7 +30132,6 @@ vkcdnservice.appspot.com^
 ||bb.lekumo.jp^
 ||promostats.ru^
 ||growingio.com^
-||datayi.cn^
 ||giocdn.com^
 ||rum.conde.io^
 ||ana.mediable.info^
@@ -30258,6 +30256,8 @@ vkcdnservice.appspot.com^
 ||uncn.jp^
 ||ad-spire.net^
 ||f-counter.net^
+||i.moshimo.com^
+||r.moshimo.com^
 ||counter.monkeybanana3.com^
 ||analytic-client.playful-fairies.com^
 ||tk.promit.ru^
@@ -30431,6 +30431,9 @@ vkcdnservice.appspot.com^
 ||i-*.ci360.sas.com^
 ||st.onlygip.tech^
 ||analysis.fi^
+||a.plerdy.com^
+||c.plerdy.com^
+||tracker.plerdy.com^
 ||wtag.estlier.net^
 ||ulclick.ru^
 ||phoenix-widget.com^
@@ -37569,7 +37572,6 @@ inapps.appsflyersdk.com^
 ||hscta.net^
 ||humanpresence.app^
 ||iaudienc.com^
-||icanhazip.com^
 ||ifvox.com^
 ||impression.link^
 ||imtwjwoasak.com^
@@ -37600,7 +37602,6 @@ inapps.appsflyersdk.com^
 ||itrac.it^
 ||itracker360.com^
 ||itracmediav4.com^
-||izatcloud.net^
 ||janrain.xyz^
 ||journera.com^
 ||journity.com^
@@ -37642,7 +37643,6 @@ inapps.appsflyersdk.com^
 ||logicsfort.com^
 ||loginhood.io^
 ||logmatic.io^
-||logrocket.com^
 ||logrocket.io^
 ||loopa.net.au^
 ||lr-in-prod.com^
@@ -37742,7 +37742,6 @@ inapps.appsflyersdk.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pirsch.io^
-||plerdy.com^
 ||pnstat.com^
 ||podcorn.com^
 ||podfdch.com^
@@ -37782,7 +37781,6 @@ inapps.appsflyersdk.com^
 ||recapture.io^
 ||recognified.net^
 ||recosenselabs.com^
-||recruitics.com^
 ||redfastlabs.com^
 ||remailtarget.com^
 ||report-uri.io^
@@ -37833,7 +37831,6 @@ inapps.appsflyersdk.com^
 ||shoelace.com^
 ||shoptimally.com^
 ||showheroes.com^
-||signalfx.com^
 ||simpleanalytics.io^
 ||simpleanalyticsbadge.com^
 ||sirdata.eu^
@@ -38756,7 +38753,6 @@ inapps.appsflyersdk.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
-||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
@@ -39510,7 +39506,6 @@ inapps.appsflyersdk.com^
 ||mb-srv.com^
 ||megavisites.com^
 ||netvigie.com^
-||non.li^
 ||pingclock.net^
 ||rossel.tech^
 ||semiocast.com^
@@ -39654,7 +39649,6 @@ inapps.appsflyersdk.com^
 ||kaizenplatform.net^
 ||letro.jp^
 ||logly.co.jp^
-||moshimo.com^
 ||omiki.com^
 ||pagoda56.com^
 ||pdmp.jp^
@@ -40145,6 +40139,22 @@ inapps.appsflyersdk.com^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 
+!
+! Source name: AdGuard Spanish/Portuguese filter ad servers first-party
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers_firstparty.txt
+!
+!
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
+!
+||adclient-uol.lp.uol.com.br^
+||adv.r7.com^
+||s.mangalivre.net^
 !
 ! Source name: AdGuard Spanish/Portuguese filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
@@ -44390,6 +44400,11 @@ inapps.appsflyersdk.com^
 !
 !
 ||proxy.ads.canalplus-bo.net^
+||7bd92.v.fwmrm.net^
+||7cbf2.v.fwmrm.net^
+||7cd77.v.fwmrm.net^
+||1f2e7.v.fwmrm.net^
+||7b9de.v.fwmrm.net^
 ||ads.dugwood.com^
 ||desadu.com^
 ||xydestygre.com^
@@ -44400,6 +44415,20 @@ inapps.appsflyersdk.com^
 ||i4tvy8vk9f74.com^
 ||mineralisasse.site^
 
+!
+! Source name: AdGuard French filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt
+!
+!
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
+!
+||adserver.icimedias.ca^
 !
 ! Source name: AdGuard Japanese filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
@@ -45087,6 +45116,25 @@ inapps.appsflyersdk.com^
 ||1002.men^
 
 !
+! Source name: AdGuard Chinese filter ad servers first-party
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt
+!
+!
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
+!
+||jsx.luyouwang.com^
+||kdpic.pchome.com.tw^
+||one.fsylr.com^
+||two.fsylr.com^
+||ad.juksy.com^
+||ads.tvb.com^
+!
 ! Source name: AdGuard Dutch filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt
 !
@@ -45558,14 +45606,12 @@ inapps.appsflyersdk.com^
 ||buzzador.com^
 ||cache6.riedta.com^
 ||campersverige.com.se^
-||capi.connatix.com^
 ||cardata.se^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
 ||caterpillarsverige.net^
 ||caviera-sverige.shop^
-||cd.connatix.com^
 ||cdn.adfenix.com^
 ||cdn.adswizz.com^
 ||cdn.adt356.com^
@@ -54298,9 +54344,14 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1283
-! Blocked by ||adperfect.com^
-@@||chathamdailynews.remembering.ca^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/150715
+@@||go.adjust.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/150038
+! Blocked by CNAME getblueshift.com
+@@||clickattr.wayup.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
+! Blocked by CNAME adperfect.com
+@@||remembering.ca^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
 @@||catchup.thisisdax.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1239
@@ -54308,6 +54359,8 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1221
 @@||app-cdn.minepi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1181
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1344
+@@||cdn.duurzaam.greenchoice.nl^|
 ! Blocked by CNAME exponea.com
 @@||crm-cdn.peek-cloppenburg.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
@@ -54384,12 +54437,6 @@ analytics-*.aasaam.com
 @@|affiliates.adsterra.com^|
 @@|beta.affiliates.adsterra.com^|
 @@|help-advertisers.adsterra.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/781
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/852
-! Blocked by CNAME we-stats.com
-@@||cdnbc-wup.hsbc.com.hk^|
-@@||wup-7b4df495.santander.cl^|
-@@||contents*.00110.citi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
 ! Blocked by CNAME impactradius.com
 @@||goto.target.com^|
@@ -54522,8 +54569,6 @@ analytics-*.aasaam.com
 @@||redirect.appmetrica.yandex.com^|
 ! Fixing redirects through guce.advertising.com (www.engadget.com, www.huffpost.com)
 @@||guce.advertising.com^|
-! Unblock logrocket.com blog
-@@||blog.logrocket.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27196
 @@||a.adwolf.ru^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26607
