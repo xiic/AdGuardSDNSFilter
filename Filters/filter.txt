@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-30T12:37:48.555Z
+! Last modified: 2023-06-30T18:23:31.048Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1579,7 +1579,6 @@
 ||besstahete.info^
 ||hostingcloud.*.wasm^
 ||cashbeet.com^
-||play*.videos.vidto.me^
 ||gramombird.com^
 ||pampopholf.com^
 vkcdnservice.appspot.com^
@@ -4428,6 +4427,7 @@ vkcdnservice.appspot.com^
 ||aqrhddwipyo.com^
 ||aquavitpathway.com^
 ||aquentlytujim.com^
+||aqutxohnexd.com^
 ||arabdevastatingpatty.com^
 ||arablucidlygrease.com^
 ||aralomomolachan.com^
@@ -5652,6 +5652,7 @@ vkcdnservice.appspot.com^
 ||best-offer-for-you.com^
 ||best-prize.life^
 ||best-protection4.me^
+||best-vpn-app.com^
 ||best-vpn.click^
 ||bestabprivily.com^
 ||bestadbid.com^
@@ -6865,6 +6866,7 @@ vkcdnservice.appspot.com^
 ||cdntechone.com^
 ||cdntestlp.info^
 ||cdntrf.com^
+||cdnvideo3.com^
 ||cdnware.io^
 ||cdrvrs.com^
 ||cdsbnrs.com^
@@ -8320,6 +8322,7 @@ vkcdnservice.appspot.com^
 ||danzigtitoism.guru^
 ||daphnews.com^
 ||daphnidepoch.com^
+||dappac.site^
 ||dapper.net^
 ||dapperaside.pro^
 ||daptem.com^
@@ -8727,6 +8730,7 @@ vkcdnservice.appspot.com^
 ||dfhajyevxmposa.xyz^
 ||dfnetwork.link^
 ||dfpstitialtag.com^
+||dfqcp2awt0947.cloudfront.net^
 ||dftckxqklqe.xyz^
 ||dfyouolsdq.com^
 ||dgafgadsgkjg.top^
@@ -10303,6 +10307,7 @@ vkcdnservice.appspot.com^
 ||extra33.com^
 ||extractdissolve.com^
 ||extractforgiveness.com^
+||extralarge-proposal.pro^
 ||extremereach.io^
 ||extremeshredcharm.com^
 ||extremiu.top^
@@ -10479,6 +10484,7 @@ vkcdnservice.appspot.com^
 ||fandelcot.com^
 ||fandmo.com^
 ||fanleaffalter.com^
+||fansang.xyz^
 ||fantasticdiet.pro^
 ||fantasyspent.com^
 ||fantodsshrug.com^
@@ -10888,6 +10894,7 @@ vkcdnservice.appspot.com^
 ||flushafterwardinteger.com^
 ||flushhouseholdvisited.com^
 ||flustered-poetry.pro^
+||fluttermotorway.com^
 ||fluvioalkyl.uno^
 ||fluxads.com^
 ||fluxy.xyz^
@@ -11256,6 +11263,7 @@ vkcdnservice.appspot.com^
 ||fzommizpo.com^
 ||fztmn.top^
 ||g-statistic.com^
+||g0gr67p.de^
 ||g1sysa.com^
 ||g2440001011.com^
 ||g2546417787.com^
@@ -12554,6 +12562,7 @@ vkcdnservice.appspot.com^
 ||himselvesobr.club^
 ||hinaprecent.info^
 ||hinaxrckuolr.com^
+||hingamgladther.com^
 ||hinkhimunpractical.com^
 ||hinoglauk.com^
 ||hinoidczarist.com^
@@ -13074,6 +13083,7 @@ vkcdnservice.appspot.com^
 ||imatue.com^
 ||imbalmenvy.website^
 ||imbalmscashews.com^
+||imblic.com^
 ||imgfeedget.com^
 ||imghst-de.com^
 ||imgint1.com^
@@ -14544,6 +14554,7 @@ vkcdnservice.appspot.com^
 ||layeredseether.com^
 ||layerloop.com^
 ||layingprocuregather.com^
+||lazmblmywqqqj.top^
 ||lazypeacefullyutterly.com^
 ||lbbxuenncq.com^
 ||lbwjqrtxeeriap.com^
@@ -15369,6 +15380,7 @@ vkcdnservice.appspot.com^
 ||marvelselectedheron.com^
 ||marwariformer.com^
 ||masakeku.com^
+||masaxe.xyz^
 ||mashmantalpa.digital^
 ||mashsuicidal.com^
 ||masjidspondful.com^
@@ -15821,6 +15833,7 @@ vkcdnservice.appspot.com^
 ||mmctsvc.com^
 ||mmgads.com^
 ||mmismm.com^
+||mmkijhktdvyqrkt.com^
 ||mmmutajbpalv.com^
 ||mmondi.com^
 ||mmotraffic.com^
@@ -16311,6 +16324,7 @@ vkcdnservice.appspot.com^
 ||napesropes.com^
 ||napkinlucent.com^
 ||naplesspeisage.com^
+||napony.com^
 ||napoof.com^
 ||nappespatois.com^
 ||nappybedcandid.com^
@@ -17552,6 +17566,7 @@ vkcdnservice.appspot.com^
 ||oskiwood.com^
 ||oskxpvmnalfb.com^
 ||osmanlikaraite.com^
+||osmost.com^
 ||osmoticchalah.com^
 ||ospicalad.buzz^
 ||osqzilonfx.com^
@@ -18599,6 +18614,7 @@ vkcdnservice.appspot.com^
 ||plutonactg.com^
 ||plutothejewel.com^
 ||plxserve.com^
+||plxtakgmkhk.com^
 ||plyfoni.ru^
 ||plyinghygrin.com^
 ||plym.xyz^
@@ -18903,6 +18919,7 @@ vkcdnservice.appspot.com^
 ||prelandtest01.com^
 ||prelandtest02.com^
 ||preloanflubs.com^
+||preludefgn.website^
 ||premiereblinkconfessed.com^
 ||premium-members.com^
 ||premium4kflix.club^
@@ -19776,6 +19793,7 @@ vkcdnservice.appspot.com^
 ||rankestmowers.com^
 ||ranopportunit.info^
 ||rantsundaydish.com^
+||ranythingamgladt.com^
 ||rapaneaphoma.com^
 ||rapesensual.com^
 ||rapgasyogin.com^
@@ -20186,6 +20204,7 @@ vkcdnservice.appspot.com^
 ||rereddit.com^
 ||rereegny.net^
 ||reroplittrewheck.pro^
+||reryn2ce.com^
 ||resailsgyse.com^
 ||resalag.com^
 ||resalesruths.tech^
@@ -25337,6 +25356,7 @@ vkcdnservice.appspot.com^
 ||wetoocku.com^
 ||wetpeachcash.com^
 ||wevtfnoodhrdtg.com^
+||wexfhjpmvhnakq.com^
 ||wezvveogk.com^
 ||wf66l5ylwq.com^
 ||wfnetwork.com^
@@ -26183,6 +26203,7 @@ vkcdnservice.appspot.com^
 ||yieldx.com^
 ||yike20230306.live^
 ||yim3eyv5.top^
+||yingforthemoo.info^
 ||yinhana.com^
 ||yinstbugged.com^
 ||yinteukrestina.xyz^
@@ -28000,7 +28021,6 @@ vkcdnservice.appspot.com^
 ||track.10bet.com^
 ||trendads.reactivebetting.com^
 ||typicalstudent.org^
-||uacabilqlgpw.cdnvideo3.com^
 ||veta.naver.com^
 ||vice-publishers-cdn.vice.com^
 ||video-ads.a2z.com^
@@ -29507,6 +29527,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||webtrack.chd01.com^
+||webtrack.savoysystems.co.uk^
 ||stats.revloq.com^
 ||metricswave.com^
 ||analytics.gtflixtv.com^
@@ -34063,6 +34085,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||webtrack.pospal.cn^
+||track.americansongwriter.com^
 ||tag.rmp.rakuten.com^
 ||abt.s3.yandex.net^
 ||uaas.yandex.ru^
@@ -48362,6 +48386,7 @@ inapps.appsflyersdk.com^
 ||zvdc9y.icu^
 ||0krdn3.com^
 ||plof69.com^
+||qaljfiwv.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52920,6 +52945,7 @@ inapps.appsflyersdk.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
 ||003store.com^
+||mwzbp.iask.com.cn^
 ||0941.org^
 ||1.01fy.cn^
 ||1.07swz.com^
