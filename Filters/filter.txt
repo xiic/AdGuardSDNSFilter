@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-01T18:22:07.167Z
+! Last modified: 2023-07-02T02:00:02.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -8167,19 +8167,12 @@ vkcdnservice.appspot.com^
 ||d0f85db8ee56f5c6.com^
 ||d0main.ru^
 ||d1bcb5ca9f.com^
-||d1n3aexzs37q4s.cloudfront.net^
-||d1ndpste0fy3id.cloudfront.net^
-||d1sboz88tkttfp.cloudfront.net^
-||d1tizxwina1bjc.cloudfront.net^
 ||d24ak3f2b.top^
 ||d25ee3531d.com^
 ||d28dc30335.com^
 ||d29gqcij.com^
-||d2p3vqj5z5rdwv.cloudfront.net^
 ||d2ship.com^
 ||d31c6d951c.com^
-||d325d2mtoblkfq.cloudfront.net^
-||d32h65j3m1jqfb.cloudfront.net^
 ||d37aacdbcc.com^
 ||d3d98dc11c.com^
 ||d4d48974197052ea.com^
@@ -8690,7 +8683,6 @@ vkcdnservice.appspot.com^
 ||dfhajyevxmposa.xyz^
 ||dfnetwork.link^
 ||dfpstitialtag.com^
-||dfqcp2awt0947.cloudfront.net^
 ||dftckxqklqe.xyz^
 ||dfyouolsdq.com^
 ||dgafgadsgkjg.top^
@@ -9234,7 +9226,6 @@ vkcdnservice.appspot.com^
 ||dssdv.com^
 ||dsstrk.com^
 ||dsultra.com^
-||dsuyzexj3sqn9.cloudfront.net^
 ||dsvkgvrftkpds.com^
 ||dtcpdvnojquf.com^
 ||dteakfzixo.com^
@@ -28075,9 +28066,11 @@ vkcdnservice.appspot.com^
 ||d1mbihpm2gncx7.cloudfront.net^
 ||d1mcwmzol446xa.cloudfront.net^
 ||d1n1ppeppre6d4.cloudfront.net^
+||d1n3aexzs37q4s.cloudfront.net^
 ||d1n3tk65esqc4k.cloudfront.net^
 ||d1n5jb3yqcxwp.cloudfront.net^
 ||d1n6jx7iu0qib6.cloudfront.net^
+||d1ndpste0fy3id.cloudfront.net^
 ||d1nkvehlw5hmj4.cloudfront.net^
 ||d1nmxiiewlx627.cloudfront.net^
 ||d1nnhbi4g0kj5.cloudfront.net^
@@ -28105,12 +28098,14 @@ vkcdnservice.appspot.com^
 ||d1rkf0bq85yx06.cloudfront.net^
 ||d1rp4yowwe587e.cloudfront.net^
 ||d1rsh847opos9y.cloudfront.net^
+||d1sboz88tkttfp.cloudfront.net^
 ||d1sjz3r2x2vk2u.cloudfront.net^
 ||d1sowp9ayjro6j.cloudfront.net^
 ||d1sqvt36mg3t1b.cloudfront.net^
 ||d1sytkg9v37f5q.cloudfront.net^
 ||d1t671k72j9pxc.cloudfront.net^
 ||d1t8it0ywk3xu.cloudfront.net^
+||d1tizxwina1bjc.cloudfront.net^
 ||d1twn22x8kvw17.cloudfront.net^
 ||d1u1byonn4po0b.cloudfront.net^
 ||d1uae3ok0byyqw.cloudfront.net^
@@ -28264,6 +28259,7 @@ vkcdnservice.appspot.com^
 ||d2ov8ip31qpxly.cloudfront.net^
 ||d2oxs0429n9gfd.cloudfront.net^
 ||d2oy22m6xey08r.cloudfront.net^
+||d2p3vqj5z5rdwv.cloudfront.net^
 ||d2pdbggfzjbhzh.cloudfront.net^
 ||d2pnacriyf41qm.cloudfront.net^
 ||d2pxbld8wrqyrk.cloudfront.net^
@@ -28318,7 +28314,9 @@ vkcdnservice.appspot.com^
 ||d31ph8fftb4r3x.cloudfront.net^
 ||d31vxm9ubutrmw.cloudfront.net^
 ||d31y1abh02y2oj.cloudfront.net^
+||d325d2mtoblkfq.cloudfront.net^
 ||d32bug9eb0g0bh.cloudfront.net^
+||d32h65j3m1jqfb.cloudfront.net^
 ||d32hwlnfiv2gyn.cloudfront.net^
 ||d333p98mzatwjz.cloudfront.net^
 ||d33fc9uy0cnxl9.cloudfront.net^
@@ -28509,6 +28507,7 @@ vkcdnservice.appspot.com^
 ||desgao1zt7irn.cloudfront.net^
 ||dew9ckzjyt2gn.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
+||dfqcp2awt0947.cloudfront.net^
 ||dfwbfr2blhmr5.cloudfront.net^
 ||dgw7ae5vrovs7.cloudfront.net^
 ||dhrhzii89gpwo.cloudfront.net^
@@ -28590,6 +28589,7 @@ vkcdnservice.appspot.com^
 ||dsh7ky7308k4b.cloudfront.net^
 ||dsie7h4lo9wxu.cloudfront.net^
 ||dsnymrk0k4p3v.cloudfront.net^
+||dsuyzexj3sqn9.cloudfront.net^
 ||dtakdb1z5gq7e.cloudfront.net^
 ||dtmm9h2satghl.cloudfront.net^
 ||dtto8zfzskfoa.cloudfront.net^
@@ -38559,6 +38559,7 @@ inapps.appsflyersdk.com^
 ||analytics.avanser.com.au^
 ||analytics.bestreviews.com^
 ||analytics.bitrix.info^
+||analytics.carbaselive.com^
 ||analytics.chegg.com^
 ||analytics.cincopa.com^
 ||analytics.cmn.com^
@@ -40043,6 +40044,7 @@ inapps.appsflyersdk.com^
 ||counter.reddigital.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
+||events.auth.gid.ru^
 ||ip.up66.ru^
 ||metrics.aviasales.ru^
 ||piper.amocrm.ru^
@@ -47281,6 +47283,7 @@ inapps.appsflyersdk.com^
 ||aaaaa882.com^
 ||aagomsi.xyz^
 ||aamv.vip^
+||abalado.com^
 ||abc748596aaa.vip^
 ||acbe.club^
 ||accid.xyz^
@@ -47340,6 +47343,7 @@ inapps.appsflyersdk.com^
 ||bcb9.cn^
 ||bcivqxd.cn^
 ||bcvxfgy.xyz^
+||bdfg9a.icu^
 ||bdrzxp.xyz^
 ||beatricenba.com^
 ||beiod.xyz^
@@ -47426,6 +47430,7 @@ inapps.appsflyersdk.com^
 ||cjcvd6.com^
 ||ck33.top^
 ||clkdus.xyz^
+||cloudflare.st^
 ||cloudsong.xyz^
 ||clqkqq.com^
 ||cnmmcjn.cn^
@@ -47461,6 +47466,7 @@ inapps.appsflyersdk.com^
 ||dciep.xyz^
 ||dcnytdpke.xyz^
 ||dcqs4.com^
+||dcvefz.xyz^
 ||dd112233dd.com^
 ||ddkep.xyz^
 ||ddlipf.xyz^
@@ -47644,11 +47650,13 @@ inapps.appsflyersdk.com^
 ||heretrail.com^
 ||hesramfi.com^
 ||hfhytx.xyz^
+||hfk7j.top^
 ||hgpdoa.cn^
 ||hhff111222.com^
 ||hhrnxr.xyz^
 ||hifyeldu.top^
 ||himeneko.ink^
+||hjpqt.cn^
 ||hjtedf.xyz^
 ||hlbbn6ii.icu^
 ||hldwdz.xyz^
@@ -47799,6 +47807,7 @@ inapps.appsflyersdk.com^
 ||l3r6p0d5.com^
 ||l74co.xyz^
 ||lazyii.icu^
+||lbprjdi.cn^
 ||lcjyll.xyz^
 ||ldxinb.xyz^
 ||leadc7.icu^
@@ -48075,6 +48084,7 @@ inapps.appsflyersdk.com^
 ||sh6ss7.top^
 ||shangyuan.ltd^
 ||shentongjiakao.ren^
+||sifyeldb.top^
 ||singmwn51g.com^
 ||sisjwol.xyz^
 ||sjalipa.cn^
@@ -48102,10 +48112,13 @@ inapps.appsflyersdk.com^
 ||t0pan.top^
 ||t28goe.cn^
 ||t33ng.com^
+||tainec.fun^
 ||tangxu.xyz^
 ||taoli.name^
+||tbcgumkadc.xyz^
 ||tc911.vip^
 ||tctltb.com^
+||tdavopl.icu^
 ||tejiachong.co^
 ||teusyxz.icu^
 ||tfations.live^
@@ -48136,8 +48149,10 @@ inapps.appsflyersdk.com^
 ||tvszazx.icu^
 ||twandli.top^
 ||twbqqq.com^
+||twgzgqqu.com^
 ||twnafj.xyz^
 ||twww.sbs^
+||twzadf.xyz^
 ||txbhhh.xyz^
 ||txphjl.xyz^
 ||tyrsn6di.icu^
@@ -48393,19 +48408,12 @@ inapps.appsflyersdk.com^
 ||zyauopr.icu^
 ||zzqrr.com^
 ||zzrjdp.xyz^
-||hjpqt.cn^
-||twgzgqqu.com^
-||dcvefz.xyz^
-||tainec.fun^
-||tdavopl.icu^
-||sifyeldb.top^
-||abalado.com^
-||tbcgumkadc.xyz^
-||twzadf.xyz^
-||bdfg9a.icu^
-||lbprjdi.cn^
-||cloudflare.st^
-||hfk7j.top^
+||dpijohb.icu^
+||ftiodfqk.com^
+||ygxgk.cn^
+||dheear.site^
+||dmxfdp.xyz^
+||bgbyzv.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
