@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-06T06:26:35.522Z
+! Last modified: 2023-07-06T12:41:50.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||miayarus.com^
+||umexalim.com^
+||charrewuzzer.com^
+||pseemsee.com^
 ||blbazybajvzvw.top^
 ||excellentvids.online^
 ||adsterratech.com^
@@ -4137,6 +4141,7 @@ vkcdnservice.appspot.com^
 ||anastasia-international.com^
 ||anastasiasaffiliate.com^
 ||anawkward.com^
+||anaxialaphonia.com^
 ||anbszohtaox.com^
 ||ancdwlavstghmr.com^
 ||anchoicstage.com^
@@ -6109,6 +6114,7 @@ vkcdnservice.appspot.com^
 ||bookadil.com^
 ||bookbannershop.com^
 ||bookerstudent.com^
+||bookeryboutre.com^
 ||bookljlihooli.com^
 ||bookmanzyzzyva.com^
 ||bookmsg.com^
@@ -16362,6 +16368,7 @@ vkcdnservice.appspot.com^
 ||nabalpal.com^
 ||nabbr.com^
 ||nableemblems.com^
+||nableriptide.com^
 ||nacfuns.com^
 ||nachogunj.cam^
 ||nacontent.pro^
@@ -20676,6 +20683,7 @@ vkcdnservice.appspot.com^
 ||roddinmucial.xyz^
 ||rodentscommise.life^
 ||rodirgix.com^
+||rodroord.net^
 ||roduster.com^
 ||roebuckwagged.com^
 ||roelikewimpler.com^
@@ -21001,6 +21009,7 @@ vkcdnservice.appspot.com^
 ||sabaothamsonia.com^
 ||sabbedgurly.com^
 ||sabergood.com^
+||sabogpapahxead.com^
 ||sabredwillble.com^
 ||sabrinacaulked.com^
 ||sabs-push.xyz^
@@ -21950,6 +21959,7 @@ vkcdnservice.appspot.com^
 ||smjxarmaflpmxj.com^
 ||smoggydisplay.pro^
 ||smokebookcase.com^
+||smokerythrow.com^
 ||smokesplical.com^
 ||smokilycasette.store^
 ||smrt-content.com^
@@ -23024,6 +23034,7 @@ vkcdnservice.appspot.com^
 ||tautenstapetta.com^
 ||tauvoojo.net^
 ||tauwoumo.net^
+||tawniessmoot.com^
 ||tawpykheda.com^
 ||tawrzic.com^
 ||taxedborley.com^
@@ -25617,6 +25628,7 @@ vkcdnservice.appspot.com^
 ||wheroi.com^
 ||whertinu.com^
 ||whethermondos.digital^
+||whethobs.xyz^
 ||whiceega.com^
 ||whicus.com^
 ||whihauve.net^
@@ -27885,6 +27897,7 @@ vkcdnservice.appspot.com^
 ||sprout-ad.com^
 ||spyoff.com^
 ||starlayer.com^
+||starti.pl^
 ||statsperformdev.com^
 ||stocker.bonnint.net^
 ||streamate.com^
@@ -28081,6 +28094,7 @@ vkcdnservice.appspot.com^
 ||ads.betfair.com^
 ||ads.linkedin.com^
 ||ads.sportradar.com^
+||ads.travelaudience.com^
 ||ads2.hsoub.com^
 ||adsales.snidigital.com^
 ||adserving.unibet.com^
@@ -29469,7 +29483,6 @@ vkcdnservice.appspot.com^
 ||chartboost.com^
 ||clk.taptica.com^
 ||clkfeed.com^
-||content.ad^
 ||cpmstar.com^
 ||crispadvertising.com^
 ||crossboardmobile.com^
@@ -29705,6 +29718,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||site24x7rum.in^
 ||webtrack.chd01.com^
 ||webtrack.savoysystems.co.uk^
 ||stats.revloq.com^
@@ -30213,7 +30227,6 @@ vkcdnservice.appspot.com^
 ||analytics.pgncs.notion.so^
 ||seoab.io^
 ||cdn.preciso.net^
-||www.trading24.io^
 ||trx-hub.com^
 ||leafmedia.io^
 ||d.adlpo.com^
@@ -30282,7 +30295,6 @@ vkcdnservice.appspot.com^
 ||getaim.info^
 ||repixel.co^
 ||pubexchange.com^
-||analytics.core.retell.cc^
 ||powerbiz.co^
 ||tag.search.sensefuel.live^
 ||microanalytics.io^
@@ -30576,7 +30588,6 @@ vkcdnservice.appspot.com^
 ||smetrics.att.com^
 ||client-analytics.braintreegateway.com^
 ||fhits.xyz^
-||pdc.dmleonyc.com^
 ||prd-collector-anon.ex.co^
 ||stats*.videonow.ru^
 ||csbew.com^
@@ -30591,8 +30602,6 @@ vkcdnservice.appspot.com^
 ||untidyrice.com^
 ||c.imedia.cz^
 ||leadfeeder.com^
-||trk.connatix.com^
-||tr.connatix.com^
 ||pbstck.com^
 ||k50.ru^
 ||f.zgbmw.com.cn^
@@ -30765,10 +30774,8 @@ vkcdnservice.appspot.com^
 ||vyg.mobi^
 ||ya-counter.ru^
 ||trafficscanner.pl^
-||stat.livesportbar.net^
 ||analytics.datahc.com^
 ||collect.blishtech.co^
-||srv.dc-1.net^
 ||votetoda.com^
 ||promclickapp.biz^
 ||count.nuanyuehanxing.com^
@@ -30783,7 +30790,6 @@ vkcdnservice.appspot.com^
 ||track.aplaut.io^
 ||stat.tildacdn.com^
 ||cervell.io^
-||sonet-rp.swaxis.com^
 ||stiffstem.com^
 ||admon.pro^
 ||stats.mos.ru^
@@ -30961,7 +30967,6 @@ vkcdnservice.appspot.com^
 ||statpipe.ru^
 ||bizrate.com^
 ||audienceinsights.net^
-||pv.pjtsu.com^
 ||adplus.io^
 ||adheart.de^
 ||interakt.ru^
@@ -31565,7 +31570,6 @@ vkcdnservice.appspot.com^
 ||esm1.net^
 ||esomniture.com^
 ||estadisticasgratis.com^
-||estadisticasgratis.es^
 ||estara.com^
 ||estat.com^
 ||estrack.net^
@@ -31677,7 +31681,6 @@ vkcdnservice.appspot.com^
 ||freestats.com^
 ||freestats.net^
 ||freestats.org^
-||freestats.tk^
 ||freestats.tv^
 ||freestats.ws^
 ||freetracker.biz^
@@ -31804,7 +31807,6 @@ vkcdnservice.appspot.com^
 ||hitmatic.com^
 ||hitmeter.ru^
 ||hitmir.ru^
-||hits.e.cl^
 ||hits.io^
 ||hits2u.com^
 ||hitslink.com^
@@ -32119,7 +32121,6 @@ vkcdnservice.appspot.com^
 ||mokuz.ru^
 ||mongoosemetrics.com^
 ||monitis.com^
-||monitor.phorm.com^
 ||monitus.net^
 ||moreusers.info^
 ||morevisits.info^
@@ -32247,7 +32248,6 @@ vkcdnservice.appspot.com^
 ||ohmystats.com^
 ||oidah.com^
 ||oix.com^
-||oix.phorm.com^
 ||okt.to^
 ||oktopost.com^
 ||omarsys.com^
@@ -32731,7 +32731,6 @@ vkcdnservice.appspot.com^
 ||supercounters.com^
 ||superstat.info^
 ||superstats.com^
-||supert.ag^
 ||surfcounters.com^
 ||surfertracker.com^
 ||surveyscout.com^
@@ -32816,7 +32815,6 @@ vkcdnservice.appspot.com^
 ||tracelytics.com^
 ||traceworks.com^
 ||track-web.net^
-||track2.me^
 ||trackalyzer.com^
 ||trackcdn.com^
 ||trackconsole.com^
@@ -32869,7 +32867,6 @@ vkcdnservice.appspot.com^
 ||tsk4.com^
 ||tsk5.com^
 ||tst14netreal.com^
-||tstlabs.co.uk^
 ||tsw0.com^
 ||twcount.com^
 ||tyxo.bg^
@@ -32882,7 +32879,6 @@ vkcdnservice.appspot.com^
 ||ubertracking.info^
 ||ugdturner.com^
 ||unicaondemand.com^
-||universaltrackingcontainer.com^
 ||unknowntray.com^
 ||up-rank.com^
 ||upalytics.com^
@@ -33034,7 +33030,6 @@ vkcdnservice.appspot.com^
 ||webwise.org^
 ||wecount4u.com^
 ||welt-der-links.de^
-||wemfbox.ch^
 ||whatismyip.win^
 ||whitepixel.com^
 ||whoaremyfriends.com^
@@ -33096,7 +33091,6 @@ vkcdnservice.appspot.com^
 ||yjtag.jp^
 ||yoochoose.net^
 ||youcanoptout.com^
-||youmetrix.co.uk^
 ||your-counter.be^
 ||youramigo.com^
 ||zaehler.tv^
@@ -36618,6 +36612,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||cgicol.amap.com^
+||dualstack-cgicol.amap.com^
 ||ad-api-log.colopl.jp^
 ||metrics.macys.com^
 ||track.ktplay.com^
@@ -38013,6 +38009,7 @@ inapps.appsflyersdk.com^
 ||traceless.me^
 ||track-re01.com^
 ||track-server-100.com^
+||track2.me^
 ||trackadm.com^
 ||trackcb.com^
 ||trackertest.org^
@@ -40518,6 +40515,12 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||newrotatormarch23.bid^
+||rbfour.bid^
+||prft1pub.com^
+||1crlbh48b.ru^
+||mobdrom.ru^
+||wishesen.com^
 ||cchdbond.com^
 ||hhooyivpxq.com^
 ||mrgreekroad.com^
@@ -47995,7 +47998,6 @@ inapps.appsflyersdk.com^
 ||aliyunsupercdn.com^
 ||almabelen.com^
 ||amryqmm.cn^
-||anaxialaphonia.com^
 ||anfw.com.cn^
 ||anhuigecui.cn^
 ||aniauu2.cc^
