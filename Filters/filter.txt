@@ -3,9 +3,9 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-08T18:22:18.545Z
+! Last modified: 2023-07-08T20:40:17.683Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.19
+! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 !
 ! Source name: AdGuard Base filter ad servers
@@ -28379,7 +28379,6 @@ vkcdnservice.appspot.com^
 ||sikr.chimeratool.com^
 ||squirrels.getsquirrel.co^
 ||srv.dynamicyield.com^
-||srv.tunefindforfans.com^
 ||static.tradetracker.net^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
@@ -32924,7 +32923,6 @@ vkcdnservice.appspot.com^
 ||surfertracker.com^
 ||surveyscout.com^
 ||surveywriter.com^
-||survicate.com^
 ||svr-prc-01.com^
 ||svtrd.com^
 ||swiss-counter.com^
@@ -53792,7 +53790,7 @@ analytics-*.aasaam.com
 # OISD maintainer: If a domain is used for ads, but also is required for "wanted content" (like video playback) it should not be blocked by domain/hosts lists. But rather left to handle by content blockers instead. (uBlock Origin, etc).
 
 ||cashback.takhfifan.com^
-# TODO: Investigate 
+# TODO: Investigate
 
 ||toppopup.com^
 ||counter.toolsir.com^
@@ -54173,6 +54171,17 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
+! line25.com - not able to accept cookies to use the page
+@@|ezodn.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1411
+@@||gate.first-id.fr^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1401
+! Blocked by CNAME bodis.com
+@@||leechers-paradise.org^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1406
+! Blocked by CNAME iocnt.net
+@@||data-*.herz-fuer-tiere.de^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150715
 @@||go.adjust.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
