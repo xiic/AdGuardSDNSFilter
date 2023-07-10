@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-10T06:26:09.765Z
+! Last modified: 2023-07-10T12:39:45.801Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||emqrjjveqnjab.top^
 ||raferu.com^
 ||bentonuncage.com^
 ||bt.yurokrelax.com^
@@ -2799,6 +2800,7 @@ vkcdnservice.appspot.com^
 ||absump.com^
 ||abtaurosa.club^
 ||abtyroguer.com^
+||abuleiasafflow.com^
 ||abundanceforfeit.com^
 ||abundled.club^
 ||abuqxvuy.com^
@@ -4301,6 +4303,7 @@ vkcdnservice.appspot.com^
 ||anxiouslyconsistencytearing.com^
 ||anxioussituation.com^
 ||anybodytoldsieve.com^
+||anyhowunplat.uno^
 ||anymad.com^
 ||anymautey.xyz^
 ||anymind360.com^
@@ -8678,6 +8681,7 @@ vkcdnservice.appspot.com^
 ||derowalius.com^
 ||dersoova.net^
 ||desabrator.com^
+||desalthuns.com^
 ||descendantmystery.com^
 ||descrepush.com^
 ||described.work^
@@ -10648,6 +10652,7 @@ vkcdnservice.appspot.com^
 ||feltermopish.com^
 ||feltlonelyand.xyz^
 ||feltmanarietid.com^
+||feluccahoit.com^
 ||femald.com^
 ||femefaih.com^
 ||femin.online^
@@ -11434,6 +11439,7 @@ vkcdnservice.appspot.com^
 ||gdmconvtrck.com^
 ||gdmdigital.com^
 ||gdmgsecure.com^
+||gearedftnerr.com^
 ||gearsora.com^
 ||geasefloria.com^
 ||gebadu.com^
@@ -16585,6 +16591,7 @@ vkcdnservice.appspot.com^
 ||nettlyphosis.com^
 ||nettube.top^
 ||netund.com^
+||neurinacyesis.com^
 ||neutralityrecommendstretched.com^
 ||neutralsaxophoneaspect.com^
 ||neutraltoxicpreposition.com^
@@ -18244,6 +18251,7 @@ vkcdnservice.appspot.com^
 ||peakclick.com^
 ||peakluckily.com^
 ||pealia.com^
+||peanutsfuscin.com^
 ||peanutsurrogatesurrogate.com^
 ||pearanceofam.xyz^
 ||pearedcall.xyz^
@@ -18351,6 +18359,7 @@ vkcdnservice.appspot.com^
 ||periodpennavigation.com^
 ||perishcraft.com^
 ||perjurycelsiussenses.com^
+||perksthawers.com^
 ||permanentlyreefwool.com^
 ||permanentswitch.com^
 ||permissioncornshrine.com^
@@ -18780,6 +18789,7 @@ vkcdnservice.appspot.com^
 ||pnuhondppw.com^
 ||poacawhe.net^
 ||poalauza.net^
+||poapustu.net^
 ||poaships.com^
 ||poasotha.com^
 ||poastoaz.com^
@@ -23303,6 +23313,7 @@ vkcdnservice.appspot.com^
 ||thaudray.com^
 ||thauftoa.net^
 ||thautsie.net^
+||thauzauw.xyz^
 ||thaveksi.net^
 ||thawbootsamplitude.com^
 ||thawheek.com^
@@ -23813,6 +23824,7 @@ vkcdnservice.appspot.com^
 ||touphipt.com^
 ||toupsonie.com^
 ||touracopilaf.com^
+||touracostephe.com^
 ||tournamentdouble.com^
 ||tournamentfraydirection.com^
 ||tournamentsevenhung.com^
@@ -24480,6 +24492,7 @@ vkcdnservice.appspot.com^
 ||unfinishedheir.com^
 ||unflamewandoo.com^
 ||unforgivablegrowl.com^
+||ungloomnisnas.com^
 ||ungolbator.com^
 ||ungoutylensmen.website^
 ||ungracebaited.com^
@@ -26584,6 +26597,7 @@ vkcdnservice.appspot.com^
 ||ypvrnyovntabcfp.xyz^
 ||yqeuu.com^
 ||yqiavtoy.com^
+||yqiyazkddb.com^
 ||yqmxfz.com^
 ||yqragd.com^
 ||yqszaqtw.com^
@@ -29093,6 +29107,7 @@ vkcdnservice.appspot.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||tivan.naver.com^
 ||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
@@ -34313,6 +34328,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracker.gpcdn.pl^
+||tracker.pracuj.pl^
 ||log.recommend.nicovideo.jp^
 ||log.klook.com^
 ||tracking.centerfield.com^
@@ -36164,7 +36181,6 @@ vkcdnservice.appspot.com^
 ||thj.astrakhan.ru^
 ||tim.nextinpact.com^
 ||timeslog.indiatimes.com^
-||tivan.naver.com^
 ||tj3rql9siwef.www.freecodecamp.org^
 ||tk.kaufda.de^
 ||tk.meinprospekt.de^
@@ -36673,6 +36689,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||tracing-collector.strava.com^
 ||cgicol.amap.com^
 ||dualstack-cgicol.amap.com^
 ||ad-api-log.colopl.jp^
@@ -47587,6 +47604,8 @@ inapps.appsflyersdk.com^
 ||pirxzl.xyz^
 ||zfteiv.xyz^
 ||uyq3ruf.icu^
+||erfskhnpter.xyz^
+||baiduvjsbvjknlsvsv.com^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zonyff.xyz^
@@ -52631,6 +52650,7 @@ inapps.appsflyersdk.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
 ||003store.com^
+||moon.ibytecdn.cn^
 ||0941.org^
 ||1.01fy.cn^
 ||1.07swz.com^
