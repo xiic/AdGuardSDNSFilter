@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-11T06:25:30.088Z
+! Last modified: 2023-07-11T12:39:51.855Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -34346,6 +34346,9 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||logcollector.note.com^
+||openmonitor.alipay.com^
+||openmonitor.alipay-eco.com^
 ||tracker.gpcdn.pl^
 ||tracker.pracuj.pl^
 ||log.recommend.nicovideo.jp^
@@ -45126,6 +45129,14 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||yh18h8s.com^
+||qhx1h2g.com^
+||jh16csf.com^
+||kl91ccp.com^
+||kxm1b0u.com^
+||sa8zdui.com^
+||pr88vhg.com^
+||gw1jvhs.com^
 ||p97387hj.xyz^
 ||tfcdn.jingmiuyyds.com^
 ||jciwztfj.com^
@@ -47589,13 +47600,10 @@ inapps.appsflyersdk.com^
 ||hypwbv.xyz^
 ||hzhabei.cn^
 ||ipadf.xyz^
-||jh16csf.com^
 ||jpqed.xyz^
 ||jujcjz.xyz^
 ||kahgjjd.com^
 ||kgeesh.site^
-||kl91ccp.com^
-||kxm1b0u.com^
 ||lanver.fun^
 ||lwide.xyz^
 ||metaversemolecule.com^
@@ -47604,7 +47612,6 @@ inapps.appsflyersdk.com^
 ||pirxzl.xyz^
 ||plbs9k.icu^
 ||powedw.com^
-||qhx1h2g.com^
 ||qifyeldy.top^
 ||relafp.xyz^
 ||ronbbf.xyz^
@@ -47622,10 +47629,8 @@ inapps.appsflyersdk.com^
 ||wuye3d.com^
 ||xccadc.com^
 ||xiaoxiuapp.com^
-||yh18h8s.com^
 ||ymhyw6.lol^
 ||zerolcp.cn^
-||sa8zdui.com^
 ||jrmrijv.icu^
 ||fuliwang.cc^
 ||lgohse.fun^
@@ -47636,6 +47641,8 @@ inapps.appsflyersdk.com^
 ||moobtcnse.xyz^
 ||wyq3rum.icu^
 ||laink.xyz^
+||dadde.cn^
+||gyq3bew.icu^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zonyff.xyz^
