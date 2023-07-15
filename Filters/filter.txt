@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-15T14:20:42.407Z
+! Last modified: 2023-07-15T18:22:15.539Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -15322,8 +15322,10 @@ inapps.appsflyersdk.com^
 ||bdates.fun^
 ||berylnbb.com^
 ||betcss.site^
+||bifyeldv.top^
 ||bkhblj.xyz^
 ||boewgph.icu^
+||bttazsyk.icu^
 ||caider.fun^
 ||chiese.site^
 ||ciadre.fun^
@@ -15366,11 +15368,13 @@ inapps.appsflyersdk.com^
 ||hypwbv.xyz^
 ||hzhabei.cn^
 ||ipadf.xyz^
+||iplm.cc^
 ||jdcnwd.com^
 ||jhzfwl.cn^
 ||jokerlulm.com^
 ||jpqed.xyz^
 ||jrmrijv.icu^
+||jszavs1.com^
 ||jujcjz.xyz^
 ||kahgjjd.com^
 ||kgeesh.site^
@@ -15384,6 +15388,7 @@ inapps.appsflyersdk.com^
 ||lwide.xyz^
 ||metaversemolecule.com^
 ||moobtcnse.xyz^
+||ngbthf.xyz^
 ||nieae.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
@@ -15392,9 +15397,12 @@ inapps.appsflyersdk.com^
 ||pcvzpj.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
+||pmxalz.xyz^
 ||powedw.com^
 ||pstvvb.xyz^
 ||qifyeldy.top^
+||qqnde.xyz^
+||qselic.top^
 ||rdufuxr.icu^
 ||relafp.xyz^
 ||ronbbf.xyz^
@@ -15405,6 +15413,7 @@ inapps.appsflyersdk.com^
 ||ssjuxsc.cn^
 ||tgbevv.xyz^
 ||tifyeldi.top^
+||tmwbszn.icu^
 ||tqdctl.xyz^
 ||uejdsw.com^
 ||ulojlvmejkaem.xyz^
@@ -15422,15 +15431,6 @@ inapps.appsflyersdk.com^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zfcdirf.icu^
-||jszavs1.com^
-||tmwbszn.icu^
-||qselic.top^
-||pmxalz.xyz^
-||qqnde.xyz^
-||ngbthf.xyz^
-||iplm.cc^
-||bttazsyk.icu^
-||bifyeldv.top^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
