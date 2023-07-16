@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-16T12:35:15.165Z
+! Last modified: 2023-07-16T18:22:16.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -15354,6 +15354,7 @@ inapps.appsflyersdk.com^
 ||3400.org^
 ||52kuwang.cn^
 ||abrnfctkn.xyz^
+||allcp.xyz^
 ||amerzbj.cn^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
@@ -15363,6 +15364,7 @@ inapps.appsflyersdk.com^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||boewgph.icu^
+||btescs.fun^
 ||bttazsyk.icu^
 ||caider.fun^
 ||chiese.site^
@@ -15376,15 +15378,18 @@ inapps.appsflyersdk.com^
 ||dadde.cn^
 ||dd778899dd.com^
 ||dhkipdsc.xyz^
+||dojyiu8.com^
 ||donchen501.cn^
 ||dosre12.xyz^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
+||dyeperd.icu^
 ||eghyahl.cn^
 ||erfskhnpter.xyz^
 ||esgher.site^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
+||ewfsef.com^
 ||eyq3nog.icu^
 ||falsarywaybung.com^
 ||fjsytjs.cn^
@@ -15408,6 +15413,7 @@ inapps.appsflyersdk.com^
 ||ipadf.xyz^
 ||iplm.cc^
 ||jdcnwd.com^
+||jhlazsot.icu^
 ||jhzfwl.cn^
 ||jokerlulm.com^
 ||jpqed.xyz^
@@ -15425,9 +15431,11 @@ inapps.appsflyersdk.com^
 ||lifyeldl.top^
 ||lwide.xyz^
 ||metaversemolecule.com^
+||misapopait.com^
 ||moobtcnse.xyz^
 ||ngbthf.xyz^
 ||nieae.xyz^
+||nqdufv.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
 ||one6u.xyz^
@@ -15441,6 +15449,7 @@ inapps.appsflyersdk.com^
 ||qifyeldy.top^
 ||qqnde.xyz^
 ||qselic.top^
+||rabuagc.cn^
 ||rdufuxr.icu^
 ||relafp.xyz^
 ||ronbbf.xyz^
@@ -15463,21 +15472,13 @@ inapps.appsflyersdk.com^
 ||xccadc.com^
 ||xcvwrj.xyz^
 ||xiaoxiuapp.com^
+||xjzyhp.xyz^
 ||xmxupz.xyz^
 ||xukou.net^
 ||ymhyw6.lol^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zfcdirf.icu^
-||dojyiu8.com^
-||btescs.fun^
-||rabuagc.cn^
-||dyeperd.icu^
-||xjzyhp.xyz^
-||ewfsef.com^
-||allcp.xyz^
-||nqdufv.xyz^
-||jhlazsot.icu^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
