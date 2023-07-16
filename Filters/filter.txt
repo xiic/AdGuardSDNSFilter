@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-16T02:06:06.309Z
+! Last modified: 2023-07-16T06:23:38.088Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -312,7 +312,6 @@ vkcdnservice.appspot.com^
 ||ad.edugram.com^
 ||ad.kubiccomps.icu^
 ||ad.netmedia.hu^
-||ad.outsidehub.com^
 ||ad.reklamport.com^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
@@ -334,7 +333,6 @@ vkcdnservice.appspot.com^
 ||affiliate.mediatemple.net^
 ||affiliatepluginintegration.cj.com^
 ||ah.pricegrabber.com^
-||ak.imgaft.com^
 ||api.140proof.com^
 ||api.bitp.it^
 ||apps.media-lab.ai^
@@ -369,8 +367,6 @@ vkcdnservice.appspot.com^
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
 ||get.paradise8.com^
-||get.rubyroyal.com^
-||get.slotocash.com^
 ||get.thisisvegas.com^
 ||gfxa.sheetmusicplus.com^
 ||gg.caixin.com^
@@ -382,7 +378,6 @@ vkcdnservice.appspot.com^
 ||ipp.littlecdn.com^
 ||join.megaphonetv.com^
 ||karma.mdpcdn.com^
-||lp.ncdownloader.com^
 ||marketing.888.com^
 ||mbid.marfeelrev.com^
 ||media.netrefer.com^
@@ -15482,6 +15477,7 @@ inapps.appsflyersdk.com^
 ||ewfsef.com^
 ||allcp.xyz^
 ||nqdufv.xyz^
+||jhlazsot.icu^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
