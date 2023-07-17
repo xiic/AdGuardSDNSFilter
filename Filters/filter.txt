@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-17T12:42:52.555Z
+! Last modified: 2023-07-17T18:24:24.056Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12503,9 +12503,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Jul 2023 13:51 UTC+7
-! Version: 2307141351
-! Blocked: 834 rules
+! Last modified: 17 Jul 2023 22:42 UTC+7
+! Version: 2307172242
+! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12800,6 +12800,7 @@ inapps.appsflyersdk.com^
 ||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
+||vipads.cc^
 ||viraads.com^
 ||vnn-tracking.vnncdn.net^
 ||vnnayngaytin.vn^
@@ -13341,14 +13342,18 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||1379a.xyz^
 ||1u5gy.xyz^
 ||3400.org^
 ||52kuwang.cn^
+||a8age.com^
 ||abrnfctkn.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
+||baitaiz.com^
+||bbges.xyz^
 ||bdates.fun^
 ||berylnbb.com^
 ||betcss.site^
@@ -13377,6 +13382,7 @@ inapps.appsflyersdk.com^
 ||dyeperd.icu^
 ||eghyahl.cn^
 ||erfskhnpter.xyz^
+||esgher.fun^
 ||esgher.site^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
@@ -13393,8 +13399,10 @@ inapps.appsflyersdk.com^
 ||hanwdsii.com^
 ||hdpdrandpd.xyz^
 ||hfqdipw.cn^
+||hgf8hck.com^
 ||hikykhz.icu^
 ||hlnr9q.icu^
+||hohmaryt.com^
 ||hpvwdkn.cn^
 ||hsadeg.site^
 ||hstbrt.xyz^
@@ -13422,10 +13430,12 @@ inapps.appsflyersdk.com^
 ||lifyeldl.top^
 ||lwide.xyz^
 ||metaversemolecule.com^
+||mifyeldx.top^
 ||misapopait.com^
 ||moobtcnse.xyz^
 ||ngbthf.xyz^
 ||nieae.xyz^
+||njogejt.icu^
 ||nqdufv.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
@@ -13457,6 +13467,7 @@ inapps.appsflyersdk.com^
 ||ulojlvmejkaem.xyz^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
+||vnfsbl.xyz^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -13465,25 +13476,16 @@ inapps.appsflyersdk.com^
 ||xiaoxiuapp.com^
 ||xjzyhp.xyz^
 ||xmxupz.xyz^
+||xpcwrgy.cn^
+||xtbzff.xyz^
 ||xukou.net^
 ||ymhyw6.lol^
 ||zcvyzsyd.icu^
-||hgf8hck.com^
-||esgher.fun^
-||xpcwrgy.cn^
-||njogejt.icu^
-||vnfsbl.xyz^
-||bbges.xyz^
-||xtbzff.xyz^
-||1379a.xyz^
-||zifyeldq.top^
-||zexfzson.icu^
-||baitaiz.com^
-||hohmaryt.com^
-||mifyeldx.top^
 ||zerolcp.cn^
+||zexfzson.icu^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
+||zifyeldq.top^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
