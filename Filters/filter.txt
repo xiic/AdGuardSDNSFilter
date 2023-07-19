@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-19T12:34:35.038Z
+! Last modified: 2023-07-19T18:21:22.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||mv.outbrain.com^
 ||ads.sparkflow.net^
 ||creative.ytboob.live^
 ||advertising.ntuplay.xyz^
@@ -72,7 +73,6 @@
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
 ||nugh2om.txxx.com^
 ||d13nu0oomnx5ti.cloudfront.net^
-||centent.steanplay.cc^
 ||dl.crazyporn.xxx^
 ||spyglass.octanime.net^
 ||ad.aceplanet.co.kr^
@@ -905,6 +905,7 @@ vkcdnservice.appspot.com^
 ||d3lvr7yuk4uaui.cloudfront.net^
 ||d3lw2k94jnkvbs.cloudfront.net^
 ||d3m4hp4bp4w996.cloudfront.net^
+||d3m8nzcefuqu7h.cloudfront.net^
 ||d3m9ng807i447x.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mshiiq22wqhz.cloudfront.net^
@@ -13366,6 +13367,7 @@ inapps.appsflyersdk.com^
 ||bkhblj.xyz^
 ||boewgph.icu^
 ||btescs.fun^
+||btsvad8.com^
 ||bttazsyk.icu^
 ||caider.fun^
 ||ccnim.xyz^
@@ -13381,6 +13383,8 @@ inapps.appsflyersdk.com^
 ||dafdf.cn^
 ||dalld.xyz^
 ||dd778899dd.com^
+||ddush.xyz^
+||dhjrvj.xyz^
 ||dhkipdsc.xyz^
 ||dojyiu8.com^
 ||donchen501.cn^
@@ -13389,6 +13393,7 @@ inapps.appsflyersdk.com^
 ||dstbunkfw.xyz^
 ||dyeperd.icu^
 ||eghyahl.cn^
+||epoid.xyz^
 ||erfskhnpter.xyz^
 ||ertgbme.com^
 ||esgher.fun^
@@ -13399,6 +13404,7 @@ inapps.appsflyersdk.com^
 ||eyq3nog.icu^
 ||falsarywaybung.com^
 ||fddxbn.xyz^
+||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
@@ -13411,6 +13417,7 @@ inapps.appsflyersdk.com^
 ||hfqdipw.cn^
 ||hgf8hck.com^
 ||hikykhz.icu^
+||hkkeafj.cn^
 ||hlnr9q.icu^
 ||hohmaryt.com^
 ||hpvwdkn.cn^
@@ -13429,6 +13436,7 @@ inapps.appsflyersdk.com^
 ||jrmrijv.icu^
 ||jszavs1.com^
 ||jujcjz.xyz^
+||jutwzssh.icu^
 ||kahgjjd.com^
 ||kgeesh.site^
 ||kyq3hky.icu^
@@ -13445,7 +13453,9 @@ inapps.appsflyersdk.com^
 ||moobtcnse.xyz^
 ||ngbthf.xyz^
 ||nieae.xyz^
+||nifyeldc.top^
 ||njogejt.icu^
+||nnfyxd.xyz^
 ||nqdufv.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
@@ -13487,6 +13497,7 @@ inapps.appsflyersdk.com^
 ||wyq3rum.icu^
 ||xccadc.com^
 ||xcvwrj.xyz^
+||xeghes.fun^
 ||xiaoxiuapp.com^
 ||xjzyhp.xyz^
 ||xmxupz.xyz^
@@ -13501,16 +13512,6 @@ inapps.appsflyersdk.com^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
-||xeghes.fun^
-||btsvad8.com^
-||hkkeafj.cn^
-||fhglcpf.icu^
-||dhjrvj.xyz^
-||epoid.xyz^
-||nnfyxd.xyz^
-||ddush.xyz^
-||jutwzssh.icu^
-||nifyeldc.top^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
