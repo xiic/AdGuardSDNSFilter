@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-20T06:22:08.122Z
+! Last modified: 2023-07-20T12:35:42.594Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2154,6 +2154,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||logs13.xiti.com^
 ||tracing-collector.strava.com^
 ||cgicol.amap.com^
 ||dualstack-cgicol.amap.com^
@@ -3006,6 +3007,7 @@ inapps.appsflyersdk.com^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^
+||collector.dmp.cnna.io^
 ||collector.getyourguide.com^
 ||collector.mazeberry.com^
 ||collector.sspinc.io^
@@ -3306,6 +3308,7 @@ inapps.appsflyersdk.com^
 ||metrics.scribblelive.com^
 ||metrics.userguiding.com^
 ||metrix.emagister.com^
+||mj-snowplow-static-js.s3.amazonaws.com^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
 ||mon.domdog.io^
@@ -3335,6 +3338,7 @@ inapps.appsflyersdk.com^
 ||optimeeze.appspot.com^
 ||orts.wixawin.com^
 ||p.delivery.net^
+||p.metrilo.com^
 ||p.placed.com^
 ||p.typekit.net^
 ||p.yotpo.com^
@@ -3562,6 +3566,7 @@ inapps.appsflyersdk.com^
 ||t.irtyc.com^
 ||t.jobsyn.org^
 ||t.menepe.com^
+||t.metrilo.com^
 ||t.pointandplace.com^
 ||t.powerreviews.com^
 ||t.pswec.com^
@@ -3702,6 +3707,7 @@ inapps.appsflyersdk.com^
 ||tracking.cerdmann.com^
 ||tracking.chilipiper.com^
 ||tracking.dealeranalytics.com^
+||tracking.diginetica.net^
 ||tracking.drsfostersmith.com^
 ||tracking.drum.io^
 ||tracking.dsmmadvantage.com^
@@ -13522,6 +13528,8 @@ inapps.appsflyersdk.com^
 ||lrlsrz.xyz^
 ||wddsva0.com^
 ||rilwzsit.icu^
+||wnzle.com^
+||52acc.cn^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
