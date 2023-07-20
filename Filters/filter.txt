@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-20T12:35:42.594Z
+! Last modified: 2023-07-20T18:22:23.356Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12051,6 +12051,7 @@ inapps.appsflyersdk.com^
 ! Source name: EasyList Italy ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
+||adplay.it^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
@@ -13356,6 +13357,7 @@ inapps.appsflyersdk.com^
 ||1379a.xyz^
 ||1u5gy.xyz^
 ||3400.org^
+||52acc.cn^
 ||52kuwang.cn^
 ||a8age.com^
 ||abrnfctkn.xyz^
@@ -13399,6 +13401,7 @@ inapps.appsflyersdk.com^
 ||dstbunkfw.xyz^
 ||dyeperd.icu^
 ||eghyahl.cn^
+||enhad.xyz^
 ||epoid.xyz^
 ||erfskhnpter.xyz^
 ||ertgbme.com^
@@ -13414,7 +13417,9 @@ inapps.appsflyersdk.com^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
+||fwepd.xyz^
 ||fwzvlp.xyz^
+||ghland.site^
 ||gkjmev3.com^
 ||glhdan.site^
 ||gyq3bew.icu^
@@ -13437,6 +13442,7 @@ inapps.appsflyersdk.com^
 ||jdcnwd.com^
 ||jhlazsot.icu^
 ||jhzfwl.cn^
+||jjklrcw.com^
 ||jokerlulm.com^
 ||jpqed.xyz^
 ||jrmrijv.icu^
@@ -13452,11 +13458,13 @@ inapps.appsflyersdk.com^
 ||lanver.fun^
 ||lgohse.fun^
 ||lifyeldl.top^
+||lrlsrz.xyz^
 ||lwide.xyz^
 ||metaversemolecule.com^
 ||mifyeldx.top^
 ||misapopait.com^
 ||moobtcnse.xyz^
+||mvgucp.com^
 ||ngbthf.xyz^
 ||nieae.xyz^
 ||nifyeldc.top^
@@ -13464,10 +13472,13 @@ inapps.appsflyersdk.com^
 ||nnfyxd.xyz^
 ||nqdufv.xyz^
 ||nryqr.cn^
+||ntozchv.icu^
+||nxhwvt.xyz^
 ||oifyeldk.top^
 ||one6u.xyz^
 ||oopej.xyz^
 ||owlinggnomist.com^
+||p11q.cn^
 ||pcvzpj.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
@@ -13481,9 +13492,11 @@ inapps.appsflyersdk.com^
 ||rabuagc.cn^
 ||rdufuxr.icu^
 ||relafp.xyz^
+||rilwzsit.icu^
 ||ronbbf.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
+||sbeaje.com^
 ||sfg11rr.com^
 ||sq59.cn^
 ||ssjuxsc.cn^
@@ -13496,8 +13509,11 @@ inapps.appsflyersdk.com^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
 ||vnfsbl.xyz^
+||vvdzucs.cn^
 ||vvwuqxp.icu^
 ||vxhtxt.xyz^
+||wddsva0.com^
+||wnzle.com^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -13518,18 +13534,6 @@ inapps.appsflyersdk.com^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
-||vvdzucs.cn^
-||jjklrcw.com^
-||nxhwvt.xyz^
-||ghland.site^
-||enhad.xyz^
-||ntozchv.icu^
-||fwepd.xyz^
-||lrlsrz.xyz^
-||wddsva0.com^
-||rilwzsit.icu^
-||wnzle.com^
-||52acc.cn^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
