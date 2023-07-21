@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-21T01:36:20.714Z
+! Last modified: 2023-07-21T06:22:09.518Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1261,7 +1261,6 @@ vkcdnservice.appspot.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
-||frontman.tmobiapi.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
 ||veta.naver.com^
@@ -11204,8 +11203,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-07-17 07:18:24 CEST
-# entries:        1157
+# last updated:   2023-07-21 06:45:04 CEST
+# entries:        1160
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11511,6 +11510,7 @@ inapps.appsflyersdk.com^
 ||emea.hhkld.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
 ||eteppy.com^
+||eum.instana.io^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
 ||events-collector.spot.im^
 ||evtr.nordiskemedier.dk^
@@ -11545,6 +11545,7 @@ inapps.appsflyersdk.com^
 ||glitnoraffiliates.elb.myaffiliates.com^
 ||greatstoryvideo.se^
 ||gtm.findroommate.dk^
+||gtm.proff.se^
 ||gwen.insertcoin.se^
 ||gymsharksverige.com.se^
 ||gym-shark-sverige.com.se^
@@ -11845,6 +11846,7 @@ inapps.appsflyersdk.com^
 ||stats.jibber.social^
 ||stats.playoncenter.com^
 ||stats.poddtoppen.se^
+||stats.proff.se^
 ||stats.userneeds.com^
 ||stats2.agilecrm.com^
 ||statsapi.tiendeo.se^
@@ -13547,6 +13549,10 @@ inapps.appsflyersdk.com^
 ||rifyeldz.top^
 ||gjipd.xyz^
 ||hongteng.xyz^
+||janwzsqi.icu^
+||tvdpebx.cn^
+||kyplpw.com^
+||kdvmnn.com^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
