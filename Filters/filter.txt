@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-22T01:33:54.618Z
+! Last modified: 2023-07-22T06:20:18.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -373,7 +373,6 @@ vkcdnservice.appspot.com^
 ||gfxa.sheetmusicplus.com^
 ||gg.caixin.com^
 ||go.bloxplay.com^
-||googleads.github.io^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hotwire-widget.dailywire.com^
 ||inrdeals.com^
@@ -936,7 +935,6 @@ vkcdnservice.appspot.com^
 ||d3rjndf2qggsna.cloudfront.net^
 ||d3rkkddryl936d.cloudfront.net^
 ||d3rlh0lneatqqc.cloudfront.net^
-||d3rp5jatom3eyn.cloudfront.net^
 ||d3rr3d0n31t48m.cloudfront.net^
 ||d3rxqouo2bn71j.cloudfront.net^
 ||d3sdg6egu48sqx.cloudfront.net^
@@ -3156,7 +3154,6 @@ inapps.appsflyersdk.com^
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
-||fennec.atp.fox^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
@@ -3228,7 +3225,6 @@ inapps.appsflyersdk.com^
 ||invite.leanlab.co^
 ||invitejs.trustpilot.com^
 ||ip.lovely-app.com^
-||ipapi.tmbi.com^
 ||iq.sixaxisllc.com^
 ||jas.indeednps.com^
 ||javascriptcounter.appspot.com^
@@ -3238,7 +3234,6 @@ inapps.appsflyersdk.com^
 ||k.streamrail.com^
 ||kalstats.kaltura.com^
 ||kiwi.mdldb.net^
-||klm-ea.jscrambler.com^
 ||l.fairblocker.com^
 ||l.ooyala.com^
 ||l.player.ooyala.com^
@@ -3281,7 +3276,6 @@ inapps.appsflyersdk.com^
 ||logs.animaapp.com^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
-||lore.circulate.com^
 ||lps.qantas.com^
 ||lucid.mjhassoc.com^
 ||ma.logsss.com^
@@ -3402,6 +3396,7 @@ inapps.appsflyersdk.com^
 ||privacy.outdoorsg.com^
 ||processor.asccommunications.com^
 ||prod.ew.srp.navigacloud.com^
+||prod.fennec.atp.fox^
 ||proxy.dzeio.com^
 ||pt.crossmediaservices.com^
 ||pt.ispot.tv^
@@ -3519,7 +3514,6 @@ inapps.appsflyersdk.com^
 ||stats.lotlinx.com^
 ||stats.mituyu.com^
 ||stats.mpthemes.net^
-||stats.myangular.life^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
 ||stats.olark.com^
@@ -3782,7 +3776,6 @@ inapps.appsflyersdk.com^
 ||vercel-vitals.axiom.co^
 ||video-ad-stats.googlesyndication.com^
 ||videoevents.outbrain.com^
-||visit.webhosting.yahoo.com^
 ||vortex.data.microsoft.com^
 ||vst.sibnet.ru^
 ||vstat.borderlessbd.com^
@@ -4278,7 +4271,6 @@ inapps.appsflyersdk.com^
 ||antvoice.com^
 ||atraxio.com^
 ||audiencesquare.com^
-||canalstat.com^
 ||carts.guru^
 ||casualstat.com^
 ||coll1onf.com^
@@ -13569,6 +13561,7 @@ inapps.appsflyersdk.com^
 ||1267a.xyz^
 ||ossfile001.com^
 ||toastspinner.com^
+||qwdbsjnql.com^
 ||xckj0623.com^
 ||zonyff.xyz^
 ||zxrcfw.com^
