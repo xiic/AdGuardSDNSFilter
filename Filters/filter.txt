@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-26T12:33:55.251Z
+! Last modified: 2023-07-26T18:20:34.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -299,6 +299,7 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
+||1077519983.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
@@ -12499,27 +12500,6 @@ inapps.appsflyersdk.com^
 ! ---
 ! Dihapus dalam beberapa bulan
 ! Feb 2023
-||amutheastse.com^
-||itwasbrghttohwe.xyz^
-! Jan 2023
-||meredithcorp.io^
-! Dec 2022
-||aogkfujgtmfwp.xyz^
-! Nov 2022
-||daudejuw.com^
-||logitxaequk.com^
-||lttxwrvhyzb.com^
-||owkuwquf.com^
-||xdkvvtucvbqhv.xyz^
-! Oct 2022
-||chimamanndgaocozmi.com^
-||ducmiptu.net^
-||hfvamxbcfccycm.com^
-||jame3s67jo9yc4e.com^
-||lechihah.com^
-||scentedindication.com^
-||xwmxdrnl.com^
-||zaubanel.com^
 ! 205.251.197.235, 205.251.198.251, 205.251.193.177, 205.251.195.134
 
 !
@@ -13388,6 +13368,7 @@ inapps.appsflyersdk.com^
 ||bgdizsay.icu^
 ||bifyeldv.top^
 ||bkhblj.xyz^
+||bnds8.site^
 ||bnfyzszm.icu^
 ||boewgph.icu^
 ||boyvtr8.com^
@@ -13471,6 +13452,7 @@ inapps.appsflyersdk.com^
 ||hpvwdkn.cn^
 ||hqgearb.icu^
 ||hsadeg.site^
+||hslbahu.top^
 ||hstbrt.xyz^
 ||hubiazhi.com^
 ||hujunhao.name^
@@ -13500,12 +13482,14 @@ inapps.appsflyersdk.com^
 ||jutwzssh.icu^
 ||jzdgn.cn^
 ||jzixypd.icu^
+||jzxpxj.xyz^
 ||kahgjjd.com^
 ||kasiklz.cc^
 ||kdvmnn.com^
 ||kgeesh.site^
 ||kklpe.xyz^
 ||kljslku.com^
+||kodfn.xyz^
 ||kv8899.com^
 ||kyplpw.com^
 ||kyq3hky.icu^
@@ -13519,6 +13503,7 @@ inapps.appsflyersdk.com^
 ||lhiefl.com^
 ||lifyeldl.top^
 ||llpuhx.xyz^
+||lmnpd.xyz^
 ||lrlsrz.xyz^
 ||lvrvdn.xyz^
 ||lwide.xyz^
@@ -13527,6 +13512,8 @@ inapps.appsflyersdk.com^
 ||mifyeldx.top^
 ||misapopait.com^
 ||moobtcnse.xyz^
+||mrqbuf.xyz^
+||mt4v4.com^
 ||mvgucp.com^
 ||nektonsrutate.com^
 ||ngbthf.xyz^
@@ -13545,6 +13532,7 @@ inapps.appsflyersdk.com^
 ||ossfile001.com^
 ||owlinggnomist.com^
 ||p11q.cn^
+||parnett55.xyz^
 ||pcqsajr.icu^
 ||pcvzpj.xyz^
 ||pfqwbqs.cn^
@@ -13562,16 +13550,21 @@ inapps.appsflyersdk.com^
 ||rabuagc.cn^
 ||rdufuxr.icu^
 ||relafp.xyz^
+||remfebd.cn^
 ||rifyeldz.top^
 ||rilwzsit.icu^
+||rlqoyht.icu^
 ||ronbbf.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sbeaje.com^
+||sdchb2.com^
 ||sfg11rr.com^
 ||sq59.cn^
+||ssdfgq7.com^
 ||ssjuxsc.cn^
 ||tarqk5.com^
+||tfttbd.xyz^
 ||tgbevv.xyz^
 ||tifyeldi.top^
 ||tlprlf.xyz^
@@ -13581,6 +13574,7 @@ inapps.appsflyersdk.com^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
 ||ty8bz.com^
+||u1022.com^
 ||uejdsw.com^
 ||ulojlvmejkaem.xyz^
 ||uyq3ruf.icu^
@@ -13605,6 +13599,7 @@ inapps.appsflyersdk.com^
 ||xiaoxiuapp.com^
 ||xjzyhp.xyz^
 ||xmxupz.xyz^
+||xn--zw0autp42d.cn^
 ||xpcwrgy.cn^
 ||xpicj1.cc^
 ||xqblnei.cn^
@@ -13620,21 +13615,7 @@ inapps.appsflyersdk.com^
 ||zfteiv.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
-||ssdfgq7.com^
-||remfebd.cn^
-||kodfn.xyz^
-||bnds8.site^
-||rlqoyht.icu^
-||tfttbd.xyz^
-||lmnpd.xyz^
-||jzxpxj.xyz^
-||mrqbuf.xyz^
-||sdchb2.com^
-||hslbahu.top^
-||mt4v4.com^
 ||znyjmbh.icu^
-||u1022.com^
-||parnett55.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
