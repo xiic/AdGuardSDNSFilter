@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-27T12:34:32.444Z
+! Last modified: 2023-07-27T18:20:44.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -852,6 +852,7 @@ vkcdnservice.appspot.com^
 ||d379fkejtn2clk.cloudfront.net^
 ||d37abonb6ucrhx.cloudfront.net^
 ||d37pempw0ijqri.cloudfront.net^
+||d37tb4r0t9g99j.cloudfront.net^
 ||d38goz54x5g9rw.cloudfront.net^
 ||d38itq6vdv6gr9.cloudfront.net^
 ||d38psrni17bvxu.cloudfront.net^
@@ -5633,6 +5634,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||sarafan.fun^
 ||newrotatormarch23.bid^
 ||rbfour.bid^
 ||prft1pub.com^
@@ -9665,6 +9667,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||pingpepa.xyz^
 ||d8c5y8fq3znwi.cloudfront.net^
 ||kingdepo.com^
 ||medyanative.com^
@@ -13637,6 +13640,7 @@ inapps.appsflyersdk.com^
 ||a9able.com^
 ||uxtruz.xyz^
 ||8861198.com^
+||xiaoy.name^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
