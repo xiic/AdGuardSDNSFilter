@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-29T12:30:12.393Z
+! Last modified: 2023-07-29T18:18:54.839Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13361,6 +13361,7 @@ inapps.appsflyersdk.com^
 ||8861198.com^
 ||a8age.com^
 ||a9able.com^
+||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
@@ -13408,6 +13409,7 @@ inapps.appsflyersdk.com^
 ||dd778899dd.com^
 ||ddush.xyz^
 ||dehaer.site^
+||destc8.icu^
 ||dghhot.com^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
@@ -13417,6 +13419,7 @@ inapps.appsflyersdk.com^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||dyeperd.icu^
+||eamqbaqzaewwq.top^
 ||eghyahl.cn^
 ||ejolul.xyz^
 ||ekdky.cn^
@@ -13431,6 +13434,7 @@ inapps.appsflyersdk.com^
 ||ewfsef.com^
 ||eyq3nog.icu^
 ||falsarywaybung.com^
+||fantuan.name^
 ||fddxbn.xyz^
 ||feiln.xyz^
 ||fhglcpf.icu^
@@ -13485,6 +13489,7 @@ inapps.appsflyersdk.com^
 ||jhzfwl.cn^
 ||jjade.xyz^
 ||jjklrcw.com^
+||jjztrz.xyz^
 ||jklhs7u.com^
 ||jknnjk.com^
 ||jnhgm.com^
@@ -13493,9 +13498,11 @@ inapps.appsflyersdk.com^
 ||jpqed.xyz^
 ||jpvrbt.xyz^
 ||jrmrijv.icu^
+||jslbaha.top^
 ||jszavs1.com^
 ||jujcjz.xyz^
 ||jutwzssh.icu^
+||jvjlkih.com^
 ||jzdgn.cn^
 ||jzixypd.icu^
 ||jzxpxj.xyz^
@@ -13553,6 +13560,7 @@ inapps.appsflyersdk.com^
 ||okmhmkjnm.com^
 ||one6u.xyz^
 ||oopej.xyz^
+||ooqwc.xyz^
 ||ossfile001.com^
 ||owlinggnomist.com^
 ||p11q.cn^
@@ -13604,6 +13612,8 @@ inapps.appsflyersdk.com^
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
 ||tseda6.icu^
+||tushwjp.icu^
+||tuwaqtjcood.com^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
 ||ty8bz.com^
@@ -13648,6 +13658,7 @@ inapps.appsflyersdk.com^
 ||yuifgh.fun^
 ||yyuivw6.com^
 ||zcvyzsyd.icu^
+||zddpnf.xyz^
 ||zerolcp.cn^
 ||zexfzson.icu^
 ||zfcdirf.icu^
@@ -13656,17 +13667,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||destc8.icu^
-||jvjlkih.com^
-||fantuan.name^
-||jjztrz.xyz^
-||jslbaha.top^
-||zddpnf.xyz^
-||tushwjp.icu^
-||ooqwc.xyz^
-||eamqbaqzaewwq.top^
-||tuwaqtjcood.com^
-||abdluv.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
