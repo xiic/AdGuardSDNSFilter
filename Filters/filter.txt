@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-28T18:19:08.645Z
+! Last modified: 2023-07-29T01:21:21.391Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13375,6 +13375,7 @@ inapps.appsflyersdk.com^
 ||bgdizsay.icu^
 ||bifyeldv.top^
 ||bkhblj.xyz^
+||bkjlf58.com^
 ||bnds8.site^
 ||bnfyzszm.icu^
 ||boewgph.icu^
@@ -13384,6 +13385,7 @@ inapps.appsflyersdk.com^
 ||btsvad8.com^
 ||bttazsyk.icu^
 ||bxackzj.icu^
+||bzxvtj.xyz^
 ||c4d4.cn^
 ||caider.fun^
 ||canser1.top^
@@ -13516,6 +13518,7 @@ inapps.appsflyersdk.com^
 ||lgohse.fun^
 ||lhiefl.com^
 ||lifyeldl.top^
+||liitwrz.icu^
 ||lkmhn.com^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
@@ -13539,6 +13542,7 @@ inapps.appsflyersdk.com^
 ||njogejt.icu^
 ||nmkghh.com^
 ||nnfyxd.xyz^
+||nnqwe.xyz^
 ||nqdufv.xyz^
 ||nryqr.cn^
 ||ntozchv.icu^
@@ -13575,6 +13579,7 @@ inapps.appsflyersdk.com^
 ||rjzqtz.xyz^
 ||rlqoyht.icu^
 ||ronbbf.xyz^
+||rtborp.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sbeaje.com^
@@ -13584,6 +13589,8 @@ inapps.appsflyersdk.com^
 ||ssdfgq7.com^
 ||ssjuxsc.cn^
 ||ssnnn.net^
+||statisfile.com^
+||svarub.xyz^
 ||tarqk5.com^
 ||tftran.shop^
 ||tfttbd.xyz^
@@ -13592,8 +13599,10 @@ inapps.appsflyersdk.com^
 ||tlprlf.xyz^
 ||tmwbszn.icu^
 ||toastspinner.com^
+||tptp002.cfd^
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
+||tseda6.icu^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
 ||ty8bz.com^
@@ -13608,6 +13617,7 @@ inapps.appsflyersdk.com^
 ||vhjxrj.xyz^
 ||vnfsbl.xyz^
 ||vrlvnz.xyz^
+||vrr.name^
 ||vvdzucs.cn^
 ||vvwuqxp.icu^
 ||vxhtxt.xyz^
@@ -13642,19 +13652,13 @@ inapps.appsflyersdk.com^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zfvltd.xyz^
-||bkjlf58.com^
-||vrr.name^
-||tseda6.icu^
-||liitwrz.icu^
-||tptp002.cfd^
-||bzxvtj.xyz^
-||statisfile.com^
-||rtborp.xyz^
-||nnqwe.xyz^
-||svarub.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
+||destc8.icu^
+||jvjlkih.com^
+||fantuan.name^
+||jjztrz.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
