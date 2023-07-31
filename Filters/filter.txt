@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-31T12:36:29.330Z
+! Last modified: 2023-07-31T18:21:09.485Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -688,6 +688,7 @@ vkcdnservice.appspot.com^
 ||d27gtglsu4f4y2.cloudfront.net^
 ||d27qffx6rqb3qm.cloudfront.net^
 ||d27x9po2cfinm5.cloudfront.net^
+||d28exbmwuav7xa.cloudfront.net^
 ||d28quk6sxoh2w5.cloudfront.net^
 ||d28s7kbgrs6h2f.cloudfront.net^
 ||d28u86vqawvw52.cloudfront.net^
@@ -1160,6 +1161,7 @@ vkcdnservice.appspot.com^
 ||dzbkl37t8az8q.cloudfront.net^
 ||dzdgfp673c1p0.cloudfront.net^
 ||dzr4v2ld8fze2.cloudfront.net^
+||dzu5p9pd5q24b.cloudfront.net^
 ||dzupi9b81okew.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
@@ -2184,6 +2186,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||gamestats.easybrain.com^
 ||am.yahoo.co.jp^
 ||b99.yahoo.co.jp^
 ||logs13.xiti.com^
@@ -13375,6 +13378,7 @@ inapps.appsflyersdk.com^
 ||1379a.xyz^
 ||1u5gy.xyz^
 ||3400.org^
+||39mydp.xyz^
 ||4asfgyx.com^
 ||52acc.cn^
 ||52kuwang.cn^
@@ -13391,6 +13395,7 @@ inapps.appsflyersdk.com^
 ||baitaiz.com^
 ||bavde1.icu^
 ||bbges.xyz^
+||bcejk.xyz^
 ||bdates.fun^
 ||berylnbb.com^
 ||betcss.site^
@@ -13442,6 +13447,7 @@ inapps.appsflyersdk.com^
 ||dstbunkfw.xyz^
 ||dyeperd.icu^
 ||eamqbaqzaewwq.top^
+||eers0cy.com^
 ||eghyahl.cn^
 ||ejolul.xyz^
 ||ekdky.cn^
@@ -13487,17 +13493,20 @@ inapps.appsflyersdk.com^
 ||hiqua.xyz^
 ||hkkeafj.cn^
 ||hlnr9q.icu^
+||hmjhnkas.com^
 ||hnfnjn.xyz^
 ||hohmaryt.com^
 ||hongteng.xyz^
 ||hpvwdkn.cn^
 ||hqgearb.icu^
+||hqzcths.cn^
 ||hsadeg.site^
 ||hslbahu.top^
 ||hstbrt.xyz^
 ||hubiazhi.com^
 ||hujunhao.name^
 ||huoju.asia^
+||hxhohd.xyz^
 ||hyeqp.xyz^
 ||hypwbv.xyz^
 ||hzhabei.cn^
@@ -13540,6 +13549,7 @@ inapps.appsflyersdk.com^
 ||kljslku.com^
 ||knjmhmk.com^
 ||kodfn.xyz^
+||kslbahd.top^
 ||kv8899.com^
 ||kyplpw.com^
 ||kyq3hky.icu^
@@ -13557,6 +13567,7 @@ inapps.appsflyersdk.com^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
 ||lrlsrz.xyz^
+||lskmipb.icu^
 ||lvrvdn.xyz^
 ||lwide.xyz^
 ||lycjsix.cn^
@@ -13568,6 +13579,7 @@ inapps.appsflyersdk.com^
 ||mrqbuf.xyz^
 ||mt4v4.com^
 ||mvgucp.com^
+||ncgqmzm.cn^
 ||nektonsrutate.com^
 ||ngbthf.xyz^
 ||nhjkm.com^
@@ -13600,13 +13612,16 @@ inapps.appsflyersdk.com^
 ||poqiod.com^
 ||powedw.com^
 ||pstvvb.xyz^
+||puy2.cn^
 ||pzjizsyf.icu^
 ||qezpjlp.cn^
 ||qifyeldy.top^
+||qpztub.xyz^
 ||qqnde.xyz^
 ||qselic.top^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
+||rddsjx.xyz^
 ||rdufuxr.icu^
 ||relafp.xyz^
 ||remfebd.cn^
@@ -13631,6 +13646,7 @@ inapps.appsflyersdk.com^
 ||tftran.shop^
 ||tfttbd.xyz^
 ||tgbevv.xyz^
+||thesac2.top^
 ||tifyeldi.top^
 ||tlprlf.xyz^
 ||tmwbszn.icu^
@@ -13696,18 +13712,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||eers0cy.com^
-||hqzcths.cn^
-||thesac2.top^
-||hmjhnkas.com^
-||puy2.cn^
-||lskmipb.icu^
-||bcejk.xyz^
-||rddsjx.xyz^
-||hxhohd.xyz^
-||kslbahd.top^
-||ncgqmzm.cn^
-||qpztub.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
