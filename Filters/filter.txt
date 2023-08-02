@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-02T06:21:31.023Z
+! Last modified: 2023-08-02T12:34:20.434Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2271,7 +2271,6 @@ inapps.appsflyersdk.com^
 ||oldevent.togothermany.com^
 ||logs.ironsrc.mobi^
 ||events.mz.unity3d.com^
-||metrics.plaid.com^
 ||mon*-platform-*.tiktokv.com^
 ||grs.dbankcloud.
 ||logservice-*.platform.dbankcloud.cn^
@@ -10055,6 +10054,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||vookamoo.com^
 ||proxy.ads.canalplus-bo.net^
 ||7bd92.v.fwmrm.net^
 ||7cbf2.v.fwmrm.net^
@@ -11235,8 +11235,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-07-30 05:47:31 CEST
-# entries:        1164
+# last updated:   2023-08-02 10:00:55 CEST
+# entries:        1166
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11613,6 +11613,7 @@ inapps.appsflyersdk.com^
 ||izooto.com^
 ||jackwolfskinsverige.com.se^
 ||js.appboycdn.com^
+||js.datadome.co^
 ||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
 ||js.interestmoments.com^
@@ -13732,6 +13733,9 @@ inapps.appsflyersdk.com^
 ||suy5x8.com^
 ||northcookie.xyz^
 ||sslbahb.top^
+||xukang09.cn^
+||likdie.com^
+||ihwdun.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -19549,6 +19553,9 @@ analytics-*.aasaam.com
 ||sabaidea.cloud^
 
 # >> T <<
+||theforge.ir^
+# Seen on zoomit.ir
+
 ||trustseal.e-rasaneh.ir^
 # Example: anaj.ir
 
