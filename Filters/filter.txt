@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-03T12:34:11.828Z
+! Last modified: 2023-08-03T18:20:35.602Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12537,8 +12537,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Aug 2023 14:46 UTC+7
-! Version: 2308031446
+! Last modified: 03 Aug 2023 21:54 UTC+7
+! Version: 2308032154
 ! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13429,6 +13429,7 @@ inapps.appsflyersdk.com^
 ||csedasdme.xyz^
 ||cslbahf.top^
 ||cuioxbqi.com^
+||cxsh.cn.com^
 ||cyq3noz.icu^
 ||dadbj.cn^
 ||dadde.cn^
@@ -13441,6 +13442,7 @@ inapps.appsflyersdk.com^
 ||dehaer.site^
 ||destc8.icu^
 ||dffrahax.com^
+||dfgymtx.icu^
 ||dgayibf.icu^
 ||dghhot.com^
 ||dhjrvj.xyz^
@@ -13560,6 +13562,7 @@ inapps.appsflyersdk.com^
 ||kljslku.com^
 ||knjmhmk.com^
 ||kodfn.xyz^
+||kqubxdb.cn^
 ||kslbahd.top^
 ||kv8899.com^
 ||kyplpw.com^
@@ -13616,6 +13619,7 @@ inapps.appsflyersdk.com^
 ||ossfile001.com^
 ||owlinggnomist.com^
 ||p11q.cn^
+||p52q.cn^
 ||parnett55.xyz^
 ||pbtsjh.xyz^
 ||pcqsajr.icu^
@@ -13633,6 +13637,7 @@ inapps.appsflyersdk.com^
 ||qifyeldy.top^
 ||qpztub.xyz^
 ||qqnde.xyz^
+||qrirud.xyz^
 ||qselic.top^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
@@ -13640,6 +13645,7 @@ inapps.appsflyersdk.com^
 ||rdufuxr.icu^
 ||relafp.xyz^
 ||remfebd.cn^
+||rhesed.site^
 ||rifyeldz.top^
 ||rilwzsit.icu^
 ||rjzqtz.xyz^
@@ -13649,12 +13655,14 @@ inapps.appsflyersdk.com^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sacfasv.com^
+||sacre.cn^
 ||sbeaje.com^
 ||sdchb2.com^
 ||sfg11rr.com^
 ||shulsbs.cn^
 ||sq59.cn^
 ||ssdfgq7.com^
+||ssdtour.com^
 ||ssjuxsc.cn^
 ||sslbahb.top^
 ||ssnnn.net^
@@ -13699,6 +13707,7 @@ inapps.appsflyersdk.com^
 ||vxhtxt.xyz^
 ||wddsva0.com^
 ||wnzle.com^
+||wsdfame.com^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -13710,6 +13719,7 @@ inapps.appsflyersdk.com^
 ||xeynozl.icu^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
+||xixrdn.xyz^
 ||xjzyhp.xyz^
 ||xlvqhx.xyz^
 ||xmxupz.xyz^
@@ -13737,16 +13747,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||ssdtour.com^
-||cxsh.cn.com^
-||rhesed.site^
-||dfgymtx.icu^
-||xixrdn.xyz^
-||wsdfame.com^
-||p52q.cn^
-||kqubxdb.cn^
-||sacre.cn^
-||qrirud.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
