@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-05T12:30:08.557Z
+! Last modified: 2023-08-05T18:18:43.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13415,6 +13415,7 @@ inapps.appsflyersdk.com^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||bkjlf58.com^
+||bnds4.site^
 ||bnds8.site^
 ||bnfyzszm.icu^
 ||boewgph.icu^
@@ -13461,6 +13462,7 @@ inapps.appsflyersdk.com^
 ||dosre12.xyz^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
+||dwfjtz.xyz^
 ||dyeperd.icu^
 ||dzkwj0y.xyz^
 ||eamqbaqzaewwq.top^
@@ -13482,8 +13484,10 @@ inapps.appsflyersdk.com^
 ||eyq3nog.icu^
 ||falsarywaybung.com^
 ||fantuan.name^
+||fcbqxt.xyz^
 ||fddxbn.xyz^
 ||feiln.xyz^
+||fengyukun03.cn^
 ||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
@@ -13504,6 +13508,7 @@ inapps.appsflyersdk.com^
 ||gyutmrp.com^
 ||hanwdsii.com^
 ||hasgde.site^
+||hbqabbg.cn^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
@@ -13555,6 +13560,7 @@ inapps.appsflyersdk.com^
 ||jochenanabata.guru^
 ||jokerlulm.com^
 ||jpqed.xyz^
+||jpush0b.xyz^
 ||jpvrbt.xyz^
 ||jrmrijv.icu^
 ||jslbaha.top^
@@ -13564,6 +13570,7 @@ inapps.appsflyersdk.com^
 ||jutwzssh.icu^
 ||jvjlkih.com^
 ||jzdgn.cn^
+||jzdwl4.cn^
 ||jzixypd.icu^
 ||jzxpxj.xyz^
 ||kahgjjd.com^
@@ -13572,6 +13579,7 @@ inapps.appsflyersdk.com^
 ||kgeesh.site^
 ||kklpe.xyz^
 ||kljslku.com^
+||klufjdo.com^
 ||knjmhmk.com^
 ||kodfn.xyz^
 ||kqubxdb.cn^
@@ -13627,6 +13635,7 @@ inapps.appsflyersdk.com^
 ||nunxhv.com^
 ||nxhwvt.xyz^
 ||oifyeldk.top^
+||oijmds.com^
 ||oiunga.com^
 ||okmhmkjnm.com^
 ||one6u.xyz^
@@ -13657,6 +13666,7 @@ inapps.appsflyersdk.com^
 ||qselic.top^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
+||rdbousn.cn^
 ||rddsjx.xyz^
 ||rdufuxr.icu^
 ||relafp.xyz^
@@ -13714,6 +13724,7 @@ inapps.appsflyersdk.com^
 ||uxtruz.xyz^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
+||vcydyzd.icu^
 ||vhjxrj.xyz^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
@@ -13767,17 +13778,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||bnds4.site^
-||klufjdo.com^
-||rdbousn.cn^
-||vcydyzd.icu^
-||fengyukun03.cn^
-||hbqabbg.cn^
-||jzdwl4.cn^
-||fcbqxt.xyz^
-||dwfjtz.xyz^
-||oijmds.com^
-||jpush0b.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -19747,6 +19747,7 @@ analytics-*.aasaam.com
 
 ||adengine.telewebion.com^
 ||rokhdad.telewebion.com^
+||analytics.telewebion.com^
 
 # >> U <<
 
