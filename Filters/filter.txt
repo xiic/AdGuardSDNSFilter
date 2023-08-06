@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-06T12:29:02.282Z
+! Last modified: 2023-08-06T18:18:28.927Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13385,6 +13385,7 @@ inapps.appsflyersdk.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
 ||1267a.xyz^
+||1378a.xyz^
 ||1379a.xyz^
 ||1u5gy.xyz^
 ||3400.org^
@@ -13430,6 +13431,7 @@ inapps.appsflyersdk.com^
 ||c9r05q.com^
 ||caider.fun^
 ||canser1.top^
+||canser5.top^
 ||ccnim.xyz^
 ||cdmjur.xyz^
 ||chiese.site^
@@ -13452,9 +13454,11 @@ inapps.appsflyersdk.com^
 ||dehaer.site^
 ||destc8.icu^
 ||dffrahax.com^
+||dfgpifa.com^
 ||dfgymtx.icu^
 ||dgayibf.icu^
 ||dghhot.com^
+||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
 ||dojyiu8.com^
@@ -13468,6 +13472,7 @@ inapps.appsflyersdk.com^
 ||eamqbaqzaewwq.top^
 ||eers0cy.com^
 ||eghyahl.cn^
+||eheb8.cn^
 ||ejolul.xyz^
 ||ekdky.cn^
 ||enhad.xyz^
@@ -13491,6 +13496,7 @@ inapps.appsflyersdk.com^
 ||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
+||foirkrt.icu^
 ||fszpzd.xyz^
 ||fuliwang.cc^
 ||fvxlhn.xyz^
@@ -13519,6 +13525,7 @@ inapps.appsflyersdk.com^
 ||hghjks2.com^
 ||hikykhz.icu^
 ||hiqua.xyz^
+||hjgkr0g.xyz^
 ||hjkiguy.com^
 ||hkkeafj.cn^
 ||hlnr9q.icu^
@@ -13613,6 +13620,7 @@ inapps.appsflyersdk.com^
 ||mifyeldx.top^
 ||misapopait.com^
 ||mmead.xyz^
+||mnhknds.com^
 ||moobtcnse.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
@@ -13625,6 +13633,7 @@ inapps.appsflyersdk.com^
 ||nieae.xyz^
 ||nifyeldc.top^
 ||njogejt.icu^
+||nmdotj.xyz^
 ||nmkghh.com^
 ||nnfyxd.xyz^
 ||nnqwe.xyz^
@@ -13759,6 +13768,7 @@ inapps.appsflyersdk.com^
 ||xtbzff.xyz^
 ||xukang09.cn^
 ||xukou.net^
+||yegziyf.cn^
 ||yhhnjg.com^
 ||yjnhndt.com^
 ||ymhyw6.lol^
@@ -13778,14 +13788,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||nmdotj.xyz^
-||dfgpifa.com^
-||canser5.top^
-||yegziyf.cn^
-||foirkrt.icu^
-||mnhknds.com^
-||dghkpp.xyz^
-||hjgkr0g.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -18471,6 +18473,7 @@ inapps.appsflyersdk.com^
 ||market.duowan.com^
 ||mini.hao123.com^
 ||miniye.xjts.cn^
+||mixer.sina.cn^
 ||mm.nwell.net^
 ||money.qz828.com^
 ||nirentang.com^
