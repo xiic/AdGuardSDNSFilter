@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-07T12:33:43.642Z
+! Last modified: 2023-08-07T18:19:58.690Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12546,8 +12546,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Aug 2023 21:54 UTC+7
-! Version: 2308032154
+! Last modified: 07 Aug 2023 22:40 UTC+7
+! Version: 2308072240
 ! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13396,6 +13396,7 @@ inapps.appsflyersdk.com^
 ||52kuwang.cn^
 ||777aa999aa.com^
 ||8861198.com^
+||89mtdab.xyz^
 ||a8age.com^
 ||a9able.com^
 ||abdluv.xyz^
@@ -13435,12 +13436,14 @@ inapps.appsflyersdk.com^
 ||canser5.top^
 ||ccnim.xyz^
 ||cdmjur.xyz^
+||cfdns.vip^
 ||chiese.site^
 ||ciadre.fun^
 ||cix0wk.com^
 ||connectreadoasis.com^
 ||csedasdme.xyz^
 ||cslbahf.top^
+||ctquh0q.xyz^
 ||cuioxbqi.com^
 ||cxsh.cn.com^
 ||cyq3noz.icu^
@@ -13504,6 +13507,7 @@ inapps.appsflyersdk.com^
 ||fwepd.xyz^
 ||fwzvlp.xyz^
 ||ggdrfh5.com^
+||gghmef7.com^
 ||ghland.site^
 ||gjipd.xyz^
 ||gkjmev3.com^
@@ -13513,6 +13517,7 @@ inapps.appsflyersdk.com^
 ||guke.name^
 ||gyq3bew.icu^
 ||gyutmrp.com^
+||hacde3.icu^
 ||hanwdsii.com^
 ||hasgde.site^
 ||hbqabbg.cn^
@@ -13593,6 +13598,7 @@ inapps.appsflyersdk.com^
 ||kqubxdb.cn^
 ||kslbahd.top^
 ||kv8899.com^
+||kwcmrfb.cn^
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
@@ -13611,6 +13617,7 @@ inapps.appsflyersdk.com^
 ||lkmhn.com^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
+||lqjinx.xyz^
 ||lrlsrz.xyz^
 ||lrqpyhn.icu^
 ||lskmipb.icu^
@@ -13620,6 +13627,7 @@ inapps.appsflyersdk.com^
 ||metaversemolecule.com^
 ||mifyeldx.top^
 ||misapopait.com^
+||mkjnha.com^
 ||mmead.xyz^
 ||mnhknds.com^
 ||moobtcnse.xyz^
@@ -13627,6 +13635,7 @@ inapps.appsflyersdk.com^
 ||mt4v4.com^
 ||mvamnng.cn^
 ||mvgucp.com^
+||naqiwjj.icu^
 ||ncgqmzm.cn^
 ||nektonsrutate.com^
 ||ngbthf.xyz^
@@ -13743,10 +13752,12 @@ inapps.appsflyersdk.com^
 ||vrr.name^
 ||vvdzucs.cn^
 ||vvwuqxp.icu^
+||vwfppr.xyz^
 ||vxhtxt.xyz^
 ||wddsva0.com^
 ||wnzle.com^
 ||wsdfame.com^
+||wslbahe.top^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -13789,15 +13800,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||kwcmrfb.cn^
-||gghmef7.com^
-||hacde3.icu^
-||vwfppr.xyz^
-||mkjnha.com^
-||naqiwjj.icu^
-||lqjinx.xyz^
-||cfdns.vip^
-||wslbahe.top^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
