@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-08T06:21:00.278Z
+! Last modified: 2023-08-08T12:33:15.101Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -301,13 +301,10 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
-||1077519983.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
-||1366237097.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
-||1955436904.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -9697,6 +9694,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||policycounsel.org^
 ||pingpepa.xyz^
 ||d8c5y8fq3znwi.cloudfront.net^
 ||kingdepo.com^
@@ -13809,6 +13807,9 @@ inapps.appsflyersdk.com^
 ||mkjnbg.com^
 ||laljjn.xyz^
 ||yjnhkd.com^
+||qslbahy.top^
+||hnxxt.net^
+||rpyor0k.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||01fen.com^
