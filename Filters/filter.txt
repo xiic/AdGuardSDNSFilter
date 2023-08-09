@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-09T06:21:49.038Z
+! Last modified: 2023-08-09T18:22:18.591Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2795,7 +2795,6 @@ inapps.appsflyersdk.com^
 ||adlog.com.com^
 ||ads-trk.vidible.tv^
 ||affiliates.minglematch.com^
-||agent.contentsanalyst.com^
 ||akatracking.esearchvision.com^
 ||alexandria.marfeelcdn.com^
 ||amplify.outbrain.com^
@@ -2892,7 +2891,6 @@ inapps.appsflyersdk.com^
 ||analytics.sitewit.com^
 ||analytics.snidigital.com^
 ||analytics.springboardvideo.com^
-||analytics.staticiv.com^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
 ||analytics.superstructure.ai^
@@ -3012,7 +3010,6 @@ inapps.appsflyersdk.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.dealer.com^
 ||clicks.tyuwq.com^
-||clicktale.pantherssl.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client-analytics.braintreegateway.com^
@@ -3766,7 +3763,6 @@ inapps.appsflyersdk.com^
 ||tracking.plattformad.com^
 ||tracking.plinga.de^
 ||tracking.practicefusion.com^
-||tracking.quillion.com^
 ||tracking.rapidape.com^
 ||tracking.scenepass.com^
 ||tracking.searchmarketing.com^
@@ -4196,7 +4192,6 @@ inapps.appsflyersdk.com^
 ||optimierung-der-website.de^
 ||ourstats.de^
 ||page-hit.de^
-||pagerank-backlink.eu^
 ||pagerank-linkverzeichnis.de^
 ||pagerank-online.eu^
 ||pagerank-suchmaschine.de^
@@ -4254,7 +4249,6 @@ inapps.appsflyersdk.com^
 ||technical-service.net^
 ||tedo-stats.de^
 ||tisoomi-services.com^
-||tophits4u.de^
 ||toplist100.org^
 ||topstat.com^
 ||tracdelight.com^
@@ -4831,7 +4825,6 @@ inapps.appsflyersdk.com^
 ||lugansk-info.ru^
 ||mediaplan.ru^
 ||mediatoday.ru^
-||metaversn.site^
 ||metrika-informer.com^
 ||mobtop.com^
 ||mobtop.ru^
@@ -5148,7 +5141,6 @@ inapps.appsflyersdk.com^
 ! Czech
 ||a.centrum.cz^
 ||bisko.mall.tv^
-||bnr.alza.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
 ||hit.skrz.cz^
@@ -5178,7 +5170,6 @@ inapps.appsflyersdk.com^
 ||statistics.rbi-nl.com^
 ||trkr.shoppingminds.net^
 ||dnt-userreport.com^
-||insight.fonecta.fi^
 ||tags.op-palvelut.fi^
 ! Georgian
 ||links.boom.ge^
@@ -5413,7 +5404,6 @@ inapps.appsflyersdk.com^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
 ||g-stats.openhost.es^
-||hits.eluniversal.com.mx^
 ||mat.socy.es^
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
@@ -5656,6 +5646,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||voidnetwork.cloud^
 ||tds.bid^
 ||streetuptowind.com^
 ||sarafan.fun^
@@ -13398,11 +13389,14 @@ inapps.appsflyersdk.com^
 ||89mtdab.xyz^
 ||a8age.com^
 ||a9able.com^
+||aaenv48847h.com^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||akdie.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
+||aqvwn18102h.com^
+||b4g7k9d2.com^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
 ||baitaiz.com^
@@ -13467,12 +13461,14 @@ inapps.appsflyersdk.com^
 ||dojyiu8.com^
 ||donchen501.cn^
 ||dosre12.xyz^
+||dqjojx.xyz^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||dwfjtz.xyz^
 ||dyeperd.icu^
 ||dzkwj0y.xyz^
 ||eamqbaqzaewwq.top^
+||ebscb0l.xyz^
 ||eers0cy.com^
 ||eghyahl.cn^
 ||eheb8.cn^
@@ -13517,6 +13513,7 @@ inapps.appsflyersdk.com^
 ||gyq3bew.icu^
 ||gyutmrp.com^
 ||hacde3.icu^
+||haffo70.com^
 ||hanwdsii.com^
 ||hasgde.site^
 ||hbqabbg.cn^
@@ -13550,6 +13547,7 @@ inapps.appsflyersdk.com^
 ||hujunhao.name^
 ||huoju.asia^
 ||hxhohd.xyz^
+||hxinitv.icu^
 ||hyeqp.xyz^
 ||hypwbv.xyz^
 ||hzhabei.cn^
@@ -13629,6 +13627,7 @@ inapps.appsflyersdk.com^
 ||metaversemolecule.com^
 ||mifyeldx.top^
 ||misapopait.com^
+||mkjnba.com^
 ||mkjnbg.com^
 ||mkjnha.com^
 ||mmead.xyz^
@@ -13729,12 +13728,14 @@ inapps.appsflyersdk.com^
 ||thesac2.top^
 ||thesac7.top^
 ||tifyeldi.top^
+||tknkfd.xyz^
 ||tlprlf.xyz^
 ||tmwbszn.icu^
 ||toastspinner.com^
 ||tptp002.cfd^
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
+||tseda1.icu^
 ||tseda6.icu^
 ||ttykabh.icu^
 ||tushwjp.icu^
@@ -13754,6 +13755,7 @@ inapps.appsflyersdk.com^
 ||vcydyzd.icu^
 ||vghnnh.xyz^
 ||vhjxrj.xyz^
+||vlgkotr.cn^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
 ||vpsgu.cn^
@@ -13783,6 +13785,7 @@ inapps.appsflyersdk.com^
 ||xlvqhx.xyz^
 ||xmawwbz.icu^
 ||xmxupz.xyz^
+||xn--jvrp4x1zyfta.net^
 ||xn--zw0autp42d.cn^
 ||xpcwrgy.cn^
 ||xpicj1.cc^
@@ -13791,6 +13794,7 @@ inapps.appsflyersdk.com^
 ||xukang09.cn^
 ||xukou.net^
 ||yegziyf.cn^
+||ygzqlnt.cn^
 ||yhhnjg.com^
 ||yjnhkd.com^
 ||yjnhndt.com^
@@ -13812,14 +13816,6 @@ inapps.appsflyersdk.com^
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
-||haffo70.com^
-||vlgkotr.cn^
-||tseda1.icu^
-||hxinitv.icu^
-||mkjnba.com^
-||dqjojx.xyz^
-||tknkfd.xyz^
-||ygzqlnt.cn^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||01fen.com^
