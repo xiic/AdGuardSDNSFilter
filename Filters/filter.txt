@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-10T01:25:08.653Z
+! Last modified: 2023-08-10T06:21:51.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9686,6 +9686,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ads724.com^
 ||policycounsel.org^
 ||pingpepa.xyz^
 ||d8c5y8fq3znwi.cloudfront.net^
@@ -12536,9 +12537,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Aug 2023 22:40 UTC+7
-! Version: 2308072240
-! Blocked: 835 rules
+! Last modified: 10 Aug 2023 10:44 UTC+7
+! Version: 2308101044
+! Blocked: 836 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13196,6 +13197,7 @@ inapps.appsflyersdk.com^
 ||mobileads.dieuviet.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
+||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ||nct1.logging.nextsmarty.com^
 ||newlog.daidoanket.vn^
 ||newlog.tapchitaichinh.vn^
@@ -13822,6 +13824,8 @@ inapps.appsflyersdk.com^
 ||dalmfn.xyz^
 ||lokngd.com^
 ||pjsbuhl.icu^
+||bupidt.xyz^
+||bhjuy10.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||01fen.com^
