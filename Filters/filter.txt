@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-10T06:21:51.098Z
+! Last modified: 2023-08-10T12:35:39.017Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12537,9 +12537,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Aug 2023 10:44 UTC+7
-! Version: 2308101044
-! Blocked: 836 rules
+! Last modified: 10 Aug 2023 16:17 UTC+7
+! Version: 2308101617
+! Blocked: 837 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13069,6 +13069,7 @@ inapps.appsflyersdk.com^
 ||crmbizfly.todo.vn^
 ||crmx.eqvn.net^
 ||crocopop.com^
+||cskh-hcm.fpt.edu.vn^
 ||cskh.onlinecrm.vn^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
@@ -13826,7 +13827,12 @@ inapps.appsflyersdk.com^
 ||pjsbuhl.icu^
 ||bupidt.xyz^
 ||bhjuy10.com^
+||arpg2.com^
+||tslbahi.top^
+||anwqj0i.xyz^
 ||zxrcfw.com^
+||belindanbd.com^
+||dasv10rewq.xyz^
 ||zypzzv.xyz^
 ||01fen.com^
 ||01v62.xyz^
