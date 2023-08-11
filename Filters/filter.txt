@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-11T06:20:43.370Z
+! Last modified: 2023-08-11T12:30:31.355Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11237,8 +11237,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-08-02 10:00:55 CEST
-# entries:        1166
+# last updated:   2023-08-11 08:55:37 CEST
+# entries:        1174
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -12071,13 +12071,18 @@ inapps.appsflyersdk.com^
 ||www.adplugg.com^
 ||www.adsmatcher.com^
 ||www.adsnet.se^
+||www.alphalete.com.se^
+||www.altrasverige.com.se^
 ||www.awin1.com^
 ||www.awltovhc.com^
 ||www.blogtoplist.se^
+||www.championsverige.com.se^
 ||www.clarity.ms^
 ||www.dwin2.com^
 ||www.effectivecreativeformat.com^
 ||www.fakturino.se^
+||www.guesssverige.com.se^
+||www.gymsharkswedens.com^
 ||www.kundvisaren.se^
 ||www.linnlilja.se^
 ||www.mymediaindex.com^
@@ -12086,8 +12091,11 @@ inapps.appsflyersdk.com^
 ||www.statcounter.com^
 ||www.tamgrt.com^
 ||www.topdisplaynetwork.com^
+||www.vejaskor.com.se^
+||www.vejasskor.com^
 ||www.air-max.se^
 ||www.datadoghq-browser-agent.com^
+||www.gymshark-sweden.com.se^
 ||z.moatads.com^
 
 !
@@ -13405,6 +13413,7 @@ inapps.appsflyersdk.com^
 ||aqvwn18102h.com^
 ||arpg2.com^
 ||b4g7k9d2.com^
+||bai128.xyz^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
 ||baitaiz.com^
@@ -13414,6 +13423,7 @@ inapps.appsflyersdk.com^
 ||bcejk.xyz^
 ||bdates.fun^
 ||belindanbd.com^
+||berjzj.xyz^
 ||berylnbb.com^
 ||betcss.site^
 ||bftqdd.xyz^
@@ -13422,6 +13432,7 @@ inapps.appsflyersdk.com^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||bkjlf58.com^
+||bnds3.site^
 ||bnds4.site^
 ||bnds8.site^
 ||bnfyzszm.icu^
@@ -13463,6 +13474,7 @@ inapps.appsflyersdk.com^
 ||dd778899dd.com^
 ||ddush.xyz^
 ||dehaer.site^
+||derew6xbsc.xyz^
 ||destc8.icu^
 ||dffrahax.com^
 ||dfgpifa.com^
@@ -13629,8 +13641,10 @@ inapps.appsflyersdk.com^
 ||liitwrz.icu^
 ||likdie.com^
 ||lkmhn.com^
+||lknnbd.xyz^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
+||lokindt.com^
 ||lokngd.com^
 ||lqjinx.xyz^
 ||lrlsrz.xyz^
@@ -13685,6 +13699,7 @@ inapps.appsflyersdk.com^
 ||pbtsjh.xyz^
 ||pcqsajr.icu^
 ||pcvzpj.xyz^
+||pfhj89w.com^
 ||pfqwbqs.cn^
 ||pirxzl.xyz^
 ||pjsbuhl.icu^
@@ -13795,6 +13810,7 @@ inapps.appsflyersdk.com^
 ||xcvwrj.xyz^
 ||xeghes.fun^
 ||xeynozl.icu^
+||xhiit0n.xyz^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
 ||xixrdn.xyz^
@@ -13805,6 +13821,7 @@ inapps.appsflyersdk.com^
 ||xmxupz.xyz^
 ||xn--jvrp4x1zyfta.net^
 ||xn--zw0autp42d.cn^
+||xopxptn.cn^
 ||xpcwrgy.cn^
 ||xpicj1.cc^
 ||xqblnei.cn^
@@ -13830,21 +13847,15 @@ inapps.appsflyersdk.com^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zfvltd.xyz^
+||zggrxf.life^
 ||zghsfh.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
-||xopxptn.cn^
-||pfhj89w.com^
-||bai128.xyz^
-||zvasuzb.icu^
-||bnds3.site^
-||lokindt.com^
-||lknnbd.xyz^
-||zggrxf.life^
-||berjzj.xyz^
-||derew6xbsc.xyz^
 ||znyjmbh.icu^
+||36mghtd.xyz^
+||egipsbvlgn.xyz^
 ||zonyff.xyz^
+||zvasuzb.icu^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||01fen.com^
