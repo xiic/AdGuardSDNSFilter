@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-13T12:28:16.760Z
+! Last modified: 2023-08-13T18:18:22.822Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13489,6 +13489,7 @@ inapps.appsflyersdk.com^
 ||destc8.icu^
 ||dffrahax.com^
 ||dfgpifa.com^
+||dfgwer.com^
 ||dfgymtx.icu^
 ||dgayibf.icu^
 ||dghhot.com^
@@ -13624,6 +13625,7 @@ inapps.appsflyersdk.com^
 ||jujcjz.xyz^
 ||jutwzssh.icu^
 ||jvjlkih.com^
+||jyvith.xyz^
 ||jzdgn.cn^
 ||jzdwl4.cn^
 ||jzixypd.icu^
@@ -13637,6 +13639,7 @@ inapps.appsflyersdk.com^
 ||klufjdo.com^
 ||knjmhmk.com^
 ||kodfn.xyz^
+||koljnda.com^
 ||kqubxdb.cn^
 ||kslbahd.top^
 ||kv8899.com^
@@ -13650,6 +13653,7 @@ inapps.appsflyersdk.com^
 ||lanver.fun^
 ||lbnqnp.xyz^
 ||legdeh.fun^
+||legopq.site^
 ||lgohse.fun^
 ||lgoseh.fun^
 ||lhiefl.com^
@@ -13658,6 +13662,7 @@ inapps.appsflyersdk.com^
 ||liitwrz.icu^
 ||likdie.com^
 ||lingsiqiwu.com^
+||liugaohao.com^
 ||lkmhn.com^
 ||lknhrnd.com^
 ||lknnbd.xyz^
@@ -13728,9 +13733,11 @@ inapps.appsflyersdk.com^
 ||poqiod.com^
 ||powedw.com^
 ||pstvvb.xyz^
+||ptmabek.cn^
 ||puy2.cn^
 ||pzjizsyf.icu^
 ||qezpjlp.cn^
+||qhjm600.com^
 ||qifyeldy.top^
 ||qpztub.xyz^
 ||qqnde.xyz^
@@ -13751,6 +13758,7 @@ inapps.appsflyersdk.com^
 ||rlqoyht.icu^
 ||ronbbf.xyz^
 ||rpyor0k.xyz^
+||rssxsjh.icu^
 ||rtborp.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
@@ -13772,6 +13780,7 @@ inapps.appsflyersdk.com^
 ||svarub.xyz^
 ||svvev3.com^
 ||tarqk5.com^
+||termvb.xyz^
 ||tfdmzsgy.icu^
 ||tftran.shop^
 ||tfttbd.xyz^
@@ -13852,6 +13861,7 @@ inapps.appsflyersdk.com^
 ||xtbzff.xyz^
 ||xukang09.cn^
 ||xukou.net^
+||yac5t.cn^
 ||yegziyf.cn^
 ||ygzqlnt.cn^
 ||yhhnjg.com^
@@ -13876,15 +13886,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||qhjm600.com^
-||ptmabek.cn^
-||rssxsjh.icu^
-||koljnda.com^
-||termvb.xyz^
-||legopq.site^
-||jyvith.xyz^
-||yac5t.cn^
-||liugaohao.com^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
