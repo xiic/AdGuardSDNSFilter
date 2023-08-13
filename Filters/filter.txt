@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-13T06:19:27.327Z
+! Last modified: 2023-08-13T12:28:16.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11243,8 +11243,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-08-11 08:55:37 CEST
-# entries:        1174
+# last updated:   2023-08-13 08:20:48 CEST
+# entries:        1176
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11466,6 +11466,7 @@ inapps.appsflyersdk.com^
 ||cdn.shareaholic.net^
 ||cdn.snigelweb.com^
 ||cdn.speedcurve.com^
+||cdn.sprida.se^
 ||cdn.taboola.com^
 ||cdn.userreport.com^
 ||cdn.webpushr.com^
@@ -11603,6 +11604,7 @@ inapps.appsflyersdk.com^
 ||h.online-metrix.net^
 ||ib.adnxs.com^
 ||iba.feedblitz.com^
+||ib.adnxs-simple.com^
 ||icarabatt.com^
 ||iconosquare.com^
 ||images.passendo.com^
@@ -12553,8 +12555,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Aug 2023 16:17 UTC+7
-! Version: 2308101617
+! Last modified: 13 Aug 2023 13:58 UTC+7
+! Version: 2308131358
 ! Blocked: 837 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13882,6 +13884,7 @@ inapps.appsflyersdk.com^
 ||legopq.site^
 ||jyvith.xyz^
 ||yac5t.cn^
+||liugaohao.com^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
