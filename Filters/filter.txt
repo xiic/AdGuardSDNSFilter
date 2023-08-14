@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-14T12:31:51.452Z
+! Last modified: 2023-08-14T18:20:19.079Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5648,7 +5648,9 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
-||vb17123filippaaniketos.pw^
+||fsm-files.ru^
+||sofq.site^
+||iceprogs.ru^
 ||voidnetwork.cloud^
 ||tds.bid^
 ||streetuptowind.com^
@@ -13402,6 +13404,7 @@ inapps.appsflyersdk.com^
 ||1u5gy.xyz^
 ||23dhj4q.com^
 ||3400.org^
+||35vc.com^
 ||36mghtd.xyz^
 ||39mydp.xyz^
 ||4asfgyx.com^
@@ -13433,6 +13436,7 @@ inapps.appsflyersdk.com^
 ||bbges.xyz^
 ||bcejk.xyz^
 ||bdates.fun^
+||beclsbx.icu^
 ||belindanbd.com^
 ||berjzj.xyz^
 ||berylnbb.com^
@@ -13445,9 +13449,12 @@ inapps.appsflyersdk.com^
 ||bkjlf58.com^
 ||bnds3.site^
 ||bnds4.site^
+||bnds6.site^
 ||bnds8.site^
 ||bnfyzszm.icu^
 ||boewgph.icu^
+||botnrr.xyz^
+||boyidianqi.com.cn^
 ||boyvtr8.com^
 ||bridgetnbe.com^
 ||btescs.fun^
@@ -13496,6 +13503,7 @@ inapps.appsflyersdk.com^
 ||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||dnightwish.xyz^
 ||dojyiu8.com^
 ||donchen501.cn^
 ||dosre12.xyz^
@@ -13642,6 +13650,7 @@ inapps.appsflyersdk.com^
 ||koljnda.com^
 ||kqubxdb.cn^
 ||kslbahd.top^
+||kuxkddg.cn^
 ||kv8899.com^
 ||kwcmrfb.cn^
 ||kyplpw.com^
@@ -13716,6 +13725,7 @@ inapps.appsflyersdk.com^
 ||one6u.xyz^
 ||oopej.xyz^
 ||ooqwc.xyz^
+||oslbahk.top^
 ||ossfile001.com^
 ||owlinggnomist.com^
 ||p11q.cn^
@@ -13739,6 +13749,7 @@ inapps.appsflyersdk.com^
 ||qezpjlp.cn^
 ||qhjm600.com^
 ||qifyeldy.top^
+||qjekt0c.xyz^
 ||qpztub.xyz^
 ||qqnde.xyz^
 ||qrirud.xyz^
@@ -13754,6 +13765,7 @@ inapps.appsflyersdk.com^
 ||rhesed.site^
 ||rifyeldz.top^
 ||rilwzsit.icu^
+||rixgpx.xyz^
 ||rjzqtz.xyz^
 ||rlqoyht.icu^
 ||ronbbf.xyz^
@@ -13808,6 +13820,7 @@ inapps.appsflyersdk.com^
 ||ty8bz.com^
 ||u1022.com^
 ||uejdsw.com^
+||ujgf120.com^
 ||ujnkn.com^
 ||ulojlvmejkaem.xyz^
 ||unjld.com^
@@ -13820,6 +13833,7 @@ inapps.appsflyersdk.com^
 ||vcydyzd.icu^
 ||vghnnh.xyz^
 ||vhjxrj.xyz^
+||vihppjk.cn^
 ||vlgkotr.cn^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
@@ -13886,17 +13900,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||bnds6.site^
-||ujgf120.com^
-||botnrr.xyz^
-||35vc.com^
-||beclsbx.icu^
-||rixgpx.xyz^
-||dnightwish.xyz^
-||vihppjk.cn^
-||qjekt0c.xyz^
-||boyidianqi.com.cn^
-||kuxkddg.cn^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
