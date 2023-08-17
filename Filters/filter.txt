@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-17T06:20:34.679Z
+! Last modified: 2023-08-17T12:30:59.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2799,6 +2799,7 @@ inapps.appsflyersdk.com^
 ||adfox.yandex.ru^
 ||adlog.com.com^
 ||ads-trk.vidible.tv^
+||adsolutions.com^
 ||affiliates.minglematch.com^
 ||akatracking.esearchvision.com^
 ||alexandria.marfeelcdn.com^
@@ -3876,6 +3877,7 @@ inapps.appsflyersdk.com^
 ||d1rgnfh960lz2b.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1t9uctetvi0tu.cloudfront.net^
+||d1vg5xiq7qffdj.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
 ||d1yu67rmchodpo.cloudfront.net^
@@ -4909,6 +4911,7 @@ inapps.appsflyersdk.com^
 ||mabaya.com^
 ||micodigo.com^
 ||protecmedia.com^
+||socy.es^
 ! Swedish
 ||adsettings.com^
 ||adten.eu^
@@ -5411,7 +5414,6 @@ inapps.appsflyersdk.com^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
 ||g-stats.openhost.es^
-||mat.socy.es^
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
 ||sp.vtex.com^
@@ -9696,6 +9698,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||adsby.io^
 ||ads724.com^
 ||policycounsel.org^
 ||pingpepa.xyz^
@@ -13944,6 +13947,7 @@ inapps.appsflyersdk.com^
 ||fmre1.com^
 ||fiktvlnc.icu^
 ||qucncfo.cn^
+||dcsxv.com^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
