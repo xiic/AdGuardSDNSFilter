@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-19T12:28:15.251Z
+! Last modified: 2023-08-19T18:18:21.187Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -451,6 +451,7 @@ vkcdnservice.appspot.com^
 ||widgets.tree.com^
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldmanager.edgesuite.net^
+||zv.7vid.net^
 ||primeroll.go2affise.com^
 ||ad.intl.xiaomi.com^
 ||ad.xiaomi.com^
@@ -10109,6 +10110,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||antennash.com^
 ||unddeliv.com^
 ||ad.886644.com^
 ||ad.mdmd.info^
@@ -13435,6 +13437,7 @@ inapps.appsflyersdk.com^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||afgp10l.com^
+||ajtdumo.cn^
 ||akdie.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
@@ -13477,7 +13480,9 @@ inapps.appsflyersdk.com^
 ||botnrr.xyz^
 ||boyidianqi.com.cn^
 ||boyvtr8.com^
+||brendanbc.com^
 ||bridgetnbe.com^
+||bslbahv.top^
 ||btescs.fun^
 ||btsvad8.com^
 ||bttazsyk.icu^
@@ -13506,6 +13511,7 @@ inapps.appsflyersdk.com^
 ||cyq3noz.icu^
 ||dadbj.cn^
 ||dadde.cn^
+||dadms.cn^
 ||daeis.cn^
 ||dafdf.cn^
 ||dalld.xyz^
@@ -13589,6 +13595,7 @@ inapps.appsflyersdk.com^
 ||godni.xyz^
 ||greatnumeric.com^
 ||guke.name^
+||gvbhae0.com^
 ||gyq3bew.icu^
 ||gyutmrp.com^
 ||hacde3.icu^
@@ -13702,6 +13709,7 @@ inapps.appsflyersdk.com^
 ||lamkghx.icu^
 ||lanver.fun^
 ||lbnqnp.xyz^
+||leadc4.icu^
 ||legdeh.fun^
 ||legopq.site^
 ||lfjtiuy.cn^
@@ -13713,6 +13721,7 @@ inapps.appsflyersdk.com^
 ||liitwrz.icu^
 ||likdie.com^
 ||lingsiqiwu.com^
+||lishuaibin.cn^
 ||liugaohao.com^
 ||lkmhn.com^
 ||lknhrnd.com^
@@ -13738,6 +13747,7 @@ inapps.appsflyersdk.com^
 ||mkjnbg.com^
 ||mkjnha.com^
 ||mmead.xyz^
+||mmtnat.com^
 ||mnhknds.com^
 ||mnpbxjq.cn^
 ||moobtcnse.xyz^
@@ -13865,6 +13875,7 @@ inapps.appsflyersdk.com^
 ||tptp002.cfd^
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
+||tqytqdrq.icu^
 ||tseda1.icu^
 ||tseda6.icu^
 ||tslbahi.top^
@@ -13894,6 +13905,7 @@ inapps.appsflyersdk.com^
 ||vhutitpu.icu^
 ||vihppjk.cn^
 ||vlgkotr.cn^
+||vlujojf.icu^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
 ||vpsgu.cn^
@@ -13964,19 +13976,9 @@ inapps.appsflyersdk.com^
 ||zglmvz.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
+||zmdjbl.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
-||lishuaibin.cn^
-||gvbhae0.com^
-||vlujojf.icu^
-||zmdjbl.xyz^
-||leadc4.icu^
-||brendanbc.com^
-||mmtnat.com^
-||ajtdumo.cn^
-||bslbahv.top^
-||dadms.cn^
-||tqytqdrq.icu^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
