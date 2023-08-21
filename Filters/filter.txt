@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-21T12:32:10.210Z
+! Last modified: 2023-08-21T18:19:08.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10172,7 +10172,6 @@ inapps.appsflyersdk.com^
 ||js.kabutocho-dsp.net^
 ||enmusubimail000.com^
 ||infohimatalk77.net^
-||banner1.site^
 ||askfollow.us^
 ||freeadd.me^
 ||twitob.com^
@@ -10198,7 +10197,6 @@ inapps.appsflyersdk.com^
 ||ad-spire.net^
 ||best-lucky-cat.xyz^
 ||geotg.jp^
-||adnwif.smt.docomo.ne.jp^
 ||link-ag.net^
 ||js.mulan.cloud^
 ||abh.jp^
@@ -10230,7 +10228,6 @@ inapps.appsflyersdk.com^
 ||js.passaro-de-fogo.biz^
 ||trading-ad.net^
 ||ads.ressp.net^
-||resad.mediaid.click^
 ||a.overlay.top^
 ||zastag.com^
 ||adcent.jp^
@@ -10258,8 +10255,6 @@ inapps.appsflyersdk.com^
 ||advack.net^
 ||ad-generation.jp^
 ||adflare.jp^
-||ad.kodansha.pub^
-||admeme.net^
 ||taggyad.jp^
 ||deliver.ads2.iid.jp^
 ||sokmil-ad.com^
@@ -10353,10 +10348,6 @@ inapps.appsflyersdk.com^
 ||addeluxe.jp^
 ||adfurikun.jp^
 ||adingo.jp^
-||adjust-net.jp^
-||adplan-ds.com^
-||adplatform.jp^
-||adresult-sp.jp^
 ||advg.jp^
 ||apserver.net^
 ||clickmedias.info^
@@ -10364,7 +10355,6 @@ inapps.appsflyersdk.com^
 ||fout.jp^
 ||genieesspv.jp^
 ||j-a-net.jp^
-||livead.jp^
 ||liveads.jp^
 ||maio.jp^
 ||maist.jp^
@@ -13455,6 +13445,7 @@ inapps.appsflyersdk.com^
 ||apdfmhp.cn^
 ||aqvwn18102h.com^
 ||arpg2.com^
+||asdyui16.cn^
 ||b4g7k9d2.com^
 ||bai128.xyz^
 ||baidudvbjkbssjvsvv.com^
@@ -13504,8 +13495,10 @@ inapps.appsflyersdk.com^
 ||caider.fun^
 ||canser1.top^
 ||canser5.top^
+||canser7.top^
 ||ccnim.xyz^
 ||cdmjur.xyz^
+||cdncloud.asia^
 ||cfdns.vip^
 ||chiese.site^
 ||chozarpeases.com^
@@ -13519,6 +13512,7 @@ inapps.appsflyersdk.com^
 ||cuioxbqi.com^
 ||cxsh.cn.com^
 ||cyq3noz.icu^
+||d0lzq.com^
 ||dadbj.cn^
 ||dadde.cn^
 ||dadms.cn^
@@ -13645,6 +13639,7 @@ inapps.appsflyersdk.com^
 ||hsadeg.site^
 ||hslbahu.top^
 ||hstbrt.xyz^
+||hthivr.xyz^
 ||huaxia.name^
 ||hubiazhi.com^
 ||hujunhao.name^
@@ -13657,6 +13652,7 @@ inapps.appsflyersdk.com^
 ||ihwdun.xyz^
 ||ijgbuj.xyz^
 ||ilade.xyz^
+||iojnask.com^
 ||ipadf.xyz^
 ||iplm.cc^
 ||iqede.xyz^
@@ -13748,6 +13744,7 @@ inapps.appsflyersdk.com^
 ||lshuaibin.cn^
 ||lskmipb.icu^
 ||lslbahl.top^
+||ltsubzgmw.xyz^
 ||lvrvdn.xyz^
 ||lwide.xyz^
 ||lycjsix.cn^
@@ -13776,6 +13773,7 @@ inapps.appsflyersdk.com^
 ||nhjkm.com^
 ||nieae.xyz^
 ||nifyeldc.top^
+||nimoatl.icu^
 ||njogejt.icu^
 ||nmdotj.xyz^
 ||nmkghh.com^
@@ -13886,6 +13884,7 @@ inapps.appsflyersdk.com^
 ||thesac7.top^
 ||tifyeldi.top^
 ||tknkfd.xyz^
+||tlbjw.com^
 ||tlprlf.xyz^
 ||tmwbszn.icu^
 ||toastspinner.com^
@@ -13909,6 +13908,7 @@ inapps.appsflyersdk.com^
 ||ujnkn.com^
 ||ulojlvmejkaem.xyz^
 ||unjld.com^
+||uraseszincy.com^
 ||uslbaht.top^
 ||uwgnpkd.cn^
 ||uxmwh0f.xyz^
@@ -13934,6 +13934,7 @@ inapps.appsflyersdk.com^
 ||vwfppr.xyz^
 ||vxhtxt.xyz^
 ||wddsva0.com^
+||wlgxaij.cn^
 ||wnzle.com^
 ||wrpsouf.cn^
 ||wsdfame.com^
@@ -13966,7 +13967,9 @@ inapps.appsflyersdk.com^
 ||xtbzff.xyz^
 ||xukang09.cn^
 ||xukou.net^
+||xwqtatnw.icu^
 ||yac5t.cn^
+||ydgh0zc.com^
 ||yegziyf.cn^
 ||ygzqlnt.cn^
 ||yhhnjg.com^
@@ -13990,6 +13993,7 @@ inapps.appsflyersdk.com^
 ||zfvltd.xyz^
 ||zggrxf.life^
 ||zghsfh.xyz^
+||zgkvfu.xyz^
 ||zglmvz.buzz^
 ||zglmvz.xyz^
 ||zifyeldq.top^
@@ -14001,19 +14005,6 @@ inapps.appsflyersdk.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||asdyui16.cn^
-||ydgh0zc.com^
-||nimoatl.icu^
-||canser7.top^
-||tlbjw.com^
-||hthivr.xyz^
-||ltsubzgmw.xyz^
-||zgkvfu.xyz^
-||uraseszincy.com^
-||iojnask.com^
-||d0lzq.com^
-||cdncloud.asia^
-||xwqtatnw.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
