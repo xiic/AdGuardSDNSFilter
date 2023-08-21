@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-21T06:21:14.965Z
+! Last modified: 2023-08-21T12:32:10.210Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3874,6 +3874,7 @@ inapps.appsflyersdk.com^
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
+||d1qnmu4nrib73p.cloudfront.net^
 ||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
@@ -5277,6 +5278,8 @@ inapps.appsflyersdk.com^
 ||tracker-rec.smart-bdash.com^
 ||tracker.520call.me^
 ||tracker.durasite.net^
+||tracker.shanon-services.com^
+||tracker.smartseminar.jp^
 ||trk.fensi.plus^
 ||uh.nakanohito.jp^
 ||userdive.com^
@@ -5444,6 +5447,7 @@ inapps.appsflyersdk.com^
 ||tracking.venturify.at^
 ! Ukranian
 ||informers.sinoptik.ua^
+||tracker.prom.ua^
 ! Vietnamese
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
@@ -14005,6 +14009,11 @@ inapps.appsflyersdk.com^
 ||hthivr.xyz^
 ||ltsubzgmw.xyz^
 ||zgkvfu.xyz^
+||uraseszincy.com^
+||iojnask.com^
+||d0lzq.com^
+||cdncloud.asia^
+||xwqtatnw.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
@@ -18987,7 +18996,6 @@ inapps.appsflyersdk.com^
 ||aiwen.cc^
 ||al.newxue.com^
 ||anews7.nvwu.com^
-||api.557400.com^
 ||aqc.gucheng.com^
 ||as1.m.hao123.com^
 ||as1.wenku.baidu.com^
