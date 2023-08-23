@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-23T12:32:09.370Z
+! Last modified: 2023-08-23T18:18:49.843Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13452,6 +13452,7 @@ inapps.appsflyersdk.com^
 ||52acc.cn^
 ||52kuwang.cn^
 ||5ggj5cp.com^
+||5lfgdju.com^
 ||777aa999aa.com^
 ||7xixi.site^
 ||8861198.com^
@@ -13606,6 +13607,7 @@ inapps.appsflyersdk.com^
 ||fddxbn.xyz^
 ||feiln.xyz^
 ||fengyukun03.cn^
+||fgetmzx.icu^
 ||fhglcpf.icu^
 ||fiktvlnc.icu^
 ||fjsytjs.cn^
@@ -13643,6 +13645,7 @@ inapps.appsflyersdk.com^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
+||hegk02a.top^
 ||hegk03a.top^
 ||hegk05a.top^
 ||hfjk3wa.com^
@@ -13833,6 +13836,7 @@ inapps.appsflyersdk.com^
 ||one6u.xyz^
 ||oopej.xyz^
 ||ooqwc.xyz^
+||oqyiapj.cn^
 ||oslbahk.top^
 ||ossfile001.com^
 ||owlinggnomist.com^
@@ -13851,6 +13855,7 @@ inapps.appsflyersdk.com^
 ||pjsbuhl.icu^
 ||plbs9k.icu^
 ||pmxalz.xyz^
+||pnlhnx.xyz^
 ||poqiod.com^
 ||powedw.com^
 ||pstvvb.xyz^
@@ -14042,16 +14047,11 @@ inapps.appsflyersdk.com^
 ||zmdjbl.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
+||zpotkvpy.icu^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||5lfgdju.com^
-||fgetmzx.icu^
-||hegk02a.top^
-||pnlhnx.xyz^
-||oqyiapj.cn^
-||zpotkvpy.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
