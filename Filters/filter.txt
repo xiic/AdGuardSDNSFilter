@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-24T12:32:00.666Z
+! Last modified: 2023-08-24T18:20:37.478Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2129,7 +2129,6 @@ vkcdnservice.appspot.com^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||api.miui.security.xiaomi.com^
 ||shenghuo.xiaomi.com^
-||resolver.msg.xiaomi.net^
 ||o2o.api.xiaomi.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
@@ -2289,7 +2288,10 @@ inapps.appsflyersdk.com^
 ||conff.dc.oppomobile.com^
 ||dragate.dc.oppomobile.com^
 ||esa-reg-eup.myoppo.com^
-||heytapmobile.com^
+||adx-in.ads.heytapmobile.com^
+||dragate-in-dc.heytapmobile.com^
+||httpdns-push.heytapmobile.com^
+||omes-sec.heytapmobile.com^
 ||moa-upload-online.coloros.com^
 ||stat-in.dc.oppomobile.com^
 ||prod-analytics.royal.drmgms.com^
@@ -10144,6 +10146,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||japanofficial.jp^
 ||nectarineple.com^
 ||antennash.com^
 ||unddeliv.com^
@@ -13448,6 +13451,7 @@ inapps.appsflyersdk.com^
 ||35vc.com^
 ||360114.xyz^
 ||36mghtd.xyz^
+||38kmute.xyz^
 ||39mydp.xyz^
 ||4asfgyx.com^
 ||52acc.cn^
@@ -13484,6 +13488,7 @@ inapps.appsflyersdk.com^
 ||bavde3.icu^
 ||bbges.xyz^
 ||bcejk.xyz^
+||bcsijjgck.xyz^
 ||bdates.fun^
 ||beclsbx.icu^
 ||belindanbd.com^
@@ -13602,6 +13607,7 @@ inapps.appsflyersdk.com^
 ||evidhjksdtgyxrh.xyz^
 ||ewfsef.com^
 ||eyq3nog.icu^
+||f1tfmxzg.icu^
 ||falsarywaybung.com^
 ||fantuan.name^
 ||fcbqxt.xyz^
@@ -13638,6 +13644,7 @@ inapps.appsflyersdk.com^
 ||gyq3bew.icu^
 ||gyutmrp.com^
 ||hacde1.icu^
+||hacde10.icu^
 ||hacde3.icu^
 ||haffo70.com^
 ||hanwdsii.com^
@@ -13697,6 +13704,7 @@ inapps.appsflyersdk.com^
 ||iqede.xyz^
 ||iqgoukn.cn^
 ||islbaho.top^
+||itienlo.top^
 ||jakid.xyz^
 ||janwzsqi.icu^
 ||jayhou.top^
@@ -13735,6 +13743,7 @@ inapps.appsflyersdk.com^
 ||kasiklz.cc^
 ||kdvmnn.com^
 ||kgeesh.site^
+||kjvaqbyebqarl.top^
 ||kklpe.xyz^
 ||kljslku.com^
 ||klufjdo.com^
@@ -13749,6 +13758,7 @@ inapps.appsflyersdk.com^
 ||kuxkddg.cn^
 ||kv8899.com^
 ||kwcmrfb.cn^
+||kxcp365.com^
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
@@ -13859,6 +13869,7 @@ inapps.appsflyersdk.com^
 ||pnlhnx.xyz^
 ||poqiod.com^
 ||powedw.com^
+||prokyrn.icu^
 ||pstvvb.xyz^
 ||ptmabek.cn^
 ||puy2.cn^
@@ -13895,15 +13906,18 @@ inapps.appsflyersdk.com^
 ||rtborp.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
+||rvzlobj.cn^
 ||sacfasv.com^
 ||sacre.cn^
 ||sbeaje.com^
+||sd01you.com^
 ||sdchb2.com^
 ||sdfgbuy.com^
 ||sensifyfugged.com^
 ||sfg11rr.com^
 ||shulsbs.cn^
 ||simblotusitate.com^
+||sjbgyak.cn^
 ||sq59.cn^
 ||ssdfgq7.com^
 ||ssdtour.com^
@@ -13946,6 +13960,7 @@ inapps.appsflyersdk.com^
 ||tuwaqtjcood.com^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
+||txcv68f.com^
 ||ty8bz.com^
 ||u1022.com^
 ||uejdsw.com^
@@ -13982,6 +13997,7 @@ inapps.appsflyersdk.com^
 ||wddsva0.com^
 ||wlgxaij.cn^
 ||wnzle.com^
+||wpoarjokzgi.com^
 ||wrpsouf.cn^
 ||wsdfame.com^
 ||wslbahe.top^
@@ -14015,7 +14031,10 @@ inapps.appsflyersdk.com^
 ||xukou.net^
 ||xuwfmhh.icu^
 ||xwqtatnw.icu^
+||xwsqtngwa.xyz^
+||xxniln.xyz^
 ||yac5t.cn^
+||yasg114.com^
 ||ydgh0zc.com^
 ||yegziyf.cn^
 ||ygzqlnt.cn^
@@ -14033,6 +14052,7 @@ inapps.appsflyersdk.com^
 ||zcbfjd.xyz^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
+||zents7.top^
 ||zerolcp.cn^
 ||zexfzson.icu^
 ||zfcdirf.icu^
@@ -14043,6 +14063,7 @@ inapps.appsflyersdk.com^
 ||zgkvfu.xyz^
 ||zglmvz.buzz^
 ||zglmvz.xyz^
+||zgtwzq.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||zmdjbl.xyz^
@@ -14053,19 +14074,6 @@ inapps.appsflyersdk.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||sd01you.com^
-||38kmute.xyz^
-||xxniln.xyz^
-||prokyrn.icu^
-||hacde10.icu^
-||kjvaqbyebqarl.top^
-||wpoarjokzgi.com^
-||bcsijjgck.xyz^
-||yasg114.com^
-||itienlo.top^
-||rvzlobj.cn^
-||txcv68f.com^
-||f1tfmxzg.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
