@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-25T12:31:28.827Z
+! Last modified: 2023-08-25T18:20:26.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5696,6 +5696,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||b.we-are-anon.com^
 ||fsm-files.ru^
 ||sofq.site^
 ||iceprogs.ru^
@@ -13463,6 +13464,7 @@ inapps.appsflyersdk.com^
 ||7xixi.site^
 ||8861198.com^
 ||89mtdab.xyz^
+||9cc9ckp.com^
 ||a8age.com^
 ||a9able.com^
 ||aaenv48847h.com^
@@ -13774,6 +13776,7 @@ inapps.appsflyersdk.com^
 ||lfjtiuy.cn^
 ||lgohse.fun^
 ||lgoseh.fun^
+||lhgwcvw.cn^
 ||lhiefl.com^
 ||lhotajl.icu^
 ||lifyeldl.top^
@@ -13800,6 +13803,7 @@ inapps.appsflyersdk.com^
 ||lwide.xyz^
 ||lycjsix.cn^
 ||lzmvcrp.icu^
+||mdwhxw.com^
 ||metaversemolecule.com^
 ||mh616.org^
 ||mifyeldx.top^
@@ -13819,6 +13823,7 @@ inapps.appsflyersdk.com^
 ||naqiwjj.icu^
 ||ncgqmzm.cn^
 ||ndqcz0e.xyz^
+||neghes.fun^
 ||nektonsrutate.com^
 ||ngbthf.xyz^
 ||nhjkm.com^
@@ -13853,6 +13858,7 @@ inapps.appsflyersdk.com^
 ||ossfile001.com^
 ||owlinggnomist.com^
 ||p11q.cn^
+||p2kfynrr.icu^
 ||p52q.cn^
 ||parnett55.xyz^
 ||pbtsjh.xyz^
@@ -14012,6 +14018,7 @@ inapps.appsflyersdk.com^
 ||xeghes.fun^
 ||xeynozl.icu^
 ||xhiit0n.xyz^
+||xhpghv.xyz^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
 ||xixrdn.xyz^
@@ -14053,6 +14060,7 @@ inapps.appsflyersdk.com^
 ||zcbfjd.xyz^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
+||zdwykjd.icu^
 ||zents7.top^
 ||zerolcp.cn^
 ||zexfzson.icu^
@@ -14065,6 +14073,7 @@ inapps.appsflyersdk.com^
 ||zglmvz.buzz^
 ||zglmvz.xyz^
 ||zgtwzq.xyz^
+||zgwsnw.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||zmdjbl.xyz^
@@ -14075,13 +14084,6 @@ inapps.appsflyersdk.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||zdwykjd.icu^
-||xhpghv.xyz^
-||lhgwcvw.cn^
-||neghes.fun^
-||zgwsnw.xyz^
-||9cc9ckp.com^
-||p2kfynrr.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
