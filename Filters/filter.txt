@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-28T12:33:44.249Z
+! Last modified: 2023-08-28T18:21:01.122Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9488,6 +9488,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||userdata.ati.su^
 ||r.z3.fm^
 ||adv.topvideo.tj^
 ||vast.playmatic.video^
@@ -9748,6 +9749,8 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||peppaping.xyz^
+||trkwinaff13.com^
 ||adsby.io^
 ||ads724.com^
 ||policycounsel.org^
@@ -13467,6 +13470,7 @@ inapps.appsflyersdk.com^
 ||4asfgyx.com^
 ||52acc.cn^
 ||52kuwang.cn^
+||5gg17gm.com^
 ||5ggj5cp.com^
 ||5lfgdju.com^
 ||777aa999aa.com^
@@ -13754,6 +13758,7 @@ inapps.appsflyersdk.com^
 ||jpush0b.xyz^
 ||jpvrbt.xyz^
 ||jqkcett.icu^
+||jrltdiu.cn^
 ||jrmrijv.icu^
 ||jslbaha.top^
 ||jszavs1.com^
@@ -13921,6 +13926,7 @@ inapps.appsflyersdk.com^
 ||qslbahy.top^
 ||qucncfo.cn^
 ||qwdbsjnql.com^
+||r5dfwjtb.icu^
 ||rabuagc.cn^
 ||rbodwtj.icu^
 ||rcblfd.xyz^
@@ -13950,6 +13956,7 @@ inapps.appsflyersdk.com^
 ||sd01you.com^
 ||sdchb2.com^
 ||sdfgbuy.com^
+||sdvfvgj.cn^
 ||sensifyfugged.com^
 ||sfg11rr.com^
 ||shulsbs.cn^
@@ -14119,10 +14126,6 @@ inapps.appsflyersdk.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||jrltdiu.cn^
-||sdvfvgj.cn^
-||r5dfwjtb.icu^
-||5gg17gm.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
