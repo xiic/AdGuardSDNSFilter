@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-28T06:21:44.713Z
+! Last modified: 2023-08-28T12:33:44.249Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2360,7 +2360,6 @@ inapps.appsflyersdk.com^
 ||events-stream-svc.usw2.cordial.com^
 ||message-hub-svc.usw2.cordial.com^
 ||stats.fifthstarlabs.io^
-||collector.doordash.com^
 ||events.iap.unity3d.com^
 ||mobilelog.ws.pho.to^
 ||etl.tindersparks.com^
@@ -12611,9 +12610,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Aug 2023 21:54 UTC+7
-! Version: 2308182154
-! Blocked: 838 rules
+! Last modified: 28 Aug 2023 13:44 UTC+7
+! Version: 2308281344
+! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12636,6 +12635,7 @@ inapps.appsflyersdk.com^
 ||adpia.vn^
 ||adrealclick.com^
 ||ads-admin.hubs.vn^
+||ads-platform.zalo.me^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads.botbanhang.vn^
 ||ads.platform.zalo.me^
@@ -14120,6 +14120,9 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||jrltdiu.cn^
+||sdvfvgj.cn^
+||r5dfwjtb.icu^
+||5gg17gm.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
