@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-29T12:32:58.228Z
+! Last modified: 2023-08-29T18:20:56.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -304,10 +304,13 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
 ||1080872514.rsc.cdn77.org^
+||10945-5.s.cdn15.com^
+||1148768686.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1832068995.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -372,6 +375,7 @@ vkcdnservice.appspot.com^
 ||escape.insites.eu^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
+||g7c9j7j2.hwcdn.net^
 ||geobanner.friendfinder.com^
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
@@ -13502,6 +13506,7 @@ inapps.appsflyersdk.com^
 ||asdyui16.cn^
 ||b4g7k9d2.com^
 ||bai128.xyz^
+||baiduapp.app^
 ||baidudvbjkbssjvsvv.com^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
@@ -13604,6 +13609,7 @@ inapps.appsflyersdk.com^
 ||donchen501.cn^
 ||dosre12.xyz^
 ||dqjojx.xyz^
+||dsbjdeh.cn^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||duyvtanrheje.xyz^
@@ -13739,6 +13745,7 @@ inapps.appsflyersdk.com^
 ||iqgoukn.cn^
 ||islbaho.top^
 ||itienlo.top^
+||j7ifivzy.icu^
 ||jakid.xyz^
 ||janwzsqi.icu^
 ||jayhou.top^
@@ -13770,6 +13777,7 @@ inapps.appsflyersdk.com^
 ||jujcjz.xyz^
 ||jutwzssh.icu^
 ||jvjlkih.com^
+||jygiizv.icu^
 ||jyvith.xyz^
 ||jzdgn.cn^
 ||jzdwl4.cn^
@@ -13791,6 +13799,7 @@ inapps.appsflyersdk.com^
 ||koljnda.com^
 ||kqubxdb.cn^
 ||kslbahd.top^
+||ktienld.top^
 ||kuxkddg.cn^
 ||kv8899.com^
 ||kwcmrfb.cn^
@@ -13882,6 +13891,7 @@ inapps.appsflyersdk.com^
 ||nunxhv.com^
 ||nxhwvt.xyz^
 ||oaclrst.cn^
+||oaihiiacb.com^
 ||oifyeldk.top^
 ||oijmds.com^
 ||oiunga.com^
@@ -13909,6 +13919,7 @@ inapps.appsflyersdk.com^
 ||pjsbuhl.icu^
 ||plbs9k.icu^
 ||pmxalz.xyz^
+||pnhp3x1.com^
 ||pnlhnx.xyz^
 ||poqiod.com^
 ||powedw.com^
@@ -13952,6 +13963,7 @@ inapps.appsflyersdk.com^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||rvzlobj.cn^
+||rznscya.cn^
 ||sacfasv.com^
 ||sacre.cn^
 ||sbcjahdc.com^
@@ -13983,6 +13995,7 @@ inapps.appsflyersdk.com^
 ||tfttbd.xyz^
 ||tgbevv.xyz^
 ||tggsd07.com^
+||thcaes.top^
 ||thesac2.top^
 ||thesac3.top^
 ||thesac4.top^
@@ -14040,9 +14053,11 @@ inapps.appsflyersdk.com^
 ||vujzkkz.cn^
 ||vvdzucs.cn^
 ||vvwuqxp.icu^
+||vvxhth.xyz^
 ||vwfppr.xyz^
 ||vxhtxt.xyz^
 ||vzvvifw.cn^
+||wcv68kw.com^
 ||wddsva0.com^
 ||wlgxaij.cn^
 ||wnzle.com^
@@ -14125,21 +14140,11 @@ inapps.appsflyersdk.com^
 ||znyjmbh.icu^
 ||zonyff.xyz^
 ||zpotkvpy.icu^
+||zpsovpgyk.xyz^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||zpsovpgyk.xyz^
-||rznscya.cn^
-||pnhp3x1.com^
-||thcaes.top^
-||jygiizv.icu^
-||vvxhth.xyz^
-||ktienld.top^
-||oaihiiacb.com^
-||dsbjdeh.cn^
-||baiduapp.app^
-||wcv68kw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
