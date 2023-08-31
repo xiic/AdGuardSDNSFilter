@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-31T12:32:48.289Z
+! Last modified: 2023-08-31T18:20:43.034Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -307,6 +307,7 @@ vkcdnservice.appspot.com^
 ||10945-5.s.cdn15.com^
 ||1148768686.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1318955660.rsc.cdn77.org^
 ||1430254596.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
@@ -2236,6 +2237,10 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||sg.log.ulivetv.net^
+||tracker.ulivetv.net^
+||trackernew.ulivetv.net^
+||tracker.dianshige.com^
 ||gamestats.easybrain.com^
 ||am.yahoo.co.jp^
 ||b99.yahoo.co.jp^
@@ -5254,6 +5259,7 @@ inapps.appsflyersdk.com^
 ||click.kataweb.it^
 ||cnt.iol.it^
 ||dmpcdn.el-mundo.net^
+||dmpmetrics.rcsmetrics.it^
 ||evnt.iol.it^
 ||heymatic.com^
 ||limone.iltrovatore.it^
@@ -13573,6 +13579,7 @@ inapps.appsflyersdk.com^
 ||cdmjur.xyz^
 ||cdncloud.asia^
 ||cfdns.vip^
+||cheda1.icu^
 ||chiese.site^
 ||chozarpeases.com^
 ||ciadre.fun^
@@ -13619,6 +13626,7 @@ inapps.appsflyersdk.com^
 ||dojyiu8.com^
 ||donchen501.cn^
 ||dosre12.xyz^
+||dpbgnf.xyz^
 ||dqjojx.xyz^
 ||dsbjdeh.cn^
 ||dstbekdf.xyz^
@@ -13626,6 +13634,7 @@ inapps.appsflyersdk.com^
 ||duyvtanrheje.xyz^
 ||dvtednm.cn^
 ||dwfjtz.xyz^
+||dwyngjb.icu^
 ||dyeperd.icu^
 ||dygtulfe.icu^
 ||dzkwj0y.xyz^
@@ -13655,6 +13664,7 @@ inapps.appsflyersdk.com^
 ||f1tfmxzg.icu^
 ||fads315.com^
 ||falsarywaybung.com^
+||fangcunzhijian1.cn^
 ||fantuan.name^
 ||fcbqxt.xyz^
 ||fddxbn.xyz^
@@ -13689,6 +13699,7 @@ inapps.appsflyersdk.com^
 ||gvbhae0.com^
 ||gwrpceo.cn^
 ||gyq3bew.icu^
+||gyqifa.com^
 ||gyutmrp.com^
 ||hacde1.icu^
 ||hacde10.icu^
@@ -13958,6 +13969,7 @@ inapps.appsflyersdk.com^
 ||r5dfwjtb.icu^
 ||rabuagc.cn^
 ||rbodwtj.icu^
+||rbrbr88p.cn^
 ||rbsodzgoy.xyz^
 ||rcblfd.xyz^
 ||rdbousn.cn^
@@ -14134,6 +14146,7 @@ inapps.appsflyersdk.com^
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
 ||yuifgh.fun^
+||yunliunet.com^
 ||yyuivw6.com^
 ||yzllux.xyz^
 ||z3yfkdjd.icu^
@@ -14167,12 +14180,6 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||rbrbr88p.cn^
-||cheda1.icu^
-||dwyngjb.icu^
-||dpbgnf.xyz^
-||yunliunet.com^
-||fangcunzhijian1.cn^
 ||zzisnvb.cn^
 ||01fen.com^
 ||01v62.xyz^
@@ -18937,7 +18944,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||abcd.cnhuoche.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -19117,6 +19123,7 @@ inapps.appsflyersdk.com^
 ||abc.rwpt.top^
 ||abc.yebaike.com^
 ||abcd.5lu.com^
+||abcd.cnhuoche.com^
 ||abcd.yiq.com^
 ||abcd.zle.com^
 ||abcdcfasda.gushiwen.cn^
@@ -20237,6 +20244,7 @@ analytics-*.aasaam.com
 # https://github.com/Webamoozcom/warning-list/discussions/174
 ||tinancefa.org^
 ||wibodir.com^
+||eh-ra-z-se-na.org^
 
 !
 ! Source name: Additional rules
