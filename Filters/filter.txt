@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-01T12:32:00.258Z
+! Last modified: 2023-09-01T18:19:12.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -307,6 +307,7 @@ vkcdnservice.appspot.com^
 ||10945-5.s.cdn15.com^
 ||1187531871.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1618166201.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||360playvid.com^
@@ -13542,6 +13543,8 @@ inapps.appsflyersdk.com^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||bkjlf58.com^
+||bleumzr.icu^
+||bmiea.xyz^
 ||bmptbyb.com^
 ||bmyrihf.icu^
 ||bnds3.site^
@@ -13550,6 +13553,7 @@ inapps.appsflyersdk.com^
 ||bnds7.site^
 ||bnds8.site^
 ||bnfyzszm.icu^
+||bnrdnx.xyz^
 ||boewgph.icu^
 ||botnrr.xyz^
 ||boyidianqi.com.cn^
@@ -13684,6 +13688,7 @@ inapps.appsflyersdk.com^
 ||fxeaobv.icu^
 ||gdjme27.com^
 ||ggdrfh5.com^
+||ggdumze.cn^
 ||gghmef7.com^
 ||ghland.site^
 ||gjipd.xyz^
@@ -13770,6 +13775,7 @@ inapps.appsflyersdk.com^
 ||janwzsqi.icu^
 ||jayhou.top^
 ||jdcnwd.com^
+||jgsajfggv.xyz^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
 ||jhzfwl.cn^
@@ -13806,6 +13812,7 @@ inapps.appsflyersdk.com^
 ||kahgjjd.com^
 ||kasiklz.cc^
 ||kdvmnn.com^
+||kekop.cn^
 ||kgeesh.site^
 ||kjvaqbyebqarl.top^
 ||kklpe.xyz^
@@ -13837,6 +13844,7 @@ inapps.appsflyersdk.com^
 ||leadc4.icu^
 ||legdeh.fun^
 ||legopq.site^
+||lestv1.icu^
 ||lfjtiuy.cn^
 ||lgohse.fun^
 ||lgoseh.fun^
@@ -13918,6 +13926,7 @@ inapps.appsflyersdk.com^
 ||oijmds.com^
 ||oiunga.com^
 ||okmhmkjnm.com^
+||okmhnd.com^
 ||one6u.xyz^
 ||oopej.xyz^
 ||ooqwc.xyz^
@@ -14052,6 +14061,7 @@ inapps.appsflyersdk.com^
 ||txcv68f.com^
 ||ty8bz.com^
 ||u1022.com^
+||uchat6.com^
 ||uejdsw.com^
 ||uhwnrfu.cn^
 ||ujgf120.com^
@@ -14109,6 +14119,7 @@ inapps.appsflyersdk.com^
 ||xhpghv.xyz^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
+||xiezhuo038.cn^
 ||xixrdn.xyz^
 ||xjzyhp.xyz^
 ||xkmwxwy.cn^
@@ -14177,16 +14188,6 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||lestv1.icu^
-||bleumzr.icu^
-||kekop.cn^
-||bnrdnx.xyz^
-||uchat6.com^
-||ggdumze.cn^
-||jgsajfggv.xyz^
-||xiezhuo038.cn^
-||okmhnd.com^
-||bmiea.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
 ||01v62.xyz^
