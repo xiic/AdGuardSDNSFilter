@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-01T06:21:45.588Z
+! Last modified: 2023-09-01T12:32:00.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -305,14 +305,10 @@ vkcdnservice.appspot.com^
 !
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
-||1148768686.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
-||1318955660.rsc.cdn77.org^
-||1430254596.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
-||1832068995.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -377,7 +373,6 @@ vkcdnservice.appspot.com^
 ||escape.insites.eu^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
-||g7c9j7j2.hwcdn.net^
 ||geobanner.friendfinder.com^
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
@@ -14191,6 +14186,7 @@ inapps.appsflyersdk.com^
 ||jgsajfggv.xyz^
 ||xiezhuo038.cn^
 ||okmhnd.com^
+||bmiea.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
 ||01v62.xyz^
@@ -18660,6 +18656,7 @@ inapps.appsflyersdk.com^
 ||380.tw^
 ||52av.be^
 ||j8377.com^
+||pemsrv.com^
 ||slipdashedundermine.com^
 ||1024mzs.pw^
 ||1024wanzhai.
