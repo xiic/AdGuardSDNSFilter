@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-03T01:15:20.782Z
+! Last modified: 2023-09-03T06:20:10.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11322,8 +11322,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-08-31 06:06:24 CEST
-# entries:        1177
+# last updated:   2023-09-03 06:31:12 CEST
+# entries:        1180
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11354,6 +11354,7 @@ inapps.appsflyersdk.com^
 ||ad9.emediate.dk^
 ||adcell.io^
 ||adclick.se^
+||addrevenue.io^
 ||addy.expressen.se^
 ||adeprimo.se^
 ||adglare.net^
@@ -11555,6 +11556,7 @@ inapps.appsflyersdk.com^
 ||cdn1.profitmetrics.io^
 ||cdn-0.d41.co^
 ||cdn-a.yieldlove.com^
+||cdn-magiclinks.trackonomics.net^
 ||cdn-scripts.signifyd.com^
 ||cdn.relevant-digital.com^
 ||cdn.vip-hd-movies.xyz^
@@ -12162,6 +12164,7 @@ inapps.appsflyersdk.com^
 ||www.adsnet.se^
 ||www.alphalete.com.se^
 ||www.altrasverige.com.se^
+||www.aservice.tools^
 ||www.awin1.com^
 ||www.awltovhc.com^
 ||www.blogtoplist.se^
@@ -14207,6 +14210,8 @@ inapps.appsflyersdk.com^
 ||cqtlimi.cn^
 ||tjwzyjx.icu^
 ||jhvchv.xyz^
+||thesac9.top^
+||sxundrh.cn^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -18906,6 +18911,9 @@ analytics-*.aasaam.com
 ||ads.alaatv.com^
 
 # >> B <<
+||posthog.basalam.com^
+||sentry.basalam.com^
+
 ||metrix.behtarino.com^
 ||apm.bama.ir^
 
