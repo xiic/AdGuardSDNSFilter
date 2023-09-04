@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-04T12:33:25.394Z
+! Last modified: 2023-09-04T18:20:20.856Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10941,6 +10941,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ad.u-car.com.tw^
 ||pixoctopus.pixnet.net^
 ||jsx.luyouwang.com^
 ||kdpic.pchome.com.tw^
@@ -13506,6 +13507,7 @@ inapps.appsflyersdk.com^
 ||7xixi.site^
 ||81wx.info^
 ||8861198.com^
+||88lajs1.com^
 ||89mtdab.xyz^
 ||999pro.top^
 ||9cc9ckp.com^
@@ -13516,6 +13518,7 @@ inapps.appsflyersdk.com^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||afgp10l.com^
+||afxncq.com^
 ||ajtdumo.cn^
 ||akdie.xyz^
 ||allcp.xyz^
@@ -13593,6 +13596,7 @@ inapps.appsflyersdk.com^
 ||cdncloud.asia^
 ||cfdns.vip^
 ||cheda1.icu^
+||cheda7.icu^
 ||chiese.site^
 ||chozarpeases.com^
 ||ciadre.fun^
@@ -13646,6 +13650,7 @@ inapps.appsflyersdk.com^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||duyvtanrheje.xyz^
+||dvenkbn.icu^
 ||dvtednm.cn^
 ||dwfjtz.xyz^
 ||dwyngjb.icu^
@@ -13655,6 +13660,7 @@ inapps.appsflyersdk.com^
 ||eamqbaqzaewwq.top^
 ||ebscb0l.xyz^
 ||eers0cy.com^
+||eexlgyn.cn^
 ||eghyahl.cn^
 ||egipsbvlgn.xyz^
 ||eheb8.cn^
@@ -14012,6 +14018,7 @@ inapps.appsflyersdk.com^
 ||rlqoyht.icu^
 ||ronbbf.xyz^
 ||rpyor0k.xyz^
+||rrxddl.xyz^
 ||rssxsjh.icu^
 ||rszkhn.xyz^
 ||rtborp.xyz^
@@ -14069,6 +14076,7 @@ inapps.appsflyersdk.com^
 ||tkqwurl.icu^
 ||tlbjw.com^
 ||tlprlf.xyz^
+||tltyygb.cn^
 ||tmwbszn.icu^
 ||toastspinner.com^
 ||tptp002.cfd^
@@ -14133,6 +14141,7 @@ inapps.appsflyersdk.com^
 ||wrpsouf.cn^
 ||wsdfame.com^
 ||wslbahe.top^
+||wtienle.top^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -14216,14 +14225,6 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||cheda7.icu^
-||tltyygb.cn^
-||wtienle.top^
-||dvenkbn.icu^
-||rrxddl.xyz^
-||eexlgyn.cn^
-||88lajs1.com^
-||afxncq.com^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
