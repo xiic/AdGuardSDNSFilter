@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-06T18:21:14.427Z
+! Last modified: 2023-09-07T01:12:15.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -309,6 +309,7 @@ vkcdnservice.appspot.com^
 ||10945-5.s.cdn15.com^
 ||1187531871.rsc.cdn77.org^
 ||1229477026.rsc.cdn77.org^
+||1326094274.rsc.cdn77.org^
 ||1379077330.rsc.cdn77.org^
 ||1437262877.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
@@ -332,6 +333,7 @@ vkcdnservice.appspot.com^
 ||ad.wsod.com^
 ||adncdnend.azureedge.net^
 ||adrackpush.azurewebsites.net^
+||ads-api.twitter.com^
 ||ads-yallo-production.imgix.net^
 ||ads.betfair.com^
 ||ads.linkedin.com^
@@ -3375,6 +3377,7 @@ inapps.appsflyersdk.com^
 ||metrics.ctvdigital.net^
 ||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
+||metrics.doppiostreams.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
@@ -14221,6 +14224,14 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||haise10.top^
+||mdhxyhl.cn^
+||degjidp.icu^
+||vexilorath.com^
+||hvdath.xyz^
+||zcgqsd.icu^
+||hwnod.xyz^
+||solaron.top^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
