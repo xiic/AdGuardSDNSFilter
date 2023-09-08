@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-08T06:21:31.366Z
+! Last modified: 2023-09-08T12:32:20.646Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9740,6 +9740,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||pigeoon.com^
 ||peppaping.xyz^
 ||trkwinaff13.com^
 ||adsby.io^
@@ -10907,6 +10908,9 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ad.hot-mob.com^
+||ad*.on.cc^
+||adx.36kr.com^
 ||ad.u-car.com.tw^
 ||pixoctopus.pixnet.net^
 ||jsx.luyouwang.com^
@@ -10928,6 +10932,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||cryptobeneluxbanner.care^
 ||pexi.nl^
 ||adconfigproxy.azurewebsites.net^
 
@@ -11291,8 +11296,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-09-05 06:48:25 CEST
-# entries:        1181
+# last updated:   2023-09-08 09:22:59 CEST
+# entries:        1182
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11810,6 +11815,7 @@ inapps.appsflyersdk.com^
 ||popitunder.com^
 ||portalhc.com^
 ||postnord-sverige.com^
+||protagcdn.com^
 ||proxyas.com^
 ||public.servenobid.com^
 ||pumaskorrea.com.se^
@@ -12607,8 +12613,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Sep 2023 10:13 UTC+7
-! Version: 2309051013
+! Last modified: 08 Sep 2023 14:08 UTC+7
+! Version: 2309081408
 ! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
