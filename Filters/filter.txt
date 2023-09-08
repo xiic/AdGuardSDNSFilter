@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-08T12:32:20.646Z
+! Last modified: 2023-09-08T18:20:27.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13616,6 +13616,7 @@ inapps.appsflyersdk.com^
 ||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||dmvckj.icu^
 ||dnceqzz.icu^
 ||dnightwish.xyz^
 ||dojyiu8.com^
@@ -13745,10 +13746,12 @@ inapps.appsflyersdk.com^
 ||hqgearb.icu^
 ||hqzcths.cn^
 ||hsadeg.site^
+||hsfbpp.xyz^
 ||hslbahu.top^
 ||hstbrt.xyz^
 ||hthivr.xyz^
 ||htienlu.top^
+||htseca.top^
 ||huaxia.name^
 ||hubiazhi.com^
 ||hujunhao.name^
@@ -13765,6 +13768,7 @@ inapps.appsflyersdk.com^
 ||ihwdun.xyz^
 ||ijgbuj.xyz^
 ||ilade.xyz^
+||inowe.xyz^
 ||iojnask.com^
 ||ipadf.xyz^
 ||iplm.cc^
@@ -13925,6 +13929,7 @@ inapps.appsflyersdk.com^
 ||nnqwe.xyz^
 ||northcookie.xyz^
 ||nqdufv.xyz^
+||nqoxurf.icu^
 ||nryqr.cn^
 ||nswtojdi.icu^
 ||ntozchv.icu^
@@ -14098,6 +14103,7 @@ inapps.appsflyersdk.com^
 ||unjld.com^
 ||uraseszincy.com^
 ||uslbaht.top^
+||uuzwvqc.cn^
 ||uwgnpkd.cn^
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
@@ -14226,12 +14232,6 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||nqoxurf.icu^
-||inowe.xyz^
-||htseca.top^
-||dmvckj.icu^
-||hsfbpp.xyz^
-||uuzwvqc.cn^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
