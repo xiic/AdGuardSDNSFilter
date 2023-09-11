@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-11T12:33:40.482Z
+! Last modified: 2023-09-11T18:21:26.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13862,6 +13862,7 @@ inapps.appsflyersdk.com^
 ||legdeh.fun^
 ||legopq.site^
 ||lestv1.icu^
+||lestv10.icu^
 ||lfjtiuy.cn^
 ||lgoewtd.icu^
 ||lgohse.fun^
@@ -13895,6 +13896,7 @@ inapps.appsflyersdk.com^
 ||lwide.xyz^
 ||lycjsix.cn^
 ||lzmvcrp.icu^
+||m4pgay.com^
 ||mdhxyhl.cn^
 ||mdwhxw.com^
 ||metaversemolecule.com^
@@ -13908,6 +13910,7 @@ inapps.appsflyersdk.com^
 ||mmtnat.com^
 ||mnhknds.com^
 ||mnpbxjq.cn^
+||mnzvtwd.cn^
 ||moobtcnse.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
@@ -13973,6 +13976,7 @@ inapps.appsflyersdk.com^
 ||piqtpbxo.icu^
 ||pirxzl.xyz^
 ||pjsbuhl.icu^
+||pkjmmn.icu^
 ||plbs9k.icu^
 ||pmxalz.xyz^
 ||pnhp3x1.com^
@@ -13986,7 +13990,9 @@ inapps.appsflyersdk.com^
 ||puy2.cn^
 ||pypwxvo.cn^
 ||pzjizsyf.icu^
+||pzqqstb.icu^
 ||q27sz.com^
+||qbhmz3.com^
 ||qezpjlp.cn^
 ||qhjm600.com^
 ||qhxtzwf.cn^
@@ -14147,6 +14153,7 @@ inapps.appsflyersdk.com^
 ||vzvvifw.cn^
 ||wcv68kw.com^
 ||wddsva0.com^
+||whe0nqk.icu^
 ||wlgxaij.cn^
 ||wnzle.com^
 ||wpoarjokzgi.com^
@@ -14189,6 +14196,7 @@ inapps.appsflyersdk.com^
 ||xukang09.cn^
 ||xukou.net^
 ||xuwfmhh.icu^
+||xwlyfl.xyz^
 ||xwqtatnw.icu^
 ||xwsqtngwa.xyz^
 ||xxniln.xyz^
@@ -14245,14 +14253,6 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||lestv10.icu^
-||mnzvtwd.cn^
-||pzqqstb.icu^
-||xwlyfl.xyz^
-||pkjmmn.icu^
-||m4pgay.com^
-||qbhmz3.com^
-||whe0nqk.icu^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
