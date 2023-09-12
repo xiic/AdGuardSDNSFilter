@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-11T18:21:26.254Z
+! Last modified: 2023-09-12T01:10:32.222Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -311,7 +311,9 @@ vkcdnservice.appspot.com^
 ||1437953666.rsc.cdn77.org^
 ||1583795564.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1710781780.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1924664757.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -2844,6 +2846,7 @@ inapps.appsflyersdk.com^
 ||analytics.bitrix.info^
 ||analytics.carambo.la^
 ||analytics.carbaselive.com^
+||analytics.cdn112.com^
 ||analytics.chegg.com^
 ||analytics.cincopa.com^
 ||analytics.clic2buy.com^
@@ -14253,6 +14256,12 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||xolerkr.cn^
+||sgeth7.icu^
+||zlyhslx.icu^
+||jynthelon.com^
+||tuyyex.icu^
+||fgnzdb.xyz^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
