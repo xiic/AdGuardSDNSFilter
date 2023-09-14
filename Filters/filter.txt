@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-14T06:22:07.679Z
+! Last modified: 2023-09-14T12:33:01.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13482,6 +13482,7 @@ inapps.appsflyersdk.com^
 ||81wx.info^
 ||8861198.com^
 ||88lajs1.com^
+||88lajs2.com^
 ||89mtdab.xyz^
 ||999pro.top^
 ||9cc9ckp.com^
@@ -13550,6 +13551,7 @@ inapps.appsflyersdk.com^
 ||boats8.top^
 ||boewgph.icu^
 ||botnrr.xyz^
+||boxwcr.icu^
 ||boyidianqi.com.cn^
 ||boyvtr8.com^
 ||brendanbc.com^
@@ -13747,6 +13749,7 @@ inapps.appsflyersdk.com^
 ||hkscldggm.xyz^
 ||hlnr9q.icu^
 ||hmjhnkas.com^
+||hncadh.com^
 ||hnfnjn.xyz^
 ||hnxxt.net^
 ||hohmaryt.com^
@@ -13903,6 +13906,7 @@ inapps.appsflyersdk.com^
 ||lshuaibin.cn^
 ||lskmipb.icu^
 ||lslbahl.top^
+||ltienll.top^
 ||ltsubzgmw.xyz^
 ||lvrvdn.xyz^
 ||lwide.xyz^
@@ -13930,6 +13934,7 @@ inapps.appsflyersdk.com^
 ||mvamnng.cn^
 ||mvgucp.com^
 ||naqiwjj.icu^
+||naryvz.xyz^
 ||nbtfbb.xyz^
 ||ncgqmzm.cn^
 ||ndqcz0e.xyz^
@@ -14041,6 +14046,7 @@ inapps.appsflyersdk.com^
 ||rhesed.site^
 ||rifyeldz.top^
 ||rilwzsit.icu^
+||riqmqrd.icu^
 ||rixgpx.xyz^
 ||rjzqtz.xyz^
 ||rlqoyht.icu^
@@ -14116,6 +14122,7 @@ inapps.appsflyersdk.com^
 ||tqdctl.xyz^
 ||tqytqdrq.icu^
 ||tseda1.icu^
+||tseda4.icu^
 ||tseda6.icu^
 ||tslbahi.top^
 ||ttienli.top^
@@ -14185,6 +14192,7 @@ inapps.appsflyersdk.com^
 ||wtienle.top^
 ||wubizigeng.com^
 ||wuye3d.com^
+||wxl0gfw.icu^
 ||wyq3rum.icu^
 ||wzctuv.xyz^
 ||x5hnj21.com^
@@ -14227,6 +14235,7 @@ inapps.appsflyersdk.com^
 ||xxniln.xyz^
 ||yac5t.cn^
 ||yasg114.com^
+||ybcnvqf.cn^
 ||ydgh0zc.com^
 ||yegziyf.cn^
 ||ygzqlnt.cn^
@@ -14253,6 +14262,7 @@ inapps.appsflyersdk.com^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
 ||zdwykjd.icu^
+||zen0935.com^
 ||zents10.top^
 ||zents7.top^
 ||zerolcp.cn^
@@ -14282,14 +14292,8 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||tseda4.icu^
-||riqmqrd.icu^
-||boxwcr.icu^
-||naryvz.xyz^
-||hncadh.com^
-||ybcnvqf.cn^
-||88lajs2.com^
-||ltienll.top^
+||diouy9cvtx.xyz^
+||54dbg.xyz^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
