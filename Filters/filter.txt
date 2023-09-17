@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-16T18:19:09.384Z
+! Last modified: 2023-09-17T01:16:11.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3275,6 +3275,7 @@ inapps.appsflyersdk.com^
 ||iabusprivacy.pmc.com^
 ||icu.getstorybox.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
+||identification.hotmart.com^
 ||imp.constantcontact.com^
 ||imp.pvnsolutions.com^
 ||impress.vcita.com^
@@ -3766,6 +3767,7 @@ inapps.appsflyersdk.com^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
+||tracking-api.hotmart.com^
 ||tracking.adalyser.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
@@ -14321,6 +14323,12 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||bxjhlhk.xyz^
+||dexylv.xyz^
+||iyybqzv.cn^
+||cnied.xyz^
+||bnets1.icu^
+||nmlfev.icu^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
