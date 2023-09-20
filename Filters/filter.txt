@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-20T01:12:51.790Z
+! Last modified: 2023-09-20T06:22:35.128Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -394,7 +394,6 @@ vkcdnservice.appspot.com^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hotwire-widget.dailywire.com^
 ||inrdeals.com^
-||ipp.littlecdn.com^
 ||join.megaphonetv.com^
 ||js.phoenixmanga.com^
 ||karma.mdpcdn.com^
@@ -10616,6 +10615,7 @@ inapps.appsflyersdk.com^
 ||ra1.xyz^
 ||fq67.top^
 ||okmwfq.xyz^
+||js.tianmel.xyz^
 ||dian.brecm.xyz^
 ||fjttbkoxer.xyz^
 ||awoudsoo.xyz^
@@ -13565,7 +13565,6 @@ inapps.appsflyersdk.com^
 ||bkjlf58.com^
 ||bleumzr.icu^
 ||bmiea.xyz^
-||bmptbyb.com^
 ||bmyrihf.icu^
 ||bnds3.site^
 ||bnds4.site^
@@ -13711,7 +13710,6 @@ inapps.appsflyersdk.com^
 ||eyq3nog.icu^
 ||f1tfmxzg.icu^
 ||fads315.com^
-||falsarywaybung.com^
 ||fangcunzhijian1.cn^
 ||fantuan.name^
 ||fcbqxt.xyz^
@@ -13746,7 +13744,6 @@ inapps.appsflyersdk.com^
 ||gghmef7.com^
 ||ghland.site^
 ||gjipd.xyz^
-||gjkame6.com^
 ||gkjmev3.com^
 ||glhdan.site^
 ||godni.xyz^
@@ -13975,7 +13972,6 @@ inapps.appsflyersdk.com^
 ||mkjnbg.com^
 ||mkjnha.com^
 ||mmead.xyz^
-||mmtnat.com^
 ||mnhknds.com^
 ||mnpbxjq.cn^
 ||mnzvtwd.cn^
@@ -13991,7 +13987,6 @@ inapps.appsflyersdk.com^
 ||ncgqmzm.cn^
 ||ndqcz0e.xyz^
 ||neghes.fun^
-||nektonsrutate.com^
 ||ngbthf.xyz^
 ||nhjkm.com^
 ||nieae.xyz^
@@ -14032,7 +14027,6 @@ inapps.appsflyersdk.com^
 ||oslbahk.top^
 ||ossfile001.com^
 ||otienlk.top^
-||owlinggnomist.com^
 ||oyfnkle.cn^
 ||p11q.cn^
 ||p2kfynrr.icu^
@@ -14177,7 +14171,6 @@ inapps.appsflyersdk.com^
 ||tlprlf.xyz^
 ||tltyygb.cn^
 ||tmwbszn.icu^
-||toastspinner.com^
 ||tptp002.cfd^
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
@@ -14191,7 +14184,6 @@ inapps.appsflyersdk.com^
 ||tuhzjrr.cn^
 ||tuplzt.xyz^
 ||tushwjp.icu^
-||tuwaqtjcood.com^
 ||tuyyex.icu^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
@@ -14378,6 +14370,8 @@ inapps.appsflyersdk.com^
 ||fnitw.xyz^
 ||clisatf.top^
 ||wzguosutang.com^
+||gzdszb.cn^
+||cirruscarnival.com^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
@@ -14447,7 +14441,6 @@ inapps.appsflyersdk.com^
 ||188aaa.us^
 ||199aaa.us^
 ||1cdhf.top^
-||1kanz.cn^
 ||1l1.cc^
 ||1n4o.icu^
 ||1porp.top^
@@ -14707,7 +14700,6 @@ inapps.appsflyersdk.com^
 ||abenshishabi.com^
 ||abgxxc.com^
 ||accid.xyz^
-||accommodatingremindauntie.com^
 ||aceik.xyz^
 ||acqc9.com^
 ||acsc10.com^
@@ -14715,7 +14707,6 @@ inapps.appsflyersdk.com^
 ||ad2023.site^
 ||adbtwyxl96.fun^
 ||adcd7.com^
-||additionsmiracle.com^
 ||adelaideceliacd.com^
 ||adfec3.com^
 ||adkisdh3897.xyz^
@@ -14825,7 +14816,6 @@ inapps.appsflyersdk.com^
 ||baidutm999.xyz^
 ||baiduwudi929.xyz^
 ||baitu1llbkotsfthllcjeg.com^
-||balspaulite.com^
 ||banhui.xyz^
 ||banlisgv.fun^
 ||bapdkgmvn.xyz^
@@ -14862,7 +14852,6 @@ inapps.appsflyersdk.com^
 ||bgbyzv.xyz^
 ||bgnlaigv.fun^
 ||bh2q.fun^
-||bharalhallahs.com^
 ||bhcnmrn.icu^
 ||bhcwr.cn^
 ||bhduan.xyz^
@@ -15019,7 +15008,6 @@ inapps.appsflyersdk.com^
 ||clw99.mobi^
 ||cmci5cape.icu^
 ||cnnanxing.mobi^
-||cnredg.xyz^
 ||cnshiw2.com^
 ||cnucpaq.xyz^
 ||cofz9.top^
@@ -15118,7 +15106,6 @@ inapps.appsflyersdk.com^
 ||dertyhsf.xyz^
 ||destc10.icu^
 ||deude.ltd^
-||devofei.xyz^
 ||dewalt-sales.com^
 ||dezstd.xyz^
 ||df5b.top^
@@ -15554,7 +15541,6 @@ inapps.appsflyersdk.com^
 ||hesramfi.com^
 ||hevuabv.cn^
 ||hezlqmwm.com^
-||hffxc.com^
 ||hfhytx.xyz^
 ||hfjsbf.xyz^
 ||hfk7j.top^
@@ -15742,7 +15728,6 @@ inapps.appsflyersdk.com^
 ||j04r.top^
 ||j1p6w.xyz^
 ||j721s.top^
-||j8jp.com^
 ||jaowd.xyz^
 ||japsmna.cyou^
 ||javddngx.cyou^
@@ -16068,11 +16053,9 @@ inapps.appsflyersdk.com^
 ||lnzjlr.xyz^
 ||lo9b.top^
 ||lobqpt.xyz^
-||loganfeels.com^
 ||loispp.com^
 ||looktt.xyz^
 ||loopd.cyou^
-||lopqrx.xyz^
 ||lorenop.icu^
 ||love-yy.company^
 ||lpaehxw.cn^
@@ -16300,7 +16283,6 @@ inapps.appsflyersdk.com^
 ||nqnggnsc.fun^
 ||nqyz.tw^
 ||nrjzkj.cn^
-||nsfdsa.xyz^
 ||nsnignsc.xyz^
 ||nsnoownmc.fun^
 ||nsweq.xyz^
@@ -16498,10 +16480,8 @@ inapps.appsflyersdk.com^
 ||pqldzp.xyz^
 ||pqomnfbg.com^
 ||pqxyqq.com^
-||printsmull.com^
 ||prju.top^
 ||prlioxb.cn^
-||prplads.com^
 ||prtlth.xyz^
 ||ps123.online^
 ||psvvzb.xyz^
@@ -16692,7 +16672,6 @@ inapps.appsflyersdk.com^
 ||rmqz.xyz^
 ||rnajhyd.xyz^
 ||rnhqxh.com^
-||robberyinscription.com^
 ||roeaasi.cyou^
 ||rooby.cyou^
 ||rou1.xyz^
@@ -16714,7 +16693,6 @@ inapps.appsflyersdk.com^
 ||rsnignsz.xyz^
 ||rsnoownmz.fun^
 ||rss9f.top^
-||rszqtry.cn^
 ||rtcegcp.cn^
 ||rtdxqq.com^
 ||rthmnj.xyz^
@@ -16726,7 +16704,6 @@ inapps.appsflyersdk.com^
 ||rulwph.xyz^
 ||runn.fun^
 ||ruohe.fun^
-||rusticaula.com^
 ||ruyqiolnz.cyou^
 ||rvlgrb.xyz^
 ||rwadakesz.cyou^
@@ -16904,7 +16881,6 @@ inapps.appsflyersdk.com^
 ||tfaftemail.com^
 ||tfallview.live^
 ||tfations.live^
-||tfbulkidn.com^
 ||tfcoverss.live^
 ||tffindmarket.live^
 ||tffulllist.shop^
@@ -16927,7 +16903,6 @@ inapps.appsflyersdk.com^
 ||thvx9i.icu^
 ||tian-ting.ink^
 ||tianlaoyyds.com^
-||tianmel.xyz^
 ||tifpjz.xyz^
 ||timothy.wang^
 ||tingchen.xyz^
@@ -16945,7 +16920,6 @@ inapps.appsflyersdk.com^
 ||toijr.xyz^
 ||topboo.xyz^
 ||torwq.xyz^
-||toskmisway.com^
 ||touwengyyds.com^
 ||tpjmqq.com^
 ||tprwnvk.cn^
@@ -16953,7 +16927,6 @@ inapps.appsflyersdk.com^
 ||tqdpqq.com^
 ||tqnggnsi.fun^
 ||traktalent.com^
-||travescorylus.com^
 ||trfmxf.xyz^
 ||troxa.xyz^
 ||trp69.top^
@@ -17117,7 +17090,6 @@ inapps.appsflyersdk.com^
 ||viope.cyou^
 ||vipzhuan.xyz^
 ||viroffyy.com^
-||vizacasa.xyz^
 ||vj1p.xyz^
 ||vjhjxh.xyz^
 ||vk9f.top^
@@ -17156,7 +17128,6 @@ inapps.appsflyersdk.com^
 ||w4jz.top^
 ||w80n.fun^
 ||w9f1r.top^
-||wagepulsate.com^
 ||wangyun01.cn^
 ||wangzezhong.top^
 ||wangzhe.cx^
@@ -17215,7 +17186,6 @@ inapps.appsflyersdk.com^
 ||wocexaa.cn^
 ||wocoqs.xyz^
 ||wodw0.xyz^
-||wooledswards.com^
 ||worjeklmq.com^
 ||wosidnlkxq.com^
 ||wotui.ltd^
@@ -17744,8 +17714,6 @@ inapps.appsflyersdk.com^
 ||380.tw^
 ||52av.be^
 ||j8377.com^
-||pemsrv.com^
-||slipdashedundermine.com^
 ||1024mzs.pw^
 ||1024wanzhai.
 ||5lu8.com^
