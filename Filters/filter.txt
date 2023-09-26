@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-26T01:13:32.819Z
+! Last modified: 2023-09-26T06:22:17.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11341,8 +11341,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-09-24 12:49:41 CEST
-# entries:        1183
+# last updated:   2023-09-26 06:30:58 CEST
+# entries:        1185
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -12074,6 +12074,7 @@ inapps.appsflyersdk.com^
 ||tracking.etidning.moratidning.se^
 ||tracking.etidning.na.se^
 ||tracking.etidning.norrteljetidning.se^
+||tracking.etidning.nvp.se^
 ||tracking.etidning.nyaludvikatidning.se^
 ||tracking.etidning.nynashamnsposten.se^
 ||tracking.etidning.op.se^
@@ -12115,6 +12116,7 @@ inapps.appsflyersdk.com^
 ||tracking.moratidning.se^
 ||tracking.na.se^
 ||tracking.norrteljetidning.se^
+||tracking.nvp.se^
 ||tracking.nyaludvikatidning.se^
 ||tracking.nynashamnsposten.se^
 ||tracking.omniture.nt.se^
