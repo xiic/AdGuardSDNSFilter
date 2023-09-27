@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-27T12:33:59.150Z
+! Last modified: 2023-09-27T18:21:59.860Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -303,11 +303,18 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
+||1048284882.rsc.cdn77.org^
+||1063072263.rsc.cdn77.org^
+||1064075587.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
+||1164507919.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1567883633.rsc.cdn77.org^
+||1664906762.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1683367939.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1786830340.rsc.cdn77.org^
 ||360playvid.com^
@@ -774,6 +781,7 @@ vkcdnservice.appspot.com^
 ||d2jp87c2eoduan.cloudfront.net^
 ||d2jtzjb71xckmj.cloudfront.net^
 ||d2juccxzu13rax.cloudfront.net^
+||d2jw88zdm5mi8i.cloudfront.net^
 ||d2k487jakgs1mb.cloudfront.net^
 ||d2k7b1tjy36ro0.cloudfront.net^
 ||d2k7gvkt8o1fo8.cloudfront.net^
@@ -1068,6 +1076,7 @@ vkcdnservice.appspot.com^
 ||dal9hkyfi0m0n.cloudfront.net^
 ||day13vh1xl0gh.cloudfront.net^
 ||db033pq6bj64g.cloudfront.net^
+||db4zl9wffwnmb.cloudfront.net^
 ||dba9ytko5p72r.cloudfront.net^
 ||dbcdqp72lzmvj.cloudfront.net^
 ||dbujksp6lhljo.cloudfront.net^
@@ -12662,8 +12671,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Sep 2023 11:04 UTC+7
-! Version: 2309251104
+! Last modified: 27 Sep 2023 22:51 UTC+7
+! Version: 2309272251
 ! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
