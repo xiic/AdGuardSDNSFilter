@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-30T12:29:41.883Z
+! Last modified: 2023-09-30T18:19:38.533Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -316,10 +316,13 @@ vkcdnservice.appspot.com^
 ||1272341218.rsc.cdn77.org^
 ||1431327521.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1520586082.rsc.cdn77.org^
+||1567644002.rsc.cdn77.org^
 ||1567883633.rsc.cdn77.org^
 ||1664906762.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1683367939.rsc.cdn77.org^
+||1708712734.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1757151194.rsc.cdn77.org^
 ||1786830340.rsc.cdn77.org^
@@ -1178,6 +1181,7 @@ vkcdnservice.appspot.com^
 ||dqhi3ea93ztgv.cloudfront.net^
 ||dqv45r33u0ltv.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
+||dr6su5ow3i7eo.cloudfront.net^
 ||dr8pk6ovub897.cloudfront.net^
 ||drbccw04ifva6.cloudfront.net^
 ||drda5yf9kgz5p.cloudfront.net^
@@ -13578,11 +13582,14 @@ inapps.appsflyersdk.com^
 ||9fgh98k.com^
 ||a8age.com^
 ||a9able.com^
+||aacoffee.cn^
 ||aaenv48847h.com^
 ||aaholidays.cn^
 ||aapeople.cn^
+||aasingapore.cn^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
+||actdk.xyz^
 ||aelxock.cn^
 ||afgp10l.com^
 ||afxncq.com^
@@ -13758,6 +13765,7 @@ inapps.appsflyersdk.com^
 ||dniwe.xyz^
 ||dojyiu8.com^
 ||donchen501.cn^
+||donghua.asia^
 ||dosre12.xyz^
 ||dozwjl.xyz^
 ||dpbgnf.xyz^
@@ -13865,6 +13873,7 @@ inapps.appsflyersdk.com^
 ||haffo70.com^
 ||haise10.top^
 ||haise2.top^
+||haise6.top^
 ||haise8.top^
 ||hanwdsii.com^
 ||hasgde.site^
@@ -13926,6 +13935,7 @@ inapps.appsflyersdk.com^
 ||hxhohd.xyz^
 ||hxinitv.icu^
 ||hyeqp.xyz^
+||hylaxngo.xyz^
 ||hypwbv.xyz^
 ||hzhabei.cn^
 ||idynbff.cn^
@@ -14105,6 +14115,7 @@ inapps.appsflyersdk.com^
 ||mvamnng.cn^
 ||mvgucp.com^
 ||mwqucr.icu^
+||nafqioj.cn^
 ||naqiwjj.icu^
 ||naryvz.xyz^
 ||nba55.cc^
@@ -14186,6 +14197,7 @@ inapps.appsflyersdk.com^
 ||pnlhnx.xyz^
 ||poqiod.com^
 ||powedw.com^
+||prntvf.xyz^
 ||procdn.asia^
 ||prokyrn.icu^
 ||pstvvb.xyz^
@@ -14193,6 +14205,7 @@ inapps.appsflyersdk.com^
 ||ptmabek.cn^
 ||puy2.cn^
 ||pvlnjwr.xyz^
+||pxxcyni.cn^
 ||pypwxvo.cn^
 ||pzjizsyf.icu^
 ||pzqqstb.icu^
@@ -14202,6 +14215,7 @@ inapps.appsflyersdk.com^
 ||qbhmz3.com^
 ||qezpjlp.cn^
 ||qgrnyis.cn^
+||qhbhlii.xyz^
 ||qhjm600.com^
 ||qhxtzwf.cn^
 ||qifyeldy.top^
@@ -14432,6 +14446,7 @@ inapps.appsflyersdk.com^
 ||xhpghv.xyz^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
+||xibfnb.xyz^
 ||xiezhuo038.cn^
 ||xixrdn.xyz^
 ||xjzyhp.xyz^
@@ -14478,6 +14493,7 @@ inapps.appsflyersdk.com^
 ||ypvtw.com^
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
+||yueesv.icu^
 ||yuifgh.fun^
 ||yunliunet.com^
 ||ywkkmze.cn^
@@ -14532,18 +14548,6 @@ inapps.appsflyersdk.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
-||prntvf.xyz^
-||qhbhlii.xyz^
-||nafqioj.cn^
-||donghua.asia^
-||haise6.top^
-||hylaxngo.xyz^
-||xibfnb.xyz^
-||actdk.xyz^
-||yueesv.icu^
-||aacoffee.cn^
-||pxxcyni.cn^
-||aasingapore.cn^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
