@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-29T18:21:31.963Z
+! Last modified: 2023-09-30T01:11:27.848Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -309,8 +309,10 @@ vkcdnservice.appspot.com^
 ||1064075587.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
+||1133256755.rsc.cdn77.org^
 ||1164507919.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1235113489.rsc.cdn77.org^
 ||1272341218.rsc.cdn77.org^
 ||1431327521.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
@@ -319,6 +321,7 @@ vkcdnservice.appspot.com^
 ||1675450967.rsc.cdn77.org^
 ||1683367939.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1757151194.rsc.cdn77.org^
 ||1786830340.rsc.cdn77.org^
 ||1857169728.rsc.cdn77.org^
 ||1917697853.rsc.cdn77.org^
@@ -892,6 +895,7 @@ vkcdnservice.appspot.com^
 ||d31y1abh02y2oj.cloudfront.net^
 ||d325d2mtoblkfq.cloudfront.net^
 ||d32bug9eb0g0bh.cloudfront.net^
+||d32d89surjhks4.cloudfront.net^
 ||d32h65j3m1jqfb.cloudfront.net^
 ||d32hwlnfiv2gyn.cloudfront.net^
 ||d32t6p7tldxil2.cloudfront.net^
@@ -14528,6 +14532,13 @@ inapps.appsflyersdk.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
+||prntvf.xyz^
+||qhbhlii.xyz^
+||nafqioj.cn^
+||donghua.asia^
+||haise6.top^
+||hylaxngo.xyz^
+||xibfnb.xyz^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
