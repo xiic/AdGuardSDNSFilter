@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-14T12:30:17.185Z
+! Last modified: 2023-10-14T18:20:15.596Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1164,6 +1164,7 @@ vkcdnservice.appspot.com^
 ||dgw7ae5vrovs7.cloudfront.net^
 ||dgyrizngtcfck.cloudfront.net^
 ||dh6dm31izb875.cloudfront.net^
+||dhcmni6m2kkyw.cloudfront.net^
 ||dhrhzii89gpwo.cloudfront.net^
 ||di028lywwye7s.cloudfront.net^
 ||dihutyaiafuhr.cloudfront.net^
@@ -13609,11 +13610,14 @@ inapps.appsflyersdk.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
 ||1bctkn.xyz^
+||20szp.com^
+||24w0p.com^
 ||273knt.xyz^
 ||88lajs3.com^
 ||a4bj6.xyz^
 ||actrqdr.cn^
 ||agossuoeach.com^
+||aknkvallbfml.com^
 ||anhlnnm.cn^
 ||aueajkn.cn^
 ||bbfnrn.xyz^
@@ -13640,6 +13644,7 @@ inapps.appsflyersdk.com^
 ||fzgetdy.cn^
 ||gixgav.icu^
 ||gizlnr.com^
+||gmx16.top^
 ||gmx20.top^
 ||gmx21.top^
 ||gmx22.top^
@@ -13651,6 +13656,7 @@ inapps.appsflyersdk.com^
 ||gmx29.top^
 ||gmx30.top^
 ||haise3.top^
+||haise5.top^
 ||hcqumrjbx.xyz^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
@@ -13671,6 +13677,7 @@ inapps.appsflyersdk.com^
 ||ldvnehc.xyz^
 ||liuyi22.cn^
 ||lkoqtvvajktpjsk.xyz^
+||llblwzg.xyz^
 ||lnxpdj.xyz^
 ||lovespenhas.com^
 ||lwmzoaf.cn^
@@ -13682,6 +13689,7 @@ inapps.appsflyersdk.com^
 ||mmvjuti.cn^
 ||mphhgat.xyz^
 ||mqrupjsm.xyz^
+||mryqtym.cn^
 ||mwfyab.icu^
 ||nangongmall.com^
 ||neeujqf.cn^
@@ -13691,6 +13699,7 @@ inapps.appsflyersdk.com^
 ||njtbiml.xyz^
 ||oapyrzde.xyz^
 ||ocwdkp.icu^
+||oprece.xyz^
 ||orssengseen.com^
 ||pexavfro.xyz^
 ||pqjeoqa.cn^
@@ -13703,8 +13712,10 @@ inapps.appsflyersdk.com^
 ||roxewwq.cn^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
+||rzflhxn.cn^
 ||serda10.icu^
 ||sgeth9.icu^
+||smlpcz.icu^
 ||tcgaqh.icu^
 ||thboxp.xyz^
 ||trdmtx.xyz^
@@ -13722,6 +13733,8 @@ inapps.appsflyersdk.com^
 ||vdggsd011.com^
 ||vdggsd012.com^
 ||vdggsd013.com^
+||vdggsd014.com^
+||vgjaxnuw.xyz^
 ||vivienjumpe.com^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
@@ -13739,18 +13752,8 @@ inapps.appsflyersdk.com^
 ||yepgdita.xyz^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
-||rzflhxn.cn^
-||gmx16.top^
-||haise5.top^
-||vdggsd014.com^
-||vgjaxnuw.xyz^
-||llblwzg.xyz^
-||oprece.xyz^
-||smlpcz.icu^
-||z91f4.top^
-||mryqtym.cn^
-||24w0p.com^
 ||yutiqf.icu^
+||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zents2.top^
@@ -17785,6 +17788,7 @@ inapps.appsflyersdk.com^
 ||djs.baomihua.com^
 ||dms.fx678.com^
 ||doubleclick.ctfile.com^
+||ds1.kaijia.com^
 ||dsp.ali213.net^
 ||dvs.china.com^
 ||dvser.china.com^
@@ -17937,7 +17941,6 @@ inapps.appsflyersdk.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||ds1.kaijia.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
