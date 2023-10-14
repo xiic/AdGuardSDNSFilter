@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-13T18:22:38.503Z
+! Last modified: 2023-10-14T01:11:44.780Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5305,9 +5305,11 @@ inapps.appsflyersdk.com^
 ||track.tomwx.net^
 ||track.unidata.ai^
 ||tracking.cat898.com^
+||trail.71baomu.com^
 ||videostats.kakao.com^
 ||web-trace.ksapisrv.com^
 ||webtrack.pospal.cn^
+||wlog.kuaishou.com^
 ! Croatian
 ||tracking.vid4u.org^
 ! Czech
@@ -12314,6 +12316,7 @@ inapps.appsflyersdk.com^
 ! Source name: EasyList Italy ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
+||adkaora.space^
 ||adplay.it^
 ||delosnetwork.it^
 ||eadv.it^
@@ -12321,6 +12324,7 @@ inapps.appsflyersdk.com^
 ||natexo-programmatic.com^
 ||rtbuzz.net^
 ||shoppydoo.com^
+||tjekscores.dk^
 ||yobee.it^
 ||24network.it^
 ||ad4mat.it^
@@ -12329,7 +12333,6 @@ inapps.appsflyersdk.com^
 ||adbrawl.com^
 ||adbreak.ch^
 ||addyon.com^
-||adkaora.space^
 ||adnext.it^
 ||adpartner.it^
 ||adresponse.it^
@@ -12402,7 +12405,6 @@ inapps.appsflyersdk.com^
 ||panea.it^
 ||partypartners.it^
 ||paypublicity.it^
-||pc-on-internet.com^
 ||pirchio.com^
 ||plavid.com^
 ||preludeadv.it^
@@ -12435,14 +12437,12 @@ inapps.appsflyersdk.com^
 ||tgadv.it^
 ||tgadvcdn.it^
 ||tipster.space^
-||tjekscores.dk^
 ||upstory.it^
 ||viralbeat.com^
 ||wailay.com^
 ||wbusiness.fr^
 ||widebanner.com^
 ||worldfilia.net^
-||zanox-affiliate.de^
 ||zariumhb.com^
 ||zodiakactive.com^
 
@@ -13738,6 +13738,14 @@ inapps.appsflyersdk.com^
 ||yepgdita.xyz^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
+||rzflhxn.cn^
+||gmx16.top^
+||haise5.top^
+||vdggsd014.com^
+||vgjaxnuw.xyz^
+||llblwzg.xyz^
+||oprece.xyz^
+||smlpcz.icu^
 ||yutiqf.icu^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
