@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-16T12:34:53.289Z
+! Last modified: 2023-10-16T18:23:25.408Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12774,8 +12774,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Oct 2023 22:35 UTC+7
-! Version: 2310112235
+! Last modified: 16 Oct 2023 22:23 UTC+7
+! Version: 2310162223
 ! Blocked: 844 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13633,10 +13633,12 @@ inapps.appsflyersdk.com^
 ||273knt.xyz^
 ||88lajs3.com^
 ||a4bj6.xyz^
+||aaknmt.icu^
 ||actrqdr.cn^
 ||agossuoeach.com^
 ||aknkvallbfml.com^
 ||anhlnnm.cn^
+||aniede.xyz^
 ||athecsz.cn^
 ||aueajkn.cn^
 ||bbfnrn.xyz^
@@ -13665,8 +13667,10 @@ inapps.appsflyersdk.com^
 ||fzgetdy.cn^
 ||gixgav.icu^
 ||gizlnr.com^
+||gmx13.top^
 ||gmx15.top^
 ||gmx16.top^
+||gmx17.top^
 ||gmx20.top^
 ||gmx21.top^
 ||gmx22.top^
@@ -13692,8 +13696,10 @@ inapps.appsflyersdk.com^
 ||jndxsuy.xyz^
 ||jofknbpe.xyz^
 ||jvjmjt.xyz^
+||knuaxfv.cn^
 ||kshrsf.icu^
 ||kvskknklssv.com^
+||kwtgntyu.xyz^
 ||kyikdee.cn^
 ||kzprugp.xyz^
 ||ldvnehc.xyz^
@@ -13723,6 +13729,7 @@ inapps.appsflyersdk.com^
 ||ocwdkp.icu^
 ||oprece.xyz^
 ||orssengseen.com^
+||ovfvkfc.xyz^
 ||pexavfro.xyz^
 ||phwrju.xyz^
 ||pqjeoqa.cn^
@@ -13732,6 +13739,7 @@ inapps.appsflyersdk.com^
 ||qwjtdcl.cn^
 ||rcnldz.xyz^
 ||rkds10.icu^
+||rkds5.icu^
 ||roxewwq.cn^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
@@ -13758,6 +13766,7 @@ inapps.appsflyersdk.com^
 ||vdggsd013.com^
 ||vdggsd014.com^
 ||vdggsd015.com^
+||vdggsd016.com^
 ||vgjaxnuw.xyz^
 ||vivienjumpe.com^
 ||vttqld.xyz^
@@ -13781,15 +13790,6 @@ inapps.appsflyersdk.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yutiqf.icu^
-||aaknmt.icu^
-||rkds5.icu^
-||kwtgntyu.xyz^
-||ovfvkfc.xyz^
-||aniede.xyz^
-||vdggsd016.com^
-||gmx17.top^
-||gmx13.top^
-||knuaxfv.cn^
 ||z1wfe.top^
 ||z91f4.top^
 ||zbxtcwi.xyz^
@@ -17991,7 +17991,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||y1.junshitt.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -18708,6 +18707,7 @@ inapps.appsflyersdk.com^
 ||xue.zbyw.cn^
 ||xuexi.hydcd.com^
 ||y.photoint.net^
+||y1.junshitt.com^
 ||y1.spreton.com^
 ||y66xvgo5i.chuimg.com^
 ||yi.ximizi.com^
