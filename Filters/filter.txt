@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-15T18:20:27.252Z
+! Last modified: 2023-10-16T01:15:05.679Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2972,6 +2972,7 @@ inapps.appsflyersdk.com^
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
 ||analytics.digitalpfizer.com^
+||analytics.disney.go.com^
 ||analytics.disneyinternational.com^
 ||analytics.dvidshub.net^
 ||analytics.edgekey.net^
@@ -3154,6 +3155,7 @@ inapps.appsflyersdk.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client-analytics.braintreegateway.com^
+||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
 ||client.tahono.com^
 ||clouderrorreporting.googleapis.com^
@@ -3886,6 +3888,7 @@ inapps.appsflyersdk.com^
 ||trackicollect.ibase.fr^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking-api.hotmart.com^
+||tracking-api.mangopulse.net^
 ||tracking.adalyser.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
@@ -4082,6 +4085,7 @@ inapps.appsflyersdk.com^
 ||d3j1weegxvu8ns.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
+||d3lqotgbn3npr.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
@@ -4116,6 +4120,7 @@ inapps.appsflyersdk.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duu8lzqdm8tsz.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
+||dzgwautxzdtn9.cloudfront.net^
 ! https://gist.github.com/tinogomes/c425aa2a56d289f16a1f4fcb8a65ea65
 ! Domains linking to 127.0.0.1
 !||cefgo.com^
@@ -13773,6 +13778,13 @@ inapps.appsflyersdk.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yutiqf.icu^
+||aaknmt.icu^
+||rkds5.icu^
+||kwtgntyu.xyz^
+||ovfvkfc.xyz^
+||aniede.xyz^
+||vdggsd016.com^
+||gmx17.top^
 ||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
