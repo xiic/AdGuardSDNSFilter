@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-18T12:34:07.343Z
+! Last modified: 2023-10-18T18:23:08.190Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -308,6 +308,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
 ||1048284882.rsc.cdn77.org^
+||1052706846.rsc.cdn77.org^
 ||1063072263.rsc.cdn77.org^
 ||1064075587.rsc.cdn77.org^
 ||1080749118.rsc.cdn77.org^
@@ -316,6 +317,7 @@ vkcdnservice.appspot.com^
 ||1133256755.rsc.cdn77.org^
 ||1164507919.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1191084008.rsc.cdn77.org^
 ||1207639218.rsc.cdn77.org^
 ||1235113489.rsc.cdn77.org^
 ||1254021819.rsc.cdn77.org^
@@ -543,6 +545,7 @@ vkcdnservice.appspot.com^
 ||d162nnmwf9bggr.cloudfront.net^
 ||d16saj1xvba76n.cloudfront.net^
 ||d175dtblugd1dn.cloudfront.net^
+||d17757b88bjr2y.cloudfront.net^
 ||d17c5vf4t6okfg.cloudfront.net^
 ||d183xvcith22ty.cloudfront.net^
 ||d1856n6bep9gel.cloudfront.net^
@@ -5791,7 +5794,6 @@ inapps.appsflyersdk.com^
 ||hotwords.es^
 ||ieurop.net^
 ||img.netaffiliation.com^
-||informtext.blogspot.com^
 ||kontextua.com^
 ||linkeasy.org^
 ||logs.eresmas.com^
@@ -13656,9 +13658,12 @@ inapps.appsflyersdk.com^
 ||bollenhurkle.com^
 ||bydcxdy.cn^
 ||cadizer.com^
+||cdsa2.icu^
 ||ceiuip.icu^
 ||cheda6.icu^
+||chrtds.xyz^
 ||cjndvoglik.xyz^
+||cmdcdacq.xyz^
 ||cntc8.icu^
 ||crhabkd.cn^
 ||cuvtnzv.cn^
@@ -13670,6 +13675,7 @@ inapps.appsflyersdk.com^
 ||dqzehgha.xyz^
 ||dumeia.cn^
 ||ebmlsvw.cn^
+||eht116.com^
 ||ekzzed.icu^
 ||exemptambientcream.com^
 ||fastjs.org^
@@ -13677,6 +13683,7 @@ inapps.appsflyersdk.com^
 ||fzgetdy.cn^
 ||gixgav.icu^
 ||gizlnr.com^
+||gmx11.top^
 ||gmx12.top^
 ||gmx13.top^
 ||gmx14.top^
@@ -13684,6 +13691,7 @@ inapps.appsflyersdk.com^
 ||gmx16.top^
 ||gmx17.top^
 ||gmx18.top^
+||gmx19.top^
 ||gmx20.top^
 ||gmx21.top^
 ||gmx22.top^
@@ -13694,6 +13702,7 @@ inapps.appsflyersdk.com^
 ||gmx28.top^
 ||gmx29.top^
 ||gmx30.top^
+||gmx46.top^
 ||haise3.top^
 ||haise5.top^
 ||hcqumrjbx.xyz^
@@ -13705,6 +13714,8 @@ inapps.appsflyersdk.com^
 ||imrvyop.cn^
 ||insfengdata.com^
 ||ionjkcj.cn^
+||iqs871.com^
+||iujlwn.icu^
 ||jlhlnd.xyz^
 ||jndxsuy.xyz^
 ||jofknbpe.xyz^
@@ -13725,8 +13736,11 @@ inapps.appsflyersdk.com^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
 ||mads7.icu^
+||mcds7.icu^
 ||mcds9.icu^
 ||meilunsc.com^
+||mfnfylx.xyz^
+||mhnzhlase.xyz^
 ||mmvjuti.cn^
 ||mphhgat.xyz^
 ||mqrupjsm.xyz^
@@ -13748,8 +13762,10 @@ inapps.appsflyersdk.com^
 ||pqjeoqa.cn^
 ||psroyx.icu^
 ||qauksl.icu^
+||qmoxxhc.cn^
 ||qmwx4.xyz^
 ||quzmtpxw.xyz^
+||qwesaz.com^
 ||qwjtdcl.cn^
 ||rcnldz.xyz^
 ||rkds1.icu^
@@ -13793,6 +13809,7 @@ inapps.appsflyersdk.com^
 ||wkrcbszi.xyz^
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
+||wuyaw.cn^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
@@ -13810,23 +13827,10 @@ inapps.appsflyersdk.com^
 ||yhtpsy8888.cc^
 ||yutiqf.icu^
 ||z1wfe.top^
-||mcds7.icu^
-||cmdcdacq.xyz^
-||iujlwn.icu^
-||gmx11.top^
-||chrtds.xyz^
-||mfnfylx.xyz^
-||eht116.com^
-||wuyaw.cn^
-||qmoxxhc.cn^
-||gmx46.top^
-||cdsa2.icu^
-||mhnzhlase.xyz^
-||qwesaz.com^
-||gmx19.top^
 ||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
+||zcpsc.top^
 ||zents2.top^
 ||01v62.xyz^
 ||023best.cn^
