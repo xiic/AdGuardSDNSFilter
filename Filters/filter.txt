@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-18T18:23:08.190Z
+! Last modified: 2023-10-19T01:13:30.311Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3494,6 +3494,7 @@ inapps.appsflyersdk.com^
 ||metrics.pico.tools^
 ||metrics.scribblelive.com^
 ||metrics.userguiding.com^
+||metrika.cdn112.com^
 ||metrix.emagister.com^
 ||mj-snowplow-static-js.s3.amazonaws.com^
 ||mlweb.dmlab.hu^
@@ -4118,7 +4119,6 @@ inapps.appsflyersdk.com^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnxlgencstz4.cloudfront.net^
-||dp64mxip2za0c.cloudfront.net^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
@@ -5468,6 +5468,7 @@ inapps.appsflyersdk.com^
 ! Korean
 ||acelogger.heraldcorp.com^
 ||cm-exchange.toast.com^
+||event.hackle.io^
 ||log.cizion.com^
 ||log.mofa.go.kr^
 ||log.targetpush.co.kr^
@@ -13828,6 +13829,15 @@ inapps.appsflyersdk.com^
 ||yutiqf.icu^
 ||z1wfe.top^
 ||z91f4.top^
+||rkds2.icu^
+||gmx47.top^
+||myyxox.icu^
+||icvsleec.xyz^
+||lianglili2.cn^
+||yxrxsov.xyz^
+||wvtem.com^
+||ugvbsrbht.xyz^
+||dvnqhdmze.xyz^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
