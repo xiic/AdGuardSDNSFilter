@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-20T18:20:11.924Z
+! Last modified: 2023-10-21T01:11:34.686Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5022,6 +5022,7 @@ inapps.appsflyersdk.com^
 ||musiccounter.ru^
 ||mystat-in.net^
 ||mytopf.com^
+||netlog.ru^
 ||opentracking.ru^
 ||otclick-adv.ru^
 ||pmbox.biz^
@@ -5303,6 +5304,8 @@ inapps.appsflyersdk.com^
 ||imp.optaim.com^
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||mcs.zijieapi.com^
+||mon.zijieapi.com^
 ||msg.71.am^
 ||p.aty.sohu.com^
 ||p.tencentmind.com^
@@ -5329,6 +5332,7 @@ inapps.appsflyersdk.com^
 ||trail.71baomu.com^
 ||videostats.kakao.com^
 ||web-trace.ksapisrv.com^
+||webstat.qiumibao.com^
 ||webtrack.pospal.cn^
 ||wlog.kuaishou.com^
 ! Croatian
@@ -5480,6 +5484,7 @@ inapps.appsflyersdk.com^
 ||megadata.co.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
+||saluton.cizion.com^
 ||sas.nsm-corp.com^
 ||teralog.techhub.co.kr^
 ||tracker.adbinead.com^
@@ -5612,6 +5617,8 @@ inapps.appsflyersdk.com^
 ||g-stats.openhost.es^
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
+||report.botm.transparentedge.io^
+||rt.cdnmedia.tv^
 ||sp.vtex.com^
 ||stats.administrarweb.es^
 ||stats.qdq.com^
@@ -5638,11 +5645,12 @@ inapps.appsflyersdk.com^
 ||informers.sinoptik.ua^
 ||tracker.prom.ua^
 ||webvitals.luxnet.ua^
-! Vietnamese
 ||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
+||px.dmp.zaloapp.com^
 ||tracking.aita.gov.vn^
 ||tracking3.vnncdn.net^
+||za.zalo.me^
 
 !
 ! Source name: AdGuard Spanish/Portuguese filter ad servers first-party
@@ -13009,8 +13017,6 @@ inapps.appsflyersdk.com^
 ||pushdy.com^
 ||pushdy.vn^
 ||pushtimize.com^
-||px.dmp.zaloapp.com^
-||px.za.zalo.me^
 ||px.za.zaloapp.com^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
@@ -13859,6 +13865,11 @@ inapps.appsflyersdk.com^
 ||z1wfe.top^
 ||z91f4.top^
 ||zbxtcwi.xyz^
+||zzyy20.top^
+||asfybkiy.xyz^
+||usxuyr.icu^
+||zzyy17.top^
+||bzvhgbr.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^
