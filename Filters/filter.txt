@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-21T01:11:34.686Z
+! Last modified: 2023-10-21T06:20:45.923Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13870,6 +13870,9 @@ inapps.appsflyersdk.com^
 ||usxuyr.icu^
 ||zzyy17.top^
 ||bzvhgbr.xyz^
+||foizico.cn^
+||fptdxkm.com^
+||faxffjo.com^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^
