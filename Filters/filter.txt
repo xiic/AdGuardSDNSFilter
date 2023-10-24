@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-23T18:21:06.000Z
+! Last modified: 2023-10-24T01:13:06.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3656,6 +3656,7 @@ inapps.appsflyersdk.com^
 ||s.logsss.com^
 ||s.srvsynd.com^
 ||sa.scorpion.co^
+||scoopy.cdn112.com^
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
 ||sdrive.skoda-auto.com^
@@ -5317,6 +5318,7 @@ inapps.appsflyersdk.com^
 ||imp.go.sohu.com^
 ||imp.optaim.com^
 ||log.hiiir.com^
+||log.qvb.qcloud.com^
 ||log.tagtic.cn^
 ||mcs.zijieapi.com^
 ||mon.zijieapi.com^
@@ -5342,6 +5344,7 @@ inapps.appsflyersdk.com^
 ||track.storm.mg^
 ||track.tomwx.net^
 ||track.unidata.ai^
+||tracker-00.qvb.qcloud.com^
 ||tracking.cat898.com^
 ||trail.71baomu.com^
 ||videostats.kakao.com^
@@ -13921,6 +13924,14 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||cxpjrqa.cn^
+||njppuaj.cn^
+||yivkzvog.xyz^
+||irtefs.xyz^
+||qbhjokk.xyz^
+||vizhtd.xyz^
+||jmhngn.com^
+||gqleov.icu^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
