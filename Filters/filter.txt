@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-26T01:11:55.902Z
+! Last modified: 2023-10-26T06:22:15.777Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2943,6 +2943,7 @@ inapps.appsflyersdk.com^
 ||a.mobify.com^
 ||a.opumo.net^
 ||aan.amazon.com^
+||activity-flow.vtex.com^
 ||activity.wisepops.com^
 ||ad.aloodo.com^
 ||adfox.yandex.ru^
@@ -3322,6 +3323,7 @@ inapps.appsflyersdk.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||eventgateway.soundcloud.com^
+||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events.air.tv^
 ||events.apester.com^
@@ -3345,6 +3347,7 @@ inapps.appsflyersdk.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
 ||events.split.io^
+||events.storifyme.com^
 ||events.tubecup.org^
 ||events.whisk.com^
 ||events.yourcx.io^
@@ -3822,6 +3825,7 @@ inapps.appsflyersdk.com^
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||telemetry.vtex.com^
 ||timber.sendtonews.com^
 ||timejs.game.163.com^
 ||tk.storetail.io^
@@ -13953,6 +13957,7 @@ inapps.appsflyersdk.com^
 ||beezwol.com^
 ||ksrgsc.xyz^
 ||dcdglb.xyz^
+||z0a1b2c3d4.com^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
