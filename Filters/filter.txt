@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-27T12:32:14.953Z
+! Last modified: 2023-10-27T18:21:05.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -364,6 +364,7 @@ vkcdnservice.appspot.com^
 ||1944696125.rsc.cdn77.org^
 ||1946856060.rsc.cdn77.org^
 ||1949800833.rsc.cdn77.org^
+||1969082237.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -1089,6 +1090,7 @@ vkcdnservice.appspot.com^
 ||d3pvcolmug0tz6.cloudfront.net^
 ||d3q33rbmdkxzj.cloudfront.net^
 ||d3qeaw5w9eu3lm.cloudfront.net^
+||d3qgd3yzs41yp.cloudfront.net^
 ||d3qilfrpqzfrg4.cloudfront.net^
 ||d3qinhqny4thfo.cloudfront.net^
 ||d3qttli028txpv.cloudfront.net^
@@ -13684,6 +13686,7 @@ inapps.appsflyersdk.com^
 ||asfybkiy.xyz^
 ||athecsz.cn^
 ||aueajkn.cn^
+||avplwte.xyz^
 ||awaw.asia^
 ||bbfnrn.xyz^
 ||beezwol.com^
@@ -13703,6 +13706,7 @@ inapps.appsflyersdk.com^
 ||cheda6.icu^
 ||chrtds.xyz^
 ||cjndvoglik.xyz^
+||cjohpsc.cn^
 ||cmdcdacq.xyz^
 ||cntc8.icu^
 ||crazyit8.com^
@@ -13713,6 +13717,7 @@ inapps.appsflyersdk.com^
 ||dcdglb.xyz^
 ||ddkh59.com^
 ||ddvoht.xyz^
+||df-long.cn^
 ||dhgfhedxx.xyz^
 ||diaocaixiaq.cn^
 ||djiuss.cn^
@@ -13762,6 +13767,8 @@ inapps.appsflyersdk.com^
 ||gmx28.top^
 ||gmx29.top^
 ||gmx30.top^
+||gmx38.top^
+||gmx41.top^
 ||gmx42.top^
 ||gmx43.top^
 ||gmx44.top^
@@ -13821,8 +13828,10 @@ inapps.appsflyersdk.com^
 ||liuyuhuaa.cn^
 ||lkoqtvvajktpjsk.xyz^
 ||llblwzg.xyz^
+||lmfehr.xyz^
 ||lnxpdj.xyz^
 ||lovespenhas.com^
+||lryqef.xyz^
 ||lwmzoaf.cn^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
@@ -13895,10 +13904,13 @@ inapps.appsflyersdk.com^
 ||shx11.xyz^
 ||smlpcz.icu^
 ||sregfle.cn^
+||suzoqz.icu^
+||syjkscy.cn^
 ||tcgaqh.icu^
 ||tdhlmto.cn^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
+||tongjiniao.com^
 ||trdmtx.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
@@ -13929,6 +13941,7 @@ inapps.appsflyersdk.com^
 ||whdwydt.cn^
 ||wjoxqd.com^
 ||wkrcbszi.xyz^
+||woxwhfdo.xyz^
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
 ||wuruigroup.com^
@@ -13966,17 +13979,6 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||woxwhfdo.xyz^
-||avplwte.xyz^
-||suzoqz.icu^
-||syjkscy.cn^
-||lmfehr.xyz^
-||df-long.cn^
-||lryqef.xyz^
-||gmx38.top^
-||cjohpsc.cn^
-||tongjiniao.com^
-||gmx41.top^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
