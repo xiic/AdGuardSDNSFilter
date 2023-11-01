@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-01T06:22:52.685Z
+! Last modified: 2023-11-01T12:33:16.893Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9954,6 +9954,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||finvest.care^
 ||winaffiliates1.com^
 ||flarby.com^
 ||pigeoon.com^
@@ -12832,9 +12833,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 Oct 2023 22:40 UTC+7
-! Version: 2310292240
-! Blocked: 844 rules
+! Last modified: 01 Nov 2023 16:06 UTC+7
+! Version: 2311011606
+! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13373,6 +13374,7 @@ inapps.appsflyersdk.com^
 ||digi.vinut.com.vn^
 ||dt.vnecdn.com^
 ||duamilsyr.com^
+||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||elink.nhanlucnganhluat.vn^
 ||ema.hostvn.net^
 ||event.filum.ai^
@@ -14059,6 +14061,7 @@ inapps.appsflyersdk.com^
 ||zlncvn.xyz^
 ||nbycjpo.cn^
 ||srlhgo.cn^
+||kjdbcjkmc.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
