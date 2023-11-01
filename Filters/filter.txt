@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-01T12:33:16.893Z
+! Last modified: 2023-11-01T18:21:52.550Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13768,6 +13768,7 @@ inapps.appsflyersdk.com^
 ||dvnqhdmze.xyz^
 ||dwerzv.xyz^
 ||ebmlsvw.cn^
+||eejwvwoo.xyz^
 ||eht116.com^
 ||ekzzed.icu^
 ||esnysd.icu^
@@ -13780,6 +13781,7 @@ inapps.appsflyersdk.com^
 ||fcgxidqwcx.xyz^
 ||fepmpify.xyz^
 ||fkjsjwbs.xyz^
+||fluhmmr.cn^
 ||fmvbyji.cn^
 ||foizico.cn^
 ||fptdxkm.com^
@@ -13869,6 +13871,7 @@ inapps.appsflyersdk.com^
 ||jupeicha.cn^
 ||jvjmjt.xyz^
 ||kaaqgf.icu^
+||kjdbcjkmc.com^
 ||klfbnklddfbkn.com^
 ||knhmgn.com^
 ||knuaxfv.cn^
@@ -13913,6 +13916,7 @@ inapps.appsflyersdk.com^
 ||nangongmall.com^
 ||naweslt.cn^
 ||nbxymdy.cn^
+||nbycjpo.cn^
 ||ndvfwlv.cn^
 ||neeujqf.cn^
 ||negnixa.cn^
@@ -13943,6 +13947,7 @@ inapps.appsflyersdk.com^
 ||ppvpmrt.xyz^
 ||pqjeoqa.cn^
 ||psroyx.icu^
+||ptdofj.xyz^
 ||pxxnejx.xyz^
 ||qauksl.icu^
 ||qbhjokk.xyz^
@@ -13973,6 +13978,7 @@ inapps.appsflyersdk.com^
 ||smlpcz.icu^
 ||sqevnrb.com^
 ||sregfle.cn^
+||srlhgo.cn^
 ||suzoqz.icu^
 ||syjkscy.cn^
 ||tcgaqh.icu^
@@ -13994,6 +14000,7 @@ inapps.appsflyersdk.com^
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
+||vdggsd001.com^
 ||vdggsd005.com^
 ||vdggsd006.com^
 ||vdggsd007.com^
@@ -14011,6 +14018,7 @@ inapps.appsflyersdk.com^
 ||vivienjumpe.com^
 ||vizhtd.xyz^
 ||vrivslffndepxqd.xyz^
+||vrnrpzy.xyz^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
 ||waxin0gjue.cn^
@@ -14036,6 +14044,7 @@ inapps.appsflyersdk.com^
 ||xxfphsg.cn^
 ||xxkswdf.icu^
 ||y341i.xyz^
+||ycgkol.icu^
 ||ycmgeb.icu^
 ||yepgdita.xyz^
 ||yhlzadr.xyz^
@@ -14053,15 +14062,7 @@ inapps.appsflyersdk.com^
 ||zcpsc.top^
 ||zents2.top^
 ||zjdruhn.xyz^
-||ycgkol.icu^
-||ptdofj.xyz^
-||vdggsd001.com^
-||eejwvwoo.xyz^
-||vrnrpzy.xyz^
 ||zlncvn.xyz^
-||nbycjpo.cn^
-||srlhgo.cn^
-||kjdbcjkmc.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -19313,6 +19314,8 @@ analytics-*.aasaam.com
 ||ads.alaatv.com^
 
 # >> B <<
+||sentry.bale.sh^
+
 ||posthog.basalam.com^
 ||sentry.basalam.com^
 
