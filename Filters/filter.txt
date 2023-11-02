@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-02T12:32:51.161Z
+! Last modified: 2023-11-02T18:21:41.410Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13720,6 +13720,7 @@ inapps.appsflyersdk.com^
 ||beezwol.com^
 ||berrynicolo.com^
 ||beste3.icu^
+||bfbchr.xyz^
 ||bgbqfqwi.xyz^
 ||bjtgds.xyz^
 ||bmxvxl.xyz^
@@ -13735,6 +13736,7 @@ inapps.appsflyersdk.com^
 ||cdsa2.icu^
 ||ceiuip.icu^
 ||cgbswl.icu^
+||cgqwgv.icu^
 ||cheda6.icu^
 ||chrtds.xyz^
 ||cjndvoglik.xyz^
@@ -13814,6 +13816,7 @@ inapps.appsflyersdk.com^
 ||gmx29.top^
 ||gmx30.top^
 ||gmx31.top^
+||gmx33.top^
 ||gmx34.top^
 ||gmx35.top^
 ||gmx36.top^
@@ -13841,12 +13844,14 @@ inapps.appsflyersdk.com^
 ||hcgbhq.com^
 ||hchuviq.cn^
 ||hcqumrjbx.xyz^
+||hjnjjcw.xyz^
 ||hkrytf.xyz^
 ||hnkhgw.com^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
 ||hunklm.com^
 ||huxifena.cn^
+||hvpard.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hynahyqq.xyz^
 ||ibsea.cn^
@@ -13928,6 +13933,7 @@ inapps.appsflyersdk.com^
 ||njtbiml.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
+||nubcdaqa.xyz^
 ||nyfgpbsc.xyz^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
@@ -14002,6 +14008,7 @@ inapps.appsflyersdk.com^
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
 ||vdggsd001.com^
+||vdggsd002.com^
 ||vdggsd005.com^
 ||vdggsd006.com^
 ||vdggsd007.com^
@@ -14051,6 +14058,7 @@ inapps.appsflyersdk.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yivkzvog.xyz^
+||ynulcpt.cn^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
 ||yutiqf.icu^
@@ -14064,13 +14072,6 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
-||ynulcpt.cn^
-||nubcdaqa.xyz^
-||cgqwgv.icu^
-||vdggsd002.com^
-||hjnjjcw.xyz^
-||hvpard.xyz^
-||bfbchr.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -19320,6 +19321,7 @@ analytics-*.aasaam.com
 ||ads.akaup.com^
 
 ||ads.alaatv.com^
+||sentry.alaatv.com^
 
 # >> B <<
 ||sentry.bale.sh^
