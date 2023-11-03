@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-02T18:21:41.410Z
+! Last modified: 2023-11-03T01:14:11.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -330,8 +330,11 @@ vkcdnservice.appspot.com^
 ||1235113489.rsc.cdn77.org^
 ||1254021819.rsc.cdn77.org^
 ||1263063334.rsc.cdn77.org^
+||1267779480.rsc.cdn77.org^
 ||1272341218.rsc.cdn77.org^
 ||1276665960.rsc.cdn77.org^
+||1284647416.rsc.cdn77.org^
+||1319273195.rsc.cdn77.org^
 ||1327746254.rsc.cdn77.org^
 ||1331665238.rsc.cdn77.org^
 ||1348457791.rsc.cdn77.org^
@@ -346,6 +349,7 @@ vkcdnservice.appspot.com^
 ||1520586082.rsc.cdn77.org^
 ||1567644002.rsc.cdn77.org^
 ||1567883633.rsc.cdn77.org^
+||1607947743.rsc.cdn77.org^
 ||1620484860.rsc.cdn77.org^
 ||1664906762.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
@@ -370,6 +374,7 @@ vkcdnservice.appspot.com^
 ||1946856060.rsc.cdn77.org^
 ||1949800833.rsc.cdn77.org^
 ||1969082237.rsc.cdn77.org^
+||1972163923.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -384,6 +389,7 @@ vkcdnservice.appspot.com^
 ||ad.reklamport.com^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
+||adinplay-venatus.workers.dev^
 ||adncdnend.azureedge.net^
 ||adrackpush.azurewebsites.net^
 ||ads-yallo-production.imgix.net^
@@ -416,6 +422,7 @@ vkcdnservice.appspot.com^
 ||bids.concert.io^
 ||bl.wavecdn.de^
 ||br.coe777.com^
+||bs-adserver.b-cdn.net^
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
@@ -800,6 +807,7 @@ vkcdnservice.appspot.com^
 ||d28u86vqawvw52.cloudfront.net^
 ||d28uhswspmvrhb.cloudfront.net^
 ||d28xpw6kh69p7p.cloudfront.net^
+||d2906506rwyvg2.cloudfront.net^
 ||d29bsjuqfmjd63.cloudfront.net^
 ||d29dbajta0the9.cloudfront.net^
 ||d29dzo8owxlzou.cloudfront.net^
@@ -14072,6 +14080,10 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||pfrbnl.xyz^
+||wutsldsk.xyz^
+||ybrbdft.xyz^
+||vdggsd003.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
