@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-03T18:22:18.281Z
+! Last modified: 2023-11-04T01:13:12.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -311,6 +311,7 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
+||1023131818.rsc.cdn77.org^
 ||1048284882.rsc.cdn77.org^
 ||1052706846.rsc.cdn77.org^
 ||1063072263.rsc.cdn77.org^
@@ -367,6 +368,7 @@ vkcdnservice.appspot.com^
 ||1834979659.rsc.cdn77.org^
 ||1857169728.rsc.cdn77.org^
 ||1871869301.rsc.cdn77.org^
+||1881195794.rsc.cdn77.org^
 ||1917697853.rsc.cdn77.org^
 ||1922803716.rsc.cdn77.org^
 ||1942213827.rsc.cdn77.org^
@@ -3195,6 +3197,7 @@ inapps.appsflyersdk.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.dealer.com^
 ||clicks.tyuwq.com^
+||clicktalecdn.sslcs.cdngc.net^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client-analytics.braintreegateway.com^
@@ -3759,6 +3762,7 @@ inapps.appsflyersdk.com^
 ||stats.mpthemes.net^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
+||stats.netdriven.com^
 ||stats.olark.com^
 ||stats.ozwebsites.biz^
 ||stats.polldaddy.com^
@@ -14089,6 +14093,13 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zys13.top^
+||cklithuw.xyz^
+||cammak.xyz^
+||ktvtxir.xyz^
+||egadfe.xyz^
+||vdggsd004.com^
+||pptclb.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
