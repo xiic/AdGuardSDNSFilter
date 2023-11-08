@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-08T06:22:29.004Z
+! Last modified: 2023-11-08T12:33:00.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1425,6 +1425,9 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad*.mtgglobals.com^
+||ad-*.amazonaws.com^
+||tapulsads.ru^
 ||*-hb-bid-feedback.mtgglobals.com^
 ||ads-sdk.nianticlabs.com^
 ||ad.mediamixer.co.kr^
@@ -2341,6 +2344,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||event-collector.moviesanywhere.com^
 ||us-east-1.paa-reporting-advertising.amazon^
 ||analytics.nianticlabs.com^
 ||sg.log.ulivetv.net^
@@ -4085,6 +4089,7 @@ inapps.appsflyersdk.com^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
+||d2zue0pgsssbc6.cloudfront.net^
 ||d31y97ze264gaa.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
 ||d34r8q7sht0t9k.cloudfront.net^
@@ -12798,9 +12803,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Nov 2023 22:44 UTC+7
-! Version: 2311052244
-! Blocked: 845 rules
+! Last modified: 08 Nov 2023 14:37 UTC+7
+! Version: 2311081437
+! Blocked: 846 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12934,6 +12939,7 @@ inapps.appsflyersdk.com^
 ||js.aiservice.vn^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
+||kernh41.com^
 ||klick.vn^
 ||la.vnecdn.net^
 ||la2.vnecdn.net^
@@ -14086,6 +14092,12 @@ inapps.appsflyersdk.com^
 ||ndbaxn.xyz^
 ||aispyd.icu^
 ||whols.cn^
+||elas666.pics^
+||wyohm.xyz^
+||apis301.com^
+||1k2l3m4n5o.com^
+||c1ecda.com^
+||virginiasibyl.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
