@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-08T01:14:47.847Z
+! Last modified: 2023-11-08T06:22:29.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3241,6 +3241,7 @@ inapps.appsflyersdk.com^
 ||d.shareaholic.com^
 ||d1tbj6eaenapdy.cloudfront.net^
 ||d2wa5sea6guof0.cloudfront.net^
+||d3vebqdofhigrn.cloudfront.net^
 ||dadi.technology^
 ||dash.getsitecontrol.com^
 ||data.circulate.com^
@@ -11486,8 +11487,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-05 05:40:19 CET
-# entries:        1197
+# last updated:   2023-11-08 07:03:44 CET
+# entries:        1194
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11663,7 +11664,6 @@ inapps.appsflyersdk.com^
 ||c1.adform.net^
 ||cache6.riedta.com^
 ||campersverige.com.se^
-||cardata.se^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
@@ -11908,7 +11908,6 @@ inapps.appsflyersdk.com^
 ||lib.wtg-ads.com^
 ||lifeofsvea.mainroll.com^
 ||live.demand.supply^
-||ljuskompaniet.se^
 ||loader.wisepops.com^
 ||loadr.exelator.com^
 ||loewe.com.se^
@@ -12298,7 +12297,6 @@ inapps.appsflyersdk.com^
 ||tracking.etidning.fagersta-posten.se^
 ||tracking.fagersta-posten.se^
 ||traffic.feedremedy.com^
-||trafikstyrelsen.com^
 ||trckr1.nordiskemedier.dk^
 ||tretorn-rea.com.se^
 ||twin-iq.kickfire.com^
@@ -14086,6 +14084,8 @@ inapps.appsflyersdk.com^
 ||lfhnzbj.xyz^
 ||bzbopfh.cn^
 ||ndbaxn.xyz^
+||aispyd.icu^
+||whols.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
