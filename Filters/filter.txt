@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-09T12:32:51.630Z
+! Last modified: 2023-11-09T18:21:29.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10344,6 +10344,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||afbhub.net^
 ||advortex.cloud^
 ||dlp4luwpus5kr.cloudfront.net^
 ||ad-drop.jp^
@@ -13673,6 +13674,7 @@ inapps.appsflyersdk.com^
 ||5jzu5t.com^
 ||6528fdyngk.xyz^
 ||6gcstb.xyz^
+||7ry30.xyz^
 ||888bb666cc.com^
 ||88lajs3.com^
 ||88lajs4.com^
@@ -13691,6 +13693,7 @@ inapps.appsflyersdk.com^
 ||anjneia.xyz^
 ||apis301.com^
 ||aqburrae.xyz^
+||arbbj6.com^
 ||asfybkiy.xyz^
 ||athecsz.cn^
 ||aueajkn.cn^
@@ -13750,6 +13753,7 @@ inapps.appsflyersdk.com^
 ||drtyuigj.xyz^
 ||dsbfpt.xyz^
 ||dskjhs.com^
+||dugapiece.com^
 ||dumeia.cn^
 ||dunrnd.com^
 ||durynslg.xyz^
@@ -13763,6 +13767,7 @@ inapps.appsflyersdk.com^
 ||eht116.com^
 ||ekzzed.icu^
 ||elas666.pics^
+||eshbqn.icu^
 ||esnysd.icu^
 ||estixfl.cn^
 ||ewioud.com^
@@ -13884,6 +13889,7 @@ inapps.appsflyersdk.com^
 ||ktvtxir.xyz^
 ||kvhee.com^
 ||kvskknklssv.com^
+||kvsvug.xyz^
 ||kwtgntyu.xyz^
 ||kyikdee.cn^
 ||kzprugp.xyz^
@@ -13912,12 +13918,14 @@ inapps.appsflyersdk.com^
 ||meilunsc.com^
 ||mfnfylx.xyz^
 ||mhnzhlase.xyz^
+||mlumlio.cn^
 ||mmvjuti.cn^
 ||mnhncf.cn^
 ||mphhgat.xyz^
 ||mqrupjsm.xyz^
 ||mrthav.xyz^
 ||mryqtym.cn^
+||muyxmmz.cn^
 ||mwfyab.icu^
 ||myyxox.icu^
 ||n019q.com^
@@ -13934,6 +13942,7 @@ inapps.appsflyersdk.com^
 ||njppuaj.cn^
 ||njrnwan.cn^
 ||njtbiml.xyz^
+||nndytv.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
 ||nubcdaqa.xyz^
@@ -13988,6 +13997,7 @@ inapps.appsflyersdk.com^
 ||scqaaf.cn^
 ||serda10.icu^
 ||sgeth9.icu^
+||sglahyea.xyz^
 ||shipostrich.com^
 ||shx11.xyz^
 ||smlpcz.icu^
@@ -14004,6 +14014,7 @@ inapps.appsflyersdk.com^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
 ||tongjiniao.com^
+||toyhyhv.icu^
 ||tqrznqs.cn^
 ||trdmtx.xyz^
 ||tyuetxt.com^
@@ -14065,6 +14076,7 @@ inapps.appsflyersdk.com^
 ||xg6hb.xyz^
 ||xjxbdh.xyz^
 ||xkfigjh.cn^
+||xlam.cn^
 ||xlca666.site^
 ||xmvmir.icu^
 ||xqgduov.cn^
@@ -14073,6 +14085,7 @@ inapps.appsflyersdk.com^
 ||xvzfyra.xyz^
 ||xxfphsg.cn^
 ||xxkswdf.icu^
+||xxlfteg.xyz^
 ||xzvahr.xyz^
 ||y341i.xyz^
 ||ybrbdft.xyz^
@@ -14102,15 +14115,6 @@ inapps.appsflyersdk.com^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
-||mlumlio.cn^
-||xxlfteg.xyz^
-||arbbj6.com^
-||sglahyea.xyz^
-||nndytv.xyz^
-||eshbqn.icu^
-||muyxmmz.cn^
-||xlam.cn^
-||toyhyhv.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
