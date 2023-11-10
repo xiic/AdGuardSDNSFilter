@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-10T01:14:41.022Z
+! Last modified: 2023-11-10T06:22:16.232Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11497,8 +11497,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-08 07:03:44 CET
-# entries:        1194
+# last updated:   2023-11-10 07:01:58 CET
+# entries:        1174
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11605,7 +11605,6 @@ inapps.appsflyersdk.com^
 ||analytics-sdk.yle.fi^
 ||analytics.ci-360.se^
 ||angry-golick-2a96e5.netlify.app^
-||annons.lidkopingsnytt.nu^
 ||annons.svenskjakt.se^
 ||annons.turist.se^
 ||annonsera.kyrkanstidning.se^
@@ -11628,7 +11627,6 @@ inapps.appsflyersdk.com^
 ||aquaplatform.com^
 ||arbetaren.innocraft.cloud^
 ||asicsisverige.com^
-||asicsverige.com.se^
 ||asmassets.mtvnservices.com^
 ||asset.pagefair.com^
 ||assets.adfenix.com^
@@ -11650,17 +11648,14 @@ inapps.appsflyersdk.com^
 ||bellmetric.net^
 ||bettersport.se^
 ||bettingstugan.se^
-||bilcertificat.se^
 ||bilpolicydi.bytelab.dk^
 ||biowebb-data.s3.amazonaws.com^
 ||bitstarz.com^
 ||bjursundfastigheter.se^
-||bmbstatic.blob.core.windows.net^
 ||boost-cdn.manatee.dk^
 ||boot.pbstck.com^
 ||borsvarlden-banners.azurewebsites.net^
 ||brandy.bonniernewslifestyle.se^
-||brews.marketale.com^
 ||browser.covatic.io^
 ||browser-http-intake.logs.datadoghq.com^
 ||browser-http-intake.logs.datadoghq.eu^
@@ -11799,7 +11794,6 @@ inapps.appsflyersdk.com^
 ||dynamic-83d822c6-3868940931.stat.truthlyanalytics.com^
 ||eas.mediekompaniet.com^
 ||easyresearch.se^
-||eccoskorea.com.se^
 ||ecdn.analysis.fi^
 ||ecdn.firstimpression.io^
 ||ecsanalytics.com^
@@ -11809,7 +11803,6 @@ inapps.appsflyersdk.com^
 ||embi-media.com^
 ||emea.hhkld.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
-||eteppy.com^
 ||eum.instana.io^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
 ||events-collector.spot.im^
@@ -11848,7 +11841,6 @@ inapps.appsflyersdk.com^
 ||gtm.proff.se^
 ||gtm.stampenmedia.se^
 ||gwen.insertcoin.se^
-||gymsharksverige.com.se^
 ||gym-shark-sverige.com.se^
 ||hapyak.com^
 ||hb.adpone.com^
@@ -11857,7 +11849,6 @@ inapps.appsflyersdk.com^
 ||heroaffiliates.com^
 ||highcpmrevenuenetwork.com^
 ||hollistersverige.com.se^
-||hpevoices.com^
 ||hsadspixel.net^
 ||htlb.casalemedia.com^
 ||h.online-metrix.net^
@@ -11911,7 +11902,6 @@ inapps.appsflyersdk.com^
 ||lduhtrp.net^
 ||leadconnect.ipmaxi.se^
 ||leadenhancer.com^
-||legero.com.se^
 ||leiki-doubleclick-proxy.appspot.com^
 ||levaochbo.compricer.se^
 ||libring.com^
@@ -11925,7 +11915,6 @@ inapps.appsflyersdk.com^
 ||longchampstockholm.com.se^
 ||look.ufinkln.com^
 ||low1sneakerssverige.com^
-||lululemonstockholm.com.se^
 ||m.burt.io^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
@@ -11962,13 +11951,10 @@ inapps.appsflyersdk.com^
 ||missaffiliate.com^
 ||mmetrix.mobi^
 ||moceanads.com^
-||mountainhardwearsverige.com.se^
-||mouskor.com.se^
 ||mraffiliate.com^
 ||mrporter-creative.prf.hn^
 ||mtpc.se^
 ||mtst.io^
-||muckbootssverige.com.se^
 ||my.hellobar.com^
 ||n.dyntrk.com^
 ||n24mobse.nuggad.net^
@@ -12000,7 +11986,6 @@ inapps.appsflyersdk.com^
 ||paf.elb.myaffiliates.com^
 ||palmangelssverige.com.se^
 ||partners.mcontigo.com^
-||patagonias.com.se^
 ||pcf.tdscd.com^
 ||petrk.com^
 ||pheegoab.click^
@@ -12020,7 +12005,6 @@ inapps.appsflyersdk.com^
 ||protagcdn.com^
 ||proxyas.com^
 ||public.servenobid.com^
-||pumaskorrea.com.se^
 ||pushcrew.com^
 ||pushnice.com^
 ||pushwhy.com^
@@ -12032,7 +12016,6 @@ inapps.appsflyersdk.com^
 ||recirculation.spot.im^
 ||record.findtrustclicks.com^
 ||redistats.com^
-||reeboksverige.com.se^
 ||region1.google-analytics.com^
 ||regstat.se^
 ||reklam.6x.se^
@@ -12112,7 +12095,6 @@ inapps.appsflyersdk.com^
 ||se-ads-microservice.aws.aller.com^
 ||sgtm.inet.se^
 ||sifomedia.sportsverige.se^
-||simpleoneline.online^
 ||skattamindre.se^
 ||sleeknote.com^
 ||smetrics.aftonbladet.se^
@@ -12308,7 +12290,6 @@ inapps.appsflyersdk.com^
 ||tracking.fagersta-posten.se^
 ||traffic.feedremedy.com^
 ||trckr1.nordiskemedier.dk^
-||tretorn-rea.com.se^
 ||twin-iq.kickfire.com^
 ||u.openx.net^
 ||ubembed.com^
@@ -12317,7 +12298,6 @@ inapps.appsflyersdk.com^
 ||userneeds.dk^
 ||utt.impactcdn.com^
 ||v.lkqd.net^
-||vagabondskorrea.com.se^
 ||valentinosverige.com^
 ||veinteractive.com^
 ||vejaskorstockholm.com.se^
@@ -12808,9 +12788,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Nov 2023 14:37 UTC+7
-! Version: 2311081437
-! Blocked: 846 rules
+! Last modified: 10 Nov 2023 10:57 UTC+7
+! Version: 2311101057
+! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13044,6 +13024,7 @@ inapps.appsflyersdk.com^
 ||quangcao-*.epicdn.me^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
+||realclick.vn^
 ||rec.aiservice.vn^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -13501,7 +13482,6 @@ inapps.appsflyersdk.com^
 ||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
-||realclick.vn^
 ||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
 ||report.mediahub.vn^
 ||report.vnay.vn^
@@ -13616,7 +13596,6 @@ inapps.appsflyersdk.com^
 ||truoctran.com^
 ||ttus.tructiepbongda.me^
 ||tvc.biphim.club^
-||tvnotice.kg.garena.vn^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
@@ -19431,6 +19410,8 @@ analytics-*.aasaam.com
 
 ||websocket.ilna.ir^
 # >> J <<
+||sentry.alibaba.ir^
+||tracker.jabama.com^
 
 # >> K <<
 ||kar-sentry.karnameh.com^
