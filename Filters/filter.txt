@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-11T06:20:47.660Z
+! Last modified: 2023-11-11T12:30:08.569Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11500,8 +11500,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-10 07:01:58 CET
-# entries:        1174
+# last updated:   2023-11-11 13:01:39 CET
+# entries:        1170
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11734,7 +11734,6 @@ inapps.appsflyersdk.com^
 ||cdn.relevant-digital.com^
 ||cdn.vip-hd-movies.xyz^
 ||cdn.zx-adnet.com^
-||chaco.com.se^
 ||cintnetworks.com^
 ||cision.com^
 ||cl.k5a.io^
@@ -11893,7 +11892,6 @@ inapps.appsflyersdk.com^
 ||js.hs-analytics.net^
 ||js.hs-banner.com^
 ||jtp.expressen.se^
-||kaloo.ga^
 ||keenstockholm.com.se^
 ||keymetrics.se^
 ||ksdarprt.reseguiden.se^
@@ -11924,7 +11922,6 @@ inapps.appsflyersdk.com^
 ||madsone.com^
 ||marcjacobssverige.com.se^
 ||markhor.organicfruitapps.com^
-||marlin.kumo.at^
 ||marmotsverige.com.se^
 ||masture.mobi^
 ||matomo.chsc.dk^
@@ -12332,7 +12329,6 @@ inapps.appsflyersdk.com^
 ||www.adsmatcher.com^
 ||www.adsnet.se^
 ||www.alphalete.com.se^
-||www.altrasverige.com.se^
 ||www.aservice.tools^
 ||www.awin1.com^
 ||www.awltovhc.com^
@@ -12348,6 +12344,7 @@ inapps.appsflyersdk.com^
 ||www.linnlilja.se^
 ||www.mymediaindex.com^
 ||www.onclickalgo.com^
+||www.runningshoessverige.com^
 ||www.stadiumstage.com^
 ||www.statcounter.com^
 ||www.tamgrt.com^
@@ -14118,6 +14115,7 @@ inapps.appsflyersdk.com^
 ||gscsahv011.com^
 ||mvng.cn^
 ||pzcogpj.icu^
+||wymzwy.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
