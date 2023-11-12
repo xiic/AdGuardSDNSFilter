@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-12T12:30:40.098Z
+! Last modified: 2023-11-12T18:19:46.820Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11501,8 +11501,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-11 13:01:39 CET
-# entries:        1170
+# last updated:   2023-11-12 17:37:45 CET
+# entries:        1171
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11746,6 +11746,7 @@ inapps.appsflyersdk.com^
 ||cmp.network-n.com^
 ||cncpt.dk^
 ||cncptx.com^
+||cncpt-central.com^
 ||collect.breakit.se^
 ||collect.tealiumiq.com^
 ||collector.cint.com^
@@ -13661,6 +13662,7 @@ inapps.appsflyersdk.com^
 ||88lajs3.com^
 ||88lajs4.com^
 ||88lajs6.com^
+||913mj.xyz^
 ||999aa666bb.com^
 ||a4bj6.xyz^
 ||aaknmt.icu^
@@ -13692,6 +13694,7 @@ inapps.appsflyersdk.com^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
 ||bjtgds.xyz^
+||bmtfka93.xyz^
 ||bmxvxl.xyz^
 ||bnets9.icu^
 ||bnnfvd.xyz^
@@ -13699,6 +13702,7 @@ inapps.appsflyersdk.com^
 ||bollenhurkle.com^
 ||bpbfymv.xyz^
 ||brorzpj.cn^
+||bthypgm.cn^
 ||bxbyll.xyz^
 ||bydcxdy.cn^
 ||bzbopfh.cn^
@@ -13720,6 +13724,7 @@ inapps.appsflyersdk.com^
 ||cntc8.icu^
 ||crazyit8.com^
 ||crhabkd.cn^
+||csmfee.xyz^
 ||cthbini.xyz^
 ||cuvtnzv.cn^
 ||cxpjrqa.cn^
@@ -13735,6 +13740,7 @@ inapps.appsflyersdk.com^
 ||dpj0uvy.icu^
 ||dqlfabc.cn^
 ||dqzehgha.xyz^
+||drjyjr.xyz^
 ||drtyuigj.xyz^
 ||dsbfpt.xyz^
 ||dskjhs.com^
@@ -13821,6 +13827,7 @@ inapps.appsflyersdk.com^
 ||gqleov.icu^
 ||grthhr.xyz^
 ||gscsahv011.com^
+||gscsahv012.com^
 ||gslejoki.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
@@ -13831,6 +13838,8 @@ inapps.appsflyersdk.com^
 ||hchuviq.cn^
 ||hcqumrjbx.xyz^
 ||hfjhr.cn^
+||hibj.online^
+||hixutb.xyz^
 ||hjnjjcw.xyz^
 ||hkrytf.xyz^
 ||hnkhgw.com^
@@ -13856,6 +13865,7 @@ inapps.appsflyersdk.com^
 ||ionjkcj.cn^
 ||iqs871.com^
 ||irtefs.xyz^
+||itwzlyq.com^
 ||iujlwn.icu^
 ||iuvssgh.cn^
 ||jevwdao.cn^
@@ -13873,6 +13883,7 @@ inapps.appsflyersdk.com^
 ||jvjmjt.xyz^
 ||kaaqgf.icu^
 ||kjdbcjkmc.com^
+||kkmsa.top^
 ||klfbnklddfbkn.com^
 ||klwhuci.cn^
 ||knhmgn.com^
@@ -13923,6 +13934,7 @@ inapps.appsflyersdk.com^
 ||mvng.cn^
 ||mwfyab.icu^
 ||myyxox.icu^
+||mzthbna.xyz^
 ||n019q.com^
 ||nangongmall.com^
 ||naweslt.cn^
@@ -13938,6 +13950,7 @@ inapps.appsflyersdk.com^
 ||njrnwan.cn^
 ||njtbiml.xyz^
 ||nndytv.xyz^
+||nnfalf.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
 ||nubcdaqa.xyz^
@@ -13976,11 +13989,13 @@ inapps.appsflyersdk.com^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
 ||qoqoangry.com^
+||qqvlsr.icu^
 ||qtq632.com^
 ||quqtone.cn^
 ||quzmtpxw.xyz^
 ||qwesaz.com^
 ||qwjtdcl.cn^
+||qwnmfiti.xyz^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
 ||rkds1.icu^
@@ -14061,6 +14076,7 @@ inapps.appsflyersdk.com^
 ||whdwydt.cn^
 ||whols.cn^
 ||whqgyo.xyz^
+||whranc.cn^
 ||wjoxqd.com^
 ||wkrcbszi.xyz^
 ||wlzlrlp.xyz^
@@ -14075,6 +14091,7 @@ inapps.appsflyersdk.com^
 ||wymzwy.cn^
 ||wyoaij.icu^
 ||wyohm.xyz^
+||x2y22.fun^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
@@ -14085,6 +14102,7 @@ inapps.appsflyersdk.com^
 ||xmvmir.icu^
 ||xqgduov.cn^
 ||xrcembm.cn^
+||xucyufv.icu^
 ||xvorpqz.cn^
 ||xvzfyra.xyz^
 ||xxfphsg.cn^
@@ -14120,22 +14138,6 @@ inapps.appsflyersdk.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||qwnmfiti.xyz^
-||csmfee.xyz^
-||mzthbna.xyz^
-||xucyufv.icu^
-||gscsahv012.com^
-||x2y22.fun^
-||drjyjr.xyz^
-||hixutb.xyz^
-||qqvlsr.icu^
-||913mj.xyz^
-||hibj.online^
-||bthypgm.cn^
-||whranc.cn^
-||nnfalf.xyz^
-||kkmsa.top^
-||itwzlyq.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
