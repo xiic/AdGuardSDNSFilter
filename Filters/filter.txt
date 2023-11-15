@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-15T12:34:10.896Z
+! Last modified: 2023-11-15T18:20:43.778Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -329,8 +329,10 @@ vkcdnservice.appspot.com^
 ||1675450967.rsc.cdn77.org^
 ||1691730330.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1800549549.rsc.cdn77.org^
 ||1848845070.rsc.cdn77.org^
 ||1881195794.rsc.cdn77.org^
+||1894157651.rsc.cdn77.org^
 ||1972163923.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
@@ -3783,6 +3785,7 @@ inapps.appsflyersdk.com^
 ||t.clic2buy.com^
 ||t.dgm-au.com^
 ||t.enuygun.com^
+||t.ghostboard.io^
 ||t.irtyc.com^
 ||t.jobsyn.org^
 ||t.menepe.com^
@@ -5898,6 +5901,8 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||tailstories.biz^
+||hhdjcabafaejaibaaaeg.world^
 ||givemelink.cc^
 ||mediabrama.com^
 ||ehqaobjhna.com^
@@ -13599,6 +13604,7 @@ inapps.appsflyersdk.com^
 ||1bctkn.xyz^
 ||1cpkcnm.com^
 ||1k2l3m4n5o.com^
+||1kqfzwd.com^
 ||20szp.com^
 ||24w0p.com^
 ||273knt.xyz^
@@ -13657,6 +13663,7 @@ inapps.appsflyersdk.com^
 ||bollenhurkle.com^
 ||bpbfymv.xyz^
 ||brorzpj.cn^
+||btfjjwt.xyz^
 ||bthypgm.cn^
 ||bxbyll.xyz^
 ||bydcxdy.cn^
@@ -13677,6 +13684,7 @@ inapps.appsflyersdk.com^
 ||clcmdie.com^
 ||cmdcdacq.xyz^
 ||cntc8.icu^
+||cojvur.icu^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||cry2h.cn^
@@ -13899,6 +13907,7 @@ inapps.appsflyersdk.com^
 ||mlumlio.cn^
 ||mmvjuti.cn^
 ||mnhncf.cn^
+||mpgsqk.xyz^
 ||mphhgat.xyz^
 ||mqrupjsm.xyz^
 ||mrthav.xyz^
@@ -13931,6 +13940,7 @@ inapps.appsflyersdk.com^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
 ||oapyrzde.xyz^
+||ocpydszq.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
@@ -13974,6 +13984,7 @@ inapps.appsflyersdk.com^
 ||qwnmfiti.xyz^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
+||rfrhfh.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
 ||rkds2.icu^
@@ -14054,6 +14065,8 @@ inapps.appsflyersdk.com^
 ||vrnrpzy.xyz^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
+||w3wci.site^
+||wakenssponged.com^
 ||waxin0gjue.cn^
 ||whdwydt.cn^
 ||whols.cn^
@@ -14092,6 +14105,7 @@ inapps.appsflyersdk.com^
 ||xxlfteg.xyz^
 ||xzvahr.xyz^
 ||y341i.xyz^
+||yasma.top^
 ||ybrbdft.xyz^
 ||ycgkol.icu^
 ||ycmgeb.icu^
@@ -14124,13 +14138,6 @@ inapps.appsflyersdk.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||yasma.top^
-||cojvur.icu^
-||ocpydszq.xyz^
-||btfjjwt.xyz^
-||rfrhfh.xyz^
-||mpgsqk.xyz^
-||w3wci.site^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
