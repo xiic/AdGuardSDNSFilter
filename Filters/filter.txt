@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-16T06:23:12.725Z
+! Last modified: 2023-11-16T12:34:23.044Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2358,6 +2358,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||analytics-*-nfl.yinzcam.com^
 ||prod.report.nacustomerexperience.citi.com^
 ||mon.byteoversea.com^
 ||fraud.adjoe.zone^
@@ -5902,6 +5903,8 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||wensonk.com^
+||smatr.net^
 ||tailstories.biz^
 ||hhdjcabafaejaibaaaeg.world^
 ||givemelink.cc^
@@ -11520,8 +11523,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-13 15:07:44 CET
-# entries:        1061
+# last updated:   2023-11-16 08:30:36 CET
+# entries:        1059
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11701,7 +11704,6 @@ inapps.appsflyersdk.com^
 ||cdn.biddercore.io^
 ||cdn.blueconic.net^
 ||cdn.broadstreetads.com^
-||cdn.churnkit.com^
 ||cdn.convertbox.com^
 ||cdn.decibelinsight.net^
 ||cdn.foxpush.net^
@@ -11991,7 +11993,6 @@ inapps.appsflyersdk.com^
 ||r.existenz.se^
 ||reauthenticator.com^
 ||recirculation.spot.im^
-||record.findtrustclicks.com^
 ||redistats.com^
 ||region1.google-analytics.com^
 ||regstat.se^
@@ -12300,7 +12301,6 @@ inapps.appsflyersdk.com^
 ||www.effectivecreativeformat.com^
 ||www.fakturino.se^
 ||www.guesssverige.com.se^
-||www.gymsharkswedens.com^
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
 ||www.onclickalgo.com^
@@ -12313,6 +12313,7 @@ inapps.appsflyersdk.com^
 ||www.vejasskor.com^
 ||www.datadoghq-browser-agent.com^
 ||www.gymshark-sweden.com.se^
+||www.gym-sharksweden.com^
 ||z.moatads.com^
 
 !
@@ -14148,6 +14149,9 @@ inapps.appsflyersdk.com^
 ||ybedus.xyz^
 ||xcholvbc.xyz^
 ||hfwld.cn^
+||pzwjonv.icu^
+||zhongfumzzew.com^
+||mbiypew.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
