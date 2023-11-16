@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-16T12:34:23.044Z
+! Last modified: 2023-11-16T18:22:36.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2osk0po1oybwz.cloudfront.net^
 ||d1t38ngzzazukx.cloudfront.net^
 ||d1u4z2la3g1n0x.cloudfront.net^
 ||dad1mq193mgtr.cloudfront.net^
@@ -319,6 +320,7 @@ vkcdnservice.appspot.com^
 ||1023131818.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
+||1100058268.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1267779480.rsc.cdn77.org^
 ||1276665960.rsc.cdn77.org^
@@ -326,10 +328,12 @@ vkcdnservice.appspot.com^
 ||1319273195.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1483167401.rsc.cdn77.org^
+||1489231108.rsc.cdn77.org^
 ||1607947743.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1691730330.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1754457440.rsc.cdn77.org^
 ||1800549549.rsc.cdn77.org^
 ||1848845070.rsc.cdn77.org^
 ||1881195794.rsc.cdn77.org^
@@ -417,6 +421,7 @@ vkcdnservice.appspot.com^
 ||hotwire-widget.dailywire.com^
 ||inrdeals.com^
 ||join.megaphonetv.com^
+||js.mangakl.su^
 ||js.phoenixmanga.com^
 ||karma.mdpcdn.com^
 ||marketing.888.com^
@@ -13656,6 +13661,7 @@ inapps.appsflyersdk.com^
 ||bfbchr.xyz^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
+||bhiagi.xyz^
 ||bjtgds.xyz^
 ||bmtfka93.xyz^
 ||bmxvxl.xyz^
@@ -13708,6 +13714,7 @@ inapps.appsflyersdk.com^
 ||dqlfabc.cn^
 ||dqzehgha.xyz^
 ||drjyjr.xyz^
+||drpsjp.xyz^
 ||drtyuigj.xyz^
 ||dsbfpt.xyz^
 ||dskjhs.com^
@@ -13725,6 +13732,7 @@ inapps.appsflyersdk.com^
 ||eht116.com^
 ||ekzzed.icu^
 ||elas666.pics^
+||eqcwpeo.cn^
 ||erutxdk.cn^
 ||eshbqn.icu^
 ||esnysd.icu^
@@ -13813,6 +13821,7 @@ inapps.appsflyersdk.com^
 ||hcqumrjbx.xyz^
 ||hfjhr.cn^
 ||hfresgtyytjncvvh.com^
+||hfwld.cn^
 ||hibj.online^
 ||hixutb.xyz^
 ||hjnjjcw.xyz^
@@ -13859,6 +13868,7 @@ inapps.appsflyersdk.com^
 ||juljrd.xyz^
 ||jupeicha.cn^
 ||jvjmjt.xyz^
+||k6syi.space^
 ||kaaqgf.icu^
 ||kaezakkjt.com^
 ||kbbrptv.xyz^
@@ -13900,6 +13910,7 @@ inapps.appsflyersdk.com^
 ||lxznbz.xyz^
 ||m05ib.xyz^
 ||mads7.icu^
+||mbiypew.cn^
 ||mcds7.icu^
 ||mcds9.icu^
 ||meilunsc.com^
@@ -13933,6 +13944,7 @@ inapps.appsflyersdk.com^
 ||njppuaj.cn^
 ||njrnwan.cn^
 ||njtbiml.xyz^
+||nlfbdgr.xyz^
 ||nndytv.xyz^
 ||nnfalf.xyz^
 ||nofizx.xyz^
@@ -13968,6 +13980,7 @@ inapps.appsflyersdk.com^
 ||ptdofj.xyz^
 ||pxxnejx.xyz^
 ||pzcogpj.icu^
+||pzwjonv.icu^
 ||qauksl.icu^
 ||qbhjokk.xyz^
 ||qboywc.xyz^
@@ -14015,6 +14028,7 @@ inapps.appsflyersdk.com^
 ||tdhlmto.cn^
 ||tewsdnka35.xyz^
 ||tfczk.xyz^
+||tfrwxv.xyz^
 ||tgjdbx.xyz^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
@@ -14089,6 +14103,7 @@ inapps.appsflyersdk.com^
 ||wyoaij.icu^
 ||wyohm.xyz^
 ||x2y22.fun^
+||xcholvbc.xyz^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
@@ -14108,6 +14123,7 @@ inapps.appsflyersdk.com^
 ||xzvahr.xyz^
 ||y341i.xyz^
 ||yasma.top^
+||ybedus.xyz^
 ||ybrbdft.xyz^
 ||ycgkol.icu^
 ||ycmgeb.icu^
@@ -14129,6 +14145,7 @@ inapps.appsflyersdk.com^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^
+||zhongfumzzew.com^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
 ||zmfcnlvu.xyz^
@@ -14140,18 +14157,6 @@ inapps.appsflyersdk.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||eqcwpeo.cn^
-||k6syi.space^
-||drpsjp.xyz^
-||bhiagi.xyz^
-||tfrwxv.xyz^
-||nlfbdgr.xyz^
-||ybedus.xyz^
-||xcholvbc.xyz^
-||hfwld.cn^
-||pzwjonv.icu^
-||zhongfumzzew.com^
-||mbiypew.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
