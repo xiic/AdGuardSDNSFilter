@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-17T12:33:41.796Z
+! Last modified: 2023-11-17T18:22:29.785Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||pbcs.realtor.com^
 ||d108nnfn2eigw4.cloudfront.net^
 ||d2osk0po1oybwz.cloudfront.net^
 ||d1t38ngzzazukx.cloudfront.net^
@@ -7063,7 +7064,6 @@ inapps.appsflyersdk.com^
 ||vuwgt.com^
 ||jerredsite.pro^
 ||4736.in^
-||bannerboo.com^
 ||prelstar.ru^
 ||dytupr.com^
 ||r5jpkacq.ru^
@@ -11809,6 +11809,7 @@ inapps.appsflyersdk.com^
 ||edge.atmtd.com^
 ||edge.quantserve.com^
 ||elasticad.net^
+||embed.bannerboo.com^
 ||embi-media.com^
 ||emea.hhkld.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
@@ -12755,8 +12756,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Nov 2023 16:27 UTC+7
-! Version: 2311151627
+! Last modified: 17 Nov 2023 22:21 UTC+7
+! Version: 2311172221
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13612,8 +13613,11 @@ inapps.appsflyersdk.com^
 ||17123.net^
 ||1bctkn.xyz^
 ||1cpkcnm.com^
+||1iuybpo.com^
 ||1k2l3m4n5o.com^
+||1kfnsra.com^
 ||1kqfzwd.com^
+||1weorpu.com^
 ||20szp.com^
 ||24w0p.com^
 ||273knt.xyz^
@@ -13656,6 +13660,7 @@ inapps.appsflyersdk.com^
 ||awaw.asia^
 ||azdiqsb.cn^
 ||bbfnrn.xyz^
+||bctxtl.xyz^
 ||bdlexn.xyz^
 ||beezwol.com^
 ||berrynicolo.com^
@@ -13680,8 +13685,10 @@ inapps.appsflyersdk.com^
 ||bzbopfh.cn^
 ||bzvhgbr.xyz^
 ||c1ecda.com^
+||c78zf.xyz^
 ||cadizer.com^
 ||cammak.xyz^
+||caonme.xyz^
 ||cdsa2.icu^
 ||ceiuip.icu^
 ||cgbswl.icu^
@@ -13813,6 +13820,7 @@ inapps.appsflyersdk.com^
 ||gscsahv013.com^
 ||gscsahv014.com^
 ||gslejoki.xyz^
+||gszetzdm.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
 ||haise3.top^
@@ -13825,6 +13833,7 @@ inapps.appsflyersdk.com^
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
 ||hibj.online^
+||hihlj.online^
 ||hixutb.xyz^
 ||hjnjjcw.xyz^
 ||hkrytf.xyz^
@@ -13834,6 +13843,7 @@ inapps.appsflyersdk.com^
 ||hunklm.com^
 ||huxifena.cn^
 ||hvpard.xyz^
+||hw0.com.cn^
 ||hwuogmusthxfpk.xyz^
 ||hwvwxerw.xyz^
 ||hxhx9.cn^
@@ -13878,6 +13888,7 @@ inapps.appsflyersdk.com^
 ||kkmsa.top^
 ||klfbnklddfbkn.com^
 ||klwhuci.cn^
+||kncrya.xyz^
 ||knhmgn.com^
 ||knuaxfv.cn^
 ||kshrsf.icu^
@@ -13911,6 +13922,7 @@ inapps.appsflyersdk.com^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
 ||m05ib.xyz^
+||m2k3j7x8.com^
 ||mads7.icu^
 ||mbiypew.cn^
 ||mcds7.icu^
@@ -13969,6 +13981,7 @@ inapps.appsflyersdk.com^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
 ||pajhvd.xyz^
+||pdngnx.xyz^
 ||pdweoyw.cn^
 ||pexavfro.xyz^
 ||pfrbnl.xyz^
@@ -14018,6 +14031,7 @@ inapps.appsflyersdk.com^
 ||sglahyea.xyz^
 ||shipostrich.com^
 ||shx11.xyz^
+||sllo.top^
 ||smlpcz.icu^
 ||splfnok.cn^
 ||sqevnrb.com^
@@ -14025,9 +14039,11 @@ inapps.appsflyersdk.com^
 ||srlhgo.cn^
 ||suzoqz.icu^
 ||syjkscy.cn^
+||tae0t.site^
 ||tcgaqh.icu^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
+||teamjwar.com^
 ||tewsdnka35.xyz^
 ||tfczk.xyz^
 ||tfrwxv.xyz^
@@ -14146,6 +14162,7 @@ inapps.appsflyersdk.com^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
+||zdjtxjp.xyz^
 ||zents2.top^
 ||zhongfumzzew.com^
 ||zjdruhn.xyz^
@@ -14159,19 +14176,6 @@ inapps.appsflyersdk.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||pdngnx.xyz^
-||tae0t.site^
-||zdjtxjp.xyz^
-||gszetzdm.xyz^
-||bctxtl.xyz^
-||kncrya.xyz^
-||caonme.xyz^
-||sllo.top^
-||teamjwar.com^
-||hw0.com.cn^
-||c78zf.xyz^
-||hihlj.online^
-||1weorpu.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
