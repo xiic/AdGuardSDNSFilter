@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-22T18:22:21.186Z
+! Last modified: 2023-11-23T01:16:53.478Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -333,6 +333,7 @@ vkcdnservice.appspot.com^
 ||1437953666.rsc.cdn77.org^
 ||1483167401.rsc.cdn77.org^
 ||1489231108.rsc.cdn77.org^
+||1590742428.rsc.cdn77.org^
 ||1607947743.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1678970469.rsc.cdn77.org^
@@ -3555,6 +3556,7 @@ inapps.appsflyersdk.com^
 ||net-tracker.notolytix.com^
 ||netlify-rum.netlify.app^
 ||newsanalytics.com.au^
+||nitrous-analytics.s3.amazonaws.com^
 ||noflake-aggregator-http.narvar.com^
 ||nojscontainer.pepperjam.com^
 ||nol.yahoo.com^
@@ -14259,6 +14261,15 @@ inapps.appsflyersdk.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||corcztpc.xyz^
+||ran2.top^
+||7bspu.site^
+||quzpvtt.xyz^
+||rxrdjb.xyz^
+||hkvuzv.xyz^
+||dzdxnbc.xyz^
+||jackdd.xyz^
+||mhglue.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
