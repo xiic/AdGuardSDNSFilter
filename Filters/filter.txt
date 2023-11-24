@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-24T01:15:10.890Z
+! Last modified: 2023-11-24T06:22:50.058Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3177,13 +3177,11 @@ inapps.appsflyersdk.com^
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
-||cdn.trafficexchangelist.com^
 ||cdn.usefathom.com^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.puretec.de^
 ||chanalytics.merchantadvantage.com^
-||check.deadlinefunnel.com^
 ||cimage.adobe.com^
 ||ck.connatix.com^
 ||clevertap-prod.com^
@@ -3312,6 +3310,7 @@ inapps.appsflyersdk.com^
 ||dl.episerver.net^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-beacons.cbsivideo.com^
+||doppler-client-events.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
@@ -14288,6 +14287,7 @@ inapps.appsflyersdk.com^
 ||djponj.xyz^
 ||huxsvl.xyz^
 ||kkeojk.xyz^
+||tobyxev.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
