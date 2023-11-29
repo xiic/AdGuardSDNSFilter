@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-29T12:33:58.302Z
+! Last modified: 2023-11-29T18:22:17.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d1r3ddyrqrmcjv.cloudfront.net^
 ||d1i64ia3gj0ol1.cloudfront.net^
 ||ads.digital.disneyadvertising.com^
 ||d2trpg4l6gqit0.cloudfront.net^
@@ -13680,7 +13681,10 @@ inapps.appsflyersdk.com^
 ||autyxdek.xyz^
 ||avplwte.xyz^
 ||awaw.asia^
+||ax7fv.space^
 ||azdiqsb.cn^
+||bachou.cn^
+||bavkvoks.xyz^
 ||bbfnrn.xyz^
 ||bcovazp.icu^
 ||bctxtl.xyz^
@@ -13733,6 +13737,7 @@ inapps.appsflyersdk.com^
 ||cnrdlpk.xyz^
 ||cntc8.icu^
 ||cojvur.icu^
+||commonwealthproficient.com^
 ||corcztpc.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
@@ -13741,6 +13746,7 @@ inapps.appsflyersdk.com^
 ||csmfee.xyz^
 ||cthbini.xyz^
 ||cuvtnzv.cn^
+||cvtbdap.xyz^
 ||cxpjrqa.cn^
 ||cy5kr.fun^
 ||danun.cn^
@@ -13818,6 +13824,7 @@ inapps.appsflyersdk.com^
 ||fsgiosi.com^
 ||ftzzbx.xyz^
 ||fwhhcpj.xyz^
+||fxkfhbn.xyz^
 ||fytpft.xyz^
 ||fzgetdy.cn^
 ||g0fc3.com^
@@ -13827,6 +13834,7 @@ inapps.appsflyersdk.com^
 ||gejhhh.cn^
 ||gelbjvl.cn^
 ||gfbdb1.com^
+||ggrfab.icu^
 ||ghbdsbfd.com^
 ||gixgav.icu^
 ||gizlnr.com^
@@ -14050,6 +14058,7 @@ inapps.appsflyersdk.com^
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
 ||njppuaj.cn^
+||njreka.xyz^
 ||njrnwan.cn^
 ||njtbiml.xyz^
 ||nlfbdgr.xyz^
@@ -14073,6 +14082,7 @@ inapps.appsflyersdk.com^
 ||omkxes.xyz^
 ||omzxutfm.com^
 ||ooejkd.xyz^
+||oouiqi.xyz^
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
@@ -14138,10 +14148,12 @@ inapps.appsflyersdk.com^
 ||rkds2.icu^
 ||rkds5.icu^
 ||rntdqwc.xyz^
+||roio.top^
 ||ronm.top^
 ||roxewwq.cn^
 ||rqrvfp.xyz^
 ||rrfccx.com^
+||rshsk.xyz^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
 ||rvvji.online^
@@ -14330,17 +14342,6 @@ inapps.appsflyersdk.com^
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
-||cvtbdap.xyz^
-||roio.top^
-||njreka.xyz^
-||ax7fv.space^
-||bavkvoks.xyz^
-||oouiqi.xyz^
-||fxkfhbn.xyz^
-||commonwealthproficient.com^
-||rshsk.xyz^
-||bachou.cn^
-||ggrfab.icu^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
