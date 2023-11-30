@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-30T12:33:43.999Z
+! Last modified: 2023-11-30T18:22:21.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2lzu2a5ishr7o.cloudfront.net^
 ||d2o8i1jpfoso49.cloudfront.net^
 ||d1r3ddyrqrmcjv.cloudfront.net^
 ||d1i64ia3gj0ol1.cloudfront.net^
@@ -332,9 +333,12 @@ vkcdnservice.appspot.com^
 ||1187531871.rsc.cdn77.org^
 ||1194047269.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1537621450.rsc.cdn77.org^
 ||1540685764.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1713481975.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1872859781.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -2302,7 +2306,6 @@ gcdsdk.appsflyersdk.com^
 cdn-settings.appsflyersdk.com^
 dlsdk.appsflyersdk.com^
 ||adrevenue.appsflyer.com^
-||af-event-logger.appsflyer.com^
 ||api.appsflyer.com^
 ||api2.appsflyer.com^
 ||app.appsflyer.com^
@@ -2327,7 +2330,6 @@ inapps.appsflyersdk.com^
 ||register.appsflyer.com^
 ||sdk-services.appsflyer.com^
 ||sdk.appsflyer.com^
-||statsgoogle.appsflyer.com^
 ||track.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
@@ -2570,7 +2572,6 @@ inapps.appsflyersdk.com^
 ||msg.umengcloud.com^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
-||ada-tr.staff-start.com^
 ||analytics.liveact-vault.com^
 ||analytics.300624.com^
 ||toblog.ctobsnssdk.com^
@@ -2835,7 +2836,6 @@ inapps.appsflyersdk.com^
 ||geoip.ifunny.co^
 ||alogs.umeng.com^
 ||alogs.umengcloud.com^
-||stats.umsns.com^
 ||device-metrics-*.amazon.com^
 ||flurry.agentportal.*.yahoodns.net^
 ||4seeresults.com^
@@ -2927,12 +2927,6 @@ inapps.appsflyersdk.com^
 ||utop.umengcloud.com^
 ! KingRoot
 ||analy.qq.com^
-! SafeGraph SDK tracking URL
-! References:
-! https://github.com/aapiro/openlocate-android
-! https://reports.exodus-privacy.eu.org/en/trackers/44/
-! https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood
-||api.safegraph.com^
 
 !
 ! Source name: EasyPrivacy third-party tracking servers
@@ -13655,9 +13649,12 @@ inapps.appsflyersdk.com^
 ||88lajs4.com^
 ||88lajs6.com^
 ||8d07a.xyz^
+||8zkt7.xyz^
 ||913mj.xyz^
 ||999aa666bb.com^
 ||a4bj6.xyz^
+||aadmei.xyz^
+||aaiwuq.xyz^
 ||aaknmt.icu^
 ||actrqdr.cn^
 ||aflsj.com^
@@ -13669,6 +13666,7 @@ inapps.appsflyersdk.com^
 ||aispyd.icu^
 ||aknkvallbfml.com^
 ||albsgdq.cn^
+||ameidj.xyz^
 ||anhlnnm.cn^
 ||aniede.xyz^
 ||anjneia.xyz^
@@ -13687,6 +13685,7 @@ inapps.appsflyersdk.com^
 ||azdiqsb.cn^
 ||bachou.cn^
 ||bavkvoks.xyz^
+||bbccf12.xyz^
 ||bbfnrn.xyz^
 ||bcovazp.icu^
 ||bctxtl.xyz^
@@ -13791,6 +13790,7 @@ inapps.appsflyersdk.com^
 ||elas666.pics^
 ||elemea.xyz^
 ||elprput.xyz^
+||emynwlz.xyz^
 ||eqcwpeo.cn^
 ||eraygc.xyz^
 ||erutxdk.cn^
@@ -13823,6 +13823,7 @@ inapps.appsflyersdk.com^
 ||fortxfq.cn^
 ||fotaxf.xyz^
 ||fptdxkm.com^
+||fqtljn.xyz^
 ||fsgiosi.com^
 ||ftzzbx.xyz^
 ||fwhhcpj.xyz^
@@ -13888,9 +13889,11 @@ inapps.appsflyersdk.com^
 ||gszetzdm.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
+||gxx4t.online^
 ||haise3.top^
 ||haise4.top^
 ||haise5.top^
+||hanadrmc.xyz^
 ||haree.cn^
 ||haxqxd.xyz^
 ||hcgbhq.com^
@@ -13938,6 +13941,7 @@ inapps.appsflyersdk.com^
 ||ionjkcj.cn^
 ||iqs871.com^
 ||irtefs.xyz^
+||isnd.top^
 ||itwzlyq.com^
 ||iujlwn.icu^
 ||iuvssgh.cn^
@@ -13984,6 +13988,7 @@ inapps.appsflyersdk.com^
 ||knhmgn.com^
 ||knuaxfv.cn^
 ||koyuod.xyz^
+||kqbrgl.icu^
 ||kshrsf.icu^
 ||ksrgsc.xyz^
 ||ktvtxir.xyz^
@@ -14053,6 +14058,7 @@ inapps.appsflyersdk.com^
 ||naweslt.cn^
 ||nbxymdy.cn^
 ||nbycjpo.cn^
+||ncjpbv.xyz^
 ||ndbaxn.xyz^
 ||ndvfwlv.cn^
 ||neeujqf.cn^
@@ -14083,8 +14089,10 @@ inapps.appsflyersdk.com^
 ||olltcqg.xyz^
 ||omkxes.xyz^
 ||omzxutfm.com^
+||onxtxdm.xyz^
 ||ooejkd.xyz^
 ||oouiqi.xyz^
+||operqr.top^
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
@@ -14157,6 +14165,7 @@ inapps.appsflyersdk.com^
 ||rrfccx.com^
 ||rshsk.xyz^
 ||rslkhj.xyz^
+||rt004.top^
 ||rvreuxi.cn^
 ||rvvji.online^
 ||rxrdjb.xyz^
@@ -14272,6 +14281,7 @@ inapps.appsflyersdk.com^
 ||wuyaw.cn^
 ||wvtem.com^
 ||wwwww.asia^
+||wwxufo.com^
 ||wyiegt.icu^
 ||wymzwy.cn^
 ||wyoaij.icu^
@@ -14286,6 +14296,7 @@ inapps.appsflyersdk.com^
 ||xixil.cn^
 ||xjxbdh.xyz^
 ||xkfigjh.cn^
+||xkjmjj.com^
 ||xlam.cn^
 ||xlca666.site^
 ||xmvmir.icu^
@@ -14344,20 +14355,6 @@ inapps.appsflyersdk.com^
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
-||aadmei.xyz^
-||onxtxdm.xyz^
-||isnd.top^
-||gxx4t.online^
-||aaiwuq.xyz^
-||hanadrmc.xyz^
-||ncjpbv.xyz^
-||bbccf12.xyz^
-||emynwlz.xyz^
-||kqbrgl.icu^
-||ameidj.xyz^
-||fqtljn.xyz^
-||8zkt7.xyz^
-||rt004.top^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
