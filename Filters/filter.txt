@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-03T01:21:03.541Z
+! Last modified: 2023-12-03T06:21:00.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4016,6 +4016,7 @@ inapps.appsflyersdk.com^
 ||uid.mediacorp.sg^
 ||units.knotch.it^
 ||us-central1-markuphero.cloudfunctions.net^
+||usaoptimizedby.increasingly.co^
 ||user.userguiding.com^
 ||userexperience.thehut.net^
 ||usersegment.wpdigital.net^
@@ -5197,6 +5198,7 @@ inapps.appsflyersdk.com^
 ||analytics.audionow.de^
 ||analytics.cnd-motionmedia.de^
 ||analytics.gameforge.de^
+||analytics.idfnet.net^
 ||analytics.loop-cloud.de^
 ||analytics.media-proweb.de^
 ||analytics.praetor.im^
@@ -11537,8 +11539,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-01 08:19:46 CET
-# entries:        1053
+# last updated:   2023-12-03 06:36:12 CET
+# entries:        1054
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -12118,6 +12120,7 @@ inapps.appsflyersdk.com^
 ||statsapi.tiendeo.se^
 ||step-dk.gscontxt.net^
 ||storymedia.se^
+||stpd.cloud^
 ||strossle.com^
 ||st-n.ads1-adnow.com^
 ||synchrobox.adswizz.com^
@@ -14393,6 +14396,7 @@ inapps.appsflyersdk.com^
 ||needqnv.xyz^
 ||bepmrb.xyz^
 ||motcmn.icu^
+||f23al.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
