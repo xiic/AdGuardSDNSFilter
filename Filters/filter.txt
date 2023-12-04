@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-04T12:33:45.113Z
+! Last modified: 2023-12-04T18:22:39.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -342,6 +342,8 @@ vkcdnservice.appspot.com^
 ||1713481975.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1872859781.rsc.cdn77.org^
+||1882116630.rsc.cdn77.org^
+||1926886515.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -13635,6 +13637,7 @@ inapps.appsflyersdk.com^
 ||24w0p.com^
 ||273knt.xyz^
 ||2c0a5.xyz^
+||2hpg0.fun^
 ||2s8s.com^
 ||2u3v4w5x6y.com^
 ||3562wsgkbcm.xyz^
@@ -13660,6 +13663,7 @@ inapps.appsflyersdk.com^
 ||8zkt7.xyz^
 ||913mj.xyz^
 ||999aa666bb.com^
+||9g659.xyz^
 ||9i8i.com^
 ||a4bj6.xyz^
 ||a99hz.space^
@@ -13700,6 +13704,7 @@ inapps.appsflyersdk.com^
 ||bavkvoks.xyz^
 ||bbccf12.xyz^
 ||bbfnrn.xyz^
+||bbrnpj.xyz^
 ||bcovazp.icu^
 ||bctxtl.xyz^
 ||bdlexn.xyz^
@@ -13854,6 +13859,7 @@ inapps.appsflyersdk.com^
 ||gaopinoa.cn^
 ||gbc27.online^
 ||gcbtgh26.xyz^
+||geicmu.xyz^
 ||gejhhh.cn^
 ||gelbjvl.cn^
 ||gfbdb1.com^
@@ -13914,6 +13920,7 @@ inapps.appsflyersdk.com^
 ||haise4.top^
 ||haise5.top^
 ||hanadrmc.xyz^
+||hangzhouhdb.top^
 ||haree.cn^
 ||haxqxd.xyz^
 ||hcgbhq.com^
@@ -13981,6 +13988,7 @@ inapps.appsflyersdk.com^
 ||jiangyahuir.top^
 ||jili9.io^
 ||jingxuanjingyan.com^
+||jjvzqjh.xyz^
 ||jlhlnd.xyz^
 ||jmhngn.com^
 ||jmvvpb.xyz^
@@ -14048,6 +14056,7 @@ inapps.appsflyersdk.com^
 ||lnxpdj.xyz^
 ||lovespenhas.com^
 ||lryqef.xyz^
+||lutrbr.xyz^
 ||lvnlrmn.xyz^
 ||lwhffh.xyz^
 ||lwmzoaf.cn^
@@ -14070,6 +14079,7 @@ inapps.appsflyersdk.com^
 ||mhzftye.xyz^
 ||mlumlio.cn^
 ||mmiedf.xyz^
+||mmtdfxh.xyz^
 ||mmvjuti.cn^
 ||mnhncf.cn^
 ||motcmn.icu^
@@ -14139,6 +14149,7 @@ inapps.appsflyersdk.com^
 ||pfrbnl.xyz^
 ||phwrju.xyz^
 ||pidurrmu.xyz^
+||pipc.top^
 ||pirubcfy.xyz^
 ||pobrpr.xyz^
 ||poiwer.com^
@@ -14146,6 +14157,7 @@ inapps.appsflyersdk.com^
 ||pptclb.xyz^
 ||ppvpmrt.xyz^
 ||pqjeoqa.cn^
+||pqnqrjxe.xyz^
 ||prhphla.xyz^
 ||psroyx.icu^
 ||ptdofj.xyz^
@@ -14178,6 +14190,7 @@ inapps.appsflyersdk.com^
 ||qwesaz.com^
 ||qwjtdcl.cn^
 ||qwnmfiti.xyz^
+||qydoex.icu^
 ||qyoqeq.xyz^
 ||r9ffi.fun^
 ||ran2.top^
@@ -14274,6 +14287,7 @@ inapps.appsflyersdk.com^
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
 ||uzrxoxd.xyz^
+||v34s6r.com^
 ||vainews.cn^
 ||valerieurania.com^
 ||vdggsd001.com^
@@ -14346,6 +14360,8 @@ inapps.appsflyersdk.com^
 ||xlam.cn^
 ||xlca666.site^
 ||xmvmir.icu^
+||xn--9kq29i0tjy6b044actm.com^
+||xn--gmq238c5fy.com^
 ||xqgduov.cn^
 ||xrcembm.cn^
 ||xrrhwgj.xyz^
@@ -14403,19 +14419,6 @@ inapps.appsflyersdk.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||2hpg0.fun^
-||pipc.top^
-||geicmu.xyz^
-||pqnqrjxe.xyz^
-||mmtdfxh.xyz^
-||jjvzqjh.xyz^
-||lutrbr.xyz^
-||bbrnpj.xyz^
-||9g659.xyz^
-||xn--gmq238c5fy.com^
-||xn--9kq29i0tjy6b044actm.com^
-||v34s6r.com^
-||hangzhouhdb.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
