@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-08T12:33:07.963Z
+! Last modified: 2023-12-08T18:22:18.162Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d126kahie2ogx0.cloudfront.net^
 ||d27tzcmp091qxd.cloudfront.net^
 ||d2fnnovf9qvlf2.cloudfront.net^
 ||d25sca3heoa1so.cloudfront.net^
@@ -9678,6 +9679,7 @@ inapps.appsflyersdk.com^
 !
 ||bjiuck.com^
 !
+!
 ! Ads reinjection (For apps only)
 !
 ||4jiqzr.ru^
@@ -11487,6 +11489,7 @@ inapps.appsflyersdk.com^
 ||sexgoesmobile.com^
 ||shareifyoulike.com^
 ||siyl.net^
+||smartico.one^
 ||solads.media^
 ||spaceeditors.com^
 ||sparkads.ws^
@@ -12778,9 +12781,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Dec 2023 10:27 UTC+7
-! Version: 2312061027
-! Blocked: 848 rules
+! Last modified: 08 Dec 2023 23:41 UTC+7
+! Version: 2312082341
+! Blocked: 860 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12798,6 +12801,7 @@ inapps.appsflyersdk.com^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
+||admon.com.vn^
 ||adnetwork.vn^
 ||adp.vnecdn.net^
 ||adpia.vn^
@@ -13074,6 +13078,10 @@ inapps.appsflyersdk.com^
 ||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
 ||tracking2.vnncdn.net^
+||trackingbr.zingplay.com^
+||trackingin.zingplay.com^
+||trackingsea.zingplay.com^
+||trackingvn.zingplay.com^
 ||trk-pcweb.api.zaloapp.com^
 ||urekamedia.com^
 ||v20.cnnd.vn^
@@ -13190,6 +13198,7 @@ inapps.appsflyersdk.com^
 ||ads.thegioitiepthi.vn^
 ||ads.thesaigontimes.vn^
 ||ads.thitruongtaichinhtiente.vn^
+||ads.thvli.vn^
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
 ||ads.vishare.vn^
@@ -13240,15 +13249,19 @@ inapps.appsflyersdk.com^
 ||an.dongphim.net^
 ||an.xemvtv.net^
 ||analytic.baodantoc.vn^
+||analytic.thuanbui.me^
 ||analytic.vnanet.vn^
-||analytics.admon.com.vn^
 ||analytics.aita.gov.vn^
+||analytics.amedigital.vn^
 ||analytics.bachtuongphat.com^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
 ||analytics.diamondstarfinancial.com.vn^
+||analytics.digi8.vn^
 ||analytics.evgcdn.net^
 ||analytics.fsoft.com.vn^
+||analytics.gotama.link^
+||analytics.hapo.vn^
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
@@ -13455,6 +13468,7 @@ inapps.appsflyersdk.com^
 ||offerwall.headlines.pw^
 ||openx.motgame.vn^
 ||ox1.vietstock.vn^
+||plausible.vucar.vn^
 ||production-tracking.riviu.co^
 ||proof.sudo.vn^
 ||px.saostar.vn^
@@ -13552,6 +13566,7 @@ inapps.appsflyersdk.com^
 ||track.lapa.pub^
 ||track.lemonnovel.com^
 ||track.pnj.com.vn^
+||track.popsww.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
 ||tracker.anime47.com^
@@ -13578,9 +13593,8 @@ inapps.appsflyersdk.com^
 ||tracking.vegaid.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
+||tracking.viez.vn^
 ||trackingapi.foody.vn^
-||trackingsea.zingplay.com^
-||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
 ||traffic.vietnhan.co^
 ||trenddigital.vn^
@@ -14497,6 +14511,8 @@ inapps.appsflyersdk.com^
 ||zpzlbv.xyz^
 ||ytlcz.cn^
 ||lsce.top^
+||88dml.top^
+||valerieavisnba.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
