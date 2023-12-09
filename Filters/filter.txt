@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-09T06:21:09.641Z
+! Last modified: 2023-12-09T12:30:52.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -331,22 +331,13 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
-||1080161847.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
-||1186656647.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
-||1194047269.rsc.cdn77.org^
 ||1203782659.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
-||1537621450.rsc.cdn77.org^
-||1540685764.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
-||1713481975.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
-||1872859781.rsc.cdn77.org^
-||1882116630.rsc.cdn77.org^
-||1926886515.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -486,6 +477,7 @@ vkcdnservice.appspot.com^
 ||vice-publishers-cdn.vice.com^
 ||video-ads.a2z.com^
 ||videosvc.ezoic.com^
+||vv.7vid.net^
 ||webapps.leasing.com^
 ||weby.aaas.org^
 ||wheelify.cartzy.com^
