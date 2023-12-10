@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-10T06:21:08.095Z
+! Last modified: 2023-12-10T12:30:47.763Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11553,8 +11553,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-07 06:20:43 CET
-# entries:        1053
+# last updated:   2023-12-10 08:32:21 CET
+# entries:        1054
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11907,6 +11907,7 @@ inapps.appsflyersdk.com^
 ||js.getlasso.co^
 ||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
+||js.multibrandaffiliates.com^
 ||jsc.adskeeper.com^
 ||jsc.adskeeper.co.uk^
 ||jsc.mgid.com^
@@ -14526,6 +14527,8 @@ inapps.appsflyersdk.com^
 ||kqwerp.top^
 ||szbxm.cn^
 ||foxoxn.xyz^
+||wxsignin.top^
+||uwerpyh.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
