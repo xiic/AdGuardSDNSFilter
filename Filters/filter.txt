@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-11T12:34:58.569Z
+! Last modified: 2023-12-11T18:22:39.626Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12775,9 +12775,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Dec 2023 22:06 UTC+7
-! Version: 2312102206
-! Blocked: 859 rules
+! Last modified: 11 Dec 2023 22:02 UTC+7
+! Version: 2312112202
+! Blocked: 849 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13250,7 +13250,6 @@ inapps.appsflyersdk.com^
 ||analytics.bachtuongphat.com^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
-||analytics.diamondstarfinancial.com.vn^
 ||analytics.digi8.vn^
 ||analytics.evgcdn.net^
 ||analytics.fsoft.com.vn^
@@ -13259,7 +13258,6 @@ inapps.appsflyersdk.com^
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
-||analytics.mfocus.vn^
 ||analytics.molistar.com^
 ||analytics.moneycat.vn^
 ||analytics.nhattao.com^
@@ -13368,7 +13366,6 @@ inapps.appsflyersdk.com^
 ||live.careplusvn.com^
 ||live.vnpgroup.net^
 ||liveonline.nhanhoa.com^
-||lmsreport.systems.vn^
 ||log-collector.shopee.vn^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
@@ -13414,10 +13411,7 @@ inapps.appsflyersdk.com^
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
-||log.trithuctructuyen.com.vn^
-||log.trithuctructuyen.vn^
 ||log.tv360.vn^
-||log.vietnamdaily.net.vn^
 ||log.viettimes.vn^
 ||log.vnay.vn^
 ||log.vneconomy.vn^
@@ -13446,7 +13440,6 @@ inapps.appsflyersdk.com^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
 ||media.dabong247.com^
-||mega1.yeah1.com^
 ||menu.metu.vn^
 ||microad.vn^
 ||mkt.hoanghamobile.com^
@@ -13473,7 +13466,6 @@ inapps.appsflyersdk.com^
 ||qc.kqbd88.com^
 ||qc.mhsolution.vn^
 ||qc.violet.vn^
-||qcao.happyskin.vn^
 ||qctt24h.24h.com.vn^
 ||qcv5.blogtruyen.vn^
 ||quangcao.24h.com.vn^
@@ -13606,7 +13598,6 @@ inapps.appsflyersdk.com^
 ||vieon-tracking.vieon.vn^
 ||vietbuzzad.com^
 ||vietdorje.com^
-||vinaads.vn^
 ||vipads.live^
 ||vlxx.host^
 ||vnadssb.com^
@@ -13700,6 +13691,7 @@ inapps.appsflyersdk.com^
 ||aaknmt.icu^
 ||aapubcti.xyz^
 ||actrqdr.cn^
+||aerbgpn.xyz^
 ||aflsj.com^
 ||agossuoeach.com^
 ||ahgfdhp.xyz^
@@ -14069,6 +14061,7 @@ inapps.appsflyersdk.com^
 ||kfckcu.xyz^
 ||kjdbcjkmc.com^
 ||kkeojk.xyz^
+||kkisoo.com^
 ||kkmsa.top^
 ||klfbnklddfbkn.com^
 ||klwhuci.cn^
@@ -14100,6 +14093,7 @@ inapps.appsflyersdk.com^
 ||lewhrzv.xyz^
 ||lfhnzbj.xyz^
 ||lianglili2.cn^
+||limopf.top^
 ||linj.top^
 ||liuyi22.cn^
 ||liuyuhuaa.cn^
@@ -14235,6 +14229,7 @@ inapps.appsflyersdk.com^
 ||prhphla.xyz^
 ||psroyx.icu^
 ||ptdofj.xyz^
+||ptflrj.xyz^
 ||pugxfvm.cn^
 ||pvnzrr.xyz^
 ||pxxnejx.xyz^
@@ -14270,6 +14265,7 @@ inapps.appsflyersdk.com^
 ||r9ffi.fun^
 ||ran2.top^
 ||raolmsc.com^
+||ravzbd.xyz^
 ||raxetyrw.xyz^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
@@ -14305,6 +14301,7 @@ inapps.appsflyersdk.com^
 ||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
 ||serda10.icu^
+||seutop.icu^
 ||sgeth9.icu^
 ||sglahyea.xyz^
 ||shipostrich.com^
@@ -14312,6 +14309,7 @@ inapps.appsflyersdk.com^
 ||skdunkig.xyz^
 ||slkdfg.com^
 ||sllo.top^
+||sltle.icu^
 ||smlpcz.icu^
 ||sotunet.com^
 ||splfnok.cn^
@@ -14356,6 +14354,7 @@ inapps.appsflyersdk.com^
 ||uahozcfq.xyz^
 ||uakxkb.icu^
 ||uavejnys.xyz^
+||ucjevgue.xyz^
 ||udpdmeb.cn^
 ||uebipacy.xyz^
 ||ugvbsrbht.xyz^
@@ -14365,6 +14364,7 @@ inapps.appsflyersdk.com^
 ||uiszwh.icu^
 ||uito.top^
 ||ukjwyv.icu^
+||ukkkmg.xyz^
 ||ulrvkee.xyz^
 ||uncs7.top^
 ||unidict.cn^
@@ -14509,6 +14509,7 @@ inapps.appsflyersdk.com^
 ||zcpsc.top^
 ||zdjtxjp.xyz^
 ||zents2.top^
+||zf4.top^
 ||zhangyuting04.cn^
 ||zhongfumzzew.com^
 ||zigyspv.icu^
@@ -14522,6 +14523,7 @@ inapps.appsflyersdk.com^
 ||zpvuugw.cn^
 ||zpzlbv.xyz^
 ||zuugfj.cn^
+||zxpvalr.xyz^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
@@ -14529,16 +14531,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||zf4.top^
-||zxpvalr.xyz^
-||sltle.icu^
-||ptflrj.xyz^
-||aerbgpn.xyz^
-||limopf.top^
-||ravzbd.xyz^
-||ukkkmg.xyz^
-||ucjevgue.xyz^
-||seutop.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
