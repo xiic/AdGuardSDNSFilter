@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-14T18:22:39.973Z
+! Last modified: 2023-12-15T01:18:35.077Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2f0ixlrgtk7ff.cloudfront.net^
 ||buzzer.xhamster.com^
 ||d12nvv2jqzsaax.cloudfront.net^
 ||d9leupuz17y6i.cloudfront.net^
@@ -2376,6 +2377,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||zml-apm-prd.dbv4.noncd.db.de^
 ||api.bytebrew.io^
 ||lg-release-tracking-8080.gcld-line.com^
 ||iemiq.com^
@@ -4912,6 +4914,7 @@ inapps.appsflyersdk.com^
 ||logger.co.kr^
 ||oevery.com^
 ||rainbownine.net^
+||smlog.co.kr^
 ||tenping.kr^
 ! Latvian
 ||cms.lv^
@@ -5393,6 +5396,7 @@ inapps.appsflyersdk.com^
 ||track.unidata.ai^
 ||tracker-00.qvb.qcloud.com^
 ||tracking.cat898.com^
+||tracklog.58.com^
 ||trail.71baomu.com^
 ||videostats.kakao.com^
 ||web-trace.ksapisrv.com^
@@ -5547,6 +5551,7 @@ inapps.appsflyersdk.com^
 ||megadata.co.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
+||pxl.retaku.net^
 ||saluton.cizion.com^
 ||sas.nsm-corp.com^
 ||teralog.techhub.co.kr^
@@ -14589,6 +14594,15 @@ inapps.appsflyersdk.com^
 ||1227a.xyz^
 ||jdbfknsbkldns.com^
 ||88dgn.top^
+||88dgx.top^
+||fxbcc.cyou^
+||kkyjfdj.xyz^
+||fhdjdv.xyz^
+||pgieqr.top^
+||ajbpcxi.xyz^
+||qtciam.xyz^
+||birglucy.xyz^
+||vjnxpj.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
