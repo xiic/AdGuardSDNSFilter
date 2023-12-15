@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-15T06:22:57.962Z
+! Last modified: 2023-12-15T12:33:19.730Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3328,6 +3328,7 @@ inapps.appsflyersdk.com^
 ||et.educationdynamics.com^
 ||etl.springbot.com^
 ||eu-mobile.events.data.microsoft.com^
+||ev.moneymade.io^
 ||ev.stellarlabs.ai^
 ||event-api.contactatonce.com^
 ||event-api.rdstation.com.br^
@@ -5735,7 +5736,7 @@ inapps.appsflyersdk.com^
 !
 ||adclient-uol.lp.uol.com.br^
 ||adv.r7.com^
-||s.mangalivre.net^
+
 !
 ! Source name: AdGuard Spanish/Portuguese filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
@@ -14602,6 +14603,8 @@ inapps.appsflyersdk.com^
 ||qtciam.xyz^
 ||birglucy.xyz^
 ||vjnxpj.xyz^
+||alchemeeten.com^
+||worlderva.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
