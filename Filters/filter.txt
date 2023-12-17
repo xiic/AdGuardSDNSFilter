@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-17T06:21:03.784Z
+! Last modified: 2023-12-17T12:30:47.044Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1021,6 +1021,7 @@ vkcdnservice.appspot.com^
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
+||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
 ||d3ejxyz09ctey7.cloudfront.net^
 ||d3ep3jwb1mgn3k.cloudfront.net^
@@ -1150,6 +1151,7 @@ vkcdnservice.appspot.com^
 ||d91i6bsb0ef59.cloudfront.net^
 ||d9b5gfwt6p05u.cloudfront.net^
 ||d9c5dterekrjd.cloudfront.net^
+||d9qjkk0othy76.cloudfront.net^
 ||d9yk47of1efyy.cloudfront.net^
 ||da26k71rxh0kb.cloudfront.net^
 ||da3uf5ucdz00u.cloudfront.net^
@@ -5461,6 +5463,7 @@ inapps.appsflyersdk.com^
 ||dmpcdn.el-mundo.net^
 ||dmpmetrics.rcsmetrics.it^
 ||evnt.iol.it^
+||heatmaps.lcisoft.it^
 ||heymatic.com^
 ||limone.iltrovatore.it^
 ||livestats.matrix.it^
@@ -14635,6 +14638,9 @@ inapps.appsflyersdk.com^
 ||nbhixt.xyz^
 ||uphcrjth.xyz^
 ||bphcrjth.xyz^
+||xphcrjth.xyz^
+||tphcrjth.xyz^
+||pengjinvc.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
