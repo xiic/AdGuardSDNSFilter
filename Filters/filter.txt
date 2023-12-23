@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-23T12:29:32.146Z
+! Last modified: 2023-12-23T18:20:16.398Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10442,7 +10442,6 @@ inapps.appsflyersdk.com^
 ||media.ad-lps.net^
 ||ad.moo-mam-tai.com^
 ||noonsaleov.com^
-||design01.top^
 ||freebaitar.com^
 ||bestovamk.com^
 ||givesthtosb.com^
@@ -10502,7 +10501,6 @@ inapps.appsflyersdk.com^
 ||js.glossom.jp^
 ||ratel-ad.com^
 ||cdn.mixx-ad.net^
-||dating-z.shop^
 ||ad.xrea.com^
 ||advision-adnw.jp^
 ||ad-spire.net^
@@ -10547,7 +10545,6 @@ inapps.appsflyersdk.com^
 ||waqool.com^
 ||devo.jp^
 ||ad.ddo.jp^
-||blogroll.click^
 ||ad-nex.com^
 ||js.winc-ad.com^
 ||affil.jp^
@@ -10631,7 +10628,6 @@ inapps.appsflyersdk.com^
 ||ladsp.jp^
 ||a-affiliate.net^
 ||ala.durasite.net^
-||scottdwebgraphics.com^
 ||p.permalink-system.com^
 ||adp.homes.co.jp^
 ||api.primecaster.net^
@@ -10651,7 +10647,6 @@ inapps.appsflyersdk.com^
 ||ad-tag.biz^
 ||ad-seek.jp^
 ||ad-count.jp^
-||ad-arata.com^
 ||ad-optima.com^
 ||addeluxe.jp^
 ||adfurikun.jp^
@@ -13719,6 +13714,7 @@ inapps.appsflyersdk.com^
 ||88lajs4.com^
 ||88lajs6.com^
 ||88lm02.com^
+||89hdn.cn^
 ||8d07a.xyz^
 ||8zkt7.xyz^
 ||913mj.xyz^
@@ -13790,6 +13786,7 @@ inapps.appsflyersdk.com^
 ||bdlexn.xyz^
 ||bdzdd2-sdd53-vxc.com^
 ||beezwol.com^
+||bekmhvbb.xyz^
 ||bepmrb.xyz^
 ||berrynicolo.com^
 ||beste3.icu^
@@ -13855,6 +13852,7 @@ inapps.appsflyersdk.com^
 ||cojvur.icu^
 ||commonwealthproficient.com^
 ||corcztpc.xyz^
+||cpddgcr.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||criknudsr.com^
@@ -14040,6 +14038,7 @@ inapps.appsflyersdk.com^
 ||gwdobvs.cn^
 ||gwivqo.xyz^
 ||gxx4t.online^
+||hailfi.top^
 ||haise3.top^
 ||haise4.top^
 ||haise5.top^
@@ -14073,6 +14072,7 @@ inapps.appsflyersdk.com^
 ||hooe.top^
 ||hrtinqj.cn^
 ||hshmbx.xyz^
+||hsi2i.fun^
 ||huhwllvk.xyz^
 ||hunklm.com^
 ||huryds.top^
@@ -14108,6 +14108,7 @@ inapps.appsflyersdk.com^
 ||iolsrikq.xyz^
 ||ionjkcj.cn^
 ||ioswhi.com^
+||ipryes.top^
 ||iqs871.com^
 ||irtefs.xyz^
 ||isna.top^
@@ -14159,6 +14160,7 @@ inapps.appsflyersdk.com^
 ||kbzs88.com^
 ||kdgjsf.com^
 ||kdh095.cn^
+||kekmhvbb.xyz^
 ||kemas.top^
 ||kfckcu.xyz^
 ||kfpicimage.xyz^
@@ -14249,6 +14251,7 @@ inapps.appsflyersdk.com^
 ||mcds9.icu^
 ||mefiafd.top^
 ||meilunsc.com^
+||mekmhvbb.xyz^
 ||merywf.xyz^
 ||mfnfylx.xyz^
 ||mggzah.icu^
@@ -14361,6 +14364,7 @@ inapps.appsflyersdk.com^
 ||pidurrmu.xyz^
 ||pipc.top^
 ||pirubcfy.xyz^
+||pkfuxvbk.xyz^
 ||plnrkgc.xyz^
 ||pobrpr.xyz^
 ||poiwer.com^
@@ -14388,6 +14392,7 @@ inapps.appsflyersdk.com^
 ||qgl27.xyz^
 ||qimacdg.cn^
 ||qinjgh.icu^
+||qlcbeg.xyz^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
 ||qoqoangry.com^
@@ -14485,6 +14490,7 @@ inapps.appsflyersdk.com^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
 ||teamjwar.com^
+||tekmhvbb.xyz^
 ||tewsdnka35.xyz^
 ||tfczk.xyz^
 ||tfrwxv.xyz^
@@ -14512,6 +14518,7 @@ inapps.appsflyersdk.com^
 ||tuvixr.xyz^
 ||tvpqrydt.xyz^
 ||twlmq.space^
+||twtfdd.xyz^
 ||txzepl.xyz^
 ||tybmbbgu.xyz^
 ||tycxhgrp.xyz^
@@ -14525,6 +14532,7 @@ inapps.appsflyersdk.com^
 ||uckgqa.xyz^
 ||udpdmeb.cn^
 ||uebipacy.xyz^
+||uekmhvbb.xyz^
 ||ugvbsrbht.xyz^
 ||ugwxwy.xyz^
 ||uhjxitn.xyz^
@@ -14538,6 +14546,7 @@ inapps.appsflyersdk.com^
 ||uncs7.top^
 ||unidict.cn^
 ||unqrroh.cn^
+||unxuoag.cn^
 ||uphcrjth.xyz^
 ||uqeuxpl.cn^
 ||uskoie.xyz^
@@ -14629,6 +14638,7 @@ inapps.appsflyersdk.com^
 ||xcholvbc.xyz^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
+||xekmhvbb.xyz^
 ||xfqrsjq.cn^
 ||xfztgxt.com^
 ||xg6hb.xyz^
@@ -14645,6 +14655,7 @@ inapps.appsflyersdk.com^
 ||xn--9kq29i0tjy6b044actm.com^
 ||xn--gmq238c5fy.com^
 ||xnjklp.xyz^
+||xoojqxh.icu^
 ||xphcrjth.xyz^
 ||xqgduov.cn^
 ||xrcembm.cn^
@@ -14729,20 +14740,6 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||cpddgcr.xyz^
-||unxuoag.cn^
-||hsi2i.fun^
-||pkfuxvbk.xyz^
-||twtfdd.xyz^
-||kekmhvbb.xyz^
-||qlcbeg.xyz^
-||hailfi.top^
-||uekmhvbb.xyz^
-||ipryes.top^
-||bekmhvbb.xyz^
-||xoojqxh.icu^
-||xekmhvbb.xyz^
-||tekmhvbb.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
