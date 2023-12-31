@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-31T12:30:50.600Z
+! Last modified: 2023-12-31T18:20:16.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10602,7 +10602,6 @@ inapps.appsflyersdk.com^
 ||seogreat.net^
 ||roselip-fetish.com^
 ||mincure-ad.com^
-||ad.woman.mynavi.jp^
 ||ad.rarure.com^
 ||sda.seesaa.jp^
 ||affiliate-script-pr.firebaseapp.com^
@@ -10776,6 +10775,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||ad.woman.mynavi.jp^
 ||shop.vapelog.jp^
 ||o-nad.com^
 ||s-ad.rmp.rakuten.co.jp^
@@ -14923,6 +14923,7 @@ inapps.appsflyersdk.com^
 ||bydzfldt.xyz^
 ||xydzfldt.xyz^
 ||tydzfldt.xyz^
+||mydzfldt.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
@@ -19645,6 +19646,7 @@ analytics-*.aasaam.com
 ||wibodir.com^
 ||eh-ra-z-se-na.org^
 ||ebl-hot.com^
+||iranuschsahm.sbs^
 
 !
 ! Source name: Additional rules
