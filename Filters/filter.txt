@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-01T01:23:08.233Z
+! Last modified: 2024-01-01T06:23:57.982Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11604,8 +11604,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-31 07:59:21 CET
-# entries:        1078
+# last updated:   2024-01-01 06:36:19 CET
+# entries:        1069
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11654,14 +11654,12 @@ inapps.appsflyersdk.com^
 ||ads.expekt.se^
 ||ads.fotosidan.se^
 ||ads.holid.io^
-||ads.insikt24.se^
 ||ads.kelkoo.com^
 ||ads.leovegas.com^
 ||ads.mainloop.net^
 ||ads.motorvarlden.se^
 ||ads.mrgreen.com^
 ||ads.nordreportern.se^
-||ads.nyatider.nu^
 ||ads.playpilot.com^
 ||ads.skargarden.se^
 ||ads.skidspar.se^
@@ -11724,7 +11722,6 @@ inapps.appsflyersdk.com^
 ||apsislead.com^
 ||aquaplatform.com^
 ||arbetaren.innocraft.cloud^
-||asicsisverige.com^
 ||asmassets.mtvnservices.com^
 ||assets.adfenix.com^
 ||assets.bonad.io^
@@ -11766,7 +11763,6 @@ inapps.appsflyersdk.com^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
-||caterpillarsverige.net^
 ||caviera-sverige.shop^
 ||cdn.adapex.io^
 ||cdn.adfenix.com^
@@ -11797,7 +11793,6 @@ inapps.appsflyersdk.com^
 ||cdn.hubvisor.io^
 ||cdn.insurads.com^
 ||cdn.jst.ai^
-||cdn.maaw.io^
 ||cdn.matomo.cloud^
 ||cdn.myadmessenger.com^
 ||cdn.oribi.io^
@@ -11931,7 +11926,6 @@ inapps.appsflyersdk.com^
 ||gtm.proff.se^
 ||gtm.stampenmedia.se^
 ||gwen.insertcoin.se^
-||gym-shark-sverige.com.se^
 ||hapyak.com^
 ||hb.adpone.com^
 ||hb.headbidder.net^
@@ -12159,7 +12153,6 @@ inapps.appsflyersdk.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
-||srv.se.znaptag.com^
 ||ssp-nj.webtradehub.com^
 ||stat.modette.se^
 ||stat.nyheter24.se^
@@ -14933,6 +14926,9 @@ inapps.appsflyersdk.com^
 ||hltqsbl.cn^
 ||smgsue.xyz^
 ||uflybplr.xyz^
+||cshlal.icu^
+||svhdbmp.cn^
+||bflybplr.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
