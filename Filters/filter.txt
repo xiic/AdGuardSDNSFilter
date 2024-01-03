@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-03T12:32:52.987Z
+! Last modified: 2024-01-03T18:21:54.522Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,7 +20,6 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||d3jzhqnvnvdy34.cloudfront.net^
 ||d2s31asn9gp5vl.cloudfront.net^
 ||sponsor.imacdn.com^
 ||d3qvcyf9oa6vhw.cloudfront.net^
@@ -448,6 +447,7 @@ vkcdnservice.appspot.com^
 ||inrdeals.com^
 ||join.megaphonetv.com^
 ||js.mangakl.su^
+||js.mangalove.top^
 ||js.phoenixmanga.com^
 ||karma.mdpcdn.com^
 ||linkx.ix.tc^
@@ -1070,6 +1070,7 @@ vkcdnservice.appspot.com^
 ||d3j9574la231rm.cloudfront.net^
 ||d3jdulus8lb392.cloudfront.net^
 ||d3jdzopz39efs7.cloudfront.net^
+||d3jzhqnvnvdy34.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
 ||d3kd7yqlh5wy6d.cloudfront.net^
 ||d3klfyy4pvmpzb.cloudfront.net^
@@ -2993,7 +2994,6 @@ inapps.appsflyersdk.com^
 ||amplify.outbrain.com^
 ||amplifypixel.outbrain.com^
 ||ams-pageview-public.s3.amazonaws.com^
-||an.yandex.ru^
 ||analyse.bcovery.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^
@@ -3364,7 +3364,6 @@ inapps.appsflyersdk.com^
 ||event-stream.spot.im^
 ||event.getblue.io^
 ||event.instiengage.com^
-||event.mrtnsvr.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||eventgateway.soundcloud.com^
@@ -3648,7 +3647,6 @@ inapps.appsflyersdk.com^
 ||pixel.solvemedia.com^
 ||pixel.sprinklr.com^
 ||pixel.videohub.tv^
-||pixel.widgetly.com^
 ||pixel.wp.com^
 ||pixel.yabidos.com^
 ||pixel.yola.com^
@@ -3937,7 +3935,6 @@ inapps.appsflyersdk.com^
 ||track.sitetag.us^
 ||track.social.com^
 ||track.strife.com^
-||track.tcppu.com^
 ||track.td3x.com^
 ||track.untd.com^
 ||track.uppromote.com^
@@ -4892,7 +4889,6 @@ inapps.appsflyersdk.com^
 ||fw-ad.jp^
 ||gacraft.jp^
 ||geniee.jp^
-||genieedmp.com^
 ||genieessp.jp^
 ||gmodmp.jp^
 ||gmossp-sp.jp^
@@ -4936,7 +4932,6 @@ inapps.appsflyersdk.com^
 ||wonder-ma.com^
 ||zerostats.com^
 ||ziyu.net^
-||zucks.net^
 ! Korean
 ||acrosspf.com^
 ||adpick.co.kr^
@@ -4998,7 +4993,6 @@ inapps.appsflyersdk.com^
 ||ngastatic.com^
 ||nokaut.link^
 ||nsaudience.pl^
-||pushdom.co^
 ||refericon.pl^
 ||rejestr.org^
 ||sare25.com^
@@ -5020,7 +5014,6 @@ inapps.appsflyersdk.com^
 ||hariken.co^
 ||lomadee.com^
 ||marktest.pt^
-||orquideassp.com^
 ||percycle.com^
 ||pmweb.com.br^
 ||premiumads.com.br^
@@ -5110,7 +5103,6 @@ inapps.appsflyersdk.com^
 ||mediatoday.ru^
 ||metrika-informer.com^
 ||mobtop.com^
-||mobtop.ru^
 ||mokuz.ru^
 ||more-data.ru^
 ||musiccounter.ru^
@@ -9871,6 +9863,7 @@ inapps.appsflyersdk.com^
 ||afbanner.kinobomber3.online^
 ||aliru2.ru.p.pstl.live^
 ||an.yandex.
+||an.yandex.ru^
 ||b.1istochnik.ru^
 ||b.books555.com^
 ||b.povarenok.ru^
@@ -10654,6 +10647,7 @@ inapps.appsflyersdk.com^
 ||adp.homes.co.jp^
 ||api.primecaster.net^
 ||fam-8.net^
+||genieedmp.com^
 ||okbp.xyz^
 ||primead.jp^
 ||xxxxxxxx.jp^
@@ -10698,6 +10692,7 @@ inapps.appsflyersdk.com^
 ||valueclick.jp^
 ||yicha.jp^
 ||ad.api.yyapi.net^
+||zucks.net^
 ||zucks.net.zimg.jp^
 ||ad-move.jp^
 ||a8.net^
@@ -13783,6 +13778,7 @@ inapps.appsflyersdk.com^
 ||aerbgpn.xyz^
 ||aflsj.com^
 ||agossuoeach.com^
+||ahernssa.com^
 ||ahgfdhp.xyz^
 ||ahpphkc.xyz^
 ||aidmat.icu^
@@ -13852,6 +13848,7 @@ inapps.appsflyersdk.com^
 ||bjappzvz.xyz^
 ||bjhhbox.xyz^
 ||bjtgds.xyz^
+||bkbbjtfp.xyz^
 ||bkxuprh.cn^
 ||blthwbe.xyz^
 ||bltmjevd.xyz^
@@ -14257,9 +14254,11 @@ inapps.appsflyersdk.com^
 ||kfckcu.xyz^
 ||kflybplr.xyz^
 ||kfpicimage.xyz^
+||kggikf.icu^
 ||kiiepofl.xyz^
 ||kjappzvz.xyz^
 ||kjdbcjkmc.com^
+||kkbbjtfp.xyz^
 ||kkeojk.xyz^
 ||kkisoo.com^
 ||kkmsa.top^
@@ -14372,6 +14371,7 @@ inapps.appsflyersdk.com^
 ||mhzftye.xyz^
 ||miiepofl.xyz^
 ||mjappzvz.xyz^
+||mkbbjtfp.xyz^
 ||mlegyu.xyz^
 ||mltmjevd.xyz^
 ||mlumlio.cn^
@@ -14381,6 +14381,7 @@ inapps.appsflyersdk.com^
 ||mmtdfxh.xyz^
 ||mmvjuti.cn^
 ||mnfhxszj.xyz^
+||mnfse.cn^
 ||mnhncf.cn^
 ||moqsxdpx.xyz^
 ||motcmn.icu^
@@ -14428,6 +14429,7 @@ inapps.appsflyersdk.com^
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
 ||nfldgbt.xyz^
+||nhcdn.cn^
 ||njppuaj.cn^
 ||njpyrn.xyz^
 ||njreka.xyz^
@@ -14440,7 +14442,9 @@ inapps.appsflyersdk.com^
 ||nofizx.xyz^
 ||nrfhbd.xyz^
 ||nrzzaep.xyz^
+||nshypdry.xyz^
 ||ntlzvrv.xyz^
+||ntrwnd.xyz^
 ||nubcdaqa.xyz^
 ||nwpcptmm.xyz^
 ||nyfgpbsc.xyz^
@@ -14651,6 +14655,7 @@ inapps.appsflyersdk.com^
 ||tipl.top^
 ||titv.top^
 ||tjappzvz.xyz^
+||tkbbjtfp.xyz^
 ||tklnzv.xyz^
 ||tltmjevd.xyz^
 ||tmlwvxae.xyz^
@@ -14705,6 +14710,7 @@ inapps.appsflyersdk.com^
 ||uiszwh.icu^
 ||uito.top^
 ||ujappzvz.xyz^
+||ukbbjtfp.xyz^
 ||ukjwyv.icu^
 ||ukkkmg.xyz^
 ||ulrvkee.xyz^
@@ -14834,10 +14840,12 @@ inapps.appsflyersdk.com^
 ||xixil.cn^
 ||xjappzvz.xyz^
 ||xjxbdh.xyz^
+||xkbbjtfp.xyz^
 ||xkfigjh.cn^
 ||xkjmjj.com^
 ||xlam.cn^
 ||xlca666.site^
+||xlnvvbk.xyz^
 ||xltmjevd.xyz^
 ||xmvmir.icu^
 ||xn--1qwynp09f.net^
@@ -14901,6 +14909,7 @@ inapps.appsflyersdk.com^
 ||yuanxiab.cn^
 ||yutiqf.icu^
 ||yv8zs.online^
+||yxcrcc.xyz^
 ||yxrxsov.xyz^
 ||z0a1b2c3d4.com^
 ||z1wfe.top^
@@ -14942,19 +14951,6 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||ntrwnd.xyz^
-||mnfse.cn^
-||kkbbjtfp.xyz^
-||yxcrcc.xyz^
-||nshypdry.xyz^
-||xlnvvbk.xyz^
-||kggikf.icu^
-||bkbbjtfp.xyz^
-||xkbbjtfp.xyz^
-||nhcdn.cn^
-||tkbbjtfp.xyz^
-||ahernssa.com^
-||ukbbjtfp.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
@@ -18741,6 +18737,7 @@ inapps.appsflyersdk.com^
 ||f11.hackhome.com^
 ||fanpingbi*.gaokao.com^
 ||fanyi100.com.cn^
+||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
 ||ff.guidaye.com^
 ||ff.psd8.com^
