@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-05T12:32:35.334Z
+! Last modified: 2024-01-05T18:21:29.890Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -355,12 +355,14 @@ vkcdnservice.appspot.com^
 ||1143895874.rsc.cdn77.org^
 ||1144017219.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1193176784.rsc.cdn77.org^
 ||1203782659.rsc.cdn77.org^
 ||1244458189.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1603463731.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1805629149.rsc.cdn77.org^
 ||1885212191.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
@@ -569,6 +571,7 @@ vkcdnservice.appspot.com^
 ||d18b5y9gp0lr93.cloudfront.net^
 ||d18e74vjvmvza1.cloudfront.net^
 ||d18g6t7whf8ejf.cloudfront.net^
+||d18hqfm1ev805k.cloudfront.net^
 ||d18kg2zy9x3t96.cloudfront.net^
 ||d18mealirgdbbz.cloudfront.net^
 ||d18myvrsrzjrd7.cloudfront.net^
@@ -1037,6 +1040,7 @@ vkcdnservice.appspot.com^
 ||d3d9gb3ic8fsgg.cloudfront.net^
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
+||d3e54v103j8qbb.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
 ||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
@@ -5962,6 +5966,10 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||bngtrak.com^
+||fnasmpygwa.com^
+||o1qry0qq83.com^
+||fft.delovoemesto.ru^
 ||xhivjkfghj.com^
 ||tlxjuj.com^
 ||dpjrba.com^
@@ -13817,6 +13825,7 @@ inapps.appsflyersdk.com^
 ||autyxdek.xyz^
 ||auvohoxm.xyz^
 ||avplwte.xyz^
+||avvfjhg.xyz^
 ||awareista.com^
 ||awaw.asia^
 ||awzddev.cn^
@@ -13826,9 +13835,11 @@ inapps.appsflyersdk.com^
 ||bachou.cn^
 ||baitu3lllqubyqmttdkjsv.com^
 ||bavkvoks.xyz^
+||baxbyfn.cn^
 ||bbccf12.xyz^
 ||bbfnrn.xyz^
 ||bbrnpj.xyz^
+||bbyfsfo.cn^
 ||bcovazp.icu^
 ||bcqnbge.cn^
 ||bctxtl.xyz^
@@ -13871,6 +13882,7 @@ inapps.appsflyersdk.com^
 ||bpdtrfb.xyz^
 ||bphcrjth.xyz^
 ||bplrpf.xyz^
+||bpyerxzn.xyz^
 ||bqjqripb.xyz^
 ||bqxexj.xyz^
 ||brorzpj.cn^
@@ -14273,6 +14285,7 @@ inapps.appsflyersdk.com^
 ||kkisoo.com^
 ||kkmsa.top^
 ||kkosiso.com^
+||kksjoa.com^
 ||kkyjfdj.xyz^
 ||klfbnklddfbkn.com^
 ||kltmjevd.xyz^
@@ -14285,6 +14298,7 @@ inapps.appsflyersdk.com^
 ||koqsxdpx.xyz^
 ||koyuod.xyz^
 ||kphcrjth.xyz^
+||kpyerxzn.xyz^
 ||kqbrgl.icu^
 ||kqjqripb.xyz^
 ||kqvvqv.icu^
@@ -14399,6 +14413,7 @@ inapps.appsflyersdk.com^
 ||mpgsqk.xyz^
 ||mphcrjth.xyz^
 ||mphhgat.xyz^
+||mpyerxzn.xyz^
 ||mqjqripb.xyz^
 ||mqrupjsm.xyz^
 ||mqznjujv.xyz^
@@ -14608,8 +14623,10 @@ inapps.appsflyersdk.com^
 ||s019.com^
 ||s5ue6.com^
 ||sagcyq.xyz^
+||sakguz.icu^
 ||sbhduht.xyz^
 ||scqaaf.cn^
+||sd2ua.icu^
 ||sdjbcjsbdjk.com^
 ||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
@@ -14644,7 +14661,9 @@ inapps.appsflyersdk.com^
 ||suzoqz.icu^
 ||svhdbmp.cn^
 ||syjkscy.cn^
+||szbpf.cn^
 ||szbxm.cn^
+||szmkr.cn^
 ||tae0t.site^
 ||tafuzcxr.xyz^
 ||tatyboy.top^
@@ -14680,6 +14699,7 @@ inapps.appsflyersdk.com^
 ||toyhyhv.icu^
 ||tozwrqnq.xyz^
 ||tphcrjth.xyz^
+||tpyerxzn.xyz^
 ||tpzatf.xyz^
 ||tqjqripb.xyz^
 ||tqrznqs.cn^
@@ -14738,6 +14758,7 @@ inapps.appsflyersdk.com^
 ||unxuoag.cn^
 ||uoqsxdpx.xyz^
 ||uphcrjth.xyz^
+||upyerxzn.xyz^
 ||uqeuxpl.cn^
 ||uqjqripb.xyz^
 ||uskoie.xyz^
@@ -14793,6 +14814,7 @@ inapps.appsflyersdk.com^
 ||vjzjpt.xyz^
 ||vljjtj.xyz^
 ||vmr6t.icu^
+||vnvyhj.xyz^
 ||vozftn.xyz^
 ||vpqko.fun^
 ||vpqrydt.xyz^
@@ -14829,6 +14851,7 @@ inapps.appsflyersdk.com^
 ||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
+||wvyqks.xyz^
 ||wwhsxwow.xyz^
 ||wwwww.asia^
 ||wwxufo.com^
@@ -14874,6 +14897,7 @@ inapps.appsflyersdk.com^
 ||xoojqxh.icu^
 ||xoqsxdpx.xyz^
 ||xphcrjth.xyz^
+||xpyerxzn.xyz^
 ||xqgduov.cn^
 ||xqjqripb.xyz^
 ||xrcembm.cn^
@@ -14969,19 +14993,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||baxbyfn.cn^
-||vnvyhj.xyz^
-||kpyerxzn.xyz^
-||sakguz.icu^
-||wvyqks.xyz^
-||avvfjhg.xyz^
-||szmkr.cn^
-||sd2ua.icu^
-||upyerxzn.xyz^
-||bpyerxzn.xyz^
-||szbpf.cn^
-||xpyerxzn.xyz^
-||tpyerxzn.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
