@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-09T12:34:14.241Z
+! Last modified: 2024-01-09T18:18:21.300Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5974,6 +5974,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||s.cummerata.link^
 ||cchbdata.net^
 ||s.ccsyncuuid.net^
 ||bngtrak.com^
@@ -10454,6 +10455,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||seo.linel.top^
 ||compass-fit.jp^
 ||gs-ad.jp^
 ||afi-thor.com^
@@ -11273,8 +11275,10 @@ inapps.appsflyersdk.com^
 ! Source name: EasyList Dutch ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylistdutch/master/easylistdutch/block_third_party_server.txt
 !
+||2k19.nl^
 ||adrequest.net^
 ||adshim.com^
+||affilaxy.com^
 ||affiliatepartners.com^
 ||affiliateprogramma.eu^
 ||believe-the-hype.be^
@@ -13803,6 +13807,7 @@ inapps.appsflyersdk.com^
 ||abe1.cn^
 ||acemof.top^
 ||actrqdr.cn^
+||adtx2.cn^
 ||aerbgpn.xyz^
 ||aflsj.com^
 ||agossuoeach.com^
@@ -13874,6 +13879,7 @@ inapps.appsflyersdk.com^
 ||bflybplr.xyz^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
+||bhhzlax.xyz^
 ||bhiagi.xyz^
 ||bhktalt.cn^
 ||bhlntz.xyz^
@@ -13921,6 +13927,7 @@ inapps.appsflyersdk.com^
 ||bydcxdy.cn^
 ||bydzfldt.xyz^
 ||bzbopfh.cn^
+||bzelzfnj.xyz^
 ||bznizrhd.xyz^
 ||bzvhgbr.xyz^
 ||c1d8i3p6.com^
@@ -14224,6 +14231,7 @@ inapps.appsflyersdk.com^
 ||ielgag.top^
 ||iephrenhq.com^
 ||igkgag.xyz^
+||iincon.icu^
 ||iiwoqm.xyz^
 ||ikmhndd.com^
 ||iknhgj.com^
@@ -14278,6 +14286,7 @@ inapps.appsflyersdk.com^
 ||jqvajfvs.xyz^
 ||jspqhh.xyz^
 ||jubbkon.top^
+||judthih.cn^
 ||jueyds.top^
 ||juhooqv.cn^
 ||julefhgu.xyz^
@@ -14354,6 +14363,7 @@ inapps.appsflyersdk.com^
 ||kydzfldt.xyz^
 ||kyikdee.cn^
 ||kyjwtxei.xyz^
+||kzelzfnj.xyz^
 ||kznizrhd.xyz^
 ||kzprugp.xyz^
 ||l80ays.com^
@@ -14376,6 +14386,7 @@ inapps.appsflyersdk.com^
 ||liujiahao6.cn^
 ||liuyi22.cn^
 ||liuyuhuaa.cn^
+||ljhbhy.cn^
 ||lkdybkwi.xyz^
 ||lkenflknkd.com^
 ||lkoqtvvajktpjsk.xyz^
@@ -14477,6 +14488,7 @@ inapps.appsflyersdk.com^
 ||mycxhgrp.xyz^
 ||mydzfldt.xyz^
 ||myyxox.icu^
+||mzelzfnj.xyz^
 ||mznizrhd.xyz^
 ||mzthbna.xyz^
 ||n019q.com^
@@ -14675,6 +14687,7 @@ inapps.appsflyersdk.com^
 ||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
 ||sdxzqec.xyz^
+||segoyg.xyz^
 ||serda10.icu^
 ||seutop.icu^
 ||sfqyck.xyz^
@@ -14707,6 +14720,7 @@ inapps.appsflyersdk.com^
 ||syjkscy.cn^
 ||szbpf.cn^
 ||szbxm.cn^
+||szmdp.cn^
 ||szmkr.cn^
 ||szmtd.cn^
 ||szmty.cn^
@@ -14714,6 +14728,7 @@ inapps.appsflyersdk.com^
 ||tae0t.site^
 ||tafuzcxr.xyz^
 ||tatyboy.top^
+||tbdwtn.xyz^
 ||tc8ji.website^
 ||tcgaqh.icu^
 ||tcvmtp.xyz^
@@ -14773,6 +14788,7 @@ inapps.appsflyersdk.com^
 ||tycxhgrp.xyz^
 ||tydzfldt.xyz^
 ||tyuetxt.com^
+||tzelzfnj.xyz^
 ||tznizrhd.xyz^
 ||uafuzcxr.xyz^
 ||uahozcfq.xyz^
@@ -14791,6 +14807,7 @@ inapps.appsflyersdk.com^
 ||ugvbsrbht.xyz^
 ||ugwxwy.xyz^
 ||uhjxitn.xyz^
+||ui8l2.xyz^
 ||uidwyx.icu^
 ||uiiepofl.xyz^
 ||uiszwh.icu^
@@ -14828,6 +14845,7 @@ inapps.appsflyersdk.com^
 ||uwfxvvm.cn^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
+||uzelzfnj.xyz^
 ||uznizrhd.xyz^
 ||uzrxoxd.xyz^
 ||v34s6r.com^
@@ -14977,6 +14995,7 @@ inapps.appsflyersdk.com^
 ||xydslz.xyz^
 ||xydzfldt.xyz^
 ||xyryjt.xyz^
+||xzelzfnj.xyz^
 ||xznizrhd.xyz^
 ||xzvahr.xyz^
 ||xzxforn.xyz^
@@ -15052,20 +15071,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||tbdwtn.xyz^
-||judthih.cn^
-||kzelzfnj.xyz^
-||bhhzlax.xyz^
-||iincon.icu^
-||segoyg.xyz^
-||ui8l2.xyz^
-||uzelzfnj.xyz^
-||bzelzfnj.xyz^
-||szmdp.cn^
-||xzelzfnj.xyz^
-||tzelzfnj.xyz^
-||ljhbhy.cn^
-||adtx2.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
