@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-08T18:22:49.496Z
+! Last modified: 2024-01-09T01:18:34.352Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3114,6 +3114,7 @@ inapps.appsflyersdk.com^
 ||analytics.vanillaforums.com^
 ||analytics.vdo.ai^
 ||analytics.vendemore.com^
+||analytics.vixcloud.co^
 ||analytics.webgains.io^
 ||analytics.webpushr.com^
 ||analytics.websolute.it^
@@ -3351,6 +3352,7 @@ inapps.appsflyersdk.com^
 ||ec.walkme.com^
 ||ecomm.events^
 ||ecommstats.s3.amazonaws.com^
+||edge.adobedc.net^
 ||edge.bredg.com^
 ||eel.transistor.fm^
 ||ele26126.jscrambler.com^
@@ -3495,6 +3497,7 @@ inapps.appsflyersdk.com^
 ||jtracking-gate.lulusoft.com^
 ||k.keyade.com^
 ||k.streamrail.com^
+||k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com^
 ||kalstats.kaltura.com^
 ||kiwi.mdldb.net^
 ||l.fairblocker.com^
@@ -15045,6 +15048,14 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||tbdwtn.xyz^
+||judthih.cn^
+||kzelzfnj.xyz^
+||bhhzlax.xyz^
+||iincon.icu^
+||segoyg.xyz^
+||ui8l2.xyz^
+||uzelzfnj.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
