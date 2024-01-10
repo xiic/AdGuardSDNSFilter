@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-10T12:33:59.254Z
+! Last modified: 2024-01-10T18:22:20.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13741,6 +13741,7 @@ inapps.appsflyersdk.com^
 ||1cjzfyb.com^
 ||1cpkcnm.com^
 ||1dcbzuv.com^
+||1fzjy.xyz^
 ||1iuybpo.com^
 ||1k2l3m4n5o.com^
 ||1kfnsra.com^
@@ -13750,6 +13751,7 @@ inapps.appsflyersdk.com^
 ||1sk27.fun^
 ||1vudktp.com^
 ||1weorpu.com^
+||2023sb.net^
 ||20szp.com^
 ||222aa333bb.com^
 ||24w0p.com^
@@ -13775,6 +13777,7 @@ inapps.appsflyersdk.com^
 ||666aa777bb.com^
 ||6969aa.cn^
 ||6gcstb.xyz^
+||777bb111ww.com^
 ||7bspu.site^
 ||7dusx.xyz^
 ||7ry30.xyz^
@@ -13839,6 +13842,7 @@ inapps.appsflyersdk.com^
 ||apvnzvg.xyz^
 ||aqburrae.xyz^
 ||aqiemc.xyz^
+||aqrokdw.cn^
 ||aqwsms.xyz^
 ||ar611.xyz^
 ||arbbj6.com^
@@ -13932,6 +13936,7 @@ inapps.appsflyersdk.com^
 ||bycxhgrp.xyz^
 ||bydcxdy.cn^
 ||bydzfldt.xyz^
+||bymahuxv.xyz^
 ||bzbopfh.cn^
 ||bzelzfnj.xyz^
 ||bznizrhd.xyz^
@@ -14017,6 +14022,7 @@ inapps.appsflyersdk.com^
 ||dvnqhdmze.xyz^
 ||dwadwere.xyz^
 ||dwerzv.xyz^
+||dwfdsfkw.xyz^
 ||dwhyjwrw.xyz^
 ||dwq661.biz^
 ||dxxwdz.xyz^
@@ -14254,6 +14260,7 @@ inapps.appsflyersdk.com^
 ||ipryes.top^
 ||iqs871.com^
 ||irtefs.xyz^
+||isine88.com^
 ||isna.top^
 ||isnd.top^
 ||isoffss.com^
@@ -14299,6 +14306,7 @@ inapps.appsflyersdk.com^
 ||juljrd.xyz^
 ||jupeicha.cn^
 ||jvjmjt.xyz^
+||jwfesuk.cn^
 ||jwjzf.online^
 ||jwxwnr.xyz^
 ||jxeyhgw.cn^
@@ -14369,6 +14377,7 @@ inapps.appsflyersdk.com^
 ||kydzfldt.xyz^
 ||kyikdee.cn^
 ||kyjwtxei.xyz^
+||kymahuxv.xyz^
 ||kzelzfnj.xyz^
 ||kznizrhd.xyz^
 ||kzprugp.xyz^
@@ -14438,6 +14447,7 @@ inapps.appsflyersdk.com^
 ||mbiypew.cn^
 ||mcds7.icu^
 ||mcds9.icu^
+||mdezco.xyz^
 ||mdsahkln.xyz^
 ||mefiafd.top^
 ||meilunsc.com^
@@ -14461,6 +14471,7 @@ inapps.appsflyersdk.com^
 ||mmn811.top^
 ||mmtdfxh.xyz^
 ||mmvjuti.cn^
+||mn1180.top^
 ||mnfhxszj.xyz^
 ||mnfse.cn^
 ||mnhncf.cn^
@@ -14481,6 +14492,7 @@ inapps.appsflyersdk.com^
 ||mryqtym.cn^
 ||mstkvnya.xyz^
 ||msvkfwth.xyz^
+||msxoux.icu^
 ||mtnwxhjv.xyz^
 ||mtwwzqdx.xyz^
 ||muoizbtl.xyz^
@@ -14493,6 +14505,7 @@ inapps.appsflyersdk.com^
 ||mwfyab.icu^
 ||mycxhgrp.xyz^
 ||mydzfldt.xyz^
+||mymahuxv.xyz^
 ||myyxox.icu^
 ||mzelzfnj.xyz^
 ||mznizrhd.xyz^
@@ -14540,6 +14553,7 @@ inapps.appsflyersdk.com^
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
+||nzlrfdv.xyz^
 ||oafhif.icu^
 ||oapyrzde.xyz^
 ||ocpydszq.xyz^
@@ -14728,6 +14742,7 @@ inapps.appsflyersdk.com^
 ||szbxm.cn^
 ||szmdp.cn^
 ||szmkr.cn^
+||szmmb.cn^
 ||szmtd.cn^
 ||szmty.cn^
 ||szpbg.cn^
@@ -14757,6 +14772,7 @@ inapps.appsflyersdk.com^
 ||tjappzvz.xyz^
 ||tkbbjtfp.xyz^
 ||tklnzv.xyz^
+||tlfurd.xyz^
 ||tltmjevd.xyz^
 ||tmlwvxae.xyz^
 ||tmvebl.xyz^
@@ -14793,6 +14809,7 @@ inapps.appsflyersdk.com^
 ||tybmbbgu.xyz^
 ||tycxhgrp.xyz^
 ||tydzfldt.xyz^
+||tymahuxv.xyz^
 ||tyuetxt.com^
 ||tzelzfnj.xyz^
 ||tznizrhd.xyz^
@@ -14851,6 +14868,7 @@ inapps.appsflyersdk.com^
 ||uwfxvvm.cn^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
+||uymahuxv.xyz^
 ||uzelzfnj.xyz^
 ||uznizrhd.xyz^
 ||uzrxoxd.xyz^
@@ -14909,6 +14927,7 @@ inapps.appsflyersdk.com^
 ||w3wci.site^
 ||wakenssponged.com^
 ||waxin0gjue.cn^
+||wclsylk.cn^
 ||wecklrb.cn^
 ||werssf.com^
 ||wewbnso.cn^
@@ -15000,6 +15019,7 @@ inapps.appsflyersdk.com^
 ||xycxhgrp.xyz^
 ||xydslz.xyz^
 ||xydzfldt.xyz^
+||xymahuxv.xyz^
 ||xyryjt.xyz^
 ||xzelzfnj.xyz^
 ||xznizrhd.xyz^
@@ -15077,23 +15097,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||jwfesuk.cn^
-||tlfurd.xyz^
-||kymahuxv.xyz^
-||nzlrfdv.xyz^
-||msxoux.icu^
-||mdezco.xyz^
-||2023sb.net^
-||1fzjy.xyz^
-||uymahuxv.xyz^
-||szmmb.cn^
-||bymahuxv.xyz^
-||777bb111ww.com^
-||mn1180.top^
-||xymahuxv.xyz^
-||aqrokdw.cn^
-||wclsylk.cn^
-||dwfdsfkw.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
