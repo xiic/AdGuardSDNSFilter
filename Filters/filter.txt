@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-11T06:23:21.015Z
+! Last modified: 2024-01-11T09:46:57.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3136,6 +3136,7 @@ inapps.appsflyersdk.com^
 ||api-analytics-prd.pelcro.com^
 ||api.autopilothq.com^
 ||api.wipmania.com^
+||app.adjust.com^
 ||apple.www.letv.com^
 ||applets.ebxcdn.com^
 ||argos.citruserve.com^
@@ -3370,6 +3371,7 @@ inapps.appsflyersdk.com^
 ||event-logger.tagboard.com^
 ||event-service.letslinc.com^
 ||event-stream.spot.im^
+||event.api.drift.com^
 ||event.getblue.io^
 ||event.instiengage.com^
 ||event.syndigo.cloud^
@@ -3560,6 +3562,7 @@ inapps.appsflyersdk.com^
 ||metering.pagesuite.com^
 ||metrics-api.librato.com^
 ||metrics-logger.spot.im^
+||metrics.api.drift.com^
 ||metrics.beyondwords.io^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
@@ -4285,7 +4288,6 @@ inapps.appsflyersdk.com^
 ||privacy-policy.truste.com^
 ||scanverify.com^
 ||seal.digicert.com^
-||seal.globalsign.com^
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
 ||seal.qualys.com^
@@ -4629,7 +4631,6 @@ inapps.appsflyersdk.com^
 ||reseau-pub.com^
 ||rossel.tech^
 ||semiocast.com^
-||shopimind.com^
 ||sk1n.fr^
 ||sk8t.fr^
 ||stats.fr^
@@ -11268,8 +11269,6 @@ inapps.appsflyersdk.com^
 ||content2.nrc.nl^
 ||aa.hwigroup.com^
 ||ab.hwigroup.com^
-||aa.tweakers.nl^
-||ab.tweakers.nl^
 
 !
 ! Source name: EasyList Dutch ad servers third-party
@@ -11325,7 +11324,6 @@ inapps.appsflyersdk.com^
 ||4adtf.com.^
 ||4adtf.com^
 ||4rm.de^
-||4strokemedia.com^
 ||a.partner-versicherung.de^
 ||a3h.de^
 ||ablida-rotation.com^
@@ -11454,7 +11452,6 @@ inapps.appsflyersdk.com^
 ||gbucket.ch^
 ||geldcounter.de^
 ||gigapromo.de^
-||goldbach.com^
 ||gonamic.de^
 ||goodads.de^
 ||green-ads.net^
@@ -11891,7 +11888,6 @@ inapps.appsflyersdk.com^
 ||dmp.adform.net^
 ||dmp.theadex.com^
 ||doktor-se.onelink.me^
-||drift.com^
 ||driftt.com^
 ||dspk.kindredplc.com^
 ||dynamic-83d822c6-3868940931.stat.truthlyanalytics.com^
@@ -15107,6 +15103,11 @@ inapps.appsflyersdk.com^
 ||qwmamh.icu^
 ||twj6s.icu^
 ||uebohjhh.xyz^
+||88lm03.com^
+||szpnp.cn^
+||bebohjhh.xyz^
+||xebohjhh.xyz^
+||u21033.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -18734,7 +18735,6 @@ inapps.appsflyersdk.com^
 ||bd3.chuiyue.com^
 ||bd888.qizuang.com^
 ||bda1.ayule.net^
-||bdad.123pan.cn^
 ||bdad.gaotie.net^
 ||bdasd.chdbook.cn^
 ||bdasd.chinabig.com.cn^
@@ -20386,6 +20386,27 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1583
+! Blocked by CNAME go2jump.org
+@@||tr.rdrtr.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1569
+@@||recommender.scarabresearch.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/167622
+! Blocked by CNAME extole.com
+@@||refer.discover.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/167320
+@@||cmp.inmobi.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
+! Blocked by CNAME data.adobedc.net
+@@||data.digital.costco.ca^|
+@@||data.digital.costco.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/163141
+@@||api.karte.io^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
+@@||sponsor.nitropay.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/157550
+@@||click.cptrack.de^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
 ! line25.com - not able to accept cookies to use the page
 @@|ezodn.com^|
@@ -20565,7 +20586,9 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/428
 ! CNAME: paymaya.customlinks.appsflyer.com
 @@||official.paymaya.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/381
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1499
+@@|statcounter.com^|
+@@||www.statcounter.com^|
 @@||gs.statcounter.com^|
 ! Blocked by exacttarget.com alias
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
@@ -20616,6 +20639,7 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/190
 @@||awin1.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/185
+@@||app.adjust.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/183
 @@||feed.adrelayer.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/168
