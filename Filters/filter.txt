@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-11T12:33:54.624Z
+! Last modified: 2024-01-11T18:22:06.264Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -351,7 +351,9 @@ vkcdnservice.appspot.com^
 ||1035218900.rsc.cdn77.org^
 ||1044195567.rsc.cdn77.org^
 ||1052982219.rsc.cdn77.org^
+||1070165434.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
+||1082580998.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
 ||1143895874.rsc.cdn77.org^
 ||1144017219.rsc.cdn77.org^
@@ -10456,6 +10458,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||js.mediams.mb.softbank.jp^
 ||seo.linel.top^
 ||compass-fit.jp^
 ||gs-ad.jp^
@@ -15109,6 +15112,8 @@ inapps.appsflyersdk.com^
 ||xebohjhh.xyz^
 ||u21033.com^
 ||tebohjhh.xyz^
+||mebohjhh.xyz^
+||ymmiyun.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
