@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-15T12:34:19.064Z
+! Last modified: 2024-01-15T18:22:01.617Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d3vsc1wu2k3z85.cloudfront.net^
 ||dcbbwymp1bhlf.cloudfront.net^
 ||fentent.stre4mplay.one^
 ||d2s31asn9gp5vl.cloudfront.net^
@@ -5989,6 +5990,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||appscriptduck.com^
 ||maxrilla.com^
 ||stteeruptowind.com^
 ||infostuet.com^
@@ -12876,8 +12878,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jan 2024 09:26 UTC+7
-! Version: 2401150926
+! Last modified: 15 Jan 2024 23:07 UTC+7
+! Version: 2401152307
 ! Blocked: 861 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13769,6 +13771,7 @@ inapps.appsflyersdk.com^
 ||1vudktp.com^
 ||1weorpu.com^
 ||2023sb.net^
+||2024114t.shop^
 ||20szp.com^
 ||222aa333bb.com^
 ||24w0p.com^
@@ -13850,6 +13853,7 @@ inapps.appsflyersdk.com^
 ||ajbpcxi.xyz^
 ||aknkvallbfml.com^
 ||aknusp.cn^
+||albdbsk.xyz^
 ||albsgdq.cn^
 ||alchemeeten.com^
 ||alwaysc.com^
@@ -13944,6 +13948,7 @@ inapps.appsflyersdk.com^
 ||bphcrjth.xyz^
 ||bplrpf.xyz^
 ||bpyerxzn.xyz^
+||bpztsxx.com^
 ||bqjqripb.xyz^
 ||bqxexj.xyz^
 ||brorzpj.cn^
@@ -14014,6 +14019,7 @@ inapps.appsflyersdk.com^
 ||cxapio.xyz^
 ||cxpjrqa.cn^
 ||cy5kr.fun^
+||dafdfd.cn^
 ||danun.cn^
 ||daslethv.com^
 ||dbpxivi.xyz^
@@ -14148,6 +14154,7 @@ inapps.appsflyersdk.com^
 ||geicmu.xyz^
 ||gejhhh.cn^
 ||gelbjvl.cn^
+||gepvgv.icu^
 ||gfbdb1.com^
 ||ggrfab.icu^
 ||ggsnyc.xyz^
@@ -14440,6 +14447,7 @@ inapps.appsflyersdk.com^
 ||lhtnuop.xyz^
 ||lhzxbp.xyz^
 ||lianglili2.cn^
+||lih6e.site^
 ||limopf.top^
 ||linj.top^
 ||liujiahao6.cn^
@@ -14740,9 +14748,11 @@ inapps.appsflyersdk.com^
 ||rsvvfx.xyz^
 ||rt004.top^
 ||rudenx.xyz^
+||rvbiocn.cn^
 ||rvreuxi.cn^
 ||rvvji.online^
 ||rvvmhp.xyz^
+||rwftzx.xyz^
 ||rwnmcum.cn^
 ||rxrdjb.xyz^
 ||rycff.online^
@@ -14874,6 +14884,7 @@ inapps.appsflyersdk.com^
 ||tzelzfnj.xyz^
 ||tznizrhd.xyz^
 ||u21033.com^
+||u2tu4.icu^
 ||uafuzcxr.xyz^
 ||uahozcfq.xyz^
 ||uakxkb.icu^
@@ -14935,6 +14946,7 @@ inapps.appsflyersdk.com^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
 ||uymahuxv.xyz^
+||uyulwc.xyz^
 ||uzelzfnj.xyz^
 ||uznizrhd.xyz^
 ||uzrxoxd.xyz^
@@ -15173,16 +15185,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||bpztsxx.com^
-||gepvgv.icu^
-||lih6e.site^
-||rwftzx.xyz^
-||albdbsk.xyz^
-||uyulwc.xyz^
-||dafdfd.cn^
-||2024114t.shop^
-||u2tu4.icu^
-||rvbiocn.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
