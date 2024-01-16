@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-15T18:22:01.617Z
+! Last modified: 2024-01-16T01:18:25.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -356,6 +356,7 @@ vkcdnservice.appspot.com^
 ||1070165434.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||1082580998.rsc.cdn77.org^
+||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
 ||1143895874.rsc.cdn77.org^
 ||1144017219.rsc.cdn77.org^
@@ -365,6 +366,7 @@ vkcdnservice.appspot.com^
 ||1203782659.rsc.cdn77.org^
 ||1244458189.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1460689281.rsc.cdn77.org^
 ||1603463731.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
@@ -5381,6 +5383,7 @@ inapps.appsflyersdk.com^
 ||track.myli.io^
 ||tracking.ecookie.fr^
 ||tracking.lqm.io^
+||tracking.voxeus.com^
 ||trk.a-dsp.com^
 ||trk.adbutter.net^
 ||visitping.rossel.be^
@@ -5733,6 +5736,7 @@ inapps.appsflyersdk.com^
 ||analitica.webrpp.com^
 ||analytics.lasegunda.ecn.cl^
 ||analytics.neoogilvy.uy^
+||bpt.webedia-group.com^
 ||collector-videoplayer.5centscdn.net^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
@@ -15185,6 +15189,10 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||kozhyf.icu^
+||ffawfa.cn^
+||zghrxn.xyz^
+||8ovgk.online^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
