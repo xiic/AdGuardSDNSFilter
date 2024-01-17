@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-17T12:34:06.651Z
+! Last modified: 2024-01-17T18:22:33.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -366,6 +366,7 @@ vkcdnservice.appspot.com^
 ||1437953666.rsc.cdn77.org^
 ||1460689281.rsc.cdn77.org^
 ||1603463731.rsc.cdn77.org^
+||1665637157.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1805629149.rsc.cdn77.org^
@@ -1129,6 +1130,7 @@ vkcdnservice.appspot.com^
 ||d3rlh0lneatqqc.cloudfront.net^
 ||d3rr3d0n31t48m.cloudfront.net^
 ||d3rxqouo2bn71j.cloudfront.net^
+||d3s40ry602uhj1.cloudfront.net^
 ||d3sdg6egu48sqx.cloudfront.net^
 ||d3skqyr7uryv9z.cloudfront.net^
 ||d3sof4x9nlmbgy.cloudfront.net^
@@ -2415,6 +2417,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||sb.scorecard.research.com^
 ||zml-apm-prd.dbv4.noncd.db.de^
 ||api.bytebrew.io^
 ||lg-release-tracking-8080.gcld-line.com^
@@ -10117,13 +10120,10 @@ inapps.appsflyersdk.com^
 ||likevertising.com^
 ||betstadyum.com^
 ||sportframe.org^
-||cokemoke.cf^
 ||alikosx.ml^
 ||reklamdor.com^
 ||pophit.net^
 ||betcdn.biz^
-||bursavitrinresim.xyz^
-||sosinyo.xyz^
 ||cplayer.pw^
 ://r.reklam*.com^
 ://say.ac^
@@ -10163,7 +10163,6 @@ inapps.appsflyersdk.com^
 ||adpozitif.com^
 ||adrazzi.com^
 ||adreda.com^
-||adreman.pro^
 ||adrequests.com^
 ||adrttt.com^
 ||ads.dogusdigital.com^
@@ -10191,7 +10190,6 @@ inapps.appsflyersdk.com^
 ||bambarmedia.com^
 ||basvformu*.xyz^
 ||bcvc.mobi^
-||bcvcrdr.xyz^
 ||betburdaaffiliates.com^
 ||betendads.com^
 ||betkanyon100.com^
@@ -10238,7 +10236,6 @@ inapps.appsflyersdk.com^
 ||indisancal.com^
 ||inegolreklam.net^
 ||inrool.com^
-||insankafa.cc^
 ||installads.net^
 ||installads.org^
 ||installads2.com^
@@ -10247,7 +10244,6 @@ inapps.appsflyersdk.com^
 ||jigolobasvuru.xyz^
 ||kalitereklam.com^
 ||kingads.mobi^
-||knkyeterla.cc^
 ||kos.interseek.si^
 ||kralseo.info^
 ||kurulum.xyz^
@@ -10270,7 +10266,6 @@ inapps.appsflyersdk.com^
 ||noxaffiliates.com^
 ||numarapaneli.com^
 ||nutga.com^
-||octffocdigiturk.cc^
 ||partner.superbahisaffiliates248.com^
 ||partners.betbooaffiliates.com^
 ||partnerx.bethub.io^
@@ -10325,7 +10320,6 @@ inapps.appsflyersdk.com^
 ||tracking.redirect.pub^
 ||tracking.ucreate.live^
 ||trackocean.com^
-||turngrind.com^
 ||uzmanreklam.com^
 ||vegabet.net^
 ||videoustu.com^
@@ -10349,7 +10343,6 @@ inapps.appsflyersdk.com^
 ||youtubesave.org^
 ||youtubex.top^
 ||yx-ads6.com^
-||zafrc.5780.site^
 
 !
 ! Source name: AdGuard Turkish filter ad servers first-party
