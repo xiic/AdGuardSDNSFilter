@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-18T12:33:55.507Z
+! Last modified: 2024-01-18T18:22:16.326Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -14012,6 +14012,7 @@ inapps.appsflyersdk.com^
 ||commonwealthproficient.com^
 ||corcztpc.xyz^
 ||cpddgcr.xyz^
+||cpmlwhra.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||criknudsr.com^
@@ -14078,6 +14079,7 @@ inapps.appsflyersdk.com^
 ||ebpex.space^
 ||ecpshapm.xyz^
 ||ectyet.top^
+||edvxgqx.com^
 ||eejwvwoo.xyz^
 ||efalid.top^
 ||egadfe.xyz^
@@ -14136,6 +14138,7 @@ inapps.appsflyersdk.com^
 ||fmvbyji.cn^
 ||fmzifaqi.xyz^
 ||foizico.cn^
+||fol9v.xyz^
 ||fortxfq.cn^
 ||fotaxf.xyz^
 ||foxoxn.xyz^
@@ -14230,6 +14233,7 @@ inapps.appsflyersdk.com^
 ||haise3.top^
 ||haise4.top^
 ||haise5.top^
+||halqpt.xyz^
 ||hanadrmc.xyz^
 ||hangzhouhdb.top^
 ||haokanshipin.com^
@@ -14571,6 +14575,7 @@ inapps.appsflyersdk.com^
 ||muyihh.top^
 ||muyxmmz.cn^
 ||mvbvvch.xyz^
+||mvevgi.xyz^
 ||mvng.cn^
 ||mvpqrydt.xyz^
 ||mwfyab.icu^
@@ -14668,6 +14673,7 @@ inapps.appsflyersdk.com^
 ||pengjinvc.top^
 ||pexavfro.xyz^
 ||pezttb.xyz^
+||pfjfjid.xyz^
 ||pfjtgxc.cn^
 ||pfrbnl.xyz^
 ||pgieqr.top^
@@ -14797,6 +14803,7 @@ inapps.appsflyersdk.com^
 ||sglahyea.xyz^
 ||shipostrich.com^
 ||shx11.xyz^
+||sidfiz.icu^
 ||sigjuw.xyz^
 ||skdaj.cn^
 ||skdunkig.xyz^
@@ -14938,6 +14945,7 @@ inapps.appsflyersdk.com^
 ||ulrvkee.xyz^
 ||ultmjevd.xyz^
 ||um9.top^
+||umrstfl.cn^
 ||uncs7.top^
 ||unfhxszj.xyz^
 ||unidict.cn^
@@ -14995,6 +15003,7 @@ inapps.appsflyersdk.com^
 ||vdggsd016.com^
 ||vdggsd017.com^
 ||vdtxlt.xyz^
+||vggg5.space^
 ||vgjaxnuw.xyz^
 ||vhhxnb.xyz^
 ||vhotcvp.xyz^
@@ -15035,6 +15044,7 @@ inapps.appsflyersdk.com^
 ||wewbnso.cn^
 ||wfpjeul.cn^
 ||wfqgfaa.cn^
+||wftyehw.cn^
 ||whdwydt.cn^
 ||whols.cn^
 ||whqgyo.xyz^
@@ -15209,15 +15219,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||sidfiz.icu^
-||umrstfl.cn^
-||vggg5.space^
-||pfjfjid.xyz^
-||halqpt.xyz^
-||fol9v.xyz^
-||mvevgi.xyz^
-||cpmlwhra.xyz^
-||wftyehw.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
