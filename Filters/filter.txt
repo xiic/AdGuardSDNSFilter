@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-20T12:31:23.308Z
+! Last modified: 2024-01-20T18:20:46.692Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -464,6 +464,7 @@ vkcdnservice.appspot.com^
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
 ||karma.mdpcdn.com^
 ||linkx.ix.tc^
+||magictag.digislots.in^
 ||marketing.888.com^
 ||mbid.marfeelrev.com^
 ||media.netrefer.com^
@@ -10478,6 +10479,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||flux-cdn.com^
 ||js.mediams.mb.softbank.jp^
 ||seo.linel.top^
 ||compass-fit.jp^
@@ -13809,6 +13811,7 @@ inapps.appsflyersdk.com^
 ||7dusx.xyz^
 ||7ry30.xyz^
 ||7vnkf.online^
+||82zcb.icu^
 ||888bb666cc.com^
 ||888cool.cn^
 ||888xx222kk.com^
@@ -13845,6 +13848,7 @@ inapps.appsflyersdk.com^
 ||abcd789.com^
 ||abe1.cn^
 ||acemof.top^
+||acsegt86.shop^
 ||actrqdr.cn^
 ||adtx2.cn^
 ||aerbgpn.xyz^
@@ -13894,6 +13898,7 @@ inapps.appsflyersdk.com^
 ||avvfjhg.xyz^
 ||awareista.com^
 ||awaw.asia^
+||awcdst.icu^
 ||awzddev.cn^
 ||ax7fv.space^
 ||aymwiq.xyz^
@@ -14016,6 +14021,7 @@ inapps.appsflyersdk.com^
 ||corcztpc.xyz^
 ||courtoyz.com^
 ||cpddgcr.xyz^
+||cpffkbpq.xyz^
 ||cpmlwhra.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
@@ -14146,6 +14152,7 @@ inapps.appsflyersdk.com^
 ||fortxfq.cn^
 ||fotaxf.xyz^
 ||foxoxn.xyz^
+||foysswr.cn^
 ||fptdxkm.com^
 ||fqfclmlo.xyz^
 ||fqtljn.xyz^
@@ -14261,6 +14268,7 @@ inapps.appsflyersdk.com^
 ||hjdha.cn^
 ||hjdkvt.xyz^
 ||hjnjjcw.xyz^
+||hkaiedb.icu^
 ||hkljed.xyz^
 ||hkrytf.xyz^
 ||hkvuzv.xyz^
@@ -14275,7 +14283,9 @@ inapps.appsflyersdk.com^
 ||hscnpk86.shop^
 ||hshmbx.xyz^
 ||hsi2i.fun^
+||htubzpb.cn^
 ||huhwllvk.xyz^
+||hulichuang.mobi^
 ||hunklm.com^
 ||huryds.top^
 ||huxifena.cn^
@@ -14346,6 +14356,7 @@ inapps.appsflyersdk.com^
 ||jiangyahuid.top^
 ||jiangyahuir.top^
 ||jili9.io^
+||jingalbundles.com^
 ||jingxuanjingyan.com^
 ||jjvzqjh.xyz^
 ||jkbdpp.xyz^
@@ -14433,6 +14444,7 @@ inapps.appsflyersdk.com^
 ||kshrsf.icu^
 ||ksrgsc.xyz^
 ||ksvkfwth.xyz^
+||ktauoy.xyz^
 ||ktnwxhjv.xyz^
 ||ktvtxir.xyz^
 ||ktwwzqdx.xyz^
@@ -14625,6 +14637,7 @@ inapps.appsflyersdk.com^
 ||nnfalf.xyz^
 ||nnrbyty.xyz^
 ||nofizx.xyz^
+||npnpxoz.xyz^
 ||nrfhbd.xyz^
 ||nrzzaep.xyz^
 ||nshypdry.xyz^
@@ -14705,6 +14718,7 @@ inapps.appsflyersdk.com^
 ||ptflrj.xyz^
 ||ptppcyg.xyz^
 ||pugxfvm.cn^
+||pupsjr.xyz^
 ||pvnzrr.xyz^
 ||pxxnejx.xyz^
 ||pzcogpj.icu^
@@ -14791,6 +14805,7 @@ inapps.appsflyersdk.com^
 ||rxrdjb.xyz^
 ||rycff.online^
 ||rydzfldt.xyz^
+||ryyuvrt.cn^
 ||rzflhxn.cn^
 ||s019.com^
 ||s5ue6.com^
@@ -14824,6 +14839,7 @@ inapps.appsflyersdk.com^
 ||smbx8.net^
 ||smgsue.xyz^
 ||smlpcz.icu^
+||so1nv.xyz^
 ||sogou.st^
 ||sotunet.com^
 ||splfnok.cn^
@@ -15052,6 +15068,7 @@ inapps.appsflyersdk.com^
 ||wbkaqly.cn^
 ||wcbghap63.shop^
 ||wclsylk.cn^
+||wdadad.cn^
 ||wecklrb.cn^
 ||werssf.com^
 ||wewbnso.cn^
@@ -15125,6 +15142,7 @@ inapps.appsflyersdk.com^
 ||xogtrmjz.xyz^
 ||xoojqxh.icu^
 ||xoqsxdpx.xyz^
+||xpffkbpq.xyz^
 ||xphcrjth.xyz^
 ||xpyerxzn.xyz^
 ||xqgduov.cn^
@@ -15177,8 +15195,10 @@ inapps.appsflyersdk.com^
 ||ymmiyun.com^
 ||ymniqh.icu^
 ||ynulcpt.cn^
+||yohnoirs.com^
 ||yongzhen8.com^
 ||ypcngw.xyz^
+||ypffkbpq.xyz^
 ||yqlxwb.icu^
 ||yshlor.icu^
 ||ysxt9.com^
@@ -15203,6 +15223,7 @@ inapps.appsflyersdk.com^
 ||zdjtxjp.xyz^
 ||zents2.top^
 ||zf4.top^
+||zfp32.buzz^
 ||zfvtswv.xyz^
 ||zghrxn.xyz^
 ||zhangyuting04.cn^
@@ -15234,24 +15255,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||pupsjr.xyz^
-||ktauoy.xyz^
-||82zcb.icu^
-||awcdst.icu^
-||foysswr.cn^
-||npnpxoz.xyz^
-||yohnoirs.com^
-||so1nv.xyz^
-||jingalbundles.com^
-||acsegt86.shop^
-||hulichuang.mobi^
-||zfp32.buzz^
-||ypffkbpq.xyz^
-||hkaiedb.icu^
-||cpffkbpq.xyz^
-||ryyuvrt.cn^
-||xpffkbpq.xyz^
-||wdadad.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
