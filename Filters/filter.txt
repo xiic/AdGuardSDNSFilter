@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-22T12:35:23.945Z
+! Last modified: 2024-01-22T18:22:46.462Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -14032,6 +14032,7 @@ inapps.appsflyersdk.com^
 ||cpddgcr.xyz^
 ||cpffkbpq.xyz^
 ||cpmlwhra.xyz^
+||cpyjyhny.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||criknudsr.com^
@@ -14161,6 +14162,7 @@ inapps.appsflyersdk.com^
 ||fol9v.xyz^
 ||fortxfq.cn^
 ||fotaxf.xyz^
+||fotrbx.xyz^
 ||foxoxn.xyz^
 ||foysswr.cn^
 ||fptdxkm.com^
@@ -14320,11 +14322,14 @@ inapps.appsflyersdk.com^
 ||icvsleec.xyz^
 ||icwnix.icu^
 ||idddlon.xyz^
+||idns.online^
 ||ieequd.icu^
 ||ielgag.top^
 ||iephrenhq.com^
+||iewtwo.xyz^
 ||igkgag.xyz^
 ||iincon.icu^
+||iivruiz.cn^
 ||iiwoqm.xyz^
 ||ikmhndd.com^
 ||iknhgj.com^
@@ -14693,6 +14698,8 @@ inapps.appsflyersdk.com^
 ||otbeksf.cn^
 ||otxlhpm.xyz^
 ||ovfvkfc.xyz^
+||ovnrmvg.cn^
+||ovykq.online^
 ||owkmmo.xyz^
 ||owyame.xyz^
 ||oxrvfsi.xyz^
@@ -14772,6 +14779,7 @@ inapps.appsflyersdk.com^
 ||qydoex.icu^
 ||qyoqeq.xyz^
 ||qznjujv.xyz^
+||qzvzluu.xyz^
 ||r9ffi.fun^
 ||ran2.top^
 ||raolmsc.com^
@@ -15161,6 +15169,8 @@ inapps.appsflyersdk.com^
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
 ||xpyerxzn.xyz^
+||xpyjyhny.xyz^
+||xq2024.com^
 ||xqgduov.cn^
 ||xqjqripb.xyz^
 ||xrcembm.cn^
@@ -15217,6 +15227,7 @@ inapps.appsflyersdk.com^
 ||yongzhen8.com^
 ||ypcngw.xyz^
 ||ypffkbpq.xyz^
+||ypyjyhny.xyz^
 ||yqlxwb.icu^
 ||yshlor.icu^
 ||ysxt9.com^
@@ -15275,16 +15286,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||iivruiz.cn^
-||fotrbx.xyz^
-||qzvzluu.xyz^
-||iewtwo.xyz^
-||ypyjyhny.xyz^
-||ovykq.online^
-||cpyjyhny.xyz^
-||ovnrmvg.cn^
-||idns.online^
-||xpyjyhny.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
