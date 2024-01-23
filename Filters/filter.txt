@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-22T18:22:46.462Z
+! Last modified: 2024-01-23T01:20:04.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -347,33 +347,16 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
-||1002867133.rsc.cdn77.org^
-||1035218900.rsc.cdn77.org^
-||1044195567.rsc.cdn77.org^
-||1052982219.rsc.cdn77.org^
-||1070165434.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
-||1082580998.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
 ||1117977646.rsc.cdn77.org^
-||1143895874.rsc.cdn77.org^
-||1144017219.rsc.cdn77.org^
-||1145191861.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
-||1193176784.rsc.cdn77.org^
-||1203782659.rsc.cdn77.org^
 ||1205020224.rsc.cdn77.org^
-||1244458189.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
-||1460689281.rsc.cdn77.org^
-||1603463731.rsc.cdn77.org^
-||1665637157.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1692923857.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
-||1805629149.rsc.cdn77.org^
-||1885212191.rsc.cdn77.org^
 ||1915832424.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
@@ -697,6 +680,7 @@ vkcdnservice.appspot.com^
 ||d1of5w8unlzqtg.cloudfront.net^
 ||d1okyw2ay5msiy.cloudfront.net^
 ||d1ol7fsyj96wwo.cloudfront.net^
+||d1on4urq8lvsb1.cloudfront.net^
 ||d1or04kku1mxl9.cloudfront.net^
 ||d1oykxszdrgjgl.cloudfront.net^
 ||d1p0vowokmovqz.cloudfront.net^
@@ -1326,7 +1310,6 @@ vkcdnservice.appspot.com^
 ||dufai4b1ap33z.cloudfront.net^
 ||duqamtr9ifv5t.cloudfront.net^
 ||duz64ud8y8urc.cloudfront.net^
-||duzt6rhr7wo8p.cloudfront.net^
 ||dv7t7qyvgyrt5.cloudfront.net^
 ||dvc8653ec6uyk.cloudfront.net^
 ||dvl8xapgpqgc1.cloudfront.net^
@@ -15286,6 +15269,13 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||cjzrfxs.xyz^
+||fyvpzn.xyz^
+||fm44f.space^
+||yhubsxmg.xyz^
+||hrbpopp.cn^
+||uqueae.xyz^
+||oyugspe.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
