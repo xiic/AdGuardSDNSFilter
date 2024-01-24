@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-24T12:34:46.053Z
+! Last modified: 2024-01-24T18:21:38.693Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d3n4krap0yfivk.cloudfront.net^
 ||dic9vgwbkxd8r.cloudfront.net^
 ||fentent.stre4mplay.one^
 ||sponsor.imacdn.com^
@@ -13921,6 +13922,7 @@ inapps.appsflyersdk.com^
 ||bdzdd2-sdd53-vxc.com^
 ||bebohjhh.xyz^
 ||beezwol.com^
+||befyah.icu^
 ||bekmhvbb.xyz^
 ||bepmrb.xyz^
 ||berrynicolo.com^
@@ -14027,6 +14029,7 @@ inapps.appsflyersdk.com^
 ||cpddgcr.xyz^
 ||cpffkbpq.xyz^
 ||cpmlwhra.xyz^
+||cprdmnlo.xyz^
 ||cpyjyhny.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
@@ -14167,6 +14170,7 @@ inapps.appsflyersdk.com^
 ||fsgiosi.com^
 ||ftzzbx.xyz^
 ||fuvbbjl.xyz^
+||fv77e.icu^
 ||fwffa.cn^
 ||fwhhcpj.xyz^
 ||fxbcc.cyou^
@@ -14181,6 +14185,7 @@ inapps.appsflyersdk.com^
 ||gaopinoa.cn^
 ||gbc27.online^
 ||gcbtgh26.xyz^
+||gcssem.xyz^
 ||gcwwsv.icu^
 ||ged46.xyz^
 ||geicmu.xyz^
@@ -14365,6 +14370,7 @@ inapps.appsflyersdk.com^
 ||jdrnpei.xyz^
 ||jeqxuvv.icu^
 ||jevwdao.cn^
+||jgygtv.cn^
 ||jhl1993.cn^
 ||jhpbtp.xyz^
 ||jiangjinmoa.cn^
@@ -14535,6 +14541,7 @@ inapps.appsflyersdk.com^
 ||lwmzoaf.cn^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
+||lyckery.com^
 ||lznpcwl.xyz^
 ||m05ib.xyz^
 ||m28458.top^
@@ -14646,6 +14653,7 @@ inapps.appsflyersdk.com^
 ||newpgqnfapkamg.xyz^
 ||nfldgbt.xyz^
 ||nhcdn.cn^
+||nixqvd.xyz^
 ||njppuaj.cn^
 ||njpyrn.xyz^
 ||njreka.xyz^
@@ -14671,6 +14679,7 @@ inapps.appsflyersdk.com^
 ||nzlrfdv.xyz^
 ||oafhif.icu^
 ||oapyrzde.xyz^
+||obdjzhq.xyz^
 ||ocpydszq.xyz^
 ||ocryndsu.xyz^
 ||ocwdkp.icu^
@@ -14950,6 +14959,7 @@ inapps.appsflyersdk.com^
 ||tuqnwz.icu^
 ||tuvixr.xyz^
 ||tvpqrydt.xyz^
+||tweezesmalanga.com^
 ||twj6s.icu^
 ||twlmq.space^
 ||twtfdd.xyz^
@@ -15174,6 +15184,7 @@ inapps.appsflyersdk.com^
 ||xoqsxdpx.xyz^
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
+||xprdmnlo.xyz^
 ||xpyerxzn.xyz^
 ||xpyjyhny.xyz^
 ||xq2024.com^
@@ -15234,6 +15245,7 @@ inapps.appsflyersdk.com^
 ||yongzhen8.com^
 ||ypcngw.xyz^
 ||ypffkbpq.xyz^
+||yprdmnlo.xyz^
 ||ypyjyhny.xyz^
 ||yqlxwb.icu^
 ||yshlor.icu^
@@ -15293,17 +15305,6 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||jgygtv.cn^
-||fv77e.icu^
-||obdjzhq.xyz^
-||gcssem.xyz^
-||yprdmnlo.xyz^
-||nixqvd.xyz^
-||befyah.icu^
-||cprdmnlo.xyz^
-||tweezesmalanga.com^
-||lyckery.com^
-||xprdmnlo.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
