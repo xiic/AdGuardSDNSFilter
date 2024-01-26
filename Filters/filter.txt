@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-25T18:23:00.896Z
+! Last modified: 2024-01-26T01:14:10.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -355,6 +355,7 @@ vkcdnservice.appspot.com^
 ||1187531871.rsc.cdn77.org^
 ||1199279496.rsc.cdn77.org^
 ||1205020224.rsc.cdn77.org^
+||1304807583.rsc.cdn77.org^
 ||1377920294.rsc.cdn77.org^
 ||1413879490.rsc.cdn77.org^
 ||1419560424.rsc.cdn77.org^
@@ -365,6 +366,7 @@ vkcdnservice.appspot.com^
 ||1736253261.rsc.cdn77.org^
 ||1818027024.rsc.cdn77.org^
 ||1915832424.rsc.cdn77.org^
+||1973440310.rsc.cdn77.org^
 ||1987292064.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
@@ -15327,6 +15329,19 @@ inapps.appsflyersdk.com^
 ||fopksr.icu^
 ||ogmjhve.cn^
 ||xhnvgdkw.xyz^
+||rlhtnnm.xyz^
+||wsadad.cn^
+||opwofty.cn^
+||trf6b.top^
+||x1fyw.icu^
+||ypkxahje.xyz^
+||vcbppb.xyz^
+||1ng2l.space^
+||mnorkc.xyz^
+||sdjbvjsbvjz.com^
+||vfvad.top^
+||brookssa.com^
+||gaipuzui.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
