@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-26T18:20:30.252Z
+! Last modified: 2024-01-27T01:11:42.024Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1185,6 +1185,7 @@ vkcdnservice.appspot.com^
 ||d7jpk19dne0nn.cloudfront.net^
 ||d7po8h5dek3wm.cloudfront.net^
 ||d7tst6bnt99p2.cloudfront.net^
+||d85wutc1n854v.cloudfront.net^
 ||d8a69dni6x2i5.cloudfront.net^
 ||d8cxnvx3e75nn.cloudfront.net^
 ||d8dcj5iif1uz.cloudfront.net^
@@ -3036,6 +3037,7 @@ inapps.appsflyersdk.com^
 ||amplifypixel.outbrain.com^
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
+||analyse.lnearn.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^
 ||analyticcdn.globalmailer.com^
@@ -3735,7 +3737,6 @@ inapps.appsflyersdk.com^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||recs.shareaholic.com^
-||refer.ccbill.com^
 ||refer.wordpress.com^
 ||referrer.disqus.com^
 ||removeads.workers.dev^
@@ -4117,6 +4118,7 @@ inapps.appsflyersdk.com^
 ||v.shopify.com^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
+||verify.lnearn.com^
 ||video-ad-stats.googlesyndication.com^
 ||videoevents.outbrain.com^
 ||vortex.data.microsoft.com^
@@ -15355,6 +15357,11 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||ddllhqj.xyz^
+||yhgpuxim.xyz^
+||qqainj.cn^
+||yzmcok.xyz^
+||4imk5.online^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
