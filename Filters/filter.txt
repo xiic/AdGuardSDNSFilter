@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-31T06:21:20.160Z
+! Last modified: 2024-01-31T12:30:34.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5604,8 +5604,10 @@ inapps.appsflyersdk.com^
 ||x9.shinobi.jp^
 ! Korean
 ||acelogger.heraldcorp.com^
+||applog.ssgdfs.com^
 ||assets.datarize.ai^
 ||cm-exchange.toast.com^
+||dadispapi.gmarket.co.kr^
 ||dtr-onsite-feed.datarize.ai^
 ||event.hackle.io^
 ||log.cizion.com^
@@ -5615,6 +5617,7 @@ inapps.appsflyersdk.com^
 ||logger.bzu.kr^
 ||logs-partners.coupang.com^
 ||megadata.co.kr^
+||montelena.auction.co.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||pxl.retaku.net^
@@ -5625,6 +5628,7 @@ inapps.appsflyersdk.com^
 ||tracker.adbinead.com^
 ||tracker.digitalcamp.co.kr^
 ||tracking.adweb.co.kr^
+||utsgw.auction.co.kr^
 ! Latvian
 ||counter.hackers.lv^
 ! Lithuanian
@@ -6070,7 +6074,6 @@ inapps.appsflyersdk.com^
 ||banner.kiev.ua
 ||context.hotline.ua^
 ||context.meta.ua^
-||ili.pp.ua^
 ||kartinka.com.ua^
 ||kosibablo.ucoz.ua^
 ||lux-bn.com.ua^
@@ -6840,7 +6843,6 @@ inapps.appsflyersdk.com^
 ||10cd.ru^
 ||123fvd.com^
 ||1bestgoods.com^
-||1biznes.net
 ||1rtl.info^
 ||newdomain.center^
 ||1sputnik.ru^
@@ -6938,7 +6940,6 @@ inapps.appsflyersdk.com^
 ||adtags.pro^
 ||adtelligent.com^
 ||adultpay.net^
-||adulttiz.com
 ||adulttraffic.ru^
 ||adv.vz.ru^
 ||adv457895.ru^
@@ -6985,10 +6986,8 @@ inapps.appsflyersdk.com^
 ||aixcdn.com^
 ||ajpxs.xyz^
 ||akabo.ru^
-||alemobile.ru
 ||alfainternet.su^
 ||alfatarget.ru^
-||alienradar.ru
 ||alishop*.ru^
 ||allbn.net^
 ||allmt.com
@@ -7062,7 +7061,6 @@ inapps.appsflyersdk.com^
 ||best-cargo.ru^
 ||bestdoska.ru^
 ||beta.mediafort.ru^
-||bgrndi.com
 ||bigbord.net^
 ||bigclick.me^
 ||bigleads.ru^
@@ -7110,7 +7108,6 @@ inapps.appsflyersdk.com^
 ||bzlwe.com^
 ||c.cpa5.ru^
 ||c.cpl2.ru^
-||cafddfcagfegjchbabd.ru
 ||camadmin.ru^
 ||capliman.com^
 ||cartponi.tk^
@@ -7163,7 +7160,6 @@ inapps.appsflyersdk.com^
 ||cpatext.ru^
 ||cpazilla.ru^
 ||cpm.worldoftanks.com^
-||cpmsolution.ru
 ||cppgf.com^
 ||crackac.com^
 ||creara-media.ru^
@@ -7199,7 +7195,6 @@ inapps.appsflyersdk.com^
 ||dewife.ru^
 ||digisets.com^
 ||digital-forest.info^
-||dircash-promost.com
 ||dl.qcash.ws
 ||dndd.ru^
 ||domertb.com^
@@ -7230,7 +7225,6 @@ inapps.appsflyersdk.com^
 ||ergs4.com^
 ||eroksen.ru^
 ||erotikdeal.com^
-||eroxdating.com
 ||esc-team.com^
 ||estiques.com^
 ||et-cod.com^
@@ -7257,7 +7251,6 @@ inapps.appsflyersdk.com^
 ||firelove.ru^
 ||firsttrack.ru^
 ||fkehg.com^
-||flambo777.ru
 ||flapoint.ru^
 ||flipdigital.ru^
 ||flipflapflo.
@@ -7359,7 +7352,6 @@ inapps.appsflyersdk.com^
 ||iclckk.com^
 ||icq-window.
 ||icqwindow.
-||ictowaz.ru
 ||idvd.su^
 ||idwrx.com^
 ||ieuhd.com^
@@ -7401,7 +7393,6 @@ inapps.appsflyersdk.com^
 ||itcgin.net^
 ||ivanie.com^
 ||ivoxua.socratos.net^
-||ixtyted.ru
 ||iygke.com^
 ||jfhoq.com^
 ||jofbu.com^
@@ -7409,7 +7400,6 @@ inapps.appsflyersdk.com^
 ||joycasino.com^
 ||js.gdsln.ru^
 ||js.goods.redtram.com
-||js.novatizer.com
 ||jsc.idealmedia.io^
 ||jvs.price.ru^
 ||kadam.net^
@@ -7424,7 +7414,6 @@ inapps.appsflyersdk.com^
 ||kissmyads.biz^
 ||kistured.com^
 ||kitopr.com^
-||kliklink.ru
 ||klivz.com^
 ||klonedaset.org^
 ||knewy.com^
@@ -7579,12 +7568,10 @@ inapps.appsflyersdk.com^
 ||mjavagames.ru
 ||mmcispartners.com^
 ||mobalert.net^
-||mobatori.com
 ||mobatory.com^
 ||mobi-bobi.info^
 ||mobi-mobi.info^
 ||mobioffers.ru^
-||mobitema.ru
 ||modastro.ee^
 ||modelatos.com^
 ||moe.video^
@@ -7608,9 +7595,6 @@ inapps.appsflyersdk.com^
 ||mptri.net
 ||mrbasic.com^
 ||mrelko.com^
-||mt-data.ru
-||mtdata1.ru
-||mtdata10.ru
 ||muchhetont.ru^
 ||multonly.ru^
 ||mwcvu.com^
@@ -7645,12 +7629,10 @@ inapps.appsflyersdk.com^
 ||network-t.net^
 ||new.traffic.ru^
 ||new4.me^
-||news2you.ru
 ||newsvidnews.info^
 ||nextclick.com.ru^
 ||ngads.com^
 ||nhqqv.space^
-||nightdate.ru
 ||ningme.ru^
 ||nnavigation.info^
 ||nnn.ru^
@@ -7659,7 +7641,6 @@ inapps.appsflyersdk.com^
 ||nostalgia.onego.ru^
 ||not-only.info^
 ||novem.pl^
-||novoteka.ru
 ||nqtxg.xyz^
 ||num-link.ru^
 ||nvjqm.com^
@@ -7684,7 +7665,6 @@ inapps.appsflyersdk.com^
 ||online.koko-ko.com^
 ||online.mik123.com^
 ||only4men.ru^
-||openads.ab-daily.by
 ||openlinks.ru^
 ||openunder.net^
 ||openx.com^
@@ -7768,7 +7748,6 @@ inapps.appsflyersdk.com^
 ||puklisi.ru^
 ||purecash.ru^
 ||putana.cz^
-||puxrotate.ru
 ||pwnz.org^
 ||q1ilb0enze.ru^
 ||qkffv.com^
@@ -7870,7 +7849,6 @@ inapps.appsflyersdk.com^
 ||sasisa.ru^
 ||sb-money.ru^
 ||scafer.ru^
-||sealine-pfuoxcbgd.netdna-ssl.com^
 ||searchtds.ru^
 ||seclick.ru^
 ||securee.ru^
@@ -7889,7 +7867,6 @@ inapps.appsflyersdk.com^
 ||serl.mooo.com^
 ||servebbs.net^
 ||servemoney.ru^
-||server.roolim.ru^
 ||sexnimfa.ru^
 ||sexpalace.gs^
 ||sgood.ru^
@@ -8328,7 +8305,6 @@ inapps.appsflyersdk.com^
 ||m1.extrutor.org^
 ||a.kakoysegodnyaprazdnik.ru^
 ||test.besstidniki.ru^
-||info.inamo.ru^
 ||ad.velomania.ru^
 ||a.kidstaff.net^
 ||d1uw69x4c2zrim.cloudfront.net^
@@ -8379,7 +8355,6 @@ inapps.appsflyersdk.com^
 ||n.cashheaven.ru^
 ||ncs.eadaily.com^
 ||neobasnet.timeout.ru^
-||news.nest.msk.ru^
 ||o.60sk.ru^
 ||oblivki.filmy-2017.net^
 ||partner.pladform.ru^
@@ -8935,7 +8910,6 @@ inapps.appsflyersdk.com^
 ||pr-agent.jp^
 ||js.passaro-de-fogo.biz^
 ||trading-ad.net^
-||a.overlay.top^
 ||zastag.com^
 ||adcent.jp^
 ||pokoran.com^
@@ -13712,6 +13686,7 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||adtonus.com^
 ||dxsjcz.cn^
 ||yhsdwjes.xyz^
 ||tnllxd.xyz^
@@ -13725,6 +13700,7 @@ inapps.appsflyersdk.com^
 ||chsdwjes.xyz^
 ||czouthy.cn^
 ||hscq8.cyou^
+||xhsdwjes.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
