@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-01T06:22:27.734Z
+! Last modified: 2024-02-01T12:30:33.935Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5955,6 +5955,8 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||ippstuet.com^
+||aigenstud.com^
 ||vst.videolink.site^
 ||ippscriptbear.com^
 ||roomrentpast.com^
@@ -8221,7 +8223,7 @@ inapps.appsflyersdk.com^
 !
 ||exad.smi2.ru^
 ||tgb.hsmedia.ru^
-||market-backend.api.2gis.ru^
+
 !
 ! Source name: AdGuard Russian filter ad servers first-party
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt
