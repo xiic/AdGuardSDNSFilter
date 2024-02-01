@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-01T01:16:53.503Z
+! Last modified: 2024-02-01T06:22:27.734Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9930,8 +9930,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-01-26 08:12:34 CET
-# entries:        1074
+# last updated:   2024-02-01 07:06:35 CET
+# entries:        1065
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -9950,15 +9950,6 @@ inapps.appsflyersdk.com^
 ||ad.mox.tv^
 ||ad.yieldlab.net^
 ||ad.zanox.com^
-||ad1.emediate.dk^
-||ad2.emediate.dk^
-||ad3.emediate.dk^
-||ad4.emediate.dk^
-||ad5.emediate.dk^
-||ad6.emediate.dk^
-||ad7.emediate.dk^
-||ad8.emediate.dk^
-||ad9.emediate.dk^
 ||adcell.io^
 ||addrevenue.io^
 ||addy.expressen.se^
@@ -10086,7 +10077,6 @@ inapps.appsflyersdk.com^
 ||c.adsco.re^
 ||c.eacla.com^
 ||c1.adform.net^
-||campersverige.com.se^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
@@ -10156,7 +10146,6 @@ inapps.appsflyersdk.com^
 ||clientcdn.pushengage.com^
 ||cl-eu2.k5a.io^
 ||cl-eu4.k5a.io^
-||cmp.network-n.com^
 ||cncpt.dk^
 ||cncptx.com^
 ||cncpt-central.com^
@@ -10260,6 +10249,7 @@ inapps.appsflyersdk.com^
 ||headerlift.com^
 ||heroaffiliates.com^
 ||highcpmrevenuenetwork.com^
+||hits-i.iubenda.com^
 ||hsadspixel.net^
 ||htlb.casalemedia.com^
 ||h.online-metrix.net^
@@ -10422,6 +10412,7 @@ inapps.appsflyersdk.com^
 ||route.carambo.la^
 ||royapp.com^
 ||rpofsweden.com^
+||rpofsweden.se^
 ||rumcdn.geoedge.be^
 ||rum-http-intake.logs.datadoghq.eu^
 ||runtnc.net^
@@ -10460,7 +10451,6 @@ inapps.appsflyersdk.com^
 ||sentry.outbid.io^
 ||seoab.io^
 ||seonify.com^
-||serenitycandles.com.se^
 ||servedby.flashtalking.com^
 ||servedby.lintigroup.se^
 ||servedby.studads.com^
@@ -10680,6 +10670,7 @@ inapps.appsflyersdk.com^
 ||tracking.fagersta-posten.se^
 ||traffic.feedremedy.com^
 ||trckr1.nordiskemedier.dk^
+||turbolion.io^
 ||twin-iq.kickfire.com^
 ||u.openx.net^
 ||ubembed.com^
@@ -11173,8 +11164,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Jan 2024 22:44 UTC+7
-! Version: 2401232244
+! Last modified: 01 Feb 2024 11:03 UTC+7
+! Version: 2402011103
 ! Blocked: 861 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13699,6 +13690,9 @@ inapps.appsflyersdk.com^
 ||zvtnj.icu^
 ||iqveat.icu^
 ||wdcigo.xyz^
+||dwtkuzo.cn^
+||qvrfddm.cn^
+||clgvlvbc.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
