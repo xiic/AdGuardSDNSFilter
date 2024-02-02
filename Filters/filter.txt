@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-02T06:20:49.618Z
+! Last modified: 2024-02-02T12:29:56.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1187,7 +1187,6 @@ vkcdnservice.appspot.com^
 ||d7oskmhnq7sot.cloudfront.net^
 ||d7po8h5dek3wm.cloudfront.net^
 ||d7tst6bnt99p2.cloudfront.net^
-||d85wutc1n854v.cloudfront.net^
 ||d8a69dni6x2i5.cloudfront.net^
 ||d8cxnvx3e75nn.cloudfront.net^
 ||d8dcj5iif1uz.cloudfront.net^
@@ -1506,6 +1505,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||is1-ssl.mzstatic.com^
 ||diopousg.com^
 ||ruuaqkw.com^
 ||ads-*-nfl.yinzcam.com^
@@ -2402,6 +2402,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log.goodreels.com^
 ||log.dramaboxdb.com^
 ||log.51changdu.com^
 ||autotrack.studyquicks.com^
@@ -8467,10 +8468,10 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||pixad.com.tr^
 ||srvd2204.com^
 ||cryptosmoke.care^
 ||intermediaworks.com^
-||rtb.pixad.com.tr^
 ||finvest.care^
 ||winaffiliates1.com^
 ||flarby.com^
@@ -13714,6 +13715,10 @@ inapps.appsflyersdk.com^
 ||makqsd.icu^
 ||ctcxflak.xyz^
 ||gghhce96.shop^
+||bqnmxza.cn^
+||bocenamesingle.xyz^
+||xtcxflak.xyz^
+||catwalkoutled.com^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
