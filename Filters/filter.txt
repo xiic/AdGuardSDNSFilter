@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-01T18:20:18.173Z
+! Last modified: 2024-02-02T01:12:36.317Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -364,6 +364,7 @@ vkcdnservice.appspot.com^
 ||1736253261.rsc.cdn77.org^
 ||1857964468.rsc.cdn77.org^
 ||1921777336.rsc.cdn77.org^
+||1931283355.rsc.cdn77.org^
 ||1934671980.rsc.cdn77.org^
 ||1969321160.rsc.cdn77.org^
 ||360playvid.com^
@@ -3015,6 +3016,7 @@ inapps.appsflyersdk.com^
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics.30m.com^
+||analytics.adobe.io^
 ||analytics.agoda.com^
 ||analytics.aimtell.com^
 ||analytics.algolia.com^
@@ -8604,7 +8606,7 @@ inapps.appsflyersdk.com^
 ||noxaffiliates.com^
 ||numarapaneli.com^
 ||nutga.com^
-||partner.superbahisaffiliates248.com^
+||partner.superbahisaffiliates*.com^
 ||partners.betbooaffiliates.com^
 ||partnerx.bethub.io^
 ||performancenative.com^
@@ -8641,7 +8643,6 @@ inapps.appsflyersdk.com^
 ||tarpitbar.com^
 ||theadx.com^
 ||tidint.pro^
-||tr.bannersdf.com^
 ||trackocean.com^
 ||uzmanreklam.com^
 ||vegabet.net^
@@ -8693,7 +8694,6 @@ inapps.appsflyersdk.com^
 ||ads.gercekgundem.com^
 ||ads.inegolonline.com^
 ||ads.macsonuclari.mobi^
-||ads.modabetaff.com^
 ||ads.nexage.com^
 ||ads.o-networkaffiliates.com^
 ||ads.oyungemisi.com^
@@ -8718,7 +8718,6 @@ inapps.appsflyersdk.com^
 ||reklam.mynet.com^
 ||reklam.softreklam.com^
 ||reklam.star.com.tr^
-||reklam.vogel.com.tr^
 ||reklam.yonlendir.com^
 ||reklam1.akhisar.bel.tr^
 ||sam.setimedia.com^
@@ -13698,6 +13697,13 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||wdakda.cn^
+||h7h35.space^
+||kjjjusb.xyz^
+||ytcxflak.xyz^
+||zvnjvd.xyz^
+||qpawkw.xyz^
+||makqsd.icu^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
