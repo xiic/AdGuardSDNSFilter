@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-03T12:28:42.344Z
+! Last modified: 2024-02-03T18:19:43.928Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3068,7 +3068,6 @@ inapps.appsflyersdk.com^
 ||analytics.groupe-seb.com^
 ||analytics.growthphysics.com^
 ||analytics.gvim.mobi^
-||analytics.humanautomation.ai^
 ||analytics.iraiser.eu^
 ||analytics.jazel.net^
 ||analytics.jst.ai^
@@ -3122,10 +3121,8 @@ inapps.appsflyersdk.com^
 ||analytics.threedeepmarketing.com^
 ||analytics.tiktok.com^
 ||analytics.tout.com^
-||analytics.tribeca.vidavee.com^
 ||analytics.unibuddy.co^
 ||analytics.unilogcorp.com^
-||analytics.urx.io^
 ||analytics.vanillaforums.com^
 ||analytics.vdo.ai^
 ||analytics.vendemore.com^
@@ -3135,7 +3132,6 @@ inapps.appsflyersdk.com^
 ||analytics.websolute.it^
 ||analytics.wildtangent.com^
 ||analytics.witglobal.net^
-||analytics.worldtable.co^
 ||analytics.yahoo.com^
 ||analytics.yext-static.com^
 ||analytics.ynap.biz^
@@ -3145,7 +3141,6 @@ inapps.appsflyersdk.com^
 ||analytics1.vdo.ai^
 ||analyticsehnwe.servicebus.windows.net^
 ||analyticssec.overwolf.com^
-||analyze.full-marke.com^
 ||ao-freegeoip.herokuapp.com^
 ||ape-tagit.timeinc.net^
 ||api-analytics-prd.pelcro.com^
@@ -3336,7 +3331,6 @@ inapps.appsflyersdk.com^
 ||data.digitalks.az^
 ||data.eetech.com^
 ||data.gosquared.com^
-||data.imakenews.com^
 ||data.minute.ly^
 ||data.nexxt.com^
 ||data.queryly.com^
@@ -3544,7 +3538,6 @@ inapps.appsflyersdk.com^
 ||log.cookieyes.com^
 ||log.dpa.com^
 ||log.go.com^
-||log.invodo.com^
 ||log.mediacategory.com^
 ||log.nordot.jp^
 ||log.olark.com^
@@ -3832,7 +3825,6 @@ inapps.appsflyersdk.com^
 ||stats.screenresolution.org^
 ||stats.shopify.com^
 ||stats.topofblogs.com^
-||stats.twistage.com^
 ||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
@@ -3910,7 +3902,6 @@ inapps.appsflyersdk.com^
 ||tags.refinery89.com^
 ||tagtracking.vibescm.com^
 ||target.mixi.media^
-||te.supportfreecontent.com^
 ||telemetrics.klaviyo.com^
 ||telemetry.goodlifefitness.com^
 ||telemetry.phenixrts.com^
@@ -3957,7 +3948,6 @@ inapps.appsflyersdk.com^
 ||track.mp4.center^
 ||track.mycliplister.com^
 ||track.nopaperforms.com^
-||track.pnicnik.live^
 ||track.pricespider.com^
 ||track.qoof.com^
 ||track.realtimeboard.com^
@@ -3995,7 +3985,6 @@ inapps.appsflyersdk.com^
 ||tracker.nitropay.com^
 ||tracker.novage.com.ua^
 ||tracker.openwebtorrent.com^
-||tracker.roitesting.com^
 ||tracker.services.vaix.ai^
 ||tracker.softcube.com^
 ||tracker.ssl0d.com^
@@ -4441,10 +4430,8 @@ inapps.appsflyersdk.com^
 ||grfz.de^
 ||haymarketstat.de^
 ||healte.de^
-||hiddencounter.de^
 ||hitmaster.de^
 ||hot-count.com^
-||hotcounter.de^
 ||hstrck.com^
 ||htm1.ch^
 ||hung.ch^
@@ -4479,7 +4466,6 @@ inapps.appsflyersdk.com^
 ||mindtake.com^
 ||motorpresse-statistik.de^
 ||mps-gba.de^
-||mpwe.net^
 ||mr-rank.de^
 ||multicounter.de^
 ||my-ranking.de^
@@ -4578,7 +4564,6 @@ inapps.appsflyersdk.com^
 ||webhits.de^
 ||weblist.de^
 ||webprospector.de^
-||websitesampling.com^
 ||webtrekk-us.net^
 ||webtrekk.de^
 ||webtrekk.net^
@@ -4612,7 +4597,6 @@ inapps.appsflyersdk.com^
 ||compteur-fr.com^
 ||compteur-gratuit.org^
 ||compteur-visite.com^
-||compteur.com^
 ||compteur.org^
 ||count.fr^
 ||countus.fr^
@@ -4636,7 +4620,6 @@ inapps.appsflyersdk.com^
 ||hunkal.com^
 ||ivitrack.com^
 ||kdata.fr^
-||lead-analytics.biz^
 ||leadium.com^
 ||libstat.com^
 ||livestats.fr^
@@ -4702,7 +4685,6 @@ inapps.appsflyersdk.com^
 ||growingio.com^
 ||gtags.net^
 ||he2d.com^
-||hnrmvq.com^
 ||hotrank.com.tw^
 ||hubpd.com^
 ||ipinyou.com^
@@ -4767,7 +4749,6 @@ inapps.appsflyersdk.com^
 ||gixmo.dk^
 ||hitcount.dk^
 ||infocollect.dk^
-||jubiitag.dk^
 ||livecounter.dk^
 ||livewebstats.dk^
 ||ncom.dk^
@@ -4781,7 +4762,6 @@ inapps.appsflyersdk.com^
 ! Dutch
 ||active24stats.nl^
 ||istats.nl^
-||metriweb.be^
 ||mtrack.nl^
 ||mystats.nl^
 ||onlinesucces.nl^
@@ -4796,7 +4776,6 @@ inapps.appsflyersdk.com^
 ||leiki.com^
 ||m-brain.fi^
 ||netmonitor.fi^
-||stat.www.fi^
 ||tracking*.euroads.fi^
 ||vihtori-analytics.fi^
 ! Georgian
@@ -4804,11 +4783,9 @@ inapps.appsflyersdk.com^
 ! Greek
 ||linkwi.se^
 ! Hebrew
-||analyti.io^
 ||erate.co.il^
 ||fortvision.com^
 ||lead.im^
-||mimgoal.com^
 ! Hungarian
 ||gpr.hu^
 ||hirmatrix.hu^
@@ -4858,7 +4835,6 @@ inapps.appsflyersdk.com^
 ||sphostserver.com^
 ||statistiche-free.com^
 ||statistiche.it^
-||statistiche.ws^
 ||statistichegratis.net^
 ||statsforever.com^
 ||superstat.info^
@@ -4991,7 +4967,6 @@ inapps.appsflyersdk.com^
 ||easy.lv^
 ||maxtraffic.com^
 ||mxapis.com^
-||reitingas.lt^
 ||visits.lt^
 ||www.hey.lt^
 ! Norwegian
@@ -5017,7 +4992,6 @@ inapps.appsflyersdk.com^
 ||gostats.pl^
 ||hub.com.pl^
 ||i22lo.com^
-||inaudium.com^
 ||inistrack.net^
 ||legenhit.com^
 ||naanalle.pl^
@@ -5030,9 +5004,7 @@ inapps.appsflyersdk.com^
 ||sare25.com^
 ||stat.4u.pl^
 ||stat.pl^
-||tagcdn.com^
 ||trafficscanner.pl^
-||volvelle.tech^
 ||way2traffic.com^
 ! Portuguese
 ||ad5track.com^
@@ -5049,7 +5021,6 @@ inapps.appsflyersdk.com^
 ||percycle.com^
 ||pmweb.com.br^
 ||premiumads.com.br^
-||premiumprogrammatic.com.br^
 ||retargeter.com.br^
 ||sambaads.com^
 ||shoptarget.com.br^
@@ -5078,9 +5049,7 @@ inapps.appsflyersdk.com^
 ||1dmp.io^
 ||24log.ru^
 ||24smi.net^
-||a-counter.com.ua^
 ||a-counter.kiev.ua^
-||adblockmetrics.ru^
 ||admile.ru^
 ||adsmediator.com^
 ||adx.com.ru^
@@ -5104,9 +5073,7 @@ inapps.appsflyersdk.com^
 ||dircont3.com^
 ||directcrm.ru^
 ||e-kuzbass.ru^
-||efatik.me^
 ||faststart.ru^
-||ftrack.ru^
 ||gdeslon.ru^
 ||get4click.ru^
 ||giraff.io^
@@ -5151,7 +5118,6 @@ inapps.appsflyersdk.com^
 ||roistat.com^
 ||rutarget.ru^
 ||sarov.ws^
-||sblftg.com^
 ||semantiqo.com^
 ||sensor.org.ua^
 ||seo-master.net^
@@ -5219,7 +5185,6 @@ inapps.appsflyersdk.com^
 ||bonnieradnetwork.se^
 ||brandmetrics.com^
 ||citypaketet.se^
-||cssrvsync.com^
 ||dep-x.com^
 ||lwadm.com^
 ||myvisitors.se^
@@ -5250,12 +5215,9 @@ inapps.appsflyersdk.com^
 ||webtemsilcisi.com^
 ||zirve100.com^
 ! Ukranian
-||getaim.info^
 ||mediatraffic.com.ua^
 ||mycounter.com.ua^
 ||mycounter.ua^
-||uapoisk.net^
-||weblog.com.ua^
 ! Vietnamese
 ||amcdn.vn^
 ||ants.vn^
@@ -5358,7 +5320,6 @@ inapps.appsflyersdk.com^
 ||capping.sirius.press^
 ||collect-v6.51.la^
 ||compteur.websiteout.net^
-||core.unit-sense.net^
 ||dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws^
 ||e.viously.com^
 ||email-reflex.com^
@@ -5410,7 +5371,6 @@ inapps.appsflyersdk.com^
 ||cms.grandcloud.cn^
 ||collector2c.zhihuishu.com^
 ||counter.pixplug.in^
-||csbew.com^
 ||d17m68fovwmgxj.cloudfront.net^
 ||da.netease.com^
 ||datacollector-dra.dt.hicloud.com^
@@ -5451,7 +5411,6 @@ inapps.appsflyersdk.com^
 ||tce.alicdn.com^
 ||toruk.tanx.com^
 ||tr.n2.hk^
-||track.ra.icast.cn^
 ||track.storm.mg^
 ||track.tomwx.net^
 ||track.unidata.ai^
@@ -5730,7 +5689,6 @@ inapps.appsflyersdk.com^
 ||telemetry.jivosite.com^
 ||tms.dmp.wi-fi.ru^
 ||top.elec.ru^
-||track.recreativ.ru^
 ||tracking.gpm-rtv.ru^
 ||tracking.retailrocket.net^
 ||uc.xddi.ru^
@@ -12062,6 +12020,7 @@ inapps.appsflyersdk.com^
 ||2u3v4w5x6y.com^
 ||3562wsgkbcm.xyz^
 ||38bw0.space^
+||39rvye.cn^
 ||3azpx.xyz^
 ||3dh9y.com^
 ||3hufi.site^
@@ -12285,6 +12244,7 @@ inapps.appsflyersdk.com^
 ||caonme.xyz^
 ||catwalkoutled.com^
 ||cbttnmo.xyz^
+||cbyhoe.xyz^
 ||ccwxma.xyz^
 ||cdsa2.icu^
 ||ceiuip.icu^
@@ -12307,6 +12267,7 @@ inapps.appsflyersdk.com^
 ||ckmbig.xyz^
 ||clcmdie.com^
 ||clgvlvbc.xyz^
+||clypzbzs.xyz^
 ||cmdcdacq.xyz^
 ||cmiega.top^
 ||cnqaaa.xyz^
@@ -12364,6 +12325,7 @@ inapps.appsflyersdk.com^
 ||djcnetb.icu^
 ||djiuss.cn^
 ||djponj.xyz^
+||dk45h.icu^
 ||dkvakldvnsv.com^
 ||dkyd6.xyz^
 ||dmdnlr.xyz^
@@ -12573,6 +12535,7 @@ inapps.appsflyersdk.com^
 ||gwdobvs.cn^
 ||gwivqo.xyz^
 ||gxx4t.online^
+||gyjgrvd.cn^
 ||h7h35.space^
 ||hailfi.top^
 ||haise3.top^
@@ -12679,6 +12642,7 @@ inapps.appsflyersdk.com^
 ||isna.top^
 ||isnd.top^
 ||isoffss.com^
+||it8vh.site^
 ||itwzlyq.com^
 ||iujlwn.icu^
 ||iumboa.xyz^
@@ -13109,6 +13073,7 @@ inapps.appsflyersdk.com^
 ||qbswezw.cn^
 ||qdcxia.xyz^
 ||qdtjjxr.xyz^
+||qeuckn.icu^
 ||qgl27.xyz^
 ||qimacdg.cn^
 ||qinjgh.icu^
@@ -13387,6 +13352,9 @@ inapps.appsflyersdk.com^
 ||usxuyr.icu^
 ||utnwxhjv.xyz^
 ||utwwzqdx.xyz^
+||uu11881.com^
+||uu22002.com^
+||uu22332.com^
 ||uuishsa.com^
 ||uuoizbtl.xyz^
 ||uuuzuu.xyz^
@@ -13429,6 +13397,7 @@ inapps.appsflyersdk.com^
 ||vdggsd016.com^
 ||vdggsd017.com^
 ||vdtxlt.xyz^
+||ve0ke.icu^
 ||vfvad.top^
 ||vggg5.space^
 ||vgjaxnuw.xyz^
@@ -13465,6 +13434,7 @@ inapps.appsflyersdk.com^
 ||waxin0gjue.cn^
 ||waymom.xyz^
 ||wbkaqly.cn^
+||wbnbocz.xyz^
 ||wcbghap63.shop^
 ||wclsylk.cn^
 ||wdadad.cn^
@@ -13494,6 +13464,7 @@ inapps.appsflyersdk.com^
 ||wrtjojn.xyz^
 ||wsadad.cn^
 ||wsyfsg.xyz^
+||wttuuyd.cn^
 ||wuruigroup.com^
 ||wutsldsk.xyz^
 ||wuyaw.cn^
@@ -13548,6 +13519,7 @@ inapps.appsflyersdk.com^
 ||xlgvlvbc.xyz^
 ||xlnvvbk.xyz^
 ||xltmjevd.xyz^
+||xlypzbzs.xyz^
 ||xmvmir.icu^
 ||xn--1qwynp09f.net^
 ||xn--9kq29i0tjy6b044actm.com^
@@ -13622,6 +13594,7 @@ inapps.appsflyersdk.com^
 ||ykxafzdu.xyz^
 ||yldfkfb.cn^
 ||ylgvlvbc.xyz^
+||ylypzbzs.xyz^
 ||ymmiyun.com^
 ||ymniqh.icu^
 ||ynulcpt.cn^
@@ -13664,6 +13637,7 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zf4.top^
 ||zfp32.buzz^
+||zfpkrl.xyz^
 ||zfvtswv.xyz^
 ||zghrxn.xyz^
 ||zghsep.icu^
@@ -13696,25 +13670,9 @@ inapps.appsflyersdk.com^
 ||zys16.top^
 ||zyzo.cn^
 ||zzbmxl.xyz^
+||zzlong14.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||wttuuyd.cn^
-||zfpkrl.xyz^
-||ve0ke.icu^
-||dk45h.icu^
-||ylypzbzs.xyz^
-||wbnbocz.xyz^
-||it8vh.site^
-||cbyhoe.xyz^
-||uu11881.com^
-||uu22002.com^
-||uu22332.com^
-||clypzbzs.xyz^
-||gyjgrvd.cn^
-||qeuckn.icu^
-||xlypzbzs.xyz^
-||39rvye.cn^
-||zzlong14.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
