@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-06T12:30:58.784Z
+! Last modified: 2024-02-06T18:18:45.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -358,6 +358,7 @@ vkcdnservice.appspot.com^
 ||1173384488.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1445112467.rsc.cdn77.org^
 ||1556048427.rsc.cdn77.org^
 ||1580345775.rsc.cdn77.org^
 ||1647871863.rsc.cdn77.org^
@@ -636,6 +637,7 @@ vkcdnservice.appspot.com^
 ||d1ezlc9vy4yc7g.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d1f52ha44xvggk.cloudfront.net^
+||d1f5r3d462eit5.cloudfront.net^
 ||d1f9tkqiyb5a97.cloudfront.net^
 ||d1fs2ef81chg3.cloudfront.net^
 ||d1g2nud28z4vph.cloudfront.net^
@@ -827,6 +829,7 @@ vkcdnservice.appspot.com^
 ||d29i6o40xcgdai.cloudfront.net^
 ||d29mxewlidfjg1.cloudfront.net^
 ||d2a80scaiwzqau.cloudfront.net^
+||d2b4jmuffp1l21.cloudfront.net^
 ||d2bbq3twedfo2f.cloudfront.net^
 ||d2bkkt3kqfmyo0.cloudfront.net^
 ||d2bvfdz3bljcfk.cloudfront.net^
@@ -5391,6 +5394,7 @@ inapps.appsflyersdk.com^
 ||t.hypers.com.cn^
 ||t.rainide.com^
 ||tce.alicdn.com^
+||tongjiniao.com^
 ||toruk.tanx.com^
 ||tr.n2.hk^
 ||track.storm.mg^
@@ -12126,6 +12130,7 @@ inapps.appsflyersdk.com^
 ||awareista.com^
 ||awaw.asia^
 ||awcdst.icu^
+||awhsaso.cn^
 ||awzddev.cn^
 ||ax7fv.space^
 ||aymwiq.xyz^
@@ -12235,6 +12240,7 @@ inapps.appsflyersdk.com^
 ||cbttnmo.xyz^
 ||cbyhoe.xyz^
 ||ccwxma.xyz^
+||cdolhlwq.xyz^
 ||cdsa2.icu^
 ||ceiuip.icu^
 ||cfateu.xyz^
@@ -12248,6 +12254,7 @@ inapps.appsflyersdk.com^
 ||chsdwjes.xyz^
 ||chubsxmg.xyz^
 ||chzjidgc.xyz^
+||ciimar.icu^
 ||cjndvoglik.xyz^
 ||cjohpsc.cn^
 ||cjpczyi.cn^
@@ -12617,6 +12624,7 @@ inapps.appsflyersdk.com^
 ||iknhgj.com^
 ||ileled.xyz^
 ||ilph0.icu^
+||im71za.cn^
 ||imrvyop.cn^
 ||imwxsu.xyz^
 ||imxsvpxe.xyz^
@@ -12788,6 +12796,7 @@ inapps.appsflyersdk.com^
 ||lcid.top^
 ||lckjqtx.xyz^
 ||ldjnbn.xyz^
+||ldvdwlt.xyz^
 ||ldvnehc.xyz^
 ||leidad.xyz^
 ||leizylb.icu^
@@ -12926,6 +12935,7 @@ inapps.appsflyersdk.com^
 ||mwfyab.icu^
 ||mycxhgrp.xyz^
 ||mydzfldt.xyz^
+||myiryc.xyz^
 ||mymahuxv.xyz^
 ||myyxox.icu^
 ||mzelzfnj.xyz^
@@ -12935,6 +12945,7 @@ inapps.appsflyersdk.com^
 ||n0h56.site^
 ||n2faw.site^
 ||n522rv1.cn^
+||n5n5s.icu^
 ||nahgvfhs.xyz^
 ||nanaimostarkle.com^
 ||nangongmall.com^
@@ -13042,6 +13053,7 @@ inapps.appsflyersdk.com^
 ||pidurrmu.xyz^
 ||pipc.top^
 ||pirubcfy.xyz^
+||pjvkhh.xyz^
 ||pkfuxvbk.xyz^
 ||pknrnj.xyz^
 ||plnrkgc.xyz^
@@ -13188,6 +13200,7 @@ inapps.appsflyersdk.com^
 ||sigjuw.xyz^
 ||skdaj.cn^
 ||skdunkig.xyz^
+||skskssso.com^
 ||slkdfg.com^
 ||slkdnlkfnskl.com^
 ||sllo.top^
@@ -13492,6 +13505,7 @@ inapps.appsflyersdk.com^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xdjdpyrt.xyz^
+||xdolhlwq.xyz^
 ||xdsahkln.xyz^
 ||xeazoj.icu^
 ||xebohjhh.xyz^
@@ -13580,6 +13594,7 @@ inapps.appsflyersdk.com^
 ||ycgkol.icu^
 ||ycmgeb.icu^
 ||yddbysa.xyz^
+||ydolhlwq.xyz^
 ||ydv7k.cyou^
 ||yepgdita.xyz^
 ||yfsstec96.xyz^
@@ -13683,16 +13698,6 @@ inapps.appsflyersdk.com^
 ||zzlong14.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||im71za.cn^
-||n5n5s.icu^
-||pjvkhh.xyz^
-||ydolhlwq.xyz^
-||ldvdwlt.xyz^
-||ciimar.icu^
-||myiryc.xyz^
-||awhsaso.cn^
-||cdolhlwq.xyz^
-||xdolhlwq.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
