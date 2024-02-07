@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-07T12:29:59.680Z
+! Last modified: 2024-02-07T18:20:31.724Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5915,6 +5915,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||usesentry.com^
 ||fzgrpqktmq.com^
 ||igbfwa.com^
 ||ippstuet.com^
@@ -11970,6 +11971,7 @@ inapps.appsflyersdk.com^
 ||0efghij.com^
 ||0ghijkl.com^
 ||0hq6k.site^
+||0j91h.cyou^
 ||0mnopqr.com^
 ||0yzabcd.com^
 ||1227a.xyz^
@@ -11999,6 +12001,7 @@ inapps.appsflyersdk.com^
 ||20szp.com^
 ||222aa333bb.com^
 ||24w0p.com^
+||25ktra.cn^
 ||273knt.xyz^
 ||2c0a5.xyz^
 ||2hpg0.fun^
@@ -12119,6 +12122,7 @@ inapps.appsflyersdk.com^
 ||athecsz.cn^
 ||atlggfy.cn^
 ||atmdew.xyz^
+||atwqyor.cn^
 ||audgiqb.cn^
 ||aueajkn.cn^
 ||auerkbo.cn^
@@ -12263,6 +12267,7 @@ inapps.appsflyersdk.com^
 ||ckmbig.xyz^
 ||clcmdie.com^
 ||clgvlvbc.xyz^
+||clkdbbvy.xyz^
 ||clrjnhxi.xyz^
 ||clypzbzs.xyz^
 ||cmdcdacq.xyz^
@@ -12479,6 +12484,7 @@ inapps.appsflyersdk.com^
 ||gizlnr.com^
 ||gkktjf.top^
 ||gkswas.xyz^
+||glittersh.com^
 ||glruh.site^
 ||gmgbmzz.xyz^
 ||gmx10.top^
@@ -12518,6 +12524,7 @@ inapps.appsflyersdk.com^
 ||gmx46.top^
 ||gmx47.top^
 ||gmx48.top^
+||gmxysb.icu^
 ||gn01.top^
 ||gnuoipb.cn^
 ||gqleov.icu^
@@ -13036,6 +13043,7 @@ inapps.appsflyersdk.com^
 ||oyotqp.icu^
 ||oyugspe.cn^
 ||ozolei.xyz^
+||p2ijd.space^
 ||p5kzev.com^
 ||pajhvd.xyz^
 ||pdhjnz.xyz^
@@ -13535,6 +13543,7 @@ inapps.appsflyersdk.com^
 ||xlam.cn^
 ||xlca666.site^
 ||xlgvlvbc.xyz^
+||xlkdbbvy.xyz^
 ||xlnvvbk.xyz^
 ||xlrjnhxi.xyz^
 ||xltmjevd.xyz^
@@ -13566,13 +13575,16 @@ inapps.appsflyersdk.com^
 ||xtcxflak.xyz^
 ||xtnwxhjv.xyz^
 ||xtvrtrya.xyz^
+||xtxidx.xyz^
 ||xucyufv.icu^
 ||xuoizbtl.xyz^
 ||xuyanlong1.cn^
 ||xvbnrh.xyz^
+||xvilxdv.cn^
 ||xvorpqz.cn^
 ||xvpqrydt.xyz^
 ||xvzfyra.xyz^
+||xvzvqoq.xyz^
 ||xwlnhw.com^
 ||xxfphsg.cn^
 ||xxkswdf.icu^
@@ -13611,10 +13623,12 @@ inapps.appsflyersdk.com^
 ||yivkzvog.xyz^
 ||yjbdyjnctgj.top^
 ||yjxzvqy.xyz^
+||ykgfcs.xyz^
 ||ykujch.icu^
 ||ykxafzdu.xyz^
 ||yldfkfb.cn^
 ||ylgvlvbc.xyz^
+||ylkdbbvy.xyz^
 ||ylrjnhxi.xyz^
 ||ylypzbzs.xyz^
 ||ymmiyun.com^
@@ -13698,19 +13712,6 @@ inapps.appsflyersdk.com^
 ||zzlong14.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||0j91h.cyou^
-||xtxidx.xyz^
-||ylkdbbvy.xyz^
-||xvzvqoq.xyz^
-||p2ijd.space^
-||25ktra.cn^
-||ykgfcs.xyz^
-||xvilxdv.cn^
-||atwqyor.cn^
-||clkdbbvy.xyz^
-||gmxysb.icu^
-||glittersh.com^
-||xlkdbbvy.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -16720,7 +16721,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||wenxue.youzhicn.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -17418,6 +17418,7 @@ inapps.appsflyersdk.com^
 ||wap1.laogu.wang^
 ||wenhua.jiaoshou.com^
 ||wenxue.weimeifan.net^
+||wenxue.youzhicn.com^
 ||whfpbc.99.com.cn^
 ||wj.jiancai365.cn^
 ||wm.mipcdn.com^
