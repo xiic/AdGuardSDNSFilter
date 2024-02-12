@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-11T18:20:13.129Z
+! Last modified: 2024-02-12T01:12:52.142Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,7 +20,6 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||d1kx6hl0p7bemr.cloudfront.net^
 ||ads.videy.co^
 ||ads.sportslocalmedia.com^
 ||ads.tvp.pl^
@@ -678,6 +677,7 @@ vkcdnservice.appspot.com^
 ||d1ktmtailsv07c.cloudfront.net^
 ||d1kttpj1t6674w.cloudfront.net^
 ||d1kwkwcfmhtljq.cloudfront.net^
+||d1kx6hl0p7bemr.cloudfront.net^
 ||d1kzm6rtbvkdln.cloudfront.net^
 ||d1l906mtvq85kd.cloudfront.net^
 ||d1lihuem8ojqxz.cloudfront.net^
@@ -13778,6 +13778,10 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||lxtuzcb.cn^
+||ydttxdqe.xyz^
+||zpcj8.online^
+||vrxhnr.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
