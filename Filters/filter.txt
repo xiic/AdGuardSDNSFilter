@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-15T12:30:09.556Z
+! Last modified: 2024-02-15T18:21:50.780Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -373,6 +373,7 @@ vkcdnservice.appspot.com^
 ||1647871863.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1680292335.rsc.cdn77.org^
+||1687097253.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1857964468.rsc.cdn77.org^
 ||1874562524.rsc.cdn77.org^
@@ -546,6 +547,7 @@ vkcdnservice.appspot.com^
 ||widgets.oddschecker.com^
 ||widgets.progrids.com^
 ||widgets.tree.com^
+||winonexd.b-cdn.net^
 ||yield-op-idsync.live.streamtheworld.com^
 ||zv.7vid.net^
 ||ad.intl.xiaomi.com^
@@ -9882,8 +9884,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-02-14 06:43:34 CET
-# entries:        1066
+# last updated:   2024-02-15 13:58:40 CET
+# entries:        1074
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -9969,6 +9971,7 @@ inapps.appsflyersdk.com^
 ||analytics.sunet.se^
 ||analytics.svt.se^
 ||analytics.undeco.se^
+||analytics.vackertvader.se^
 ||analytics-sdk.yle.fi^
 ||analytics-smhise.smhi.se^
 ||analytics.ci-360.se^
@@ -9980,6 +9983,7 @@ inapps.appsflyersdk.com^
 ||api.deep.bi^
 ||api.fouanalytics.com^
 ||api.getlevelten.com^
+||api.lab.eu.amplitude.com^
 ||api.retargetly.com^
 ||api3847.d41.co^
 ||app.converdiant.com^
@@ -10067,6 +10071,7 @@ inapps.appsflyersdk.com^
 ||cdn.permutive.com^
 ||cdn.popt.in^
 ||cdn.pushalert.co^
+||cdn.qwtag.com^
 ||cdn.reaktion.se^
 ||cdn.routy.app^
 ||cdn.shareaholic.net^
@@ -10171,6 +10176,7 @@ inapps.appsflyersdk.com^
 ||feed.aservice.tools^
 ||fila.com.se^
 ||findbetterresults.com^
+||flag.lab.eu.amplitude.com^
 ||flx1.com^
 ||footjoygolfskorrea.com.se^
 ||fpnpmcdn.net^
@@ -10367,6 +10373,7 @@ inapps.appsflyersdk.com^
 ||rpofsweden.se^
 ||rumcdn.geoedge.be^
 ||rum-http-intake.logs.datadoghq.eu^
+||rum-reporter-prod.exp.bn.nr^
 ||runtnc.net^
 ||s.moatads.com^
 ||s.ntv.io^
@@ -11980,26 +11987,26 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
-||caomeixz7.xyz^
-||cdmnlxtu.xyz^
-||ngnxyub.cn^
-||tyodot.icu^
-||lvdedf.xyz^
-||spsfupq.cn^
-||yliffnsc.xyz^
-||agmed.cyou^
-||ycqbgm.xyz^
-||xszw0.icu^
-||ztxjutz.xyz^
 ||88lm05.com^
-||dsbqvj.xyz^
+||agmed.cyou^
+||caomeixz7.xyz^
 ||ccsshn137.shop^
-||cwssfg632.shop^
-||szpnz.cn^
+||cdmnlxtu.xyz^
 ||cliffnsc.xyz^
+||cwssfg632.shop^
+||dsbqvj.xyz^
+||lvdedf.xyz^
+||ngnxyub.cn^
+||spsfupq.cn^
+||szpnz.cn^
+||tyodot.icu^
 ||xcypgd.icu^
-||xliffnsc.xyz^
 ||xdmnlxtu.xyz^
+||xliffnsc.xyz^
+||xszw0.icu^
+||ycqbgm.xyz^
+||yliffnsc.xyz^
+||ztxjutz.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
