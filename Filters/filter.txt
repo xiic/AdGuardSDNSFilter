@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-17T12:28:12.667Z
+! Last modified: 2024-02-17T18:19:19.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12001,18 +12001,25 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||88lm05.com^
 ||agmed.cyou^
+||bdxpdz.xyz^
+||bjswhpy.cn^
 ||bmnbyn.icu^
 ||caomeixz7.xyz^
 ||ccsshn137.shop^
 ||cdfhidrk.xyz^
+||cdftizu.xyz^
 ||cdmnlxtu.xyz^
 ||cliffnsc.xyz^
+||cvbjctqs.xyz^
 ||cwssfg632.shop^
 ||dsbqvj.xyz^
+||fwcnex.icu^
 ||gicjtss.cn^
 ||gvbta.icu^
+||hmrwkcx.cn^
 ||js131.cn^
 ||kbomku.xyz^
+||l5kt1.icu^
 ||lfffzv.xyz^
 ||lvdedf.xyz^
 ||ngnxyub.cn^
@@ -12021,29 +12028,22 @@ inapps.appsflyersdk.com^
 ||spsfupq.cn^
 ||szpnz.cn^
 ||szptp.cn^
+||tchdxl.xyz^
 ||tyodot.icu^
 ||uctutu3789.xyz^
+||wnmaoc.xyz^
 ||xcypgd.icu^
 ||xdfhidrk.xyz^
 ||xdmnlxtu.xyz^
 ||xliffnsc.xyz^
 ||xszw0.icu^
+||xvbjctqs.xyz^
 ||ycqbgm.xyz^
 ||ydfhidrk.xyz^
 ||yliffnsc.xyz^
+||yvbjctqs.xyz^
 ||yyddkm526.shop^
 ||ztxjutz.xyz^
-||hmrwkcx.cn^
-||yvbjctqs.xyz^
-||tchdxl.xyz^
-||l5kt1.icu^
-||wnmaoc.xyz^
-||cdftizu.xyz^
-||bdxpdz.xyz^
-||bjswhpy.cn^
-||fwcnex.icu^
-||cvbjctqs.xyz^
-||xvbjctqs.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
