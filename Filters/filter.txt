@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-19T06:22:40.318Z
+! Last modified: 2024-02-19T12:31:26.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -383,6 +383,7 @@ vkcdnservice.appspot.com^
 ||1934671980.rsc.cdn77.org^
 ||1948576968.rsc.cdn77.org^
 ||1969321160.rsc.cdn77.org^
+||2839f789ab.f092680893.com^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -549,6 +550,7 @@ vkcdnservice.appspot.com^
 ||widgets.progrids.com^
 ||widgets.tree.com^
 ||winonexd.b-cdn.net^
+||wixlabs-adsense-v3.uc.r.appspot.com^
 ||yield-op-idsync.live.streamtheworld.com^
 ||zv.7vid.net^
 ||ad.intl.xiaomi.com^
@@ -8770,6 +8772,8 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||ad1.girls-affiliate.com^
+||manga.boy.jp^
 ||af.atsoho.com^
 ||flux-cdn.com^
 ||js.mediams.mb.softbank.jp^
@@ -12073,6 +12077,7 @@ inapps.appsflyersdk.com^
 ||nkbkor.icu^
 ||szbhb.cn^
 ||cvudqzoa.xyz^
+||xvudqzoa.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
