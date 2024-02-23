@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-22T18:21:18.845Z
+! Last modified: 2024-02-23T01:11:13.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -113,7 +113,6 @@
 ||veih8bee.xhcdn.com^
 ||qontent.pomvideo.cc^
 ||ads.thetimes.co.uk^
-||am.titsx.com^
 ||d1cykymlllue3h.cloudfront.net^
 ||dggaenaawxe8z.cloudfront.net^
 ||d3iih5w7xp5hdg.cloudfront.net^
@@ -272,26 +271,18 @@
 ||omine.org^
 ||tercabilis.info^
 ||statdynamic.com^
-||ethereum-pocket.de^
 ://mine.torrent.pw^
-||besstahete.info^
 ||hostingcloud.*.wasm^
 ||cashbeet.com^
-||gramombird.com^
 ||pampopholf.com^
 vkcdnservice.appspot.com^
 ||vkcdnservice.com^
 ||acbp0020171456.page.tl^
 ||vuryua.ru^
-||minexmr.stream^
-||eth-pocket.de^
 ||webminerpool.com^
-||autologica.ga^
 ||mepirtedic.com^
 ||nerohut.com^
-||hhb123.tk^
 ||silimbompom.com^
-||gasolina.ml^
 ||adless.io^
 ||afminer.com^
 ||analytics.blue^
@@ -319,13 +310,11 @@ vkcdnservice.appspot.com^
 ||laserveradedomaina.com^
 ||machieved.com^
 ||minemytraffic.com^
-||minero.pw^
 ||minescripts.info^
 ||monero-miner.com^
 ||nametraff.com^
 ||offerreality.com^
 ||ogrid.org^
-||panelsave.com^
 ||papoto.com^
 ||party-vqgdyvoycc.now.sh^
 ||pertholin.com^
@@ -360,30 +349,38 @@ vkcdnservice.appspot.com^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1130482418.rsc.cdn77.org^
 ||1173384488.rsc.cdn77.org^
 ||1187386545.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1373864970.rsc.cdn77.org^
+||1386132757.rsc.cdn77.org^
 ||1390582286.rsc.cdn77.org^
 ||1433024343.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1445112467.rsc.cdn77.org^
+||1477803098.rsc.cdn77.org^
 ||1527684727.rsc.cdn77.org^
 ||1556048427.rsc.cdn77.org^
 ||1580345775.rsc.cdn77.org^
 ||1647871863.rsc.cdn77.org^
+||1656002483.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1680292335.rsc.cdn77.org^
 ||1687097253.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1741975790.rsc.cdn77.org^
+||1786886222.rsc.cdn77.org^
+||1851120889.rsc.cdn77.org^
 ||1857964468.rsc.cdn77.org^
 ||1874562524.rsc.cdn77.org^
 ||1921777336.rsc.cdn77.org^
 ||1931283355.rsc.cdn77.org^
 ||1934671980.rsc.cdn77.org^
+||1939682047.rsc.cdn77.org^
 ||1948576968.rsc.cdn77.org^
 ||1969321160.rsc.cdn77.org^
+||1993311980.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -12052,6 +12049,7 @@ inapps.appsflyersdk.com^
 ||ddielv.cn^
 ||dsbqvj.xyz^
 ||dxrnksm.xyz^
+||ebgwdon.cn^
 ||fmfnrf.xyz^
 ||fwcnex.icu^
 ||ghgasdt963.shop^
@@ -12070,6 +12068,7 @@ inapps.appsflyersdk.com^
 ||l5kt1.icu^
 ||lfffzv.xyz^
 ||lvdedf.xyz^
+||misjgy.xyz^
 ||nddld.cn^
 ||ngnxyub.cn^
 ||nkbkor.icu^
@@ -12082,11 +12081,14 @@ inapps.appsflyersdk.com^
 ||p04qzl.cn^
 ||p0v2ni.cn^
 ||p45m0.icu^
+||phvfevk.xyz^
 ||przbzr.xyz^
 ||qlbbowx.xyz^
 ||qzalsk.xyz^
+||rarcff.xyz^
 ||rfnvqpo.xyz^
 ||ruqwgb.icu^
+||rydyvv.xyz^
 ||shuocyw.cn^
 ||spsfupq.cn^
 ||szbhb.cn^
@@ -12102,6 +12104,7 @@ inapps.appsflyersdk.com^
 ||uu22662.com^
 ||uxrdg.cn^
 ||veaiyl.icu^
+||wkywrc.cn^
 ||wnmaoc.xyz^
 ||wqcfg.cn^
 ||xcypgd.icu^
@@ -12122,14 +12125,14 @@ inapps.appsflyersdk.com^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
-||ztxjutz.xyz^
-||misjgy.xyz^
-||wkywrc.cn^
-||rarcff.xyz^
-||phvfevk.xyz^
-||rydyvv.xyz^
 ||zopuqv.icu^
-||ebgwdon.cn^
+||ztxjutz.xyz^
+||bdtdat652.shop^
+||ghgasdb365.shop^
+||rktddv.xyz^
+||yhqukg.xyz^
+||0j775d.cn^
+||dyegif.icu^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
