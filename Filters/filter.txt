@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-26T18:20:39.170Z
+! Last modified: 2024-02-27T01:11:24.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1575,7 +1575,6 @@ vkcdnservice.appspot.com^
 ||mob*.novanewsapp.com^
 ||adrouter-charter-vod.cadenttech.tv^
 ||ad-*.amazonaws.com^
-||tapulsads.ru^
 ||ads-sdk.nianticlabs.com^
 ||ad.mediamixer.co.kr^
 ||adfork.co.kr^
@@ -2486,7 +2485,6 @@ inapps.appsflyersdk.com^
 ||sg.log.ulivetv.net^
 ||tracker.ulivetv.net^
 ||trackernew.ulivetv.net^
-||tracker.dianshige.com^
 ||gamestats.easybrain.com^
 ||am.yahoo.co.jp^
 ||b99.yahoo.co.jp^
@@ -2916,7 +2914,6 @@ inapps.appsflyersdk.com^
 ||sync.adotmob.com^
 ||logger.cloudmobi.net^
 ||tracker.adotmob.com^
-||measuread.com^
 ||analytics-tracker.thescore.com^
 ||report*.appmetrica.webvisor.com^
 ||geoplugin.net^
@@ -5847,7 +5844,6 @@ inapps.appsflyersdk.com^
 ||videoo.tv^
 ||eru5tdmbuwxm.com^
 ||gyh1lh20owj.ru^
-||25haich4342.ru^
 ||byfoongusor.com^
 ||v2b.nucleo.online^
 ||loboclick.com^
@@ -5879,7 +5875,6 @@ inapps.appsflyersdk.com^
 ||ad.terra.com^
 ||adbasket.net^
 ||adcell.de^
-||adnetwork.com.br^
 ||ads.elpais.com.uy^
 ||ads.eorezo.com^
 ||ads.gamavirtual.com^
@@ -5905,7 +5900,6 @@ inapps.appsflyersdk.com^
 ||controlsgc.prisacom.com^
 ||coolmobile.es^
 ||detectca.easysol.net^
-||diximedia.es^
 ||epartner.es^
 ||foneclick.com.br^
 ||hotwords.com.br^
@@ -5913,7 +5907,6 @@ inapps.appsflyersdk.com^
 ||hotwords.es^
 ||ieurop.net^
 ||img.netaffiliation.com^
-||kontextua.com^
 ||linkeasy.org^
 ||logs.eresmas.com^
 ||maispremium.com.br^
@@ -5986,7 +5979,6 @@ inapps.appsflyersdk.com^
 ||infostuet.com^
 ||s.cummerata.link^
 ||cchbdata.net^
-||s.ccsyncuuid.net^
 ||bngtrak.com^
 ||fnasmpygwa.com^
 ||o1qry0qq83.com^
@@ -6283,7 +6275,6 @@ inapps.appsflyersdk.com^
 ||q0mn5t187u.ru^
 ||uwdvcn.com^
 ||rotarb.bid^
-||spads.me^
 ||bogrex.com^
 ||cozibaneco.com^
 ||azfitn.com^
@@ -6824,7 +6815,6 @@ inapps.appsflyersdk.com^
 ||newdomain.center^
 ||1sputnik.ru^
 ||1traf.ru^
-||1txt.ru^
 ||lapatiya.info^
 ||24new.ru^
 ||2under.ru^
@@ -7087,7 +7077,6 @@ inapps.appsflyersdk.com^
 ||cartponi.tk^
 ||cbanners.virtuagirlhd.com^
 ||cbbvi.com^
-||cdn-my4.ru^
 ||cdn-rtb.sape.ru^
 ||cdn.amzuu.com^
 ||cdn.steambets.net^
@@ -7493,7 +7482,6 @@ inapps.appsflyersdk.com^
 ||maxforta.com^
 ||maxtrust.ru^
 ||mazuma.ru^
-||mbzl-pro.xyz^
 ||mctqu.com^
 ||mdeih.com^
 ||mdvkn.com^
@@ -7888,7 +7876,6 @@ inapps.appsflyersdk.com^
 ||surfearner.com^
 ||svk-native.ru^
 ||sysfiles.net^
-||t.pusk.ru^
 ||talkfusion.com
 ||talysu.info^
 ||targetan.com^
@@ -8078,7 +8065,6 @@ inapps.appsflyersdk.com^
 ||voob.ru^
 ||voronezh136.ru^
 ||vpath.net^
-||vpsite.ru^
 ||vqfqo.us^
 ||vsdcdn.com^
 ||vsesumki.com^
@@ -8330,7 +8316,6 @@ inapps.appsflyersdk.com^
 ||sc.livetvcdn.net^
 ||server.zombie-tv.org^
 ||showbiz.mail.ru^
-||star.manystars.ru^
 ||t.xtubetv.net^
 ||tan.pridnestrovie.com^
 ||tizer.rupornophoto.com^
@@ -8439,7 +8424,6 @@ inapps.appsflyersdk.com^
 ||adsby.io^
 ||ads724.com^
 ||policycounsel.org^
-||pingpepa.xyz^
 ||d8c5y8fq3znwi.cloudfront.net^
 ||medyanative.com^
 ||61ads.net^
@@ -8471,7 +8455,6 @@ inapps.appsflyersdk.com^
 ||ad*.tmgrup.com.tr^
 ||ad.donanimhaber.com^
 ||ad.eglenced.com^
-||ad.reklam.xyz^
 ||ad.reyazilim.com^
 ||ad.setrowid.com^
 ||adbetnetwork.com^
@@ -8500,7 +8483,6 @@ inapps.appsflyersdk.com^
 ||ads.web.tr^
 ||adtarget.com.tr^
 ||advancenative.com^
-||advertag.in^
 ||advoly.com^
 ||adzbaba.com^
 ||affiliateserver.hangikredi.com^
@@ -8509,7 +8491,6 @@ inapps.appsflyersdk.com^
 ||app.gelirartisi.com^
 ||ariyayin.com^
 ||artemisaffiliates.com^
-||asdqweq.com^
 ||aspartos.com^
 ||bahisciler.co^
 ||bambarmedia.com^
@@ -8526,7 +8507,6 @@ inapps.appsflyersdk.com^
 ||bwtsrv.com^
 ||cdn.klasseo.com^
 ||cdn.smartclick.io^
-||chaicdn.tk^
 ||clickmerkez.com^
 ||content.acc-hd.de^
 ||d1d8vn0fpluuz7.cloudfront.net^
@@ -8580,7 +8560,6 @@ inapps.appsflyersdk.com^
 ||permato.com^
 ||piaads.com^
 ||pmelon.com^
-||promoviral.com^
 ||r20.club^
 ||ref.gitadres.com^
 ||rek.yemlee.com^
@@ -8589,7 +8568,6 @@ inapps.appsflyersdk.com^
 ||reklamaction.com^
 ||reklamagaci.com^
 ||reklamatik.com^
-||reklamcdn.com^
 ||reklamnative.com^
 ||reklamstore.com^
 ||reklamstore.cubecdn.net^
@@ -8687,7 +8665,6 @@ inapps.appsflyersdk.com^
 ||reklam.star.com.tr^
 ||reklam.yonlendir.com^
 ||reklam1.akhisar.bel.tr^
-||sam.setimedia.com^
 ||savoy.cubecdn.net^
 ||tagsadvancenative-glb8iionio2cozc.netdna-ssl.com^
 ||ttauri.livescience.com^
@@ -8705,7 +8682,6 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
-||vookamoo.com^
 ||proxy.ads.canalplus-bo.net^
 ||7bd92.v.fwmrm.net^
 ||7cbf2.v.fwmrm.net^
@@ -8714,17 +8690,7 @@ inapps.appsflyersdk.com^
 ||7b9de.v.fwmrm.net^
 ||ads.dugwood.com^
 ||caraneoutraze.uno^
-||edtheparllase.com^
-||ukennailsandoth.xyz^
-||desadu.com^
-||xydestygre.com^
 ||fristminyas.com^
-||ukslphcgs.com^
-||rozivpxtl.com^
-||habrox.xyz^
-||mystighty.info^
-||i4tvy8vk9f74.com^
-||mineralisasse.site^
 
 !
 ! Source name: AdGuard French filter ad servers
@@ -8739,7 +8705,6 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||kz.cateredjapish.com^
 ||adserver.icimedias.ca^
 !
 ! Source name: AdGuard Japanese filter ad servers
@@ -8782,7 +8747,6 @@ inapps.appsflyersdk.com^
 ||hydrangeao.com^
 ||snapdragonox.com^
 ||smart-c.jp^
-||yeetsalear.com^
 ||jpshopes.com^
 ||ads.mediams.mb.softbank.jp^
 ||safemy-ios.com^
@@ -8800,7 +8764,6 @@ inapps.appsflyersdk.com^
 ||afflaze.com^
 ||adstuber.com^
 ||ad.orange-park.jp^
-||ad-site55.net^
 ||d-064.com^
 ||public.adgger.jp^
 ||expdirclk.com^
@@ -8849,7 +8812,6 @@ inapps.appsflyersdk.com^
 ||addlv.smt.docomo.ne.jp^
 ||trigs-sockets.com^
 ||af.tosho-trading.co.jp^
-||ad-web-ad.com^
 ||d1yt8zt4633tzi.cloudfront.net^
 ||affiliate.konibet.com^
 ||hananokai.tv^
@@ -8862,7 +8824,6 @@ inapps.appsflyersdk.com^
 ||new-adtest.pages.dev^
 ||adsozai.com^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
-||ad.activetk.cf^
 ||ad.xdomain.ne.jp^
 ||af-next.com^
 ||pr-agent.jp^
@@ -8928,7 +8889,6 @@ inapps.appsflyersdk.com^
 ||spreadlink.net^
 ||woomy.me^
 ||seedapp-creative.s3.amazonaws.com^
-||cro.fi-tsunagu.com^
 ||admane.jp^
 ||smaad.net^
 ||app.monetrack.com^
@@ -9129,7 +9089,6 @@ inapps.appsflyersdk.com^
 ||nur.gratis^
 ||ikjnbvf.de^
 ||emmi-findet.de^
-||sra.moresophy.net^
 ||app.bidhead.net^
 ||sv.sheego.de^
 ||azol.de^
@@ -9295,7 +9254,6 @@ inapps.appsflyersdk.com^
 ||power.adhacker.online^
 ||a.tyncar.com^
 ||og.zyzjpx.cn^
-||kolur.top^
 ||x.dmouy.cn^
 ||haoxxwang.com^
 ||a32a.com.cn^
@@ -11974,6 +11932,12 @@ inapps.appsflyersdk.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||ctlrarz.xyz^
+||ijvla.cn^
+||cqisam.xyz^
+||ndthdte125.shop^
+||ndthdtr586.shop^
+||3bxe2.cyou^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
