@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-27T12:29:35.297Z
+! Last modified: 2024-02-27T18:20:23.190Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1553,6 +1553,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||adsassets-ipv6.waze.com^
 ||iads.unity3d.com^
 ||o-iab.mediation.unity3d.com^
 ||togothermany.com^
@@ -2452,6 +2453,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||events.funnelish.com^
+||analytics.app.funnelish.com^
 ||analytics.starmakerstudios.com^
 ||track.starmakerstudios.com^
 ||volceapplog.com^
@@ -11794,6 +11797,7 @@ inapps.appsflyersdk.com^
 ||0j775d.cn^
 ||1ny3r.icu^
 ||2jse6.icu^
+||3bxe2.cyou^
 ||51hir.cyou^
 ||88lm05.com^
 ||8xtm6i.cn^
@@ -11823,6 +11827,8 @@ inapps.appsflyersdk.com^
 ||chayassa.com^
 ||cliffnsc.xyz^
 ||clywws.xyz^
+||cqisam.xyz^
+||ctlrarz.xyz^
 ||cvbjctqs.xyz^
 ||cvgrszkg.xyz^
 ||cvnxetmq.xyz^
@@ -11836,6 +11842,7 @@ inapps.appsflyersdk.com^
 ||ebgwdon.cn^
 ||efmtsw.xyz^
 ||ejdhmed.xyz^
+||ferriesendless.com^
 ||fmfnrf.xyz^
 ||fwcnex.icu^
 ||ghgasdb365.shop^
@@ -11845,10 +11852,12 @@ inapps.appsflyersdk.com^
 ||hbjolp.xyz^
 ||heapz.cyou^
 ||hexcvb.xyz^
+||hgthpj.xyz^
 ||hhffks967.shop^
 ||hhffnu135.shop^
 ||hmrwkcx.cn^
 ||hozatr.xyz^
+||ijvla.cn^
 ||jgmywh.icu^
 ||jqpejp.xyz^
 ||js131.cn^
@@ -11861,6 +11870,8 @@ inapps.appsflyersdk.com^
 ||lvdedf.xyz^
 ||misjgy.xyz^
 ||nddld.cn^
+||ndthdte125.shop^
+||ndthdtr586.shop^
 ||ngnxyub.cn^
 ||nkbkor.icu^
 ||nplahh.xyz^
@@ -11887,11 +11898,13 @@ inapps.appsflyersdk.com^
 ||rktddv.xyz^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
+||rzfdbsn.cn^
 ||shuocyw.cn^
 ||sjaaquj.cn^
 ||soffersk.com^
 ||spsfupq.cn^
 ||srzpsbf.xyz^
+||svncowt.cn^
 ||szbhb.cn^
 ||szmnd.cn^
 ||szmnf.cn^
@@ -11900,10 +11913,12 @@ inapps.appsflyersdk.com^
 ||szpwh.cn^
 ||tahznx.xyz^
 ||tchdxl.xyz^
+||tgccct.icu^
 ||tmjetb.xyz^
 ||tu2024020388.com^
 ||tyodot.icu^
 ||uctutu3789.xyz^
+||usltmus.cn^
 ||uu22662.com^
 ||uxrdg.cn^
 ||veaiyl.icu^
@@ -11935,17 +11950,6 @@ inapps.appsflyersdk.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
-||ctlrarz.xyz^
-||ijvla.cn^
-||cqisam.xyz^
-||ndthdte125.shop^
-||ndthdtr586.shop^
-||3bxe2.cyou^
-||rzfdbsn.cn^
-||hgthpj.xyz^
-||usltmus.cn^
-||tgccct.icu^
-||svncowt.cn^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
