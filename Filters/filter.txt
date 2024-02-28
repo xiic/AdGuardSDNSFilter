@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-28T12:29:50.481Z
+! Last modified: 2024-02-28T18:21:09.547Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ads.greengeeks.com^
 ||d1rr5z16sjcy10.cloudfront.net^
 ||d2xupcbyjjjfoa.cloudfront.net^
 ||d17xmf66fp9kg9.cloudfront.net^
@@ -8719,6 +8720,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||smart-below.com^
 ||ad1.girls-affiliate.com^
 ||manga.boy.jp^
 ||af.atsoho.com^
@@ -11853,6 +11855,7 @@ inapps.appsflyersdk.com^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
 ||gvbta.icu^
+||halct.cn^
 ||hbjolp.xyz^
 ||heapz.cyou^
 ||hexcvb.xyz^
@@ -11880,7 +11883,9 @@ inapps.appsflyersdk.com^
 ||nkbkor.icu^
 ||nplahh.xyz^
 ||nyt5j.cyou^
+||ocggec.xyz^
 ||ogznfgl.cn^
+||ok8867s.com^
 ||okwkaa.xyz^
 ||oojjsa.com^
 ||ostjpig.cn^
@@ -11889,9 +11894,11 @@ inapps.appsflyersdk.com^
 ||p0v2ni.cn^
 ||p45m0.icu^
 ||phvfevk.xyz^
+||pidzlp.xyz^
 ||pjzxdl.xyz^
 ||przbzr.xyz^
 ||qbhzghb.xyz^
+||qhocciks.com^
 ||qlbbowx.xyz^
 ||qqkkpos.com^
 ||qrkhwe.xyz^
@@ -11900,6 +11907,7 @@ inapps.appsflyersdk.com^
 ||rarcff.xyz^
 ||rfnvqpo.xyz^
 ||rktddv.xyz^
+||rnkzhsi.cn^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
 ||rzfdbsn.cn^
@@ -11917,8 +11925,10 @@ inapps.appsflyersdk.com^
 ||szpwh.cn^
 ||tahznx.xyz^
 ||tchdxl.xyz^
+||tdljuuw.xyz^
 ||tgccct.icu^
 ||tmjetb.xyz^
+||tsrvrr.xyz^
 ||tu2024020388.com^
 ||tyodot.icu^
 ||uctutu3789.xyz^
@@ -11929,6 +11939,7 @@ inapps.appsflyersdk.com^
 ||vhvwlb.xyz^
 ||vxfdepn.cn^
 ||wbvfj.xyz^
+||wisealty.com^
 ||wkywrc.cn^
 ||wnmaoc.xyz^
 ||wqcfg.cn^
@@ -11938,6 +11949,7 @@ inapps.appsflyersdk.com^
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
 ||xklofoz.cn^
+||xkrnud.icu^
 ||xliffnsc.xyz^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xszw0.icu^
@@ -11954,16 +11966,6 @@ inapps.appsflyersdk.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
-||halct.cn^
-||pidzlp.xyz^
-||ocggec.xyz^
-||tdljuuw.xyz^
-||tsrvrr.xyz^
-||qhocciks.com^
-||xkrnud.icu^
-||rnkzhsi.cn^
-||ok8867s.com^
-||wisealty.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
