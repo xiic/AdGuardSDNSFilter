@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-27T18:20:23.190Z
+! Last modified: 2024-02-28T01:11:00.361Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -345,6 +345,7 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
+||1008858461.rsc.cdn77.org^
 ||1017167188.rsc.cdn77.org^
 ||1079823516.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
@@ -952,6 +953,7 @@ vkcdnservice.appspot.com^
 ||d2ob4whwpjvvpa.cloudfront.net^
 ||d2ohmkyg5w2c18.cloudfront.net^
 ||d2ojfulajn60p5.cloudfront.net^
+||d2oouw5449k1qr.cloudfront.net^
 ||d2ov8ip31qpxly.cloudfront.net^
 ||d2oxs0429n9gfd.cloudfront.net^
 ||d2oy22m6xey08r.cloudfront.net^
@@ -5300,6 +5302,7 @@ inapps.appsflyersdk.com^
 ||nexxtv-events.servicebus.windows.net^
 ||omniture.eaeurope.eu^
 ||orbidder.otto.de^
+||owen.prolitteris.ch^
 ||pixel.poptok.com^
 ||plausible.ams.to^
 ||px.staticfiles.at^
@@ -5629,6 +5632,7 @@ inapps.appsflyersdk.com^
 ! Polish
 ||analytics.ceneo.pl^
 ||analytics.greensender.pl^
+||ar1.aza.io^
 ||cmp.dreamlab.pl^
 ||dsg.interia.pl^
 ||hit.interia.pl^
@@ -11950,6 +11954,12 @@ inapps.appsflyersdk.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||halct.cn^
+||pidzlp.xyz^
+||ocggec.xyz^
+||tdljuuw.xyz^
+||tsrvrr.xyz^
+||qhocciks.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
