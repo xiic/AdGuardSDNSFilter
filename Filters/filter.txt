@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-29T06:21:54.989Z
+! Last modified: 2024-02-29T12:30:45.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3531,6 +3531,7 @@ inapps.appsflyersdk.com^
 ||hspbotdetection.azurewebsites.net^
 ||hydro-ma-proxy.akamaized.net^
 ||i.compendium.com^
+||i.posthog.com^
 ||i.viafoura.co^
 ||iabusprivacy.pmc.com^
 ||icu.getstorybox.com^
@@ -11975,6 +11976,11 @@ inapps.appsflyersdk.com^
 ||tduenkq839.shop^
 ||execuri.com^
 ||88lm06.com^
+||szmnl.cn^
+||sdjkbcjksbdsvv.com^
+||mlhtr.cn^
+||shanvezhu.com^
+||zhaweifeng.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
@@ -17332,6 +17338,7 @@ inapps.appsflyersdk.com^
 ||zsjxwj.com^
 ||zuowen.hydcd.com^
 ||zx.docin.com^
+||d2un76zvb5mgzx.cloudfront.net^
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
