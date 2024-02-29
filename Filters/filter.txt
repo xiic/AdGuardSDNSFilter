@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-29T12:30:45.883Z
+! Last modified: 2024-02-29T18:21:43.370Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4969,7 +4969,6 @@ inapps.appsflyersdk.com^
 ||thench.net^
 ||thesmilingpencils.com^
 ||trackfeed.com^
-||ukw.jp^
 ||uncn.jp^
 ||wonder-ma.com^
 ||zerostats.com^
@@ -5960,6 +5959,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||gainifyads.com^
 ||qkyspzfxnc.ru^
 ||monetizer.guru^
 ||1wiipr.xyz^
@@ -11806,11 +11806,13 @@ inapps.appsflyersdk.com^
 ||3bxe2.cyou^
 ||51hir.cyou^
 ||88lm05.com^
+||88lm06.com^
 ||8xtm6i.cn^
 ||999xx999kk.com^
 ||aaoisp.com^
 ||agmed.cyou^
 ||anjdwmq.xyz^
+||aourgk.xyz^
 ||arqvm.cn^
 ||awuvcq.xyz^
 ||b37r5.cyou^
@@ -11820,6 +11822,7 @@ inapps.appsflyersdk.com^
 ||benpsbp.com^
 ||bjswhpy.cn^
 ||bmnbyn.icu^
+||bugzmn.icu^
 ||bvxiht.xyz^
 ||bwlcpr.xyz^
 ||bzzxyyh.xyz^
@@ -11848,8 +11851,11 @@ inapps.appsflyersdk.com^
 ||ebgwdon.cn^
 ||efmtsw.xyz^
 ||ejdhmed.xyz^
+||execuri.com^
+||fefgvh.xyz^
 ||ferriesendless.com^
 ||fmfnrf.xyz^
+||fvpboxu.xyz^
 ||fwcnex.icu^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
@@ -11866,6 +11872,7 @@ inapps.appsflyersdk.com^
 ||hozatr.xyz^
 ||ijvla.cn^
 ||jgmywh.icu^
+||jioed.cyou^
 ||jqpejp.xyz^
 ||js131.cn^
 ||kbomku.xyz^
@@ -11876,6 +11883,7 @@ inapps.appsflyersdk.com^
 ||luofk.xyz^
 ||lvdedf.xyz^
 ||misjgy.xyz^
+||mlhtr.cn^
 ||nddld.cn^
 ||ndthdte125.shop^
 ||ndthdtr586.shop^
@@ -11911,6 +11919,8 @@ inapps.appsflyersdk.com^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
 ||rzfdbsn.cn^
+||sdjkbcjksbdsvv.com^
+||shanvezhu.com^
 ||shuocyw.cn^
 ||sjaaquj.cn^
 ||soffersk.com^
@@ -11920,12 +11930,14 @@ inapps.appsflyersdk.com^
 ||szbhb.cn^
 ||szmnd.cn^
 ||szmnf.cn^
+||szmnl.cn^
 ||szpnz.cn^
 ||szptp.cn^
 ||szpwh.cn^
 ||tahznx.xyz^
 ||tchdxl.xyz^
 ||tdljuuw.xyz^
+||tduenkq839.shop^
 ||tgccct.icu^
 ||tmjetb.xyz^
 ||tsrvrr.xyz^
@@ -11934,6 +11946,7 @@ inapps.appsflyersdk.com^
 ||uctutu3789.xyz^
 ||usltmus.cn^
 ||uu22662.com^
+||uxlvk.cn^
 ||uxrdg.cn^
 ||veaiyl.icu^
 ||vhvwlb.xyz^
@@ -11952,6 +11965,7 @@ inapps.appsflyersdk.com^
 ||xkrnud.icu^
 ||xliffnsc.xyz^
 ||xn--wgvp78a61swpe6zdozj.cn^
+||xsfajf.xyz^
 ||xszw0.icu^
 ||xvbjctqs.xyz^
 ||xvgrszkg.xyz^
@@ -11966,24 +11980,11 @@ inapps.appsflyersdk.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
-||zsjpi.cn^
-||bugzmn.icu^
-||aourgk.xyz^
-||fvpboxu.xyz^
-||jioed.cyou^
-||xsfajf.xyz^
-||fefgvh.xyz^
-||tduenkq839.shop^
-||execuri.com^
-||88lm06.com^
-||szmnl.cn^
-||sdjkbcjksbdsvv.com^
-||mlhtr.cn^
-||shanvezhu.com^
-||zhaweifeng.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
+||zhaweifeng.com^
 ||zopuqv.icu^
+||zsjpi.cn^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
 ||01v62.xyz^
