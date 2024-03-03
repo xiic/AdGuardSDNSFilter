@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-02T18:21:47.325Z
+! Last modified: 2024-03-03T01:15:41.499Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -348,6 +348,7 @@ vkcdnservice.appspot.com^
 !
 ||1008858461.rsc.cdn77.org^
 ||1017167188.rsc.cdn77.org^
+||1037764212.rsc.cdn77.org^
 ||1079823516.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
@@ -381,6 +382,7 @@ vkcdnservice.appspot.com^
 ||1736253261.rsc.cdn77.org^
 ||1741975790.rsc.cdn77.org^
 ||1786886222.rsc.cdn77.org^
+||1841035884.rsc.cdn77.org^
 ||1851120889.rsc.cdn77.org^
 ||1851933582.rsc.cdn77.org^
 ||1857833196.rsc.cdn77.org^
@@ -12004,6 +12006,12 @@ inapps.appsflyersdk.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
+||mthhhuq.cn^
+||gsuxyg.xyz^
+||arnhhwo.xyz^
+||7vviw.cyou^
+||lenvvb.xyz^
+||hciwyv.icu^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
