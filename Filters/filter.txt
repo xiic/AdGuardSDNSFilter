@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-05T12:31:07.829Z
+! Last modified: 2024-03-05T18:20:24.665Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4258,6 +4258,7 @@ inapps.appsflyersdk.com^
 ||d3m6sept6cnil5.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
+||d3or5d0jdz94or.cloudfront.net^
 ||d3pi0tys5sdysl.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3qztsm17pgxue.cloudfront.net^
@@ -5220,6 +5221,7 @@ inapps.appsflyersdk.com^
 ||intrastats.com^
 ||mabaya.com^
 ||micodigo.com^
+||propelbon.com^
 ||protecmedia.com^
 ||socy.es^
 ! Swedish
@@ -5490,6 +5492,8 @@ inapps.appsflyersdk.com^
 ||log.ecgh.dk^
 ||statistics.jfmedier.dk^
 ||trckr.nordiskemedier.dk^
+! Dutch
+||adcalls.nl^
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
 ||dmtgo.upc.biz^
@@ -5760,7 +5764,7 @@ inapps.appsflyersdk.com^
 ||datanoticias.prisasd.com^
 ||g-stats.openhost.es^
 ||madrid.report.botm.transparentedge.io^
-||mtm.qdqmedia.com^
+||mtm.qdqmedia.com
 ||pub.servidoresge.com^
 ||rt.cdnmedia.tv^
 ||sp.vtex.com^
@@ -11818,6 +11822,7 @@ inapps.appsflyersdk.com^
 ||2jse6.icu^
 ||3bxe2.cyou^
 ||51hir.cyou^
+||5z0d3.cyou^
 ||7vviw.cyou^
 ||88lm05.com^
 ||88lm06.com^
@@ -11837,7 +11842,9 @@ inapps.appsflyersdk.com^
 ||bdtdat652.shop^
 ||bdxpdz.xyz^
 ||benpsbp.com^
+||bijiangqing.com^
 ||bjswhpy.cn^
+||blrupz.xyz^
 ||bmnbyn.icu^
 ||bmret.cn^
 ||bugzmn.icu^
@@ -11879,6 +11886,7 @@ inapps.appsflyersdk.com^
 ||egywbps748.shop^
 ||egywbpu286.shop^
 ||ejdhmed.xyz^
+||eqqwgw.xyz^
 ||execuri.com^
 ||fefgvh.xyz^
 ||ferriesendless.com^
@@ -11902,9 +11910,11 @@ inapps.appsflyersdk.com^
 ||hjshal.com^
 ||hmrwkcx.cn^
 ||hozatr.xyz^
+||hyusnisu.top^
 ||ijvla.cn^
 ||imevzbn.cn^
 ||ivbgpax.cn^
+||jgblvt.xyz^
 ||jgmywh.icu^
 ||jioed.cyou^
 ||jqpejp.xyz^
@@ -11924,6 +11934,7 @@ inapps.appsflyersdk.com^
 ||mdhv3.icu^
 ||misjgy.xyz^
 ||mlhtr.cn^
+||mondigo.cn^
 ||mthhhuq.cn^
 ||mtwmuy.xyz^
 ||nddld.cn^
@@ -11947,6 +11958,7 @@ inapps.appsflyersdk.com^
 ||pidzlp.xyz^
 ||pjzxdl.xyz^
 ||przbzr.xyz^
+||pwhtip.icu^
 ||qbhzghb.xyz^
 ||qhocciks.com^
 ||qlbbowx.xyz^
@@ -11959,6 +11971,7 @@ inapps.appsflyersdk.com^
 ||riscil.com^
 ||rjhbjv.xyz^
 ||rktddv.xyz^
+||rlw86.cyou^
 ||rnkzhsi.cn^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
@@ -11979,6 +11992,7 @@ inapps.appsflyersdk.com^
 ||szmnk.cn^
 ||szmnl.cn^
 ||szmnm.cn^
+||szmpy.cn^
 ||szpnz.cn^
 ||szptp.cn^
 ||szpwh.cn^
@@ -11988,6 +12002,7 @@ inapps.appsflyersdk.com^
 ||tdljuuw.xyz^
 ||tduenkq839.shop^
 ||tgccct.icu^
+||tjfbh.icu^
 ||tlfvj.cyou^
 ||tmjetb.xyz^
 ||tsrvrr.xyz^
@@ -12024,6 +12039,7 @@ inapps.appsflyersdk.com^
 ||xvbjctqs.xyz^
 ||xvgrszkg.xyz^
 ||xvudqzoa.xyz^
+||ybrrvck.xyz^
 ||ycqbgm.xyz^
 ||yddjmpjo.xyz^
 ||ydfhidrk.xyz^
@@ -12038,18 +12054,6 @@ inapps.appsflyersdk.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
-||mondigo.cn^
-||eqqwgw.xyz^
-||pwhtip.icu^
-||blrupz.xyz^
-||ybrrvck.xyz^
-||rlw86.cyou^
-||jgblvt.xyz^
-||tjfbh.icu^
-||5z0d3.cyou^
-||bijiangqing.com^
-||szmpy.cn^
-||hyusnisu.top^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
