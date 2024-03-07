@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-07T12:30:52.020Z
+! Last modified: 2024-03-07T18:20:51.558Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11824,6 +11824,7 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||0940088.com^
 ||0j775d.cn^
+||0uyt5b.cn^
 ||1ny3r.icu^
 ||2jse6.icu^
 ||3bxe2.cyou^
@@ -11851,6 +11852,7 @@ inapps.appsflyersdk.com^
 ||bijiangqing.com^
 ||bjswhpy.cn^
 ||blrupz.xyz^
+||blzbjpg.xyz^
 ||bmnbyn.icu^
 ||bmret.cn^
 ||bugzmn.icu^
@@ -11859,6 +11861,7 @@ inapps.appsflyersdk.com^
 ||bwlcpr.xyz^
 ||bzzxyyh.xyz^
 ||caomeixz7.xyz^
+||cbcvou.xyz^
 ||ccsshn137.shop^
 ||cdfhidrk.xyz^
 ||cdftizu.xyz^
@@ -11869,6 +11872,7 @@ inapps.appsflyersdk.com^
 ||cijianggun.com^
 ||cliffnsc.xyz^
 ||clywws.xyz^
+||cnifdlaf.top^
 ||cnvmhzt.cn^
 ||costarg.com^
 ||cqisam.xyz^
@@ -11907,6 +11911,7 @@ inapps.appsflyersdk.com^
 ||gicjtss.cn^
 ||gsuxyg.xyz^
 ||gvbta.icu^
+||ha723.icu^
 ||halct.cn^
 ||hbjolp.xyz^
 ||hciwyv.icu^
@@ -11919,10 +11924,12 @@ inapps.appsflyersdk.com^
 ||hjshal.com^
 ||hmrwkcx.cn^
 ||hozatr.xyz^
+||hrnkdr.xyz^
 ||hyusnisu.top^
 ||ijvla.cn^
 ||imevzbn.cn^
 ||ivbgpax.cn^
+||jflwhf.xyz^
 ||jgblvt.xyz^
 ||jgmywh.icu^
 ||jioed.cyou^
@@ -11984,6 +11991,7 @@ inapps.appsflyersdk.com^
 ||rktddv.xyz^
 ||rlw86.cyou^
 ||rnkzhsi.cn^
+||rouqiuqq.cn^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
 ||rzfdbsn.cn^
@@ -12032,6 +12040,7 @@ inapps.appsflyersdk.com^
 ||vhvwlb.xyz^
 ||vszzzj.xyz^
 ||vxfdepn.cn^
+||wbubgob.cn^
 ||wbvfj.xyz^
 ||wisealty.com^
 ||wkywrc.cn^
@@ -12045,6 +12054,7 @@ inapps.appsflyersdk.com^
 ||xdybwjpa.xyz^
 ||xhfxtqt.xyz^
 ||xklofoz.cn^
+||xklrsj.icu^
 ||xkrnud.icu^
 ||xliffnsc.xyz^
 ||xn--wgvp78a61swpe6zdozj.cn^
@@ -12070,15 +12080,6 @@ inapps.appsflyersdk.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
-||jflwhf.xyz^
-||xklrsj.icu^
-||0uyt5b.cn^
-||blzbjpg.xyz^
-||hrnkdr.xyz^
-||cbcvou.xyz^
-||ha723.icu^
-||wbubgob.cn^
-||rouqiuqq.cn^
 ||zhihucloud.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
