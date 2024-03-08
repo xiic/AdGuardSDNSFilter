@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-07T18:20:51.558Z
+! Last modified: 2024-03-08T01:12:02.026Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -348,6 +348,7 @@ vkcdnservice.appspot.com^
 !
 ||1008858461.rsc.cdn77.org^
 ||1017167188.rsc.cdn77.org^
+||1034656016.rsc.cdn77.org^
 ||1037764212.rsc.cdn77.org^
 ||1079823516.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
@@ -384,6 +385,7 @@ vkcdnservice.appspot.com^
 ||1741975790.rsc.cdn77.org^
 ||1786886222.rsc.cdn77.org^
 ||1822370020.rsc.cdn77.org^
+||1838211237.rsc.cdn77.org^
 ||1841035884.rsc.cdn77.org^
 ||1851120889.rsc.cdn77.org^
 ||1851933582.rsc.cdn77.org^
@@ -12081,6 +12083,17 @@ inapps.appsflyersdk.com^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
+||brixel.cn^
+||tdlyfz.xyz^
+||rpnufv.xyz^
+||buvdkt.icu^
+||onagsc.xyz^
+||nvdtdsd.xyz^
+||hnifdlau.top^
+||inworket.com^
+||tcheeter.com^
+||lardmoni.com^
+||skfda5.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
