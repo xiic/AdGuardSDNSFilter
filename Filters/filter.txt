@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-13T12:31:01.866Z
+! Last modified: 2024-03-13T18:20:29.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -739,6 +739,7 @@ vkcdnservice.appspot.com^
 ||d1tttug1538qv1.cloudfront.net^
 ||d1twn22x8kvw17.cloudfront.net^
 ||d1u1byonn4po0b.cloudfront.net^
+||d1u5ibtsigyagv.cloudfront.net^
 ||d1uae3ok0byyqw.cloudfront.net^
 ||d1ue5xz1lnqk0d.cloudfront.net^
 ||d1ugiptma3cglb.cloudfront.net^
@@ -11792,6 +11793,7 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||0940088.com^
 ||0j775d.cn^
+||0r3tyg.cn^
 ||0tq6ub.cn^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
@@ -11811,6 +11813,7 @@ inapps.appsflyersdk.com^
 ||999xx999kk.com^
 ||aaoisp.com^
 ||agmed.cyou^
+||ahtfzhs.xyz^
 ||ahyyqq.xyz^
 ||anjdwmq.xyz^
 ||aourgk.xyz^
@@ -11830,6 +11833,8 @@ inapps.appsflyersdk.com^
 ||bmnbyn.icu^
 ||bmret.cn^
 ||brixel.cn^
+||btyhnbmn289.shop^
+||btyhnraw653.shop^
 ||bugzmn.icu^
 ||buvdkt.icu^
 ||bvtvlp.xyz^
@@ -11878,8 +11883,10 @@ inapps.appsflyersdk.com^
 ||efmtsw.xyz^
 ||egywbps748.shop^
 ||egywbpu286.shop^
+||eiqsky.xyz^
 ||ejdhmed.xyz^
 ||endolift.cn^
+||enifdlaw.top^
 ||eqqwgw.xyz^
 ||execuri.com^
 ||fefgvh.xyz^
@@ -11984,6 +11991,7 @@ inapps.appsflyersdk.com^
 ||phvfevk.xyz^
 ||pidzlp.xyz^
 ||pjzxdl.xyz^
+||pnxtnp.xyz^
 ||przbzr.xyz^
 ||pwhtip.icu^
 ||qbhzghb.xyz^
@@ -12060,11 +12068,13 @@ inapps.appsflyersdk.com^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
 ||vhvwlb.xyz^
+||vmnlkr.icu^
 ||vszzzj.xyz^
 ||vxfdepn.cn^
 ||wbubgob.cn^
 ||wbvfj.xyz^
 ||wisealty.com^
+||wjwod.cyou^
 ||wkywrc.cn^
 ||wnmaoc.xyz^
 ||wopvmmy.cn^
@@ -12094,6 +12104,7 @@ inapps.appsflyersdk.com^
 ||yddjmpjo.xyz^
 ||ydfhidrk.xyz^
 ||ydrvkdni.xyz^
+||ydwkrbg.cn^
 ||ydybwjpa.xyz^
 ||yhqukg.xyz^
 ||ykkhihg.cn^
@@ -12107,16 +12118,6 @@ inapps.appsflyersdk.com^
 ||zhihucloud.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
-||0r3tyg.cn^
-||ahtfzhs.xyz^
-||pnxtnp.xyz^
-||vmnlkr.icu^
-||enifdlaw.top^
-||eiqsky.xyz^
-||btyhnbmn289.shop^
-||btyhnraw653.shop^
-||wjwod.cyou^
-||ydwkrbg.cn^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
