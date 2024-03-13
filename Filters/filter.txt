@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-12T18:20:55.666Z
+! Last modified: 2024-03-13T01:13:37.392Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11792,6 +11792,7 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||0940088.com^
 ||0j775d.cn^
+||0tq6ub.cn^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
 ||0v1syj.cn^
@@ -11903,6 +11904,7 @@ inapps.appsflyersdk.com^
 ||hbjolp.xyz^
 ||hciwyv.icu^
 ||hdtedar126.shop^
+||hdvsrz.xyz^
 ||heapz.cyou^
 ||hexcvb.xyz^
 ||hgthpj.xyz^
@@ -11958,6 +11960,7 @@ inapps.appsflyersdk.com^
 ||ndthdte125.shop^
 ||ndthdtr586.shop^
 ||ngnxyub.cn^
+||njhvalu.cn^
 ||nkbkor.icu^
 ||nowhern.com^
 ||nplahh.xyz^
@@ -11971,6 +11974,8 @@ inapps.appsflyersdk.com^
 ||okwkaa.xyz^
 ||onagsc.xyz^
 ||oojjsa.com^
+||oppnfev.xyz^
+||osisk.com^
 ||ostjpig.cn^
 ||ovjlccs.xyz^
 ||p04qzl.cn^
@@ -11992,6 +11997,7 @@ inapps.appsflyersdk.com^
 ||qzalsk.xyz^
 ||rarcff.xyz^
 ||rbhunp.xyz^
+||rcyzsh.icu^
 ||rfnvqpo.xyz^
 ||riscil.com^
 ||rjhbjv.xyz^
@@ -12013,10 +12019,12 @@ inapps.appsflyersdk.com^
 ||sjaaquj.cn^
 ||skfda5.com^
 ||smallfo.com^
+||snifdlab.top^
 ||soffersk.com^
 ||spsfupq.cn^
 ||srzpsbf.xyz^
 ||svncowt.cn^
+||swsegi.xyz^
 ||szbhb.cn^
 ||szmnd.cn^
 ||szmnf.cn^
@@ -12099,14 +12107,12 @@ inapps.appsflyersdk.com^
 ||zhihucloud.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
-||hdvsrz.xyz^
-||swsegi.xyz^
-||rcyzsh.icu^
-||snifdlab.top^
-||oppnfev.xyz^
-||0tq6ub.cn^
-||njhvalu.cn^
-||osisk.com^
+||0r3tyg.cn^
+||ahtfzhs.xyz^
+||pnxtnp.xyz^
+||vmnlkr.icu^
+||enifdlaw.top^
+||eiqsky.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -16709,7 +16715,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||c81.ipanocloud.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -17009,6 +17014,7 @@ inapps.appsflyersdk.com^
 ||c1.china.cn^
 ||c1.czcol.cn^
 ||c6.friok.com^
+||c81.ipanocloud.com^
 ||ca.yangshengtv.com^
 ||car.qcmrjx.com^
 ||cbdm.weathercn.com^
