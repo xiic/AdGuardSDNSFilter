@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-19T12:31:28.568Z
+! Last modified: 2024-03-19T18:20:55.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5954,6 +5954,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||cajbdciiefegiifciabc.world^
 ||gainifyads.com^
 ||qkyspzfxnc.ru^
 ||monetizer.guru^
@@ -10933,8 +10934,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Mar 2024 16:34 UTC+7
-! Version: 2403111634
+! Last modified: 19 Mar 2024 22:25 UTC+7
+! Version: 2403192225
 ! Blocked: 867 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -11817,6 +11818,7 @@ inapps.appsflyersdk.com^
 ||3bxe2.cyou^
 ||51hir.cyou^
 ||5z0d3.cyou^
+||666bbb333bbb.com^
 ||6zfem.icu^
 ||7vviw.cyou^
 ||888bb555ww.com^
@@ -11847,6 +11849,7 @@ inapps.appsflyersdk.com^
 ||blzbjpg.xyz^
 ||bmnbyn.icu^
 ||bmret.cn^
+||bnifdlav.top^
 ||brixel.cn^
 ||btfzbak.xyz^
 ||btyhnbmn289.shop^
@@ -11859,6 +11862,7 @@ inapps.appsflyersdk.com^
 ||bzzxyyh.xyz^
 ||c11011.com^
 ||caomeixz7.xyz^
+||captickc.com^
 ||cbcvou.xyz^
 ||ccsshn137.shop^
 ||cdfhidrk.xyz^
@@ -11884,6 +11888,7 @@ inapps.appsflyersdk.com^
 ||cvudqzoa.xyz^
 ||cwssfg632.shop^
 ||cxlvlbx.xyz^
+||d3g4a.cyou^
 ||damiul.icu^
 ||dawdlealmonry.com^
 ||ddielv.cn^
@@ -11892,16 +11897,19 @@ inapps.appsflyersdk.com^
 ||difmnd.xyz^
 ||djxpnuo.xyz^
 ||dkjwbv.xyz^
+||dorper.cn^
 ||dqhxmbx.cn^
 ||drummers.cn^
 ||dryden.cn^
 ||dsbqvj.xyz^
+||dsjkbcjsjkbvs.com^
 ||dxrnksm.xyz^
 ||dyegif.icu^
 ||dytkgl.icu^
 ||dzfzak.cn^
 ||dzuht.cn^
 ||ebgwdon.cn^
+||edjjpgf.xyz^
 ||efmtsw.xyz^
 ||egywbps748.shop^
 ||egywbpu286.shop^
@@ -11924,6 +11932,7 @@ inapps.appsflyersdk.com^
 ||fvpboxu.xyz^
 ||fwcnex.icu^
 ||fxjnfn.xyz^
+||gcumgu.xyz^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
@@ -11982,6 +11991,8 @@ inapps.appsflyersdk.com^
 ||lfffzv.xyz^
 ||lfhdryz.xyz^
 ||lmxiqf.icu^
+||lnifdlal.top^
+||lsfevr.xyz^
 ||lulgef.icu^
 ||lulxzl.xyz^
 ||luofk.xyz^
@@ -11991,6 +12002,7 @@ inapps.appsflyersdk.com^
 ||mlhtr.cn^
 ||mondigo.cn^
 ||mrtxtrq.xyz^
+||mtddqjk.cn^
 ||mthhhuq.cn^
 ||mtwmuy.xyz^
 ||mxeq.cn^
@@ -12000,10 +12012,13 @@ inapps.appsflyersdk.com^
 ||ngnxyub.cn^
 ||njhvalu.cn^
 ||nkbkor.icu^
+||nlhpxj.xyz^
+||nljrvdh.xyz^
 ||nowhern.com^
 ||nplahh.xyz^
 ||nsjnmx.icu^
 ||nvdtdsd.xyz^
+||nvjqtz.xyz^
 ||nyt5j.cyou^
 ||o1b04.cyou^
 ||obturex.com^
@@ -12013,6 +12028,7 @@ inapps.appsflyersdk.com^
 ||ok8867s.com^
 ||okwkaa.xyz^
 ||onagsc.xyz^
+||onifdlak.top^
 ||oojjsa.com^
 ||oppnfev.xyz^
 ||osisk.com^
@@ -12047,6 +12063,7 @@ inapps.appsflyersdk.com^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
 ||rfnvqpo.xyz^
+||rghqrj.xyz^
 ||riscil.com^
 ||rjhbjv.xyz^
 ||rktddv.xyz^
@@ -12058,6 +12075,7 @@ inapps.appsflyersdk.com^
 ||rydyvv.xyz^
 ||rzfdbsn.cn^
 ||rzpvbl.xyz^
+||savionl.com^
 ||sdjkbcjksbdsvv.com^
 ||seslco.xyz^
 ||shanvezhu.com^
@@ -12092,6 +12110,7 @@ inapps.appsflyersdk.com^
 ||tduenkq839.shop^
 ||tgccct.icu^
 ||tgwfaz.icu^
+||threrlak.com^
 ||tjfbh.icu^
 ||tlfvj.cyou^
 ||tmjetb.xyz^
@@ -12105,11 +12124,14 @@ inapps.appsflyersdk.com^
 ||uljoifw.cn^
 ||ulwfys.xyz^
 ||unifdlat.top^
+||uqwbcm.xyz^
 ||usltmus.cn^
 ||uu22662.com^
 ||uuvzmba.cn^
 ||uxlvk.cn^
 ||uxrdg.cn^
+||vabzndw.cn^
+||vaekkfv.cn^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
 ||vhvwlb.xyz^
@@ -12169,24 +12191,6 @@ inapps.appsflyersdk.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
-||lnifdlal.top^
-||vabzndw.cn^
-||uqwbcm.xyz^
-||onifdlak.top^
-||nlhpxj.xyz^
-||rghqrj.xyz^
-||nljrvdh.xyz^
-||savionl.com^
-||dorper.cn^
-||gcumgu.xyz^
-||vaekkfv.cn^
-||nvjqtz.xyz^
-||lsfevr.xyz^
-||bnifdlav.top^
-||edjjpgf.xyz^
-||mtddqjk.cn^
-||threrlak.com^
-||d3g4a.cyou^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
