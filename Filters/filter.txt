@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-24T12:31:16.193Z
+! Last modified: 2024-03-24T18:23:15.410Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11937,6 +11937,7 @@ inapps.appsflyersdk.com^
 ||eaqlos.xyz^
 ||ebgwdon.cn^
 ||edjjpgf.xyz^
+||edler.cn^
 ||efmtsw.xyz^
 ||egywbps748.shop^
 ||egywbpu286.shop^
@@ -11968,6 +11969,7 @@ inapps.appsflyersdk.com^
 ||gicjtss.cn^
 ||gkutca.xyz^
 ||golilog.com^
+||gridline.cn^
 ||grtarpcf963.top^
 ||gsuxyg.xyz^
 ||gvbta.icu^
@@ -12010,6 +12012,7 @@ inapps.appsflyersdk.com^
 ||jqbddp.xyz^
 ||jqpejp.xyz^
 ||js131.cn^
+||jtyusia.top^
 ||justapp.top^
 ||jzjpntr.xyz^
 ||kbomku.xyz^
@@ -12027,6 +12030,7 @@ inapps.appsflyersdk.com^
 ||lewiooz.cn^
 ||lfffzv.xyz^
 ||lfhdryz.xyz^
+||lgtpdt.xyz^
 ||lmxiqf.icu^
 ||lnifdlal.top^
 ||lsfevr.xyz^
@@ -12040,6 +12044,7 @@ inapps.appsflyersdk.com^
 ||misjgy.xyz^
 ||mlhtr.cn^
 ||mnifdlax.top^
+||moberg.cn^
 ||mondigo.cn^
 ||mrtxtrq.xyz^
 ||mtddqjk.cn^
@@ -12074,6 +12079,7 @@ inapps.appsflyersdk.com^
 ||osisk.com^
 ||ostjpig.cn^
 ||ovjlccs.xyz^
+||oxkyaq.xyz^
 ||oxvlxwz.xyz^
 ||p04qzl.cn^
 ||p0v2ni.cn^
@@ -12083,6 +12089,7 @@ inapps.appsflyersdk.com^
 ||pbbhhxm.xyz^
 ||phvfevk.xyz^
 ||pidzlp.xyz^
+||pimg2023.com^
 ||pjzxdl.xyz^
 ||pnxtnp.xyz^
 ||przbzr.xyz^
@@ -12109,6 +12116,7 @@ inapps.appsflyersdk.com^
 ||rcyzsh.icu^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
+||rhzvlcu.xyz^
 ||riscil.com^
 ||rjhbjv.xyz^
 ||rktddv.xyz^
@@ -12162,6 +12170,7 @@ inapps.appsflyersdk.com^
 ||tlfvj.cyou^
 ||tmjetb.xyz^
 ||tnifdlai.top^
+||tnvnnn.xyz^
 ||tsrvrr.xyz^
 ||tu2024020388.com^
 ||tyodot.icu^
@@ -12171,6 +12180,8 @@ inapps.appsflyersdk.com^
 ||uljoifw.cn^
 ||ulwfys.xyz^
 ||unifdlat.top^
+||upytsgo.cn^
+||uqrcuxp.cn^
 ||uqwbcm.xyz^
 ||urqwzbu.cn^
 ||usltmus.cn^
@@ -12238,17 +12249,8 @@ inapps.appsflyersdk.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
-||lgtpdt.xyz^
-||rhzvlcu.xyz^
-||yyttmyy.cn^
-||oxkyaq.xyz^
-||tnvnnn.xyz^
-||jtyusia.top^
-||pimg2023.com^
-||edler.cn^
-||gridline.cn^
-||uqrcuxp.cn^
 ||yyddkm526.shop^
+||yyttmyy.cn^
 ||zagyjnn.cn^
 ||zailgrae.com^
 ||zfzys.top^
