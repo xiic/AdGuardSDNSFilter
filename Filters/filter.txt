@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-24T06:21:16.754Z
+! Last modified: 2024-03-24T12:31:16.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -630,6 +630,7 @@ vkcdnservice.appspot.com^
 ||d1clmik8la8v65.cloudfront.net^
 ||d1crfzlys5jsn1.cloudfront.net^
 ||d1crt12zco2cvf.cloudfront.net^
+||d1csp7vj6qqoa6.cloudfront.net^
 ||d1d7hwtv2l91pm.cloudfront.net^
 ||d1dh1gvx7p0imm.cloudfront.net^
 ||d1diqetif5itzx.cloudfront.net^
@@ -862,6 +863,7 @@ vkcdnservice.appspot.com^
 ||d2dkurdav21mkk.cloudfront.net^
 ||d2dyjetg3tc2wn.cloudfront.net^
 ||d2e30rravz97d4.cloudfront.net^
+||d2e5x3k1s6dpd4.cloudfront.net^
 ||d2e7rsjh22yn3g.cloudfront.net^
 ||d2edfzx4ay42og.cloudfront.net^
 ||d2ei3pn5qbemvt.cloudfront.net^
@@ -1000,6 +1002,7 @@ vkcdnservice.appspot.com^
 ||d2z51a9spn09cw.cloudfront.net^
 ||d2zbpgxs57sg1k.cloudfront.net^
 ||d2zcblk8m9mzq5.cloudfront.net^
+||d2zf5gu5e5mp87.cloudfront.net^
 ||d2zh7okxrw0ix.cloudfront.net^
 ||d2zi8ra5rb7m89.cloudfront.net^
 ||d2zv5rkii46miq.cloudfront.net^
@@ -1161,6 +1164,7 @@ vkcdnservice.appspot.com^
 ||d3qinhqny4thfo.cloudfront.net^
 ||d3qttli028txpv.cloudfront.net^
 ||d3qu0b872n4q3x.cloudfront.net^
+||d3qxd84135kurx.cloudfront.net^
 ||d3qygewatvuv28.cloudfront.net^
 ||d3rb9wasp2y8gw.cloudfront.net^
 ||d3rjndf2qggsna.cloudfront.net^
@@ -1229,6 +1233,7 @@ vkcdnservice.appspot.com^
 ||d9qjkk0othy76.cloudfront.net^
 ||d9yk47of1efyy.cloudfront.net^
 ||da26k71rxh0kb.cloudfront.net^
+||da327va27j0hh.cloudfront.net^
 ||da3uf5ucdz00u.cloudfront.net^
 ||da5h676k6d22w.cloudfront.net^
 ||dagd0kz7sipfl.cloudfront.net^
@@ -9691,8 +9696,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-03-17 06:33:50 CET
-# entries:        1087
+# last updated:   2024-03-24 07:36:33 CET
+# entries:        1088
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -9822,6 +9827,7 @@ inapps.appsflyersdk.com^
 ||ax.idg.se^
 ||b.ns1p.net^
 ||b1.trickyrock.com^
+||backend.qimtek.se^
 ||bam.bonad.io^
 ||banners.instaforex.com^
 ||barbours.com.se^
@@ -12239,6 +12245,9 @@ inapps.appsflyersdk.com^
 ||tnvnnn.xyz^
 ||jtyusia.top^
 ||pimg2023.com^
+||edler.cn^
+||gridline.cn^
+||uqrcuxp.cn^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zailgrae.com^
