@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-25T12:30:44.705Z
+! Last modified: 2024-03-25T18:22:03.986Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2310,8 +2310,6 @@ vkcdnservice.appspot.com^
 ||do-not-tracker.org^
 ||eviltracker.net^
 ||trackersimulator.org^
-!
-! For apps
 ||receiver.habby.mobi^
 ||pangle-b.io^
 ||track.*.roku.com^
@@ -2445,6 +2443,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||kr-col-ext.nelo.navercorp.com^
 ||events.funnelish.com^
 ||analytics.app.funnelish.com^
 ||analytics.starmakerstudios.com^
@@ -11853,6 +11852,7 @@ inapps.appsflyersdk.com^
 ||agmed.cyou^
 ||ahtfzhs.xyz^
 ||ahyyqq.xyz^
+||ajijcy.xyz^
 ||anjdwmq.xyz^
 ||aourgk.xyz^
 ||ariqye.xyz^
@@ -11932,9 +11932,11 @@ inapps.appsflyersdk.com^
 ||dryden.cn^
 ||dsbqvj.xyz^
 ||dsjkbcjsjkbvs.com^
+||dvotlhs.cn^
 ||dxrnksm.xyz^
 ||dyegif.icu^
 ||dytkgl.icu^
+||dzdnffs.xyz^
 ||dzfzak.cn^
 ||dzuht.cn^
 ||eaqlos.xyz^
@@ -11966,6 +11968,7 @@ inapps.appsflyersdk.com^
 ||fvpboxu.xyz^
 ||fwcnex.icu^
 ||fxjnfn.xyz^
+||fztyrv.xyz^
 ||gcumgu.xyz^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
@@ -11989,6 +11992,7 @@ inapps.appsflyersdk.com^
 ||hgthpj.xyz^
 ||hhffks967.shop^
 ||hhffnu135.shop^
+||higyoe.cn^
 ||hitchun.com^
 ||hjshal.com^
 ||hkbumv.icu^
@@ -12025,6 +12029,7 @@ inapps.appsflyersdk.com^
 ||kssolo.com^
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
+||ktyusid.top^
 ||l5kt1.icu^
 ||lafirx.xyz^
 ||lardmoni.com^
@@ -12174,6 +12179,7 @@ inapps.appsflyersdk.com^
 ||tmjetb.xyz^
 ||tnifdlai.top^
 ||tnvnnn.xyz^
+||tqvnzj.xyz^
 ||tsrvrr.xyz^
 ||tu2024020388.com^
 ||tyodot.icu^
@@ -12253,13 +12259,6 @@ inapps.appsflyersdk.com^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
-||tqvnzj.xyz^
-||ktyusid.top^
-||ajijcy.xyz^
-||higyoe.cn^
-||dzdnffs.xyz^
-||fztyrv.xyz^
-||dvotlhs.cn^
 ||yyttmyy.cn^
 ||zagyjnn.cn^
 ||zailgrae.com^
