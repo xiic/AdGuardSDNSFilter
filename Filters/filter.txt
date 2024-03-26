@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-25T18:22:03.986Z
+! Last modified: 2024-03-26T01:12:38.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -361,9 +361,11 @@ vkcdnservice.appspot.com^
 ||1360334243.rsc.cdn77.org^
 ||1427208974.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1482376030.rsc.cdn77.org^
 ||1489104297.rsc.cdn77.org^
 ||1612118426.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1687654299.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1737365450.rsc.cdn77.org^
 ||1838211237.rsc.cdn77.org^
@@ -3302,6 +3304,7 @@ inapps.appsflyersdk.com^
 ||collect.rewardstyle.com^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
+||collection.e-satisfaction.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
@@ -3436,7 +3439,6 @@ inapps.appsflyersdk.com^
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events.air.tv^
-||events.apester.com^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.brightline.tv^
@@ -12259,6 +12261,15 @@ inapps.appsflyersdk.com^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
+||ryrmvd.xyz^
+||uigxgg.xyz^
+||prhfziq.xyz^
+||taxoxz.xyz^
+||ivnrrkx.cn^
+||styusib.top^
+||elisium.cn^
+||neess105.top^
+||amidicestrins.com^
 ||yyttmyy.cn^
 ||zagyjnn.cn^
 ||zailgrae.com^
