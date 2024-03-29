@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-29T01:13:11.777Z
+! Last modified: 2024-03-29T06:21:26.104Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -265,7 +265,7 @@
 .1.1.1.l80.js^
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
-!
+||gulf.moneroocean.stream^
 ||trustisimportant.fun^
 ||pool.supportxmr.com^
 ||bmwebm.org^
@@ -415,6 +415,7 @@ vkcdnservice.appspot.com^
 ||alt63.chimeratool.com^
 ||api.140proof.com^
 ||api.bitp.it^
+||api.localadswidget.com^
 ||apps.media-lab.ai^
 ||assets.sheetmusicplus.com^
 ||award.sitekeuring.net^
@@ -432,6 +433,7 @@ vkcdnservice.appspot.com^
 ||cdn.ad.page^
 ||cdn.ads.tapzin.com^
 ||cdn.b2.ai^
+||cdn.wt-api.top^
 ||cdn22904910.ahacdn.me^
 ||chandrabinduad.com^
 ||chicoryapp.com^
@@ -470,7 +472,9 @@ vkcdnservice.appspot.com^
 ||js.phoenixmanga.com^
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
 ||karma.mdpcdn.com^
+||l.js-assets.cloud^
 ||linkx.ix.tc^
+||load.365analytics.xyz^
 ||magictag.digislots.in^
 ||marketing.888.com^
 ||mbid.marfeelrev.com^
@@ -479,6 +483,7 @@ vkcdnservice.appspot.com^
 ||monetize-static.viralize.tv^
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
+||page.24supportkit.com^
 ||pagead2.googlesyndication.com^
 ||paicdn.privateapi.click^
 ||parking.godaddy.com^
@@ -512,6 +517,7 @@ vkcdnservice.appspot.com^
 ||squirrels.getsquirrel.co^
 ||srv.dynamicyield.com^
 ||static.tradetracker.net^
+||streaming.jsonmediapacks.com^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
 ||tag.regieci.com^
@@ -12311,6 +12317,10 @@ inapps.appsflyersdk.com^
 ||xwvnhe.cn^
 ||elphhrj.xyz^
 ||esqhsm.xyz^
+||hsutav.icu^
+||88lm08.com^
+||6slb0.cyou^
+||beyers.cn^
 ||zailgrae.com^
 ||zeqvqb.icu^
 ||zfzys.top^
