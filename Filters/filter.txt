@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-30T01:10:47.138Z
+! Last modified: 2024-03-30T06:20:27.816Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3793,6 +3793,7 @@ inapps.appsflyersdk.com^
 ||sa.scorpion.co^
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
+||sdk.51.la^
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^
 ||secure-stats.pingdom.com^
@@ -12334,6 +12335,7 @@ inapps.appsflyersdk.com^
 ||kfpnqug.cn^
 ||qrovwu.xyz^
 ||rofmjd.xyz^
+||qdtzbbh.xyz^
 ||zailgrae.com^
 ||zeqvqb.icu^
 ||zfzys.top^
@@ -12343,6 +12345,12 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
+||xylhwdu.com^
+||hfbfbvmjdmxc.com^
+||byuwkbv.top^
+||pseudonym.cn^
+||utxmb.cn^
+||lbyx.xyz^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
