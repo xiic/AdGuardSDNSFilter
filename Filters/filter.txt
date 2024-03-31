@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-31T12:29:23.606Z
+! Last modified: 2024-03-31T18:19:44.965Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11858,6 +11858,8 @@ inapps.appsflyersdk.com^
 ||1ny3r.icu^
 ||2jse6.icu^
 ||3bxe2.cyou^
+||3q1lsj.cn^
+||4wu3gf.cn^
 ||51hir.cyou^
 ||5z0d3.cyou^
 ||666bbb333bbb.com^
@@ -11922,6 +11924,7 @@ inapps.appsflyersdk.com^
 ||ccsshn137.shop^
 ||cdfhidrk.xyz^
 ||cdftizu.xyz^
+||cdmgac.xyz^
 ||cdmnlxtu.xyz^
 ||cdrvkdni.xyz^
 ||cdybwjpa.xyz^
@@ -12042,12 +12045,15 @@ inapps.appsflyersdk.com^
 ||hjshal.com^
 ||hkbumv.icu^
 ||hmrwkcx.cn^
+||hnalzlu.top^
 ||hnifdlau.top^
 ||hozatr.xyz^
+||hptyp.icu^
 ||hrnkdr.xyz^
 ||hsutav.icu^
 ||htyusiu.top^
 ||hubgets.cn^
+||hvxrvef.xyz^
 ||hyusnisu.top^
 ||ijvla.cn^
 ||imevzbn.cn^
@@ -12125,6 +12131,7 @@ inapps.appsflyersdk.com^
 ||ndthdtr586.shop^
 ||neess105.top^
 ||ngnxyub.cn^
+||njenlz.cn^
 ||njhvalu.cn^
 ||nkbkor.icu^
 ||nlhpxj.xyz^
@@ -12162,7 +12169,9 @@ inapps.appsflyersdk.com^
 ||pimg2023.com^
 ||pjzxdl.xyz^
 ||pkyjuc.cn^
+||pmtrkp.icu^
 ||pnxtnp.xyz^
+||pressit.cn^
 ||prhfziq.xyz^
 ||przbzr.xyz^
 ||pseudonym.cn^
@@ -12204,6 +12213,7 @@ inapps.appsflyersdk.com^
 ||rpnufv.xyz^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
+||ryhkft.xyz^
 ||ryrmvd.xyz^
 ||rzfdbsn.cn^
 ||rzpvbl.xyz^
@@ -12341,6 +12351,7 @@ inapps.appsflyersdk.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||ywhws.cn^
 ||yyddkm526.shop^
 ||yyttmyy.cn^
 ||zagyjnn.cn^
@@ -12353,16 +12364,6 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
-||3q1lsj.cn^
-||cdmgac.xyz^
-||ryhkft.xyz^
-||hvxrvef.xyz^
-||hnalzlu.top^
-||pmtrkp.icu^
-||hptyp.icu^
-||pressit.cn^
-||4wu3gf.cn^
-||ywhws.cn^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
