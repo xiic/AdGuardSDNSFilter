@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-01T06:22:48.371Z
+! Last modified: 2024-04-01T12:33:36.890Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9108,6 +9108,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||jubbie.de^
 ||comparison.financeads.net^
 ||lehrer-finden.de^
 ||lokalwerben.t-online.de^
@@ -9723,8 +9724,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-03-24 07:36:33 CET
-# entries:        1088
+# last updated:   2024-04-01 11:44:27 CEST
+# entries:        1078
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -9778,7 +9779,6 @@ inapps.appsflyersdk.com^
 ||ads.themoneytizer.com^
 ||ads.ungdomar.se^
 ||ads.varldenidag.se^
-||ads.veterinaren.nu^
 ||adsby.bidtheatre.com^
 ||adserver.ddev.site^
 ||adserver.infotorg.se^
@@ -9873,7 +9873,6 @@ inapps.appsflyersdk.com^
 ||browser-http-intake.logs.datadoghq.eu^
 ||bs.serving-sys.com^
 ||btloader.com^
-||bulletproof-analytics.com^
 ||buzzador.com^
 ||b-code.liadm.com^
 ||c.aaxads.com^
@@ -9983,7 +9982,6 @@ inapps.appsflyersdk.com^
 ||d33s3ffr7fotas.cloudfront.net^
 ||dackpartner-web.s3.amazonaws.com^
 ||dagenstv.112.2o7.net^
-||dakine.com.se^
 ||darwin.affiliatewindow.com^
 ||data.gblcdn.com^
 ||deals.innocode.no^
@@ -10012,7 +10010,6 @@ inapps.appsflyersdk.com^
 ||eum.instana.io^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
 ||events-collector.spot.im^
-||evtr.nordiskemedier.dk^
 ||exitintel.com^
 ||expo.ads.ramsalt.com^
 ||extern.prisjakt.nu^
@@ -10077,6 +10074,7 @@ inapps.appsflyersdk.com^
 ||izooto.com^
 ||js.appboycdn.com^
 ||js.datadome.co^
+||js.evtr.nordiskemedier.dk^
 ||js.getlasso.co^
 ||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
@@ -10094,7 +10092,6 @@ inapps.appsflyersdk.com^
 ||keenstockholm.com.se^
 ||ksdarprt.reseguiden.se^
 ||kyrkoskatten.se^
-||kyrkskatt.se^
 ||lanapengar.expressen.se^
 ||lararforbundet.analytics.ozzi.io^
 ||lasso.link^
@@ -10114,7 +10111,6 @@ inapps.appsflyersdk.com^
 ||longchampstockholm.com.se^
 ||look.ufinkln.com^
 ||low1sneakerssverige.com^
-||m.burt.io^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
 ||markhor.organicfruitapps.com^
@@ -10213,7 +10209,6 @@ inapps.appsflyersdk.com^
 ||revrtb.com^
 ||richmediastudio.com^
 ||richmetrics.com^
-||rockeringformsweden.com^
 ||rockportskorsverige.com^
 ||rotator.riedta.com^
 ||route.carambo.la^
@@ -10272,9 +10267,7 @@ inapps.appsflyersdk.com^
 ||sgtm.inet.se^
 ||skattamindre.se^
 ||sleeknote.com^
-||smetrics.aftonbladet.se^
 ||smtvn.112.2o7.net^
-||sneakersisverige.com^
 ||source.advisible.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
@@ -10336,7 +10329,6 @@ inapps.appsflyersdk.com^
 ||tags.bkrtx.com^
 ||tags.smilewanted.com^
 ||tapet.bonniernews.se^
-||target.digitalaudience.io^
 ||telemetry.bambuser.io^
 ||tools.ascontentcloud.com^
 ||toppmarkensverige.com^
@@ -12370,6 +12362,7 @@ inapps.appsflyersdk.com^
 ||fmssoj.icu^
 ||mpn56e.cn^
 ||polepole.cn^
+||jyuwkba.top^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
