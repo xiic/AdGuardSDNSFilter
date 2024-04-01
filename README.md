@@ -77,6 +77,10 @@ The output is written to `Filters/filter.txt`.
 
 * [EasyList — third-party servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt)
 
+* [EasyList — adult third-party servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt)
+
+* [EasyList — adult popup servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt)
+
 * [EasyList Germany](https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt)
 
 * [EasyList Italy](https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt)
@@ -92,6 +96,8 @@ The output is written to `Filters/filter.txt`.
 * [AdblockID](https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl)
 
 * [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt)
+
+* [hostsVN Threat](https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/filter.txt)
 
 ### Tracking servers
 
