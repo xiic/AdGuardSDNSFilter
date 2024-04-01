@@ -1,3 +1,44 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1661
+||i18n-pglstatp.com^
+!
+! Private IP address ranges
+! 10.0.0.0 – 10.255.255.255
+/(?:^\|\|?|^)(10\.?[\d\.*]+)\|{0,1}$/
+! 127.0.0.0 – 127.255.255.255
+/(?:^\|\|?|^)(127\.?[\d\.*]+)\|{0,1}$/
+! 172.16.0.0 – 172.31.255.255
+/(?:^\|\|?|^)(172\.(?:1[6-9]|2[0-9]|3[0-1])\.[\d\.*]+)\|{0,1}$/
+! 192.168.0.0 – 192.168.255.255
+/(?:^\|\|?|^)(192\.168\.?[\d\.*]+)\|{0,1}$/
+!
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1645
+||tangerine.io^
+! https://github.com/easylist/easylist/commit/abaeb1ae5518324a10f469d2a40f96b31bd149a8
+||07c225f3.online^
+||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
+||content-loader.com^
+||css-load.com^
+||f97ae142.online^
+||html-load.com^
+||html-load.cc^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1625
+||uniconsent.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1610
+||cologger.shopping.naver.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1599
+||cameraprive.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1577
+||porndroids.com^
+||fapality.com^
+||porn300.com^
+||voyeurhit.com^
+||freeadultcomix.com^
+||porntry.com^
+||sexuhot.com^
+||runetki.com^
+||vsexshop.ru^
+! Fixing NowTV app and some sites
+||mparticle.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169684
 ||crashlytics.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1573
@@ -384,6 +425,7 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/508
 ||smartasset.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/496
+||js.datadome.co^
 ||datadome.co^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/485
 ||onelink.me^
