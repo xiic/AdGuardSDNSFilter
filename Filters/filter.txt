@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-02T12:32:34.333Z
+! Last modified: 2024-04-02T18:21:06.846Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8356,14 +8356,12 @@ inapps.appsflyersdk.com^
 ||rtbinternet.com^
 ||rtbweb.com^
 ||ruigra.com^
-||runetki.tv^
 ||ruscams.com
 ||ruscontext.com^
 ||rushkolnik.ru^
 ||rusrestbest.
 ||rustrackers.ru^
 ||ruttwind.com^
-||rutube.com^
 ||rutvind.com^
 ||rwhxz.space^
 ||ryushare.com^
@@ -21292,6 +21290,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||vjvj.vj24co.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
