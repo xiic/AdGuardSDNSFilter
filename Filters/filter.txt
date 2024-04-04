@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-04T12:31:29.032Z
+! Last modified: 2024-04-04T18:22:00.368Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16464,6 +16464,7 @@ inapps.appsflyersdk.com^
 ||88lm06.com^
 ||88lm07.com^
 ||88lm08.com^
+||88lm09.com^
 ||8t9he.cyou^
 ||8xtm6i.cn^
 ||999bb222ww.com^
@@ -16513,6 +16514,7 @@ inapps.appsflyersdk.com^
 ||caomeixz7.xyz^
 ||captickc.com^
 ||cbcvou.xyz^
+||cbthkumwa96.shop^
 ||ccsshn137.shop^
 ||cdfhidrk.xyz^
 ||cdftizu.xyz^
@@ -16580,6 +16582,7 @@ inapps.appsflyersdk.com^
 ||efmtsw.xyz^
 ||egywbps748.shop^
 ||egywbpu286.shop^
+||ei1s7b.cn^
 ||eiqsky.xyz^
 ||ejdhmed.xyz^
 ||elisium.cn^
@@ -16594,6 +16597,7 @@ inapps.appsflyersdk.com^
 ||etyusiw.top^
 ||execuri.com^
 ||f7fe0.cyou^
+||fadhvz.xyz^
 ||fbfrbt.xyz^
 ||fefgvh.xyz^
 ||fekpcd.icu^
@@ -16687,6 +16691,7 @@ inapps.appsflyersdk.com^
 ||kfpnqug.cn^
 ||khzyojb.cn^
 ||kksjsa.top^
+||knalzld.top^
 ||knifdlad.top^
 ||kssolo.com^
 ||ktoioo.xyz^
@@ -16716,6 +16721,7 @@ inapps.appsflyersdk.com^
 ||lvdedf.xyz^
 ||lwrohd.xyz^
 ||ly55442.com^
+||lznfuab.xyz^
 ||m6690.top^
 ||mdhv3.icu^
 ||mdzwjra.cn^
@@ -16741,6 +16747,7 @@ inapps.appsflyersdk.com^
 ||nkbkor.icu^
 ||nlhpxj.xyz^
 ||nljrvdh.xyz^
+||nmntgd.cn^
 ||nowhern.com^
 ||npjvgug.xyz^
 ||nplahh.xyz^
@@ -16779,6 +16786,7 @@ inapps.appsflyersdk.com^
 ||pmtrkp.icu^
 ||pnxtnp.xyz^
 ||polepole.cn^
+||pp1hl.xyz^
 ||pressit.cn^
 ||prhfziq.xyz^
 ||przbzr.xyz^
@@ -16811,11 +16819,13 @@ inapps.appsflyersdk.com^
 ||rawmtft.cn^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
+||rdiono.cn^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
 ||rhzvlcu.xyz^
 ||riscil.com^
 ||rjhbjv.xyz^
+||rkgbqn.icu^
 ||rktddv.xyz^
 ||rlw86.cyou^
 ||rnkzhsi.cn^
@@ -16861,6 +16871,7 @@ inapps.appsflyersdk.com^
 ||szmyl.cn^
 ||szpnz.cn^
 ||szptp.cn^
+||szpwg.cn^
 ||szpwh.cn^
 ||tahznx.xyz^
 ||taxoxz.xyz^
@@ -16877,6 +16888,7 @@ inapps.appsflyersdk.com^
 ||tlfvj.cyou^
 ||tmjetb.xyz^
 ||tnifdlai.top^
+||tnmpd.xyz^
 ||tnvnnn.xyz^
 ||tqvnzj.xyz^
 ||tsrvrr.xyz^
@@ -16916,6 +16928,7 @@ inapps.appsflyersdk.com^
 ||wbvfj.xyz^
 ||wefihob.cn^
 ||wingsurf.cn^
+||wioboy.xyz^
 ||wisealty.com^
 ||wjwod.cyou^
 ||wkywrc.cn^
@@ -16980,19 +16993,6 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
-||lznfuab.xyz^
-||ei1s7b.cn^
-||knalzld.top^
-||fadhvz.xyz^
-||wioboy.xyz^
-||rkgbqn.icu^
-||pp1hl.xyz^
-||88lm09.com^
-||tnmpd.xyz^
-||cbthkumwa96.shop^
-||rdiono.cn^
-||nmntgd.cn^
-||szpwg.cn^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
