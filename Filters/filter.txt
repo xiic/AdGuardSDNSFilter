@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-07T12:29:01.811Z
+! Last modified: 2024-04-07T18:20:03.772Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16447,6 +16447,7 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||0322cfmtl.cc^
 ||0940088.com^
 ||0j775d.cn^
 ||0k7wod.cn^
@@ -16496,11 +16497,13 @@ inapps.appsflyersdk.com^
 ||ariqye.xyz^
 ||arnhhwo.xyz^
 ||arqvm.cn^
+||atzhcjv.xyz^
 ||awuvcq.xyz^
 ||azyuuk.xyz^
 ||b37r5.cyou^
 ||batijian.com^
 ||bba9603w.com^
+||bdjfea.cn^
 ||bdtdat652.shop^
 ||bdxpdz.xyz^
 ||benpsbp.com^
@@ -16636,6 +16639,7 @@ inapps.appsflyersdk.com^
 ||gblxtlo.xyz^
 ||gcumgu.xyz^
 ||gfjn5.xyz^
+||gfylyw.xyz^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
@@ -16748,6 +16752,7 @@ inapps.appsflyersdk.com^
 ||lznfuab.xyz^
 ||m1170.top^
 ||m6690.top^
+||m6j37.xyz^
 ||mdhv3.icu^
 ||mdzwjra.cn^
 ||misjgy.xyz^
@@ -16784,6 +16789,7 @@ inapps.appsflyersdk.com^
 ||nvjqtz.xyz^
 ||nyt5j.cyou^
 ||o1b04.cyou^
+||obgekjz.icu^
 ||obturex.com^
 ||ocggec.xyz^
 ||ofkcww.xyz^
@@ -16951,9 +16957,11 @@ inapps.appsflyersdk.com^
 ||vcnpnf.xyz^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
+||vejhln.xyz^
 ||vfchm.cyou^
 ||vflorp.xyz^
 ||vhvwlb.xyz^
+||vioyugo.cn^
 ||vmnlkr.icu^
 ||vpzohx.xyz^
 ||vszzzj.xyz^
@@ -16967,6 +16975,7 @@ inapps.appsflyersdk.com^
 ||wisealty.com^
 ||wjwod.cyou^
 ||wkywrc.cn^
+||wnalzle.top^
 ||wnifdlae.top^
 ||wnmaoc.xyz^
 ||wopvmmy.cn^
@@ -17030,14 +17039,6 @@ inapps.appsflyersdk.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
-||gfylyw.xyz^
-||bdjfea.cn^
-||wnalzle.top^
-||vejhln.xyz^
-||obgekjz.icu^
-||atzhcjv.xyz^
-||m6j37.xyz^
-||vioyugo.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
