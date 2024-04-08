@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-08T12:31:47.996Z
+! Last modified: 2024-04-08T18:24:32.084Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16467,6 +16467,7 @@ inapps.appsflyersdk.com^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
 ||0v1syj.cn^
+||1f84e33459.com^
 ||1ny3r.icu^
 ||2jse6.icu^
 ||2qy9zm.cn^
@@ -16573,6 +16574,7 @@ inapps.appsflyersdk.com^
 ||damiul.icu^
 ||dataryon.com^
 ||dawdlealmonry.com^
+||dblijd.xyz^
 ||ddielv.cn^
 ||delhirs.com^
 ||destinyssa.com^
@@ -16656,6 +16658,7 @@ inapps.appsflyersdk.com^
 ||grtarpcf963.top^
 ||gsuxyg.xyz^
 ||gueikw.xyz^
+||guwohvw.icu^
 ||gvbta.icu^
 ||ha723.icu^
 ||halct.cn^
@@ -16763,7 +16766,9 @@ inapps.appsflyersdk.com^
 ||mdhv3.icu^
 ||mdzwjra.cn^
 ||misjgy.xyz^
+||mldzwmt.xyz^
 ||mlhtr.cn^
+||mmo2350.top^
 ||mnifdlax.top^
 ||moberg.cn^
 ||mondigo.cn^
@@ -16825,6 +16830,7 @@ inapps.appsflyersdk.com^
 ||pimg2023.com^
 ||pjzxdl.xyz^
 ||pkyjuc.cn^
+||pmiskc.cn^
 ||pmtrkp.icu^
 ||pnxtnp.xyz^
 ||polepole.cn^
@@ -16847,6 +16853,7 @@ inapps.appsflyersdk.com^
 ||qhodog.xyz^
 ||qkscga.xyz^
 ||qlbbowx.xyz^
+||qnalzly.top^
 ||qnifdlay.top^
 ||qqkkpos.com^
 ||qrkhwe.xyz^
@@ -16899,6 +16906,7 @@ inapps.appsflyersdk.com^
 ||soffersk.com^
 ||sosakk.xyz^
 ||spsfupq.cn^
+||srwwce.xyz^
 ||srzpsbf.xyz^
 ||stlpnom.xyz^
 ||styusib.top^
@@ -16973,6 +16981,7 @@ inapps.appsflyersdk.com^
 ||vpzohx.xyz^
 ||vszzzj.xyz^
 ||vuvnix.icu^
+||vwyycnq.cn^
 ||vxfdepn.cn^
 ||wbubgob.cn^
 ||wbvfj.xyz^
@@ -17047,15 +17056,6 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
-||dblijd.xyz^
-||pmiskc.cn^
-||srwwce.xyz^
-||qnalzly.top^
-||mldzwmt.xyz^
-||guwohvw.icu^
-||1f84e33459.com^
-||vwyycnq.cn^
-||mmo2350.top^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
@@ -21527,6 +21527,7 @@ inapps.appsflyersdk.com^
 ||a.zuowenku.net^
 ||a.zuowenxuan.cn^
 ||a1.289.com^
+||a1.51shiti.cn^
 ||a1.99933.cn^
 ||a1.99966.cn^
 ||a1.aichagu.com^
