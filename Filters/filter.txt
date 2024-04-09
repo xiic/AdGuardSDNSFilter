@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-09T12:32:26.138Z
+! Last modified: 2024-04-09T18:19:13.934Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11488,8 +11488,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Apr 2024 10:48 UTC+7
-! Version: 2404081048
+! Last modified: 09 Apr 2024 23:15 UTC+7
+! Version: 2404092315
 ! Blocked: 867 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -12353,9 +12353,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 08 Apr 2024 10:49 UTC+7
-! Version: 2404081049
-! Blocked: 4,168 rules
+! Last modified: 09 Apr 2024 23:15 UTC+7
+! Version: 2404092315
+! Blocked: 4,173 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12693,6 +12693,7 @@ inapps.appsflyersdk.com^
 ||cl247.me^
 ||claudfront.net^
 ||clb.vin^
+||cliphott.io.vn^
 ||clmm.me^
 ||clmm.nl^
 ||clmm.pe^
@@ -12975,6 +12976,7 @@ inapps.appsflyersdk.com^
 ||expressmoney.cc^
 ||facabook.id.vn^
 ||face-book.co^
+||faceb00k.com.vn^
 ||facebook.c0m.ltd^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
@@ -13785,6 +13787,7 @@ inapps.appsflyersdk.com^
 ||mmomo.me^
 ||mmovietnam.info^
 ||mobaviet.shop^
+||mobile-facebook.com.vn^
 ||mobile-ibankingshopee.vn^
 ||mobilebanking-shopee.vn^
 ||mobilebankingvn.com^
@@ -15366,6 +15369,7 @@ inapps.appsflyersdk.com^
 ||timx2918.com^
 ||tin-dung-khcn-vib.com^
 ||tin-dung-uu-tien-vib.com^
+||tin247.website^
 ||tinbaothuongvn.com^
 ||tinchap-nganhang.online^
 ||tinchap-techcombank.store^
@@ -16066,6 +16070,7 @@ inapps.appsflyersdk.com^
 ||vn-ebanking.info^
 ||vn-ebanks.xyz^
 ||vn-email.shop^
+||vn-express.net^
 ||vn-findmy.com^
 ||vn-hc.info^
 ||vn-i.cloud^
@@ -16501,6 +16506,7 @@ inapps.appsflyersdk.com^
 ||ajijcy.xyz^
 ||amidicestrins.com^
 ||anjdwmq.xyz^
+||aoakss.com^
 ||aourgk.xyz^
 ||ariqye.xyz^
 ||arnhhwo.xyz^
@@ -16584,6 +16590,7 @@ inapps.appsflyersdk.com^
 ||difmnd.xyz^
 ||djxpnuo.xyz^
 ||dkjwbv.xyz^
+||dlngft.xyz^
 ||dmpqjn.xyz^
 ||dndmygr.cn^
 ||dngbjyc.cn^
@@ -16622,6 +16629,7 @@ inapps.appsflyersdk.com^
 ||endolift.cn^
 ||enifdlaw.top^
 ||eqqwgw.xyz^
+||equkgm.xyz^
 ||ersjnpwf837.shop^
 ||esqhsm.xyz^
 ||etyusiw.top^
@@ -16690,6 +16698,7 @@ inapps.appsflyersdk.com^
 ||hubgets.cn^
 ||hvxrvef.xyz^
 ||hyusnisu.top^
+||ievvo.xyz^
 ||ijvla.cn^
 ||imevzbn.cn^
 ||img8e51zy4bg.com^
@@ -16731,6 +16740,7 @@ inapps.appsflyersdk.com^
 ||kksjsa.top^
 ||knalzld.top^
 ||knifdlad.top^
+||kpmose.xyz^
 ||kssolo.com^
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
@@ -16819,6 +16829,7 @@ inapps.appsflyersdk.com^
 ||ovjlccs.xyz^
 ||oxkyaq.xyz^
 ||oxvlxwz.xyz^
+||ozhmig.cn^
 ||p04qzl.cn^
 ||p0v2ni.cn^
 ||p0w2r.cyou^
@@ -16878,6 +16889,7 @@ inapps.appsflyersdk.com^
 ||rkgbqn.icu^
 ||rktddv.xyz^
 ||rlw86.cyou^
+||rlxhbff.cn^
 ||rnkzhsi.cn^
 ||rofmjd.xyz^
 ||rouqiuqq.cn^
@@ -16941,6 +16953,7 @@ inapps.appsflyersdk.com^
 ||tjfbh.icu^
 ||tlfvj.cyou^
 ||tmjetb.xyz^
+||tnalzli.top^
 ||tnifdlai.top^
 ||tnmpd.xyz^
 ||tnvnnn.xyz^
@@ -17030,6 +17043,7 @@ inapps.appsflyersdk.com^
 ||ybrrvck.xyz^
 ||ycqbgm.xyz^
 ||yddjmpjo.xyz^
+||yddrqwq.xyz^
 ||ydfhidrk.xyz^
 ||ydrvkdni.xyz^
 ||ydwkrbg.cn^
@@ -17056,15 +17070,6 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
-||dlngft.xyz^
-||ozhmig.cn^
-||equkgm.xyz^
-||tnalzli.top^
-||kpmose.xyz^
-||ievvo.xyz^
-||rlxhbff.cn^
-||aoakss.com^
-||yddrqwq.xyz^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
