@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-10T12:31:30.494Z
+! Last modified: 2024-04-10T18:23:36.890Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16485,6 +16485,7 @@ inapps.appsflyersdk.com^
 ||51hir.cyou^
 ||555bbb333bbb.com^
 ||5z0d3.cyou^
+||666bbb222www.com^
 ||666bbb333bbb.com^
 ||6slb0.cyou^
 ||6zfem.icu^
@@ -16568,6 +16569,7 @@ inapps.appsflyersdk.com^
 ||cnvmhzt.cn^
 ||computel.cn^
 ||costarg.com^
+||cowm199.com^
 ||cqisam.xyz^
 ||crjeymh.cn^
 ||ctlrarz.xyz^
@@ -16701,6 +16703,7 @@ inapps.appsflyersdk.com^
 ||hubgets.cn^
 ||hvxrvef.xyz^
 ||hyusnisu.top^
+||idffhq.cn^
 ||ievvo.xyz^
 ||ijvla.cn^
 ||imevzbn.cn^
@@ -16770,6 +16773,7 @@ inapps.appsflyersdk.com^
 ||lulxzl.xyz^
 ||luofk.xyz^
 ||lvdedf.xyz^
+||lvphbj.xyz^
 ||lwrohd.xyz^
 ||ly55442.com^
 ||lznfuab.xyz^
@@ -16829,6 +16833,7 @@ inapps.appsflyersdk.com^
 ||osisk.com^
 ||ostjpig.cn^
 ||osusjsga.com^
+||otmebdr.cn^
 ||ovjlccs.xyz^
 ||oxkyaq.xyz^
 ||oxvlxwz.xyz^
@@ -16853,12 +16858,14 @@ inapps.appsflyersdk.com^
 ||prhfziq.xyz^
 ||przbzr.xyz^
 ||pseudonym.cn^
+||pvhjkzo.xyz^
 ||pwhkfd.xyz^
 ||pwhtip.icu^
 ||pxzrlf.xyz^
 ||q02orc.cn^
 ||qbhzghb.xyz^
 ||qcohkm.xyz^
+||qcsvku.xyz^
 ||qdtzbbh.xyz^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
@@ -16915,6 +16922,7 @@ inapps.appsflyersdk.com^
 ||sjaaquj.cn^
 ||skdncksklsv.com^
 ||skfda5.com^
+||slcmvgr.icu^
 ||smallfo.com^
 ||snalzlb.top^
 ||snifdlab.top^
@@ -16939,6 +16947,7 @@ inapps.appsflyersdk.com^
 ||szmyl.cn^
 ||szpnz.cn^
 ||szptp.cn^
+||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
 ||szpzm.cn^
@@ -16970,6 +16979,7 @@ inapps.appsflyersdk.com^
 ||uiqcf.cn^
 ||uljoifw.cn^
 ||ulwfys.xyz^
+||unalzlt.top^
 ||unifdlat.top^
 ||upytsgo.cn^
 ||uqrcuxp.cn^
@@ -17073,16 +17083,6 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
-||slcmvgr.icu^
-||pvhjkzo.xyz^
-||qcsvku.xyz^
-||otmebdr.cn^
-||unalzlt.top^
-||lvphbj.xyz^
-||idffhq.cn^
-||szpwf.cn^
-||666bbb222www.com^
-||cowm199.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
