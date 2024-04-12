@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-11T18:20:58.849Z
+! Last modified: 2024-04-12T01:14:34.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1379,6 +1379,7 @@ vkcdnservice.appspot.com^
 ||dvmdwmnyj3u4h.cloudfront.net^
 ||dw55pg05c2rl5.cloudfront.net^
 ||dw7vmlojkx16k.cloudfront.net^
+||dw85st0ijc8if.cloudfront.net^
 ||dw9uc6c6b8nwx.cloudfront.net^
 ||dwd11wtouhmea.cloudfront.net^
 ||dwebwj8qthne8.cloudfront.net^
@@ -3918,6 +3919,7 @@ inapps.appsflyersdk.com^
 ||crta.dailymail.co.uk^
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
+||csp.secureserver.net^
 ||csr.onet.pl^
 ||ct.capterra.com^
 ||ct.corpusapp.com^
@@ -3998,6 +4000,7 @@ inapps.appsflyersdk.com^
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events.air.tv^
+||events.api.secureserver.net^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.brightline.tv^
@@ -17089,6 +17092,13 @@ inapps.appsflyersdk.com^
 ||zeqvqb.icu^
 ||zfzys.top^
 ||zhaweifeng.com^
+||ecikmrm.icu^
+||uohvxrvd.xyz^
+||nfptyfk.xyz^
+||tyzfoej.cn^
+||tptgvh.xyz^
+||lnalzll.top^
+||waouss.xyz^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
