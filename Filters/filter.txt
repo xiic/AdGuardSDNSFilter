@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-14T01:45:17.743Z
+! Last modified: 2024-04-14T07:56:19.962Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -357,21 +357,12 @@ vkcdnservice.appspot.com^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
 ||1097248889.rsc.cdn77.org^
-||1141658275.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
-||1274355588.rsc.cdn77.org^
-||1350112703.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
-||1453683541.rsc.cdn77.org^
 ||1454023398.rsc.cdn77.org^
-||1459292291.rsc.cdn77.org^
-||1472566097.rsc.cdn77.org^
-||1513825105.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
-||1858742167.rsc.cdn77.org^
-||1879481963.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -923,6 +914,7 @@ vkcdnservice.appspot.com^
 ||d2khpmub947xov.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
 ||d2klx87bgzngce.cloudfront.net^
+||d2km1jjvhgh7xw.cloudfront.net^
 ||d2kpucccxrl97x.cloudfront.net^
 ||d2ksh1ccat0a7e.cloudfront.net^
 ||d2l3f1n039mza.cloudfront.net^
@@ -17127,6 +17119,7 @@ inapps.appsflyersdk.com^
 ||hyuwkbu.top^
 ||ulktyi.xyz^
 ||qtoidch.icu^
+||szpzk.cn^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
