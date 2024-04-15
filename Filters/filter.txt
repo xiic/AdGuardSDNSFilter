@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-15T06:21:28.204Z
+! Last modified: 2024-04-15T12:30:45.416Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2119,7 +2119,6 @@ vkcdnservice.appspot.com^
 ||kfvjdvjzhddhc.com^
 ||zgzxs.weathercn.com^
 ||kiesta.net^
-||cdn-ads.tmap.co.kr^
 ||downloadshi.b-cdn.net^
 ||ads.rmbl.ws^
 ||adsassets-ipv6.waze.com^
@@ -6538,6 +6537,10 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||cdn.sov.stream^
+||adiam.tech^
+||bidster.net^
+||ads.go2net.com.ua^
 ||cdn.alfasense.net^
 ||luxcdn.com^
 ||vqhrqt.com^
@@ -9292,6 +9295,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||ad.adpon-affi.net^
 ||lmadps.jp^
 ||bibincom.com^
 ||smart-below.com^
