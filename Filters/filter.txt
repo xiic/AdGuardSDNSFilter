@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-15T18:21:27.996Z
+! Last modified: 2024-04-16T01:13:56.704Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -392,6 +392,7 @@ vkcdnservice.appspot.com^
 ||ads.viralize.tv^
 ||ads2.hsoub.com^
 ||adsales.snidigital.com^
+||adsdk.microsoft.com^
 ||adserver-2084671375.us-east-1.elb.amazonaws.com^
 ||adserving.unibet.com^
 ||adsinteractive-794b.kxcdn.com^
@@ -445,6 +446,7 @@ vkcdnservice.appspot.com^
 ||escape.insites.eu^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
+||findcouponspromos.com^
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
 ||get.paradise8.com^
@@ -3784,6 +3786,7 @@ inapps.appsflyersdk.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||bacon.section.io^
 ||barium.cheezdev.com^
+||bat.bing.net^
 ||baxter.olx.org^
 ||bc.geocities.
 ||bc.marfeelcache.com^
@@ -6212,6 +6215,7 @@ inapps.appsflyersdk.com^
 ||analytics.ceneo.pl^
 ||analytics.greensender.pl^
 ||ar1.aza.io^
+||ave-caesar-mas.modivo.io^
 ||cmp.dreamlab.pl^
 ||dsg.interia.pl^
 ||hit.interia.pl^
@@ -17141,6 +17145,12 @@ inapps.appsflyersdk.com^
 ||zfzys.top^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
+||hspdiom.cn^
+||sjgsgy.xyz^
+||cfugrnc.icu^
+||jdbeht.xyz^
+||orbnarb.xyz^
+||baucraell.com^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
