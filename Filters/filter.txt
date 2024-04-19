@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-19T12:31:44.809Z
+! Last modified: 2024-04-19T18:20:59.321Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -359,13 +359,17 @@ vkcdnservice.appspot.com^
 ||10945-5.s.cdn15.com^
 ||1097248889.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1189945577.rsc.cdn77.org^
 ||1291423135.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1454023398.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
+||1623381916.rsc.cdn77.org^
+||1673213558.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1917516666.rsc.cdn77.org^
+||1946546359.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -985,6 +989,7 @@ vkcdnservice.appspot.com^
 ||d2u2lv2h6u18yc.cloudfront.net^
 ||d2u4fn5ca4m3v6.cloudfront.net^
 ||d2u6dc21frjf6h.cloudfront.net^
+||d2uaktjl22qvg4.cloudfront.net^
 ||d2uap9jskdzp2.cloudfront.net^
 ||d2udkjdo48yngu.cloudfront.net^
 ||d2uepos3ef6db0.cloudfront.net^
@@ -1661,7 +1666,6 @@ vkcdnservice.appspot.com^
 ||offaces-butional.com^
 ||ohmygosh.info^
 ||omynews.net^
-||onedmp.com.^
 ||onhercam.com^
 ||onlineporno.fun^
 ||ordermc.com^
@@ -9009,6 +9013,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||sobreatsesuyp.com^
 ||kriptoparahaber.care^
 ||alty.fun^
 ||hemenindir.to^
@@ -16562,7 +16567,9 @@ inapps.appsflyersdk.com^
 ||agmed.cyou^
 ||ahtfzhs.xyz^
 ||ahyyqq.xyz^
+||ajffubz.xyz^
 ||ajijcy.xyz^
+||aly.la^
 ||amidicestrins.com^
 ||anjdwmq.xyz^
 ||aoakss.com^
@@ -16578,6 +16585,7 @@ inapps.appsflyersdk.com^
 ||baucraell.com^
 ||bba9603w.com^
 ||bdjfea.cn^
+||bdpretc.cn^
 ||bdtdat652.shop^
 ||bdxpdz.xyz^
 ||benpsbp.com^
@@ -16602,6 +16610,7 @@ inapps.appsflyersdk.com^
 ||buvdkt.icu^
 ||bvtvlp.xyz^
 ||bvxiht.xyz^
+||bweriov.top^
 ||bwlcpr.xyz^
 ||byuwkbv.top^
 ||bzverx.xyz^
@@ -16670,6 +16679,7 @@ inapps.appsflyersdk.com^
 ||dsbqvj.xyz^
 ||dsjhcgvhjsvc.com^
 ||dsjkbcjsjkbvs.com^
+||dtjpihv.xyz^
 ||dvotlhs.cn^
 ||dwbfqmz.cn^
 ||dxrnksm.xyz^
@@ -16688,6 +16698,7 @@ inapps.appsflyersdk.com^
 ||egywbps748.shop^
 ||egywbpu286.shop^
 ||ei1s7b.cn^
+||eiegkg.xyz^
 ||eiqsky.xyz^
 ||ejdhmed.xyz^
 ||elisium.cn^
@@ -16726,6 +16737,7 @@ inapps.appsflyersdk.com^
 ||fztyrv.xyz^
 ||gblxtlo.xyz^
 ||gccnntq.cn^
+||gcomwx.icu^
 ||gcumgu.xyz^
 ||gfjn5.xyz^
 ||gfylyw.xyz^
@@ -16736,6 +16748,7 @@ inapps.appsflyersdk.com^
 ||golilog.com^
 ||gridline.cn^
 ||grtarpcf963.top^
+||grulphaens.com^
 ||gsuxyg.xyz^
 ||gtxkze.cn^
 ||gueikw.xyz^
@@ -16769,8 +16782,10 @@ inapps.appsflyersdk.com^
 ||hrnkdr.xyz^
 ||hspdiom.cn^
 ||hsutav.icu^
+||hsvchnsvncvvd.com^
 ||htyusiu.top^
 ||hubgets.cn^
+||huuocxu.icu^
 ||hvxrvef.xyz^
 ||hyusnisu.top^
 ||hyuwkbu.top^
@@ -16798,6 +16813,7 @@ inapps.appsflyersdk.com^
 ||jflwhf.xyz^
 ||jgblvt.xyz^
 ||jgmywh.icu^
+||jhfcll.cn^
 ||jioed.cyou^
 ||jmesxbe.icu^
 ||jnalzla.top^
@@ -16812,12 +16828,15 @@ inapps.appsflyersdk.com^
 ||justapp.top^
 ||jvkqkzu.cn^
 ||jwhdgt.icu^
+||jypvzd.xyz^
 ||jyuwkba.top^
 ||jzjpntr.xyz^
 ||kbomku.xyz^
 ||kdeh.cn^
 ||kfdrc.cyou^
 ||kfpnqug.cn^
+||kgdyoh.icu^
+||kgqcse.xyz^
 ||khzyojb.cn^
 ||kksjsa.top^
 ||knalzld.top^
@@ -16829,6 +16848,7 @@ inapps.appsflyersdk.com^
 ||ktvjpmi.xyz^
 ||ktyusid.top^
 ||kwqnki.xyz^
+||kyuwkbd.top^
 ||l5kt1.icu^
 ||lafirx.xyz^
 ||lardmoni.com^
@@ -16919,6 +16939,7 @@ inapps.appsflyersdk.com^
 ||osusjsga.com^
 ||otmebdr.cn^
 ||ovjlccs.xyz^
+||oweeiyw.icu^
 ||oxkyaq.xyz^
 ||oxvlxwz.xyz^
 ||ozhmig.cn^
@@ -16944,6 +16965,8 @@ inapps.appsflyersdk.com^
 ||przbzr.xyz^
 ||pseudonym.cn^
 ||pvhjkzo.xyz^
+||pwbuhb.xyz^
+||pwddhc.xyz^
 ||pwhkfd.xyz^
 ||pwhtip.icu^
 ||pxzrlf.xyz^
@@ -16968,6 +16991,7 @@ inapps.appsflyersdk.com^
 ||qrttfmo.cn^
 ||qtoidch.icu^
 ||qtyusiy.top^
+||qusrow.xyz^
 ||qvnbjjd.xyz^
 ||qw9cu.cyou^
 ||qzalsk.xyz^
@@ -16975,6 +16999,7 @@ inapps.appsflyersdk.com^
 ||rarcff.xyz^
 ||rarmkce.cn^
 ||rawmtft.cn^
+||rbfxoex.xyz^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
 ||rdiono.cn^
@@ -16987,6 +17012,7 @@ inapps.appsflyersdk.com^
 ||rktddv.xyz^
 ||rlw86.cyou^
 ||rlxhbff.cn^
+||rndcdb.xyz^
 ||rnkzhsi.cn^
 ||rofmjd.xyz^
 ||rouqiuqq.cn^
@@ -17024,7 +17050,9 @@ inapps.appsflyersdk.com^
 ||svncowt.cn^
 ||swsegi.xyz^
 ||syiwgwsqwngrdw.xyz^
+||syuwkbb.top^
 ||szbhb.cn^
+||szftg.cn^
 ||szmhk.cn^
 ||szmnd.cn^
 ||szmnf.cn^
@@ -17064,6 +17092,7 @@ inapps.appsflyersdk.com^
 ||tqvnzj.xyz^
 ||tsrvrr.xyz^
 ||tu2024020388.com^
+||tudxhzj.cn^
 ||tuky889900.com^
 ||tyodot.icu^
 ||tyzfoej.cn^
@@ -17093,6 +17122,7 @@ inapps.appsflyersdk.com^
 ||vabzndw.cn^
 ||vaekkfv.cn^
 ||vcnpnf.xyz^
+||vdoqomz.icu^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
 ||vejhln.xyz^
@@ -17100,6 +17130,8 @@ inapps.appsflyersdk.com^
 ||vflorp.xyz^
 ||vhvwlb.xyz^
 ||vioyugo.cn^
+||vipgogo123.site^
+||vkdgdt.xyz^
 ||vmnlkr.icu^
 ||vpzohx.xyz^
 ||vszzzj.xyz^
@@ -17180,31 +17212,6 @@ inapps.appsflyersdk.com^
 ||zfzys.top^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
-||rndcdb.xyz^
-||pwddhc.xyz^
-||jhfcll.cn^
-||kyuwkbd.top^
-||eiegkg.xyz^
-||vdoqomz.icu^
-||jypvzd.xyz^
-||ajffubz.xyz^
-||grulphaens.com^
-||zxfdbr.xyz^
-||qusrow.xyz^
-||syuwkbb.top^
-||tudxhzj.cn^
-||oweeiyw.icu^
-||vkdgdt.xyz^
-||rbfxoex.xyz^
-||gcomwx.icu^
-||szftg.cn^
-||bdpretc.cn^
-||vipgogo123.site^
-||kgdyoh.icu^
-||dtjpihv.xyz^
-||kgqcse.xyz^
-||huuocxu.icu^
-||pwbuhb.xyz^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
@@ -17216,6 +17223,7 @@ inapps.appsflyersdk.com^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
+||zxfdbr.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
@@ -21529,7 +21537,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||bm.h576.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -21819,6 +21826,7 @@ inapps.appsflyersdk.com^
 ||beijing.buzhi5.com^
 ||bhaoea.cn^
 ||bjs.faxingzhan.com^
+||bm.h576.com^
 ||bmjs.xzw.com^
 ||bt1.patexplorer.com^
 ||bu1.vvvdj.com^
