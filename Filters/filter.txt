@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-21T12:31:16.528Z
+! Last modified: 2024-04-21T18:22:00.767Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -366,9 +366,11 @@ vkcdnservice.appspot.com^
 ||1437953666.rsc.cdn77.org^
 ||1454023398.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
+||1562574750.rsc.cdn77.org^
 ||1623381916.rsc.cdn77.org^
 ||1673213558.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1693805549.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1917516666.rsc.cdn77.org^
 ||1946546359.rsc.cdn77.org^
@@ -16622,6 +16624,7 @@ inapps.appsflyersdk.com^
 ||btyhnraw653.shop^
 ||bugzmn.icu^
 ||buvdkt.icu^
+||bvrzwnq.xyz^
 ||bvtvlp.xyz^
 ||bvxiht.xyz^
 ||bweriov.top^
@@ -16772,6 +16775,7 @@ inapps.appsflyersdk.com^
 ||ha723.icu^
 ||halct.cn^
 ||hbjolp.xyz^
+||hblarn.xyz^
 ||hbxzlf.xyz^
 ||hciwyv.icu^
 ||hdtedar126.shop^
@@ -16815,6 +16819,7 @@ inapps.appsflyersdk.com^
 ||inifdlao.top^
 ||inworket.com^
 ||irayedo.cn^
+||irmbyu.xyz^
 ||ityusio.top^
 ||iummqg.xyz^
 ||ivbgpax.cn^
@@ -16864,6 +16869,7 @@ inapps.appsflyersdk.com^
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
 ||ktyusid.top^
+||kvyyyde.cn^
 ||kwqnki.xyz^
 ||kyuwkbd.top^
 ||l5kt1.icu^
@@ -17013,6 +17019,7 @@ inapps.appsflyersdk.com^
 ||qusrow.xyz^
 ||qvnbjjd.xyz^
 ||qw9cu.cyou^
+||qyuwkby.top^
 ||qzalsk.xyz^
 ||qzozsa.xyz^
 ||rarcff.xyz^
@@ -17042,6 +17049,7 @@ inapps.appsflyersdk.com^
 ||ryrmvd.xyz^
 ||rzfdbsn.cn^
 ||rzpvbl.xyz^
+||sacvmb.icu^
 ||savionl.com^
 ||sdfsad562.xyz^
 ||sdjkbcjksbdsvv.com^
@@ -17098,6 +17106,7 @@ inapps.appsflyersdk.com^
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tduenkq839.shop^
+||tgamtip.icu^
 ||tgccct.icu^
 ||tgwfaz.icu^
 ||threrlak.com^
@@ -17175,6 +17184,7 @@ inapps.appsflyersdk.com^
 ||wsdwbfs.cn^
 ||wsoqwm.xyz^
 ||wtyusie.top^
+||wubizigeng.com^
 ||wvwqywz.cn^
 ||wwjtdjj.cn^
 ||wxfdmri.xyz^
@@ -17236,14 +17246,6 @@ inapps.appsflyersdk.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||tgamtip.icu^
-||kvyyyde.cn^
-||bvrzwnq.xyz^
-||irmbyu.xyz^
-||hblarn.xyz^
-||sacvmb.icu^
-||qyuwkby.top^
-||wubizigeng.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
