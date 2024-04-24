@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-24T12:38:02.211Z
+! Last modified: 2024-04-24T18:21:06.328Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2ier523in7agz.cloudfront.net^
 ||d2bs5vtcw2lxsv.cloudfront.net^
 ||d2jsvulelid3e4.cloudfront.net^
 ||d3k2wzdv9kuerp.cloudfront.net^
@@ -6557,6 +6558,8 @@ inapps.appsflyersdk.com^
 ||templates.buscape.com^
 ||urlcash.net^
 ||yestorrents.org^
+||oecistbenton.com^
+||ilvnkzt.com^
 !
 
 !
@@ -12422,8 +12425,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 23 Apr 2024 14:24 UTC+7
-! Version: 2404231424
+! Last modified: 24 Apr 2024 22:50 UTC+7
+! Version: 2404242250
 ! Blocked: 4,204 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -16597,6 +16600,8 @@ inapps.appsflyersdk.com^
 ||88lm09.com^
 ||88lm10.com^
 ||88lm11.com^
+||88lm12.com^
+||88lm13.com^
 ||8t9he.cyou^
 ||8xtm6i.cn^
 ||999bb222ww.com^
@@ -16938,6 +16943,7 @@ inapps.appsflyersdk.com^
 ||mdhv3.icu^
 ||mdzwjra.cn^
 ||meqanhm.icu^
+||miningzhizhong.top^
 ||misjgy.xyz^
 ||mldzwmt.xyz^
 ||mlhtr.cn^
@@ -16999,6 +17005,7 @@ inapps.appsflyersdk.com^
 ||oweeiyw.icu^
 ||oxkyaq.xyz^
 ||oxvlxwz.xyz^
+||oyuwkbk.top^
 ||ozhmig.cn^
 ||p04qzl.cn^
 ||p0v2ni.cn^
@@ -17052,6 +17059,7 @@ inapps.appsflyersdk.com^
 ||qtyusiy.top^
 ||qusrow.xyz^
 ||qvnbjjd.xyz^
+||qvonje.cn^
 ||qw9cu.cyou^
 ||qyuwkby.top^
 ||qzalsk.xyz^
@@ -17104,6 +17112,7 @@ inapps.appsflyersdk.com^
 ||snalzlb.top^
 ||snifdlab.top^
 ||soffersk.com^
+||sogoks.xyz^
 ||sosakk.xyz^
 ||spsfupq.cn^
 ||srwwce.xyz^
@@ -17134,6 +17143,7 @@ inapps.appsflyersdk.com^
 ||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
+||szpxp.cn^
 ||szpzk.cn^
 ||szpzm.cn^
 ||tahznx.xyz^
@@ -17239,6 +17249,7 @@ inapps.appsflyersdk.com^
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
 ||xedpzh.xyz^
+||xfrahb.xyz^
 ||xgjidt.xyz^
 ||xhbshv.xyz^
 ||xhfxtqt.xyz^
@@ -17272,6 +17283,8 @@ inapps.appsflyersdk.com^
 ||ydrvkdni.xyz^
 ||ydwkrbg.cn^
 ||ydybwjpa.xyz^
+||yhdemu368.shop^
+||yhderd69.shop^
 ||yhqukg.xyz^
 ||ykkhihg.cn^
 ||yliffnsc.xyz^
@@ -17279,6 +17292,7 @@ inapps.appsflyersdk.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||yvwuesh.icu^
 ||ywhws.cn^
 ||yyddkm526.shop^
 ||yyttmyy.cn^
@@ -17290,16 +17304,6 @@ inapps.appsflyersdk.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||xfrahb.xyz^
-||sogoks.xyz^
-||qvonje.cn^
-||yvwuesh.icu^
-||oyuwkbk.top^
-||88lm13.com^
-||88lm12.com^
-||yhdemu368.shop^
-||yhderd69.shop^
-||szpxp.cn^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
