@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-25T12:27:00.245Z
+! Last modified: 2024-04-25T18:22:19.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6414,6 +6414,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||xad.dnoticias.pt^
 ||adclient-uol.lp.uol.com.br^
 ||adv.r7.com^
 
@@ -16667,6 +16668,7 @@ inapps.appsflyersdk.com^
 ||bzverx.xyz^
 ||bzzxyyh.xyz^
 ||c11011.com^
+||caomaotongji.com^
 ||caomeixz7.xyz^
 ||captickc.com^
 ||cbcvou.xyz^
@@ -16739,6 +16741,7 @@ inapps.appsflyersdk.com^
 ||dzdnffs.xyz^
 ||dzfzak.cn^
 ||dzuht.cn^
+||eaezoi.xyz^
 ||eaqlos.xyz^
 ||ebgwdon.cn^
 ||ebwonro.cn^
@@ -16772,12 +16775,14 @@ inapps.appsflyersdk.com^
 ||fbfrbt.xyz^
 ||fefgvh.xyz^
 ||fekpcd.icu^
+||fendeyrziz.top^
 ||ferriesendless.com^
 ||fhtfnb.xyz^
 ||fidelius.cn^
 ||fmfnrf.xyz^
 ||fmssoj.icu^
 ||fpjjjh.xyz^
+||fptbdr.xyz^
 ||fpvdrzx.xyz^
 ||fqbjzj.xyz^
 ||fqghykp.cn^
@@ -16939,6 +16944,7 @@ inapps.appsflyersdk.com^
 ||lvphbj.xyz^
 ||lwrohd.xyz^
 ||ly55442.com^
+||lyuwkbl.top^
 ||lznfuab.xyz^
 ||m1170.top^
 ||m6690.top^
@@ -17088,6 +17094,7 @@ inapps.appsflyersdk.com^
 ||rnkzhsi.cn^
 ||rnpkxgfp.xyz^
 ||rofmjd.xyz^
+||romiyee.icu^
 ||rouqiuqq.cn^
 ||rpnufv.xyz^
 ||ruqwgb.icu^
@@ -17198,11 +17205,13 @@ inapps.appsflyersdk.com^
 ||utkauo.xyz^
 ||utxmb.cn^
 ||uu22662.com^
+||uunfybw.cn^
 ||uuvzmba.cn^
 ||uxlvk.cn^
 ||uxrdg.cn^
 ||uxzvjoj.cn^
 ||uyuwkbt.top^
+||uywoynr.cn^
 ||vabzndw.cn^
 ||vaekkfv.cn^
 ||vcnpnf.xyz^
@@ -17222,6 +17231,7 @@ inapps.appsflyersdk.com^
 ||vuvnix.icu^
 ||vwyycnq.cn^
 ||vxfdepn.cn^
+||vyrpoe.cn^
 ||waouss.xyz^
 ||wbubgob.cn^
 ||wbvfj.xyz^
@@ -17307,14 +17317,6 @@ inapps.appsflyersdk.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||fptbdr.xyz^
-||uunfybw.cn^
-||eaezoi.xyz^
-||lyuwkbl.top^
-||romiyee.icu^
-||uywoynr.cn^
-||vyrpoe.cn^
-||caomaotongji.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
@@ -21311,7 +21313,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||js.shunqi.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -21830,6 +21831,7 @@ inapps.appsflyersdk.com^
 ||js.oh100.com^
 ||js.ruiwen.com^
 ||js.shangxueba.com^
+||js.shunqi.com^
 ||js.spreton.com^
 ||js.ubaike.cn^
 ||js.yanyue.cn^
