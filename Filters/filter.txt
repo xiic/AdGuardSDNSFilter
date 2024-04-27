@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-27T12:29:32.539Z
+! Last modified: 2024-04-27T18:20:25.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1054,6 +1054,7 @@ vkcdnservice.appspot.com^
 ||d32hwlnfiv2gyn.cloudfront.net^
 ||d32t6p7tldxil2.cloudfront.net^
 ||d333p98mzatwjz.cloudfront.net^
+||d335luupugsy2.cloudfront.net^
 ||d33fc9uy0cnxl9.cloudfront.net^
 ||d33gmheck9s2xl.cloudfront.net^
 ||d33nui33dvl0el.cloudfront.net^
@@ -16719,6 +16720,7 @@ inapps.appsflyersdk.com^
 ||ddielv.cn^
 ||delhirs.com^
 ||destinyssa.com^
+||dfsgppz.icu^
 ||dianassb.com^
 ||diccsbhij.com^
 ||difhil.icu^
@@ -16854,6 +16856,7 @@ inapps.appsflyersdk.com^
 ||hubgets.cn^
 ||huuocxu.icu^
 ||hvxrvef.xyz^
+||hweriou.top^
 ||hyusnisu.top^
 ||hyuwkbu.top^
 ||idffhq.cn^
@@ -16924,6 +16927,7 @@ inapps.appsflyersdk.com^
 ||ktyusid.top^
 ||kvyyyde.cn^
 ||kwqnki.xyz^
+||kyaywy.xyz^
 ||kyuwkbd.top^
 ||l5kt1.icu^
 ||lafirx.xyz^
@@ -16998,6 +17002,7 @@ inapps.appsflyersdk.com^
 ||nuhgpx.xyz^
 ||nvdtdsd.xyz^
 ||nvjqtz.xyz^
+||nwxaxx.xyz^
 ||nyt5j.cyou^
 ||o1b04.cyou^
 ||obgekjz.icu^
@@ -17058,6 +17063,7 @@ inapps.appsflyersdk.com^
 ||pxzrlf.xyz^
 ||q02orc.cn^
 ||qbhzghb.xyz^
+||qcepqj.icu^
 ||qcohkm.xyz^
 ||qcsvku.xyz^
 ||qdtzbbh.xyz^
@@ -17228,6 +17234,7 @@ inapps.appsflyersdk.com^
 ||uywoynr.cn^
 ||vabzndw.cn^
 ||vaekkfv.cn^
+||vbutycp.cn^
 ||vcnpnf.xyz^
 ||vdoqomz.icu^
 ||vdvcjlp.cn^
@@ -17332,12 +17339,6 @@ inapps.appsflyersdk.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||kyaywy.xyz^
-||vbutycp.cn^
-||nwxaxx.xyz^
-||hweriou.top^
-||dfsgppz.icu^
-||qcepqj.icu^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
