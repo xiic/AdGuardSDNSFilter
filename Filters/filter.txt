@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-26T18:22:12.702Z
+! Last modified: 2024-04-27T01:14:28.103Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16705,6 +16705,7 @@ inapps.appsflyersdk.com^
 ||cvgrszkg.xyz^
 ||cvnxetmq.xyz^
 ||cvudqzoa.xyz^
+||cweriof.top^
 ||cwssfg632.shop^
 ||cxlvlbx.xyz^
 ||cyuwkbf.top^
@@ -16770,6 +16771,7 @@ inapps.appsflyersdk.com^
 ||ersjnpwf837.shop^
 ||esqhsm.xyz^
 ||etyusiw.top^
+||ewjhic.cn^
 ||ewxufqs.cn^
 ||execuri.com^
 ||f7fe0.cyou^
@@ -16783,6 +16785,7 @@ inapps.appsflyersdk.com^
 ||fidelius.cn^
 ||fmfnrf.xyz^
 ||fmssoj.icu^
+||fmvzzh.xyz^
 ||fpjjjh.xyz^
 ||fptbdr.xyz^
 ||fpvdrzx.xyz^
@@ -16868,6 +16871,7 @@ inapps.appsflyersdk.com^
 ||iummqg.xyz^
 ||ivbgpax.cn^
 ||ivnrrkx.cn^
+||ixstng.cn^
 ||iykig.cn^
 ||iyuwkbo.top^
 ||izalflh.cn^
@@ -16898,16 +16902,19 @@ inapps.appsflyersdk.com^
 ||jypvzd.xyz^
 ||jyuwkba.top^
 ||jzjpntr.xyz^
+||kaosts.com^
 ||kbomku.xyz^
 ||kdeh.cn^
 ||kfdrc.cyou^
 ||kfpnqug.cn^
 ||kgdyoh.icu^
 ||kgqcse.xyz^
+||khcsvdc.icu^
 ||khzyojb.cn^
 ||kksjsa.top^
 ||knalzld.top^
 ||knifdlad.top^
+||knpkxgfp.xyz^
 ||koqjok.xyz^
 ||kpmose.xyz^
 ||kssolo.com^
@@ -17036,6 +17043,7 @@ inapps.appsflyersdk.com^
 ||pmtrkp.icu^
 ||pnxtnp.xyz^
 ||polepole.cn^
+||polyfill.io^
 ||pp1hl.xyz^
 ||pressit.cn^
 ||prhfziq.xyz^
@@ -17083,6 +17091,7 @@ inapps.appsflyersdk.com^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
 ||rdiono.cn^
+||retinaesprent.com^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
 ||rhzvlcu.xyz^
@@ -17095,6 +17104,7 @@ inapps.appsflyersdk.com^
 ||rndcdb.xyz^
 ||rnkzhsi.cn^
 ||rnpkxgfp.xyz^
+||rnzmynh.cn^
 ||rofmjd.xyz^
 ||romiyee.icu^
 ||rouqiuqq.cn^
@@ -17106,6 +17116,7 @@ inapps.appsflyersdk.com^
 ||rzfdbsn.cn^
 ||rzpvbl.xyz^
 ||sacvmb.icu^
+||samoryinaner.com^
 ||savionl.com^
 ||sdfsad562.xyz^
 ||sdjkbcjksbdsvv.com^
@@ -17303,6 +17314,7 @@ inapps.appsflyersdk.com^
 ||yhqukg.xyz^
 ||ykkhihg.cn^
 ||yliffnsc.xyz^
+||ymcnsq.xyz^
 ||yqlxkzs.cn^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
@@ -17319,18 +17331,11 @@ inapps.appsflyersdk.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||fmvzzh.xyz^
-||cweriof.top^
-||ymcnsq.xyz^
-||retinaesprent.com^
-||samoryinaner.com^
-||kaosts.com^
-||khcsvdc.icu^
-||knpkxgfp.xyz^
-||rnzmynh.cn^
-||ixstng.cn^
-||ewjhic.cn^
-||polyfill.io^
+||kyaywy.xyz^
+||vbutycp.cn^
+||nwxaxx.xyz^
+||hweriou.top^
+||dfsgppz.icu^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
