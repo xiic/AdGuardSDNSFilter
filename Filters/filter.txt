@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-28T12:32:35.080Z
+! Last modified: 2024-04-28T18:20:42.607Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2g6dhcga4weul.cloudfront.net^
 ||d2ier523in7agz.cloudfront.net^
 ||d2bs5vtcw2lxsv.cloudfront.net^
 ||d2jsvulelid3e4.cloudfront.net^
@@ -16883,6 +16884,7 @@ inapps.appsflyersdk.com^
 ||iummqg.xyz^
 ||ivbgpax.cn^
 ||ivnrrkx.cn^
+||iwerioo.top^
 ||ixstng.cn^
 ||iykig.cn^
 ||iyuwkbo.top^
@@ -16914,6 +16916,7 @@ inapps.appsflyersdk.com^
 ||jypvzd.xyz^
 ||jyuwkba.top^
 ||jzjpntr.xyz^
+||kalmukrattail.com^
 ||kaosts.com^
 ||kbomku.xyz^
 ||kdeh.cn^
@@ -17106,6 +17109,7 @@ inapps.appsflyersdk.com^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
 ||rdiono.cn^
+||regwiuv.cn^
 ||retinaesprent.com^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
@@ -17216,6 +17220,7 @@ inapps.appsflyersdk.com^
 ||uctutu3789.xyz^
 ||udkpcc.xyz^
 ||udykkl.cn^
+||ugtbit.icu^
 ||uigxgg.xyz^
 ||uiqcf.cn^
 ||ujovcb.cn^
@@ -17244,12 +17249,14 @@ inapps.appsflyersdk.com^
 ||vaekkfv.cn^
 ||vbutycp.cn^
 ||vcnpnf.xyz^
+||vcugbgu.cn^
 ||vdoqomz.icu^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
 ||vejhln.xyz^
 ||vfchm.cyou^
 ||vflorp.xyz^
+||vgzytn.xyz^
 ||vhvwlb.xyz^
 ||vioyugo.cn^
 ||vipgogo123.site^
@@ -17283,6 +17290,8 @@ inapps.appsflyersdk.com^
 ||wvwqywz.cn^
 ||wwjtdjj.cn^
 ||wxfdmri.xyz^
+||wxymag.xyz^
+||wymqjow.icu^
 ||wyuwkbe.top^
 ||xamssp.icu^
 ||xcypgd.icu^
@@ -17347,14 +17356,6 @@ inapps.appsflyersdk.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||vcugbgu.cn^
-||ugtbit.icu^
-||vgzytn.xyz^
-||kalmukrattail.com^
-||wxymag.xyz^
-||iwerioo.top^
-||wymqjow.icu^
-||regwiuv.cn^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
