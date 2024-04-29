@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-29T12:33:40.148Z
+! Last modified: 2024-04-29T18:22:29.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d1nug4fmv8zva9.cloudfront.net^
 ||d2g6dhcga4weul.cloudfront.net^
 ||d2ier523in7agz.cloudfront.net^
 ||d2bs5vtcw2lxsv.cloudfront.net^
@@ -365,10 +366,12 @@ vkcdnservice.appspot.com^
 ||1278977604.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
+||1564285319.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1723614251.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1954342903.rsc.cdn77.org^
+||1969301294.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -438,6 +441,7 @@ vkcdnservice.appspot.com^
 ||cdn22904910.ahacdn.me^
 ||chandrabinduad.com^
 ||chicoryapp.com^
+||cl-997764a8.gcdn.co^
 ||clarity.abacast.com^
 ||cloud.setupad.com^
 ||commercial.daznservices.com^
@@ -1046,7 +1050,6 @@ vkcdnservice.appspot.com^
 ||d32hwlnfiv2gyn.cloudfront.net^
 ||d32t6p7tldxil2.cloudfront.net^
 ||d333p98mzatwjz.cloudfront.net^
-||d335luupugsy2.cloudfront.net^
 ||d33fc9uy0cnxl9.cloudfront.net^
 ||d33gmheck9s2xl.cloudfront.net^
 ||d33otidwg56k90.cloudfront.net^
@@ -10179,7 +10182,6 @@ inapps.appsflyersdk.com^
 ||iias.eu^
 ||imo-cash.de^
 ||in24.at^
-||inethoster.org^
 ||inlinks.de^
 ||intensifier.de^
 ||iqcontentplatform.de^
@@ -16663,6 +16665,7 @@ inapps.appsflyersdk.com^
 ||bvxiht.xyz^
 ||bweriov.top^
 ||bwlcpr.xyz^
+||bwuwirv.cn^
 ||byuwkbv.top^
 ||bzverx.xyz^
 ||bzzxyyh.xyz^
@@ -16857,6 +16860,7 @@ inapps.appsflyersdk.com^
 ||idffhq.cn^
 ||ievvo.xyz^
 ||ihwlek.com^
+||ijmxco.xyz^
 ||ijvla.cn^
 ||imevzbn.cn^
 ||img8e51zy4bg.com^
@@ -16898,6 +16902,7 @@ inapps.appsflyersdk.com^
 ||jubnpx.xyz^
 ||justapp.top^
 ||jvkqkzu.cn^
+||jwerioa.top^
 ||jwhdgt.icu^
 ||jypvzd.xyz^
 ||jyuwkba.top^
@@ -17054,6 +17059,7 @@ inapps.appsflyersdk.com^
 ||pseudonym.cn^
 ||pvhjkzo.xyz^
 ||pwbuhb.xyz^
+||pwcegau.icu^
 ||pwddhc.xyz^
 ||pwhkfd.xyz^
 ||pwhtip.icu^
@@ -17136,6 +17142,7 @@ inapps.appsflyersdk.com^
 ||skdncksklsv.com^
 ||skfda5.com^
 ||slcmvgr.icu^
+||slkkbnsgn.com^
 ||smallfo.com^
 ||snalzlb.top^
 ||snifdlab.top^
@@ -17249,6 +17256,7 @@ inapps.appsflyersdk.com^
 ||vkdgdt.xyz^
 ||vmnlkr.icu^
 ||vpzohx.xyz^
+||vqbzpv.xyz^
 ||vszzzj.xyz^
 ||vuvnix.icu^
 ||vwyycnq.cn^
@@ -17326,6 +17334,7 @@ inapps.appsflyersdk.com^
 ||ykkhihg.cn^
 ||yliffnsc.xyz^
 ||ymcnsq.xyz^
+||yqdnad.icu^
 ||yqlxkzs.cn^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
@@ -17342,13 +17351,6 @@ inapps.appsflyersdk.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||vqbzpv.xyz^
-||ijmxco.xyz^
-||bwuwirv.cn^
-||yqdnad.icu^
-||jwerioa.top^
-||pwcegau.icu^
-||slkkbnsgn.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
