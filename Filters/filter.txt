@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-01T01:20:50.962Z
+! Last modified: 2024-05-01T06:24:36.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10323,8 +10323,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-04-25 07:50:51 CEST
-# entries:        1083
+# last updated:   2024-05-01 05:40:47 CEST
+# entries:        1076
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -10339,7 +10339,6 @@ inapps.appsflyersdk.com^
 ||acdn.adnxs.com^
 ||ad.impactify.io^
 ||ad.linksynergy.com^
-||ad.lkqd.net^
 ||ad.mox.tv^
 ||ad.vidverto.io^
 ||ad.yieldlab.net^
@@ -10810,7 +10809,6 @@ inapps.appsflyersdk.com^
 ||revrtb.com^
 ||richmediastudio.com^
 ||richmetrics.com^
-||rockportskorsverige.com^
 ||rotator.riedta.com^
 ||route.carambo.la^
 ||royapp.com^
@@ -10867,7 +10865,6 @@ inapps.appsflyersdk.com^
 ||services.vlitag.com^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
-||skattamindre.se^
 ||sleeknote.com^
 ||smtvn.112.2o7.net^
 ||source.advisible.com^
@@ -11021,7 +11018,6 @@ inapps.appsflyersdk.com^
 ||tracking.ht.se^
 ||tracking.illvet.se^
 ||tracking.inboxads.com^
-||tracking.jnytt.se^
 ||tracking.jp.se^
 ||tracking.kalmarposten.se^
 ||tracking.klt.nu^
@@ -11082,7 +11078,6 @@ inapps.appsflyersdk.com^
 ||umami.nordiskehandel.cloud^
 ||upsales.com^
 ||utt.impactcdn.com^
-||v.lkqd.net^
 ||valentinosverige.com^
 ||viagogo.se^
 ||viamtvse.112.2o7.net^
@@ -11125,7 +11120,6 @@ inapps.appsflyersdk.com^
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
 ||www.onclickalgo.com^
-||www.runningshoessverige.com^
 ||www.stadiumstage.com^
 ||www.statcounter.com^
 ||www.tamgrt.com^
@@ -11134,7 +11128,6 @@ inapps.appsflyersdk.com^
 ||www.vejasskor.com^
 ||www.datadoghq-browser-agent.com^
 ||www.gymshark-sweden.com.se^
-||www.gym-sharksweden.com^
 ||z.moatads.com^
 
 !
