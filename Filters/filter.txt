@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-01T12:33:39.819Z
+! Last modified: 2024-05-01T18:22:54.265Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -363,6 +363,7 @@ vkcdnservice.appspot.com^
 ||1085549509.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1175980934.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1201741305.rsc.cdn77.org^
 ||1278977604.rsc.cdn77.org^
@@ -371,6 +372,7 @@ vkcdnservice.appspot.com^
 ||1441085683.rsc.cdn77.org^
 ||1492697327.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
+||1543481067.rsc.cdn77.org^
 ||1564285319.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1723614251.rsc.cdn77.org^
@@ -2132,6 +2134,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||appsrv.display.io^
 ||ad.line-scdn.net^
 ||splash-ad.classting.com^
 ||ad-files.classting.com^
@@ -16715,6 +16718,7 @@ inapps.appsflyersdk.com^
 ||cfugrnc.icu^
 ||chayassa.com^
 ||cherylssb.com^
+||chinaslauras.com^
 ||cijianggun.com^
 ||cliffnsc.xyz^
 ||clmkwi.xyz^
@@ -16735,6 +16739,7 @@ inapps.appsflyersdk.com^
 ||cvnxetmq.xyz^
 ||cvudqzoa.xyz^
 ||cweriof.top^
+||cwiuhtp.icu^
 ||cwssfg632.shop^
 ||cxlvlbx.xyz^
 ||cyuwkbf.top^
@@ -16815,6 +16820,7 @@ inapps.appsflyersdk.com^
 ||ferriesendless.com^
 ||fhtfnb.xyz^
 ||fidelius.cn^
+||fkhxlz.xyz^
 ||fmfnrf.xyz^
 ||fmssoj.icu^
 ||fmvzzh.xyz^
@@ -16836,6 +16842,7 @@ inapps.appsflyersdk.com^
 ||gcumgu.xyz^
 ||gfjn5.xyz^
 ||gfylyw.xyz^
+||ghabnq.xyz^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
@@ -16888,6 +16895,7 @@ inapps.appsflyersdk.com^
 ||hweriou.top^
 ||hyusnisu.top^
 ||hyuwkbu.top^
+||icqeou.xyz^
 ||idffhq.cn^
 ||ievvo.xyz^
 ||ihwlek.com^
@@ -16922,6 +16930,7 @@ inapps.appsflyersdk.com^
 ||jgmywh.icu^
 ||jhfcll.cn^
 ||jioed.cyou^
+||jivvjl.xyz^
 ||jmesxbe.icu^
 ||jnalzla.top^
 ||jnifdlaa.top^
@@ -16954,6 +16963,7 @@ inapps.appsflyersdk.com^
 ||knifdlad.top^
 ||knpkxgfp.xyz^
 ||koqjok.xyz^
+||kovvild.com^
 ||kpmose.xyz^
 ||kssolo.com^
 ||ktoioo.xyz^
@@ -17190,6 +17200,7 @@ inapps.appsflyersdk.com^
 ||styusib.top^
 ||superjj.online^
 ||svncowt.cn^
+||sweriob.top^
 ||swsegi.xyz^
 ||syiwgwsqwngrdw.xyz^
 ||syuwkbb.top^
@@ -17291,6 +17302,7 @@ inapps.appsflyersdk.com^
 ||vioyugo.cn^
 ||vipgogo123.site^
 ||vkdgdt.xyz^
+||vkguvyg.cn^
 ||vmnlkr.icu^
 ||vpzohx.xyz^
 ||vqbzpv.xyz^
@@ -17389,12 +17401,6 @@ inapps.appsflyersdk.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||icqeou.xyz^
-||cwiuhtp.icu^
-||vkguvyg.cn^
-||chinaslauras.com^
-||jivvjl.xyz^
-||sweriob.top^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
@@ -17403,9 +17409,6 @@ inapps.appsflyersdk.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
-||kovvild.com^
-||fkhxlz.xyz^
-||ghabnq.xyz^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
