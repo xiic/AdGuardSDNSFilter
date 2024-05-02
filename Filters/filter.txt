@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-02T06:23:15.296Z
+! Last modified: 2024-05-02T12:33:36.728Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2134,6 +2134,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||cdn-ad.wtzw.com^
 ||appsrv.display.io^
 ||ad.line-scdn.net^
 ||splash-ad.classting.com^
@@ -3041,6 +3042,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log-verify.mob.com^
 ||app-analytics-services.com^
 ||sg.log.ulivetv.net^
 ||kr-col-ext.nelo.navercorp.com^
@@ -9048,6 +9050,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||gr.hdream.cfd^
 ||gamescdnfor.com^
 ||kriptoparahaber.care^
 ||alty.fun^
@@ -9680,6 +9683,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||adserv2.suumo.jp^
 ||ad.woman.mynavi.jp^
 ||shop.vapelog.jp^
 ||s-ad.rmp.rakuten.co.jp^
