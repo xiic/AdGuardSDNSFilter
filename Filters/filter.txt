@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-02T18:23:01.537Z
+! Last modified: 2024-05-03T01:18:37.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3808,6 +3808,7 @@ inapps.appsflyersdk.com^
 ||awesome.section.io^
 ||ax.babe.today^
 ||axislogger.appspot.com^
+||az.nzn.io^
 ||az693360.vo.msecnd.net^
 ||b.bedop.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
@@ -3890,7 +3891,6 @@ inapps.appsflyersdk.com^
 ||cltgtstor001.blob.core.windows.net^
 ||cnt.3dmy.net^
 ||cnt.mastorage.net^
-||cnt.trvdp.com^
 ||cod.bitrec.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
@@ -4319,6 +4319,7 @@ inapps.appsflyersdk.com^
 ||pixel.yola.com^
 ||pixels.afcdn.com^
 ||pl.connatix.com^
+||pla.fwdcdn.com^
 ||platform.iteratehq.com^
 ||plausibleio.workers.dev^
 ||play.adtonos.com^
@@ -4604,6 +4605,7 @@ inapps.appsflyersdk.com^
 ||track.yfret.com^
 ||track.yieldsoftware.com^
 ||tracker-dot-optimeeze.appspot.com^
+||tracker-v4.gamedock.io^
 ||tracker.affirm.com^
 ||tracker.arc.io^
 ||tracker.beezup.com^
@@ -5661,7 +5663,6 @@ inapps.appsflyersdk.com^
 ||marktest.pt^
 ||percycle.com^
 ||pmweb.com.br^
-||premiumads.com.br^
 ||retargeter.com.br^
 ||sambaads.com^
 ||shoptarget.com.br^
@@ -6490,6 +6491,7 @@ inapps.appsflyersdk.com^
 ||oahaurti.com^
 ||ymonetize.com^
 ||phoenix-widget.com^
+||premiumads.com.br^
 ||subdo.torrentrapid.com^
 ||sunmedia.tv^
 ||lzrikate.com^
@@ -10948,7 +10950,6 @@ inapps.appsflyersdk.com^
 ||track.uniqodo.com^
 ||track.yetric.app^
 ||tracker.zummycloud.com^
-||tracker-v4.gamedock.io^
 ||tracker.kollega.open-analytics.se^
 ||tracker.kulturradet.open-analytics.se^
 ||tracker.lakemedelsverket.open-analytics.se^
@@ -17421,6 +17422,10 @@ inapps.appsflyersdk.com^
 ||eweriow.top^
 ||udxhzqg.cn^
 ||pqzjki.cn^
+||fluxy.cn^
+||onosyej.icu^
+||gamdus.xyz^
+||rczudr.xyz^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
