@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-05T12:31:17.399Z
+! Last modified: 2024-05-05T18:20:59.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -376,6 +376,7 @@ vkcdnservice.appspot.com^
 ||1492697327.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1543481067.rsc.cdn77.org^
+||1548164934.rsc.cdn77.org^
 ||1564285319.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1723614251.rsc.cdn77.org^
@@ -828,6 +829,7 @@ vkcdnservice.appspot.com^
 ||d219kvfj8xp5vh.cloudfront.net^
 ||d21f25e9uvddd7.cloudfront.net^
 ||d21m5j4ptsok5u.cloudfront.net^
+||d21rpkgy8pahcu.cloudfront.net^
 ||d21rudljp9n1rr.cloudfront.net^
 ||d223xrf0cqrzzz.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
@@ -11576,8 +11578,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 May 2024 23:31 UTC+7
-! Version: 2405042331
+! Last modified: 05 May 2024 22:02 UTC+7
+! Version: 2405052202
 ! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -12444,8 +12446,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 04 May 2024 23:32 UTC+7
-! Version: 2405042332
+! Last modified: 05 May 2024 22:03 UTC+7
+! Version: 2405052203
 ! Blocked: 4,265 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
