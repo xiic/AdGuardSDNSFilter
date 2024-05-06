@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-05T18:20:59.299Z
+! Last modified: 2024-05-06T01:17:50.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -511,6 +511,7 @@ vkcdnservice.appspot.com^
 ||partners.rochen.com^
 ||pb.s3wfg.com^
 ||pics.firstload.de^
+||pips.taboola.com^
 ||plchldr.co^
 ||popmog.com^
 ||pr.costaction.com^
@@ -4123,6 +4124,7 @@ inapps.appsflyersdk.com^
 ||hits.dealer.com^
 ||hits.getelevar.com^
 ||hits.informer.com^
+||hk-trc-events.taboola.com^
 ||hktracker.hankookilbo.com^
 ||hm.baidu.com^
 ||hpr.outbrain.com^
@@ -16642,6 +16644,10 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||hty9m.cn^
+||hgfutf.xyz^
+||yxgqgq.xyz^
+||sxoejoc.icu^
 ||0322cfmtl.cc^
 ||0940088.com^
 ||0j775d.cn^
@@ -16665,6 +16671,7 @@ inapps.appsflyersdk.com^
 ||4wu3gf.cn^
 ||51hir.cyou^
 ||555bbb333bbb.com^
+||555bbb555www.com^
 ||5z0d3.cyou^
 ||666bbb222www.com^
 ||666bbb333bbb.com^
@@ -16720,6 +16727,7 @@ inapps.appsflyersdk.com^
 ||bdxpdz.xyz^
 ||benpsbp.com^
 ||beyers.cn^
+||bgidskiv.top^
 ||bijiangqing.com^
 ||bjswhpy.cn^
 ||bjxfnn.xyz^
@@ -16772,6 +16780,7 @@ inapps.appsflyersdk.com^
 ||cnifdlaf.top^
 ||cnvmhzt.cn^
 ||computel.cn^
+||cooann.top^
 ||costarg.com^
 ||cowm199.com^
 ||cqisam.xyz^
@@ -16799,6 +16808,7 @@ inapps.appsflyersdk.com^
 ||ddielv.cn^
 ||delhirs.com^
 ||destinyssa.com^
+||dflkndkzf.com^
 ||dfsgppz.icu^
 ||dianassb.com^
 ||diccsbhij.com^
@@ -17010,6 +17020,7 @@ inapps.appsflyersdk.com^
 ||kgqcse.xyz^
 ||khcsvdc.icu^
 ||khzyojb.cn^
+||kkjhgfds.top^
 ||kksjsa.top^
 ||knalzld.top^
 ||knifdlad.top^
@@ -17062,12 +17073,14 @@ inapps.appsflyersdk.com^
 ||m6j37.xyz^
 ||mdhv3.icu^
 ||mdzwjra.cn^
+||mepupr486.top^
 ||meqanhm.icu^
 ||mercor.cn^
 ||miningzhizhong.top^
 ||misjgy.xyz^
 ||mldzwmt.xyz^
 ||mlhtr.cn^
+||mlicci.xyz^
 ||mmo2350.top^
 ||mnifdlax.top^
 ||moberg.cn^
@@ -17315,6 +17328,7 @@ inapps.appsflyersdk.com^
 ||tu2024020388.com^
 ||tudxhzj.cn^
 ||tuky889900.com^
+||twerioi.top^
 ||tyodot.icu^
 ||tyuwkbi.top^
 ||tyzfoej.cn^
@@ -17465,6 +17479,7 @@ inapps.appsflyersdk.com^
 ||zailgrae.com^
 ||zekzoh.icu^
 ||zeqvqb.icu^
+||zeuqmpe.icu^
 ||zfzys.top^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
@@ -17477,20 +17492,11 @@ inapps.appsflyersdk.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
-||zxqiwe.cn^
-||zwdtvx.xyz^
-||zeuqmpe.icu^
-||twerioi.top^
-||mlicci.xyz^
-||bgidskiv.top^
-||dflkndkzf.com^
-||mepupr486.top^
-||cooann.top^
-||555bbb555www.com^
-||kkjhgfds.top^
 ||zuvbzl.xyz^
+||zwdtvx.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
+||zxqiwe.cn^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
