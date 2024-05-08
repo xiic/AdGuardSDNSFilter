@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-08T01:03:54.143Z
+! Last modified: 2024-05-08T06:20:43.580Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6464,6 +6464,7 @@ inapps.appsflyersdk.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||assets.etus.digital^
 ||ncwabgl.com^
 ||lyappreciat.info^
 ||oilierelixir.com^
@@ -11596,9 +11597,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 May 2024 09:54 UTC+7
-! Version: 2405070954
-! Blocked: 870 rules
+! Last modified: 08 May 2024 10:48 UTC+7
+! Version: 2405081048
+! Blocked: 872 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12210,9 +12211,11 @@ inapps.appsflyersdk.com^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baolaocai.vn^
 ||log.baomoi.com^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
+||log.baovanhoa.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
 ||log.bizlive.vn^
@@ -12464,8 +12467,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 07 May 2024 09:54 UTC+7
-! Version: 2405070954
+! Last modified: 08 May 2024 10:48 UTC+7
+! Version: 2405081048
 ! Blocked: 4,266 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
