@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-13T06:25:07.837Z
+! Last modified: 2024-05-13T12:34:22.414Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9087,7 +9087,6 @@ inapps.appsflyersdk.com^
 !
 ||yonderdim.com^
 ||gr.hdream.cfd^
-||gamescdnfor.com^
 ||kriptoparahaber.care^
 ||alty.fun^
 ||hemenindir.to^
@@ -9098,7 +9097,6 @@ inapps.appsflyersdk.com^
 ||finvest.care^
 ||winaffiliates1.com^
 ||pigeoon.com^
-||peppaping.xyz^
 ||trkwinaff13.com^
 ||adsby.io^
 ||ads724.com^
@@ -9109,24 +9107,17 @@ inapps.appsflyersdk.com^
 ||apptospace.com^
 ://sportframe*.co^
 ||aybereklam.com^
-||noahilum.net^
 ||publisher-network.com^
-||glizauvo.net^
-||gaiphaud.xyz^
 ||dzypro.xyz^
 ://sportframe*.org^
 ||storj.cloud^
 ||clbanners9.com^
 ||my.urdreama.cfd^
 ||referans.xyz^
-||friendshipmale.com^
-||gloaphoo.net^
 ||diken.xyz^
-||realhumandeals.com^
 ||likevertising.com^
 ||reklamdor.com^
 ||pophit.net^
-||cplayer.pw^
 ://r.reklam*.com^
 ://say.ac^
 ||venediktaciri.com^
@@ -9147,7 +9138,6 @@ inapps.appsflyersdk.com^
 ||adhouse.pro^
 ||adimage.media^
 ||adl.mynetreklam.com^
-||admatic.com.tr^
 ||adnamo.net^
 ||adnatro.com^
 ||adnexio.com^
@@ -9160,7 +9150,6 @@ inapps.appsflyersdk.com^
 ||adrttt.com^
 ||ads.dogusdigital.com^
 ||ads.web.tr^
-||adtarget.com.tr^
 ||advancenative.com^
 ||advoly.com^
 ||adzbaba.com^
@@ -9172,7 +9161,6 @@ inapps.appsflyersdk.com^
 ||artemisaffiliates.com^
 ||aspartos.com^
 ||bahisciler.co^
-||bambarmedia.com^
 ||basvformu*.xyz^
 ||bcvc.mobi^
 ||betburdaaffiliates.com^
@@ -9197,11 +9185,9 @@ inapps.appsflyersdk.com^
 ||finema.net^
 ||fvbaffiliate.com^
 ||genelajans.com^
-||glixaing.com^
 ||gmgreklam.com^
 ||gorselcdn.com^
 ||gorselpanel.com^
-||hetaruvg.com^
 ||htpanel.com^
 ||indirads.org^
 ||inegolreklam.net^
@@ -9212,23 +9198,18 @@ inapps.appsflyersdk.com^
 ||ivr.com.tr^
 ||iyisayfa.net^
 ||kalitereklam.com^
-||kingads.mobi^
 ||kurulum.xyz^
 ||launchingonsetwhirlwind.com^
 ||load.sumome.com^
 ||makroo.com^
-||mediapeartree.com^
 ||metrics34.com^
 ||minireklam.com^
 ||mkazanc.com^
 ||mobilpop.com^
 ||mobilup.com^
 ||mp.subservis.com^
-||mynativeads.com^
 ||n69adserv.com^
 ||nativendo.com^
-||nativespot.com^
-||networkad.net^
 ||noxaffiliates.com^
 ||numarapaneli.com^
 ||nutga.com^
@@ -9253,19 +9234,16 @@ inapps.appsflyersdk.com^
 ||reklamtrk.com^
 ||reviveservers.com^
 ||revotas.com^
-||salutationcheerlessdemote.com^
 ||savoy.storage.cubecdn.net^
 ||segmentify.com^
 ||seldos.com.tr^
 ||sinefilmizlesen.com^
 ||smrtbnr.com^
 ||smrtbnr.info^
-||stairtuy.com^
 ||static-ads.akamaized.net^
 ||sw1block.com^
 ||tarpitbar.com^
 ||theadx.com^
-||tidint.pro^
 ||trackocean.com^
 ||uzmanreklam.com^
 ||vegabet.net^
@@ -9273,14 +9251,12 @@ inapps.appsflyersdk.com^
 ||vitrinler3.com^
 ||whatsappsohbetim.net^
 ||winaffiliates.com^
-||wlgtaffiliates.eacdn.com^
 ||wonoddgiris.com^
 ||xmtrk.com^
 ||yedimedia.net^
 ||yfzbn.com^
 ||youtubesave.org^
 ||youtubex.top^
-||yx-ads6.com^
 
 !
 ! Source name: AdGuard Turkish filter ad servers first-party
@@ -11459,6 +11435,7 @@ inapps.appsflyersdk.com^
 ||webiklan.com^
 ||weblogiklan.com^
 ||yesads.com^
+||yx-ads6.com^
 ! Potential ad servers
 ||05ee3a24ed11df058c8.com^
 ||1b969cef84d93b43.com^
