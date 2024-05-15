@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-15T12:35:32.641Z
+! Last modified: 2024-05-15T18:23:13.455Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9087,6 +9087,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ad-service.shop^
 ||yonderdim.com^
 ||gr.hdream.cfd^
 ||kriptoparahaber.care^
@@ -10070,6 +10071,7 @@ inapps.appsflyersdk.com^
 ||bd742.com^
 ||cdu-offline.de^
 ||dierussensindschuld.de^
+||fantecio.com^
 ||gayads.biz^
 ||gema-online.de^
 ||holyjesus.de^
@@ -10077,6 +10079,7 @@ inapps.appsflyersdk.com^
 ||swissadserver.ch^
 ||wirverkaufennichts.de^
 ||wixnm.com^
+||zazufi.com^
 !
 ||4rm.de^
 ||a.partner-versicherung.de^
@@ -10329,7 +10332,6 @@ inapps.appsflyersdk.com^
 ||youspacko.com^
 ||z0a.de^
 ||za-ads.de^
-||zazufi.com^
 ||zieltracker.de^
 ||zuppelzockt.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
