@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-15T01:18:43.727Z
+! Last modified: 2024-05-15T06:24:05.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10344,8 +10344,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-05-01 05:40:47 CEST
-# entries:        1076
+# last updated:   2024-05-15 08:11:09 CEST
+# entries:        1077
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11136,6 +11136,7 @@ inapps.appsflyersdk.com^
 ||www.dwin2.com^
 ||www.effectivecreativeformat.com^
 ||www.fakturino.se^
+||www.filasverigese.com^
 ||www.guesssverige.com.se^
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
@@ -11583,9 +11584,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 May 2024 22:45 UTC+7
-! Version: 2405122245
-! Blocked: 874 rules
+! Last modified: 15 May 2024 09:53 UTC+7
+! Version: 2405150953
+! Blocked: 881 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -11652,13 +11653,18 @@ inapps.appsflyersdk.com^
 ||anymind360-com.cdn.ampproject.org^
 ||anymind360.com^
 ||api.nas.nct.vn^
+||api.subiz.com.vn^
+||api.subiz.net^
+||api.subiz.xyz^
 ||api.widget.zalo.me^
 ||apilog.mytvnet.vn^
 ||apilogduration.mytvnet.vn^
 ||apinas.nct.vn^
+||apiv4.subiz.com^
 ||app.harafunnel.com^
 ||app.haraloyalty.com^
 ||app.harasocial.com^
+||app.subiz.com.vn^
 ||apps.haraads.com^
 ||assets.harafunnel.com^
 ||atdnetwork.com^
@@ -11814,6 +11820,7 @@ inapps.appsflyersdk.com^
 ||promotionbar.sapoapps.vn^
 ||promotionpopup.sapoapps.vn^
 ||pub.akadigital.vn^
+||public-gcs.subiz-cdn.com^
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
@@ -11848,6 +11855,7 @@ inapps.appsflyersdk.com^
 ||static-addtoany-com.cdn.ampproject.org^
 ||static-ads.zaloapp.com^
 ||static.accesstrade.vn^
+||static.subiz.com^
 ||statistic-blog-v2.sapoapps.vn^
 ||stats.dev.zaloapp.com^
 ||stats.hara.vn^
@@ -11856,11 +11864,6 @@ inapps.appsflyersdk.com^
 ||stats.stg.zaloapp.com^
 ||stats.zaloapp.com^
 ||stc-support-app-brand.zdn.vn^
-||subiz-cdn.com^
-||subiz.com^
-||subiz.com.vn^
-||subiz.net^
-||subiz.xyz^
 ||surfcountor.com^
 ||syndication.adlinknetwork.vn^
 ||t.sieu-viet.com^
@@ -11895,6 +11898,7 @@ inapps.appsflyersdk.com^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
 ||vads.vn^
+||vcdn.subiz-cdn.com^
 ||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
@@ -11906,6 +11910,10 @@ inapps.appsflyersdk.com^
 ||watanet.work^
 ||wg.zaloapp.com^
 ||widget.chat.zalo.me^
+||widget.subiz.com^
+||widget.subiz.net^
+||widget.subiz.xyz^
+||widgetv4.subiz.com^
 ||wiinvent.com.vn^
 ||wiinvent.tv^
 ||yeah1publishing.com^
@@ -12455,9 +12463,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 May 2024 22:46 UTC+7
-! Version: 2405122246
-! Blocked: 4,281 rules
+! Last modified: 15 May 2024 09:54 UTC+7
+! Version: 2405150954
+! Blocked: 4,282 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12530,6 +12538,7 @@ inapps.appsflyersdk.com^
 ||9g5lm9.cyou^
 ||9smomo.com^
 ||Free-4paid.com^
+||a.viethu.com^
 ||a666.vn^
 ||aaeeonmart.com^
 ||abb-vnbank.cc^
@@ -17591,6 +17600,8 @@ inapps.appsflyersdk.com^
 ||vfxrpl.xyz^
 ||hgcgnfe.icu^
 ||07dy.cc^
+||nuxwlc.cn^
+||ta20k.xyz^
 ||bpxbzps.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
