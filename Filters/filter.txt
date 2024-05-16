@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-15T18:23:13.455Z
+! Last modified: 2024-05-16T01:18:22.882Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5041,6 +5041,7 @@ inapps.appsflyersdk.com^
 ||counter-kostenlos.info^
 ||counter-kostenlos.net^
 ||counter-treff.de^
+||counter-zaehler.de^
 ||counter.de^
 ||counter27.ch^
 ||countercity.net^
@@ -5078,6 +5079,7 @@ inapps.appsflyersdk.com^
 ||eurocounter.com^
 ||exapxl.de^
 ||faibl.org^
+||fast-counter.net^
 ||fastcounter.de^
 ||fixcounter.com^
 ||free-counters.net^
@@ -5976,6 +5978,7 @@ inapps.appsflyersdk.com^
 ||trecker.aklamio.com^
 ||vtrtl.de^
 ||webcounter.goweb.de^
+||wranalytics.wildrocket.io^
 ||x.bloggurat.net^
 ||zs.dhl.de^
 ||abs.proxistore.com^
@@ -17606,6 +17609,11 @@ inapps.appsflyersdk.com^
 ||ta20k.xyz^
 ||awunkse72.shop^
 ||cergbtb36.shop^
+||gaochen12.top^
+||azsqkrc.icu^
+||wgidskie.top^
+||bqnxff.xyz^
+||wacisi.xyz^
 ||bpxbzps.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
