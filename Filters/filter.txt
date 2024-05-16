@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-16T06:21:22.118Z
+! Last modified: 2024-05-16T12:34:44.946Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4151,6 +4151,7 @@ inapps.appsflyersdk.com^
 ||icu.getstorybox.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||identification.hotmart.com^
+||ihi.flowplayer.com^
 ||imp.constantcontact.com^
 ||imp.pvnsolutions.com^
 ||impress.vcita.com^
@@ -4623,6 +4624,7 @@ inapps.appsflyersdk.com^
 ||track.td3x.com^
 ||track.untd.com^
 ||track.uppromote.com^
+||track.us.org^
 ||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
@@ -6135,6 +6137,7 @@ inapps.appsflyersdk.com^
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
 ! Georgian
+||analytics.palitra.ge^
 ||links.boom.ge^
 ||stats-real-clients.zentech.gr^
 ||heartbeat.pmd.444.hu^
@@ -6384,7 +6387,6 @@ inapps.appsflyersdk.com^
 ||wl-analytics.tsp.li^
 ||hits.tf.rs^
 ||moa.mediaoutcast.com^
-! Slovak
 ||stat.ringier.sk^
 ! Slovene
 ! Spanish
