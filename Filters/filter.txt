@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-16T18:21:43.449Z
+! Last modified: 2024-05-17T01:18:27.049Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d31uxzurj3z4fa.cloudfront.net^
 ||dre81lzpy0s7q.cloudfront.net^
 ||d1nug4fmv8zva9.cloudfront.net^
 ||d2g6dhcga4weul.cloudfront.net^
@@ -390,9 +391,11 @@ vkcdnservice.appspot.com^
 ||1736253261.rsc.cdn77.org^
 ||1759123620.rsc.cdn77.org^
 ||1770542895.rsc.cdn77.org^
+||1933201447.rsc.cdn77.org^
 ||1954342903.rsc.cdn77.org^
 ||1957648849.rsc.cdn77.org^
 ||1969301294.rsc.cdn77.org^
+||1998469069.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -479,6 +482,7 @@ vkcdnservice.appspot.com^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
 ||findcouponspromos.com^
+||fp27ee.wac.systemcdn.net^
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
 ||get.paradise8.com^
@@ -17623,6 +17627,13 @@ inapps.appsflyersdk.com^
 ||mgidskix.top^
 ||sfkldbkldgdgh.com^
 ||ssestherssa.com^
+||nclljn.xyz^
+||imawwq.xyz^
+||qgidskiy.top^
+||txmeeqz.icu^
+||ilvqyya.cn^
+||88tm6.cc^
+||jgntjtyf.icu^
 ||hphvd.cn^
 ||bpxbzps.xyz^
 ||zuvbzl.xyz^
