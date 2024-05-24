@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-24T06:25:25.681Z
+! Last modified: 2024-05-24T12:34:26.454Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -494,6 +494,7 @@ vkcdnservice.appspot.com^
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hotwire-widget.dailywire.com^
+||inbound-step.heavenmedia.com^
 ||inrdeals.com^
 ||join.megaphonetv.com^
 ||js.manga1001.win^
@@ -6640,6 +6641,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||lzbgeg.com^
 ||bestssrv.com^
 ||v.strosin.biz^
 ||tzbirdcod.com^
@@ -16692,6 +16694,7 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||wqzmed.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -17706,6 +17709,7 @@ inapps.appsflyersdk.com^
 ||jsyliea.top^
 ||usmgoxe.cn^
 ||369bgrec.top^
+||l7u3kf.cn^
 ||zhengzhou12.top^
 ||fklgndklbngg.com^
 ||zhihucloud.xyz^
