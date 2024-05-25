@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-25T06:25:18.861Z
+! Last modified: 2024-05-25T12:32:39.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -553,6 +553,7 @@ vkcdnservice.appspot.com^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
 ||tag.regieci.com^
+||tags.profitsence.com^
 ||targeting.vdo.ai^
 ||tcadserver.rain-digital.ca^
 ||ti.tradetracker.net^
@@ -9378,6 +9379,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||adleap.jp^
 ||ad.unique1static.jp^
 ||bance.jp^
 ||appdraft.link^
@@ -16700,6 +16702,10 @@ inapps.appsflyersdk.com^
 ||ieapak.xyz^
 ||piksrie.icu^
 ||rbrmhz.xyz^
+||aogk88.asia^
+||ksylied.top^
+||cai75tp.com^
+||enviousinevitable.com^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -21338,6 +21344,7 @@ inapps.appsflyersdk.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
+||d3d7a0q05k6bvz.cloudfront.net^
 ||06789.xyz^
 ||3p8801.co^
 ||6651tp.com^
