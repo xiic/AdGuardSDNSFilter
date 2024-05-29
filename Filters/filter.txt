@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-29T06:25:13.686Z
+! Last modified: 2024-05-29T12:35:11.291Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1488,6 +1488,7 @@ vkcdnservice.appspot.com^
 ||adcell.de^
 ||adextrem.com^
 ||ads-adv.top^
+||adsarcade.com^
 ||adsession.com^
 ||adsgangsta.com^
 ||adshnk.com^
@@ -2667,7 +2668,6 @@ vkcdnservice.appspot.com^
 ||advertising.com^
 ||advertur.ru^
 ||advombat.ru^
-||adwods.com^
 ||adz.mobi^
 ||adzerk.net^
 ||adzmobi.com^
@@ -2811,7 +2811,6 @@ vkcdnservice.appspot.com^
 ||mobile333.com^
 ||mobilecore.com^
 ||mobiledl.adboe.com^
-||mobon.com^
 ||mofox.com^
 ||mtburn.com^
 ||mtburn.jp^
@@ -6147,9 +6146,11 @@ inapps.appsflyersdk.com^
 ||adcalls.nl^
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
+||ct.beslist.nl^
 ||dmtgo.upc.biz^
 ||go.planetnine.com^
 ||hottraffic.nl^
+||navigator-analytics.tweakwise.com^
 ||rmgdapfnccsharpprd.azurewebsites.net^
 ||sp.dpgmedia.net^
 ||stat.24liveplus.com^
@@ -9143,23 +9144,19 @@ inapps.appsflyersdk.com^
 ||ad*.bilgin.pro^
 ||ad*.tmgrup.com.tr^
 ||ad.donanimhaber.com^
-||ad.eglenced.com^
 ||ad.reyazilim.com^
 ||ad.setrowid.com^
 ||adbetnetwork.com^
 ||adbreak.cubecdn.net^
 ||adbreak.net^
-||adcater.com^
 ||add.f5haber.com^
 ||adeko.mobi^
 ||adfor.io^
 ||adhouse.cubecdn.net^
 ||adhouse.pro^
-||adimage.media^
 ||adl.mynetreklam.com^
 ||adnamo.net^
 ||adnatro.com^
-||adnexio.com^
 ||adnsafe.net^
 ||adon.io^
 ||adpozitif.com^
@@ -9169,8 +9166,6 @@ inapps.appsflyersdk.com^
 ||adrttt.com^
 ||ads.dogusdigital.com^
 ||ads.web.tr^
-||advancenative.com^
-||advoly.com^
 ||adzbaba.com^
 ||affiliateserver.hangikredi.com^
 ||afyonturkreklam.com^
@@ -9179,15 +9174,11 @@ inapps.appsflyersdk.com^
 ||ariyayin.com^
 ||artemisaffiliates.com^
 ||aspartos.com^
-||bahisciler.co^
 ||basvformu*.xyz^
 ||bcvc.mobi^
-||betburdaaffiliates.com^
 ||betendads.com^
 ||betkanyon100.com^
 ||betwinnerpromo.com^
-||bilink.xyz^
-||binaryad.com^
 ||bo.facesbet.com^
 ||bwcdn.xyz^
 ||bwtsrv.com^
@@ -9198,10 +9189,7 @@ inapps.appsflyersdk.com^
 ||d1d8vn0fpluuz7.cloudfront.net^
 ||dogus-ads-cdn.dygdigital.com^
 ||dolarkurum.com^
-||downads.com^
 ||files.pbgiris.com^
-||finema-net.cdn.ampproject.org^
-||finema.net^
 ||fvbaffiliate.com^
 ||genelajans.com^
 ||gmgreklam.com^
@@ -9225,7 +9213,6 @@ inapps.appsflyersdk.com^
 ||minireklam.com^
 ||mkazanc.com^
 ||mobilpop.com^
-||mobilup.com^
 ||mp.subservis.com^
 ||n69adserv.com^
 ||nativendo.com^
@@ -9235,7 +9222,6 @@ inapps.appsflyersdk.com^
 ||partner.superbahisaffiliates*.com^
 ||partners.betbooaffiliates.com^
 ||partnerx.bethub.io^
-||performancenative.com^
 ||permato.com^
 ||piaads.com^
 ||pmelon.com^
@@ -9250,9 +9236,7 @@ inapps.appsflyersdk.com^
 ||reklamnative.com^
 ||reklamstore.com^
 ||reklamstore.cubecdn.net^
-||reklamtrk.com^
 ||reviveservers.com^
-||revotas.com^
 ||savoy.storage.cubecdn.net^
 ||segmentify.com^
 ||seldos.com.tr^
@@ -9260,20 +9244,14 @@ inapps.appsflyersdk.com^
 ||smrtbnr.com^
 ||smrtbnr.info^
 ||static-ads.akamaized.net^
-||sw1block.com^
-||tarpitbar.com^
 ||theadx.com^
 ||trackocean.com^
-||uzmanreklam.com^
 ||vegabet.net^
 ||virgul.com^
 ||vitrinler3.com^
-||whatsappsohbetim.net^
 ||winaffiliates.com^
 ||wonoddgiris.com^
-||xmtrk.com^
 ||yedimedia.net^
-||yfzbn.com^
 ||youtubesave.org^
 ||youtubex.top^
 
@@ -9691,7 +9669,8 @@ inapps.appsflyersdk.com^
 ||adingo.jp.eimg.jp^
 ||adm.shinobi.jp^
 ||adntokyo.gunosy.com^
-||affiliate.rakuten.co.jp^
+||static.affiliate.rakuten.co.jp^
+||xml.affiliate.rakuten.co.jp^
 ||aimg.fc2.com^
 ||bar*.shinobi.jp^
 ||hb.afl.rakuten.co.jp^
