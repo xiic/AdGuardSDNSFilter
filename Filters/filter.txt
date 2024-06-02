@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-02T01:24:57.880Z
+! Last modified: 2024-06-02T06:25:19.424Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1583,7 +1583,6 @@ vkcdnservice.appspot.com^
 ||fncash.com^
 ||fncnet1.com^
 ||freakads.com^
-||freevideos24h.com^
 ||freewebfonts.org^
 ||frestacero.com^
 ||frivol-ads.com^
@@ -1722,7 +1721,6 @@ vkcdnservice.appspot.com^
 ||ordermc.com^
 ||otaserve.net^
 ||otherprofit.com^
-||ouslayer.co^
 ||outster.com^
 ||oxcluster.com^
 ||ozelmedikal.com^
@@ -1766,7 +1764,6 @@ vkcdnservice.appspot.com^
 ||privateseiten.net^
 ||privatewebseiten.com^
 ||prmobiles.com^
-||profistats.net^
 ||program3.com^
 ||promo4partners.com^
 ||promocionesweb.com^
@@ -1860,7 +1857,6 @@ vkcdnservice.appspot.com^
 ||thepayporn.com^
 ||thesocialsexnetwork.com^
 ||thumbnail-galleries.net^
-||timteen.com^
 ||tingrinter.com^
 ||tizernet.com^
 ||tm-core.net^
@@ -1921,7 +1917,6 @@ vkcdnservice.appspot.com^
 ||xhamstercams.com^
 ||xlovecam.com^
 ||xogogowebcams.com^
-||xtrafficads.com^
 ||xxxblackbook.com^
 ||xxxmatch.com^
 ||yourdatelink.com^
@@ -16785,6 +16780,7 @@ inapps.appsflyersdk.com^
 ||qywbslk.top^
 ||vevhjj.xyz^
 ||dajiahao9.top^
+||dajiahao10.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
