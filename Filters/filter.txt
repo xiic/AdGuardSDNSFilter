@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-13T18:25:51.122Z
+! Last modified: 2024-06-14T01:21:25.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -382,6 +382,7 @@ vkcdnservice.appspot.com^
 ||1299757727.rsc.cdn77.org^
 ||1312907885.rsc.cdn77.org^
 ||1324827002.rsc.cdn77.org^
+||1365498388.rsc.cdn77.org^
 ||1396762586.rsc.cdn77.org^
 ||1417571542.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
@@ -398,6 +399,7 @@ vkcdnservice.appspot.com^
 ||1548164934.rsc.cdn77.org^
 ||1564285319.rsc.cdn77.org^
 ||1593553817.rsc.cdn77.org^
+||1630422306.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1723614251.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
@@ -489,6 +491,7 @@ vkcdnservice.appspot.com^
 ||creatives.inmotionhosting.com^
 ||cts.tradepub.com^
 ||customer.heartinternet.co.uk^
+||datacluster.club^
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^
 ||epnt.ebay.com^
@@ -16780,6 +16783,16 @@ inapps.appsflyersdk.com^
 ||xn--w9q675dm1p7em.net^
 ||xxxx68xxxx.com^
 ||cvfgere96.cn^
+||mckgmkh.icu^
+||cgczuu.xyz^
+||ufjslit.top^
+||kspl48j.xyz^
+||zutevd.xyz^
+||tdhserg.cn^
+||behvgsik.icu^
+||crodfnyk.xyz^
+||binga07.shop^
+||goole24.shop^
 ||0op8kh.cn^
 ||0oqt9i.cn^
 ||0q5joc.cn^
