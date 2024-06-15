@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-15T12:34:00.088Z
+! Last modified: 2024-06-15T18:24:37.079Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3698,6 +3698,7 @@ inapps.appsflyersdk.com^
 ||adlog.com.com^
 ||ads-trk.vidible.tv^
 ||adsolutions.com^
+||adv-analytics-collector.videograph.ai^
 ||affiliate-api.raptive.com^
 ||affiliates.minglematch.com^
 ||akatracking.esearchvision.com^
@@ -11624,9 +11625,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jun 2024 22:46 UTC+7
-! Version: 2406122246
-! Blocked: 885 rules
+! Last modified: 15 Jun 2024 21:16 UTC+7
+! Version: 2406152116
+! Blocked: 892 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -11939,6 +11940,9 @@ inapps.appsflyersdk.com^
 ||vads.net.vn^
 ||vads.vn^
 ||vcdn.subiz-cdn.com^
+||vda.viettel.vn^
+||vdacdn1.viettel.vn^
+||vdacdn2.viettel.vn^
 ||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
@@ -12020,9 +12024,11 @@ inapps.appsflyersdk.com^
 ||ads.baoangiang.com.vn^
 ||ads.baobinhduong.vn^
 ||ads.baobinhthuan.com.vn^
+||ads.baocamau.vn^
 ||ads.baocantho.com.vn^
 ||ads.baodatviet.vn^
 ||ads.baohaiduong.vn^
+||ads.baolongan.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
 ||ads.businessstyle.vn^
@@ -12046,6 +12052,7 @@ inapps.appsflyersdk.com^
 ||ads.markettimes.vn^
 ||ads.marry.vn^
 ||ads.nghenhinvietnam.vn^
+||ads.nguoiduatin.vn^
 ||ads.nhadatmoi.net^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
@@ -12437,6 +12444,7 @@ inapps.appsflyersdk.com^
 ||track.popsww.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
+||track.winigroup.vn^
 ||tracker.anime47.com^
 ||tracker.edupia.vn^
 ||tracker.fado.vn^
@@ -12507,9 +12515,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 Jun 2024 16:43 UTC+7
-! Version: 2406121643
-! Blocked: 4,327 rules
+! Last modified: 15 Jun 2024 21:17 UTC+7
+! Version: 2406152117
+! Blocked: 4,328 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15305,6 +15313,7 @@ inapps.appsflyersdk.com^
 ||suachuadienmayxanh.com.vn^
 ||suativinguyenkim.com^
 ||subducgiare.shop^
+||suckhoetainha.site^
 ||suitablepartner.life^
 ||sukiem-muahe-pubgmobilevn.com^
 ||sukien-2021lmht.ga^
@@ -16755,6 +16764,7 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||dvgjx.cn^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
