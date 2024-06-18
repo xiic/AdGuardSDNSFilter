@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-18T01:22:13.437Z
+! Last modified: 2024-06-18T06:26:16.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11355,7 +11355,6 @@ inapps.appsflyersdk.com^
 ||adslop.com^
 ||adstarsmedia.co.id^
 ||adtimeselaras.com^
-||advertica-cdn2.com^
 ||alertpay.com^
 ||ampclicks.com^
 ||anekaiklan.com^
@@ -11368,13 +11367,11 @@ inapps.appsflyersdk.com^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
 ||clickmedia.co.id^
-||clicks.pipaffiliates.com^
 ||compulsivehemisphere.com^
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||dewsburg.info^
 ||digiads.co.id^
-||eclkmpsa.com^
 ||ena-native-ads4.com^
 ||etoads.net^
 ||filebanner.com^
@@ -11480,7 +11477,6 @@ inapps.appsflyersdk.com^
 ||webiklan.com^
 ||weblogiklan.com^
 ||yesads.com^
-||yx-ads6.com^
 ! Potential ad servers
 ||05ee3a24ed11df058c8.com^
 ||1b969cef84d93b43.com^
@@ -11495,7 +11491,6 @@ inapps.appsflyersdk.com^
 ||abrts.pro^
 ||adeumssp.com^
 ||afbcashidr.com^
-||afdashrafi.com^
 ||ahcnxuepput.com^
 ||aj1052.online^
 ||aopxnvrugx.com^
@@ -11531,10 +11526,8 @@ inapps.appsflyersdk.com^
 ||gbrrrxbodqdlq.com^
 ||ghaahq.com^
 ||hegarberetrof.pro^
-||highwaycpmrevenue.com^
 ||hoegutvie.com^
 ||ihqfiimrbcf.com^
-||isortflorent.com^
 ||iupqelechcmj.com^
 ||iwtserve.com^
 ||jillsclickcorner.com^
@@ -16832,6 +16825,10 @@ inapps.appsflyersdk.com^
 ||hdoshbu.top^
 ||ypkxka.xyz^
 ||stnew.xyz^
+||xvbcjh.xyz^
+||dfvmzx.xyz^
+||fgadsqdma.top^
+||daksflkalq.top^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
