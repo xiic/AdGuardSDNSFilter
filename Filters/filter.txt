@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-20T01:20:23.696Z
+! Last modified: 2024-06-20T06:26:04.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -516,6 +516,7 @@ vkcdnservice.appspot.com^
 ||inbound-step.heavenmedia.com^
 ||inrdeals.com^
 ||join.megaphonetv.com^
+||js.bigcomics.win^
 ||js.manga1001.win^
 ||js.mangakl.su^
 ||js.mangalove.top^
@@ -10395,8 +10396,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-06-04 06:14:10 CEST
-# entries:        1070
+# last updated:   2024-06-20 06:30:00 CEST
+# entries:        1072
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -10433,6 +10434,7 @@ inapps.appsflyersdk.com^
 ||ads.aralego.com^
 ||ads.compro.se^
 ||ads.docunordic.net^
+||ads.exakt24.se^
 ||ads.expekt.se^
 ||ads.fotosidan.se^
 ||ads.holid.io^
@@ -10551,6 +10553,7 @@ inapps.appsflyersdk.com^
 ||c.adsco.re^
 ||c.eacla.com^
 ||c1.adform.net^
+||canariajournalen.ads.ramsalt.com^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
