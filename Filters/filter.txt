@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-29T12:34:20.352Z
+! Last modified: 2024-06-29T18:23:30.673Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11221,6 +11221,7 @@ inapps.appsflyersdk.com^
 ! Source name: EasyList Italy ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
+||addendo.network^
 ||adkaora.space^
 ||adplay.it^
 ||brznetwork.com^
@@ -11643,8 +11644,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Jun 2024 16:49 UTC+7
-! Version: 2406271649
+! Last modified: 29 Jun 2024 23:15 UTC+7
+! Version: 2406292315
 ! Blocked: 894 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -12535,9 +12536,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 23 Jun 2024 23:42 UTC+7
-! Version: 2406232342
-! Blocked: 4,408 rules
+! Last modified: 29 Jun 2024 23:15 UTC+7
+! Version: 2406292315
+! Blocked: 4,435 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12811,6 +12812,7 @@ inapps.appsflyersdk.com^
 ||binhchon-gionghatvietnhi-2022.weebly.com^
 ||binhchon-gionghatvietnhi-vong1-nam2022.weebly.com^
 ||binhchonanhduthicuabe2022.weebly.com^
+||binhchoncuocthivetranhsinhvien2024.wee^
 ||binhchonduthitainang2022mua3.weebly.com^
 ||binhchongionghatviet2019.weebly.com^
 ||binhchongionghatvietnhi2021vietnames.weebly.com^
@@ -12869,6 +12871,7 @@ inapps.appsflyersdk.com^
 ||cf222.art^
 ||cgovn.cc^
 ||chamsockhachang.com^
+||chamsockhachhang-uudaithe-thang6.com^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
 ||chamsockhachhangtheuudai-tructuyen.com.vn^
@@ -12900,6 +12903,7 @@ inapps.appsflyersdk.com^
 ||chuyentienngay.site^
 ||chuyentienquocte242.weebly.com^
 ||chuyentienvn.weebly.com^
+||cicqdaqtrws.info^
 ||citi-vietnam.com^
 ||citivay.org^
 ||cl247.me^
@@ -13422,6 +13426,7 @@ inapps.appsflyersdk.com^
 ||giaodichquettindungvn-online.com^
 ||giaodichquocte-wumoney365.weebly.com^
 ||giaodichquoctes.com^
+||giaodichquoctes.vercel.app^
 ||giaodichtiente247ipay.weebly.com^
 ||giaodichvidientu.com.vn^
 ||giaothuongvietnhat.org^
@@ -13450,6 +13455,7 @@ inapps.appsflyersdk.com^
 ||go888.me^
 ||go88vn.shop^
 ||goalonapp.com^
+||googie-anaiytics.com^
 ||goplay88.me^
 ||goshop.vin^
 ||goshop2018.com^
@@ -13709,6 +13715,7 @@ inapps.appsflyersdk.com^
 ||jomashopsa.com^
 ||jpalertcert.com^
 ||junoshop.online^
+||k2rjtiki.com^
 ||kaurroot.com^
 ||kavay.vn^
 ||kavaycash.com^
@@ -13783,9 +13790,11 @@ inapps.appsflyersdk.com^
 ||ksdp997.com^
 ||kstorybank.top^
 ||ktien.vn^
+||kuurza.com^
 ||kuyhaa-me.pw^
 ||l-fb.co^
 ||la533.com^
+||la5959.com^
 ||la7168.com^
 ||la7890.cc^
 ||la9435.com^
@@ -14002,6 +14011,7 @@ inapps.appsflyersdk.com^
 ||master-visa-nang-hang-ca-nhan-vib.com^
 ||mastercard-quetthetindung247.com^
 ||mavietnam.xyz^
+||maxisurf.net^
 ||mayanpuzzle.com^
 ||mayxanhsg.com^
 ||mayxanhsupport.com^
@@ -14265,6 +14275,7 @@ inapps.appsflyersdk.com^
 ||nang-cap-hang-vvip-vib.com^
 ||nang-cap-ocare-vib.com^
 ||nang-cap-online-vpbank.com^
+||nang-cap-the-vcare-vib.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
 ||nang-han-muc-vcs1-khcn-vib.com^
@@ -14357,6 +14368,7 @@ inapps.appsflyersdk.com^
 ||napplay.com^
 ||napplaytogether.com^
 ||napplaytogether247.com^
+||nappthe.vn^
 ||nappubg.net^
 ||nappubg.vn^
 ||napquanhuy.cf^
@@ -14822,6 +14834,7 @@ inapps.appsflyersdk.com^
 ||rwrb55.com^
 ||rwrb66.com^
 ||s22khuyenmai.xyz^
+||s2rjtiki.com^
 ||s33788.com^
 ||sacchaeleduk.com^
 ||sacombank.net.vn^
@@ -14863,6 +14876,7 @@ inapps.appsflyersdk.com^
 ||servsvietnam.com^
 ||sgshopee.top^
 ||sgxcoin.net^
+||sh2tiki.com^
 ||share-apple.com^
 ||share.ttchanging.com^
 ||shatheg.cfd^
@@ -15362,10 +15376,12 @@ inapps.appsflyersdk.com^
 ||sotuyenvcb.vietcombanker.com^
 ||sp15569p.com^
 ||sp1663p.com^
+||sp1776p.com^
 ||sp315693vn.com^
 ||sp5188.com^
 ||sp56788.com^
 ||sp6788.com^
+||sp7335p.com^
 ||sp77888.com^
 ||sp8668vn.com^
 ||spark123.shop^
@@ -15543,6 +15559,7 @@ inapps.appsflyersdk.com^
 ||tb55988.com^
 ||tc-clicks.com^
 ||tc-viet.click^
+||tcbcanhan.com^
 ||tdkd00.com^
 ||tdkd01.com^
 ||tdkd02.com^
@@ -16179,11 +16196,14 @@ inapps.appsflyersdk.com^
 ||viashopee.com^
 ||viaviet03.mobie.in^
 ||vib-bank.com^
+||vib-cardnew.shop^
 ||vib-mydiamon-khcn-uutien-vnc1.com^
+||vib-nang-the.com^
 ||vib-nangcap.com^
 ||vib-tindung-khcn.com^
 ||vib-tindung.click^
 ||vib-tindung.online^
+||vib-up-the.shop^
 ||vib-vay.com^
 ||vib.chamsockhachang-tructuyen-the.online^
 ||vib.chamsockhachang-tructuyen.online^
@@ -16380,6 +16400,7 @@ inapps.appsflyersdk.com^
 ||vietthanhcredit.com^
 ||vietthanhcredit.online^
 ||viettinvay.com^
+||viettlot135p.com^
 ||vietvcbdigibank.com^
 ||vietviv.com^
 ||vietvn.net^
@@ -16536,6 +16557,7 @@ inapps.appsflyersdk.com^
 ||vnah567.com^
 ||vnambzuon36sc.vip^
 ||vnbitcoin.cc^
+||vnc63661s.com^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
 ||vnexprress.com^
@@ -16678,6 +16700,8 @@ inapps.appsflyersdk.com^
 ||vps8449vn.com^
 ||vrichshop.com^
 ||vssid.cc^
+||vssid.govvvn.com^
+||vssidgov.com^
 ||vstvst10toc.com^
 ||vstvst11toc.com^
 ||vstvst12toc.com^
@@ -16728,6 +16752,7 @@ inapps.appsflyersdk.com^
 ||walmartshoping.com^
 ||warrenmoneytrader.com^
 ||watch-online.49n7wqynho5u.top^
+||wdxzlv.org^
 ||web-membbership-freefire-garena.com^
 ||web-shopee-vn.com^
 ||web-trackers.com^
@@ -16759,6 +16784,7 @@ inapps.appsflyersdk.com^
 ||wikidoithuong.com^
 ||winmomo.com^
 ||winsbank.io^
+||wioabfwyigasfbksl.org^
 ||wmail-blog.com^
 ||wmail-blog.xyz^
 ||wmail-cdn.xyz^
@@ -16830,6 +16856,7 @@ inapps.appsflyersdk.com^
 ||yeumomo.me^
 ||yl0sj9.cyou^
 ||ymx33.com^
+||ynefefyopqvu.com^
 ||youtuber-cash.buzz^
 ||yunduofei.xyz^
 ||zalorashop.com^
