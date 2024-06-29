@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-29T01:20:49.007Z
+! Last modified: 2024-06-29T06:24:47.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1722,7 +1722,6 @@ vkcdnservice.appspot.com^
 ||ngbn.net^
 ||ningme.ru^
 ||njmaq.com^
-||nonkads.com^
 ||notify.support^
 ||nscash.com^
 ||nudedworld.com^
@@ -1768,7 +1767,6 @@ vkcdnservice.appspot.com^
 ||porngray.com^
 ||pornkings.com^
 ||pornleep.com^
-||pornnperfect.com^
 ||porntrack.com^
 ||pourmajeurs.com^
 ||ppc-direct.com^
@@ -1871,7 +1869,6 @@ vkcdnservice.appspot.com^
 ||the-adult-company.com^
 ||thepayporn.com^
 ||thesocialsexnetwork.com^
-||thumbnail-galleries.net^
 ||tingrinter.com^
 ||tizernet.com^
 ||tm-core.net^
@@ -4413,6 +4410,7 @@ inapps.appsflyersdk.com^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||receive.wmcdp.io^
+||recs-api.conde.digital^
 ||recs.shareaholic.com^
 ||refer.wordpress.com^
 ||referrer.disqus.com^
@@ -16877,6 +16875,10 @@ inapps.appsflyersdk.com^
 ||xrmfjzqo.xyz^
 ||bbxyxt.xyz^
 ||5gxs.org^
+||vupsnx.xyz^
+||szddm.cn^
+||kopvx.cn^
+||n2wqmr4lmaummar.xyz^
 ||efhis.cn^
 ||udoshbt.top^
 ||lhtzfn.xyz^
