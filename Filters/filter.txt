@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-02T01:22:46.080Z
+! Last modified: 2024-07-02T06:27:30.691Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10414,8 +10414,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-01 05:42:40 CEST
-# entries:        1071
+# last updated:   2024-07-02 06:39:35 CEST
+# entries:        1073
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -10735,6 +10735,7 @@ inapps.appsflyersdk.com^
 ||girohjalm.com.se^
 ||glitnoraffiliates.elb.myaffiliates.com^
 ||gtm.allabolag.se^
+||gtm.ekonomifakta.se^
 ||gtm.findroommate.dk^
 ||gtm.proff.se^
 ||gtm.stampenmedia.se^
@@ -10823,6 +10824,7 @@ inapps.appsflyersdk.com^
 ||mega.vk.se^
 ||meltwater.com^
 ||metapic.se^
+||metrics-fe-na1.hubspot.com^
 ||mgdk-cdn.relevant-digital.com^
 ||micro.rubiconproject.com^
 ||missaffiliate.com^
