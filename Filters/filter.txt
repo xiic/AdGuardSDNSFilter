@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-03T01:22:19.948Z
+! Last modified: 2024-07-03T06:27:49.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5339,7 +5339,6 @@ inapps.appsflyersdk.com^
 ||edt02.net^
 ||emailretargeting.com^
 ||et-gv.fr^
-||ew3.io^
 ||ezakus.net^
 ||facil-iti.com^
 ||ferank.fr^
@@ -10414,8 +10413,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-02 06:39:35 CEST
-# entries:        1073
+# last updated:   2024-07-03 06:00:20 CEST
+# entries:        1075
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -10767,6 +10766,7 @@ inapps.appsflyersdk.com^
 ||ion.btcswe.com^
 ||ipmeta.io^
 ||izooto.com^
+||js.adsaga.se^
 ||js.appboycdn.com^
 ||js.evtr.nordiskemedier.dk^
 ||js.getlasso.co^
@@ -11150,6 +11150,7 @@ inapps.appsflyersdk.com^
 ||tracking.vastgotabladet.se^
 ||tracking.vaxjobladet.se^
 ||tracking.vetlandaposten.se^
+||tracking.viivilla.se^
 ||tracking.visitorsvoice.com^
 ||tracking.vlt.se^
 ||tracking.vn.se^
@@ -16904,6 +16905,8 @@ inapps.appsflyersdk.com^
 ||hyislou.top^
 ||tlpyft.xyz^
 ||jbkqemk.icu^
+||jdipsuma.top^
+||fzllis.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
