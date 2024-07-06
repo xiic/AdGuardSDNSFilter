@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-05T18:25:06.168Z
+! Last modified: 2024-07-06T01:20:47.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4300,6 +4300,7 @@ inapps.appsflyersdk.com^
 ||msadsscale.azureedge.net^
 ||mv.treehousei.com^
 ||myscoop-tracking.googlecode.com^
+||native-ads-events-api.c4s-rd.services^
 ||neocounter.neoworx-blog-tools.net^
 ||net-tracker.notolytix.com^
 ||netlify-rum.netlify.app^
@@ -6387,6 +6388,7 @@ inapps.appsflyersdk.com^
 ||statistic.audima.co^
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
+||track.zapimoveis.com.br^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||webstats.sapo.pt^
@@ -16923,6 +16925,12 @@ inapps.appsflyersdk.com^
 ||gw2cddpt2hao.cloud^
 ||gw2cddpt2hao.site^
 ||fgwuw.com^
+||febtzd.xyz^
+||olgcpwc.icu^
+||gsywcc.xyz^
+||iptuy.cn^
+||kyislod.top^
+||lijlrz.xyz^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^
