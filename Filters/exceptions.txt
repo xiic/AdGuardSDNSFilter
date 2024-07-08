@@ -1,5 +1,19 @@
-! https://github.com/AdguardTeam/AdguardFilters/issues/174620
-@@||api.personaclick.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1720
+! Blocked by CNAME data.adobedc.net
+@@||lloydsbankinggroup.tt.omtrdc.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1717
+@@||sax.sina.com.cn^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1709
+! Blocked by CNAME postaffiliatepro.com
+@@||linka.page^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1702
+@@||track.webgains.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
+! Blocked by CNAME fp27ee.wac.systemcdn.net
+@@||secureimage.securedataimages.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1668
+! Blocked by CNAME nr-data.net
+@@||infra-api.newrelic.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1631
 ! Blocked by CNAME nc0.co
 @@||tms.capitalone.com^|
@@ -60,8 +74,6 @@
 @@||catchup.thisisdax.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1239
 @@||px.a8.net^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1221
-@@||app-cdn.minepi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1181
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1344
 @@||cdn.duurzaam.greenchoice.nl^|
