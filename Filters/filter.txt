@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-09T06:26:42.564Z
+! Last modified: 2024-07-09T12:37:56.172Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -20,7 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||srtb.msn.cn^
+||tapi.apkpure.net^
 ||advertising-cdn.dpgmedia.cloud^
 ||ad.twinrdengine.com^
 ||d2lg0swrp15nsj.cloudfront.net^
@@ -6676,6 +6676,8 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||miradres.com^
+||ufouxbwn.com^
 ||cdn.tameti.com^
 ||eehhabacgieacfjeaacg.world^
 ||bidmatic.io^
@@ -6707,7 +6709,6 @@ inapps.appsflyersdk.com^
 ||luxcdn.com^
 ||vqhrqt.com^
 ||marketer.lv^
-||ufouxbwn.com^
 ||gaveasword.com^
 ||gsimvqfghc.com^
 ||cajbdciiefegiifciabc.world^
@@ -10030,6 +10031,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||srtb.msn.cn^
 ||ad.hot-mob.com^
 ||ad*.on.cc^
 ||adx.36kr.com^
@@ -12882,9 +12884,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 07 Jul 2024 23:29 UTC+7
-! Version: 2407072329
-! Blocked: 4,458 rules
+! Last modified: 09 Jul 2024 14:16 UTC+7
+! Version: 2407091416
+! Blocked: 4,462 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13470,6 +13472,7 @@ inapps.appsflyersdk.com^
 ||dienmayxanhtrungtam.com^
 ||dienthoaiviet.net^
 ||differentia.ru^
+||dinhdanhcutru.com^
 ||disorderstatus.ru^
 ||dkmjxh.info^
 ||dmxprovip.com^
@@ -15972,6 +15975,7 @@ inapps.appsflyersdk.com^
 ||thisinhthanhlich.com^
 ||thisinhthanhlich2022.com^
 ||thisinhthanhlich2024.com^
+||thongtindancu.org^
 ||thongtindonhang.com^
 ||thpthuynhthuckhang.edu.vn^
 ||thsdbj.com^
