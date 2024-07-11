@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-10T18:27:29.971Z
+! Last modified: 2024-07-11T01:24:26.138Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4212,6 +4212,7 @@ inapps.appsflyersdk.com^
 ||l.player.ooyala.com^
 ||l.sharethis.com^
 ||l.typesquare.com^
+||lambda-url.us-east-1.on.aws^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||lciapi.ninthdecimal.com^
@@ -5834,6 +5835,7 @@ inapps.appsflyersdk.com^
 ||roistat.com^
 ||rutarget.ru^
 ||sarov.ws^
+||sbermarketing.ru^
 ||semantiqo.com^
 ||sensor.org.ua^
 ||seo-master.net^
@@ -6394,6 +6396,7 @@ inapps.appsflyersdk.com^
 ||counter.reddigital.ru^
 ||counter.smotrim.ru^
 ||crm-analytics.imweb.ru^
+||csp.yandex.net^
 ||d.wi-fi.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
@@ -17286,11 +17289,21 @@ inapps.appsflyersdk.com^
 ||cbgrqi.xyz^
 ||mtwuxss.icu^
 ||vsjrnh.xyz^
+||yerhfnytky.top^
+||gjjskhdnm.top^
+||dajiahao8.top^
+||oakmn.top^
 ||sgru.cn^
 ||irtliso.top^
 ||hrrjff.xyz^
 ||atbif.cn^
 ||jrtlisa.top^
+||qdipsumy.top^
+||fmmirep.icu^
+||scanfang.com^
+||onefuq.xyz^
+||dclpjx.xyz^
+||tdpujn.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
