@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-11T18:25:32.102Z
+! Last modified: 2024-07-12T01:23:11.882Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3988,6 +3988,7 @@ inapps.appsflyersdk.com^
 ||cookie-guard-erdee.ey.r.appspot.com^
 ||cookies.livepartners.com^
 ||cookiex.ngd.yahoo.com^
+||core-apps.b-cdn.net^
 ||count-server.sharethis.com^
 ||count.carrierzone.com^
 ||count.me.uk^
@@ -4554,6 +4555,7 @@ inapps.appsflyersdk.com^
 ||svibeacon.onezapp.com^
 ||sync.adap.tv^
 ||sync.outbrain.com^
+||system-beta.b-cdn.net^
 ||t.91syun.com^
 ||t.a3cloud.net^
 ||t.arcade.show^
@@ -6360,6 +6362,7 @@ inapps.appsflyersdk.com^
 ||tp.convertiser.com^
 ||trc.gpcdn.pl^
 ||ad-tracker-api.luizalabs.com^
+||ads-collector.luizalabs.com^
 ||analytics-coletor-site.ojc.com.br^
 ||analytics-stamp.confi.com.vc^
 ||analytics.spun.com.br^
@@ -6491,6 +6494,7 @@ inapps.appsflyersdk.com^
 ! Turkish
 ||analitik.bik.gov.tr^
 ||analytics.kkb.com.tr^
+||c.keltis.com^
 ||collector.wawlabs.com^
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
@@ -17270,6 +17274,12 @@ inapps.appsflyersdk.com^
 ||107.167.16.*.gif
 ||121.204.246.*.gif
 ||67.21.92.*.gif
+||tdipsumi.top^
+||ykcsldm.icu^
+||izcqyy.xyz^
+||dmnqfn.xyz^
+||scoev.cn^
+||fpninv.xyz^
 ||tupian9999.com^
 ||xxxx88xxxx.com^
 ||xxxx96xxxx.com^
