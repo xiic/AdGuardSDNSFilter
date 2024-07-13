@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-12T18:27:50.166Z
+! Last modified: 2024-07-13T01:24:05.943Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5797,6 +5797,7 @@ inapps.appsflyersdk.com^
 ||cpaevent.ru^
 ||cszz.ru^
 ||culturaltracking.ru^
+||detmir-stats.ru^
 ||dircont3.com^
 ||directcrm.ru^
 ||e-kuzbass.ru^
@@ -6412,6 +6413,7 @@ inapps.appsflyersdk.com^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
 ||events.auth.gid.ru^
+||ga-tracker-dot-detmir-bonus.appspot.com^
 ||hubrus.com^
 ||ip.up66.ru^
 ||kraken.rambler.ru^
@@ -17287,6 +17289,12 @@ inapps.appsflyersdk.com^
 ||fpninv.xyz^
 ||srtlisb.top^
 ||bilibilitool.site^
+||rdsgick.icu^
+||odipsumk.top^
+||uyaeco.xyz^
+||zoltrl.xyz^
+||lwprdv.xyz^
+||pungar85.shop^
 ||tupian9999.com^
 ||xxxx88xxxx.com^
 ||xxxx96xxxx.com^
