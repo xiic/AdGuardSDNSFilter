@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-16T06:27:20.475Z
+! Last modified: 2024-07-16T12:35:40.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -563,6 +563,7 @@ vkcdnservice.appspot.com^
 ||plchldr.co^
 ||popmog.com^
 ||pr.costaction.com^
+||probid.ai^
 ||promos.fling.com^
 ||protected-redirect.click^
 ||proto2ad.durasite.net^
@@ -10784,8 +10785,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-10 06:22:52 CEST
-# entries:        1076
+# last updated:   2024-07-16 09:53:46 CEST
+# entries:        1080
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -10846,6 +10847,7 @@ inapps.appsflyersdk.com^
 ||advert.livesportmedia.eu^
 ||advert.rabaldermedia.se^
 ||adx.adform.net^
+||aeonmedia.matomo.cloud^
 ||af.analytics.elx.cloud^
 ||affiliatemedia.speedybet.com^
 ||affiliates.videoslots.com^
@@ -10999,6 +11001,7 @@ inapps.appsflyersdk.com^
 ||cdn.stat-track.com^
 ||cdn.vip-hd-movies.xyz^
 ||cdn.zx-adnet.com^
+||cdp-eu.customer.io^
 ||cintnetworks.com^
 ||cision.com^
 ||cl.k5a.io^
@@ -11372,6 +11375,7 @@ inapps.appsflyersdk.com^
 ||tagging-service.tv4.se^
 ||tags.bkrtx.com^
 ||tags.smilewanted.com^
+||target.digitalaudience.io^
 ||telemetry.bambuser.io^
 ||tools.ascontentcloud.com^
 ||toppmarkensverige.com^
@@ -22856,6 +22860,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||udd1i5.zhihu.com^
 ||hl.dyq.cn^
 ||003store.com^
 ||0941.org^
