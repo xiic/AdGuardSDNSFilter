@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-17T01:24:47.025Z
+! Last modified: 2024-07-17T06:27:12.797Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -101,7 +101,6 @@
 ||d1o6lu9dr4t13s.cloudfront.net^
 ||adserver.pandora.com^
 ||zap.cdn.zynga.com^
-||mv.outbrain.com^
 ||ads.sparkflow.net^
 ||creative.ytboob.live^
 ||advertising.ntuplay.xyz^
@@ -3714,8 +3713,6 @@ inapps.appsflyersdk.com^
 ||affiliates.minglematch.com^
 ||akatracking.esearchvision.com^
 ||alexandria.marfeelcdn.com^
-||amplify.outbrain.com^
-||amplifypixel.outbrain.com^
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
 ||analytic.rollout.io^
@@ -4180,7 +4177,6 @@ inapps.appsflyersdk.com^
 ||hits.informer.com^
 ||hktracker.hankookilbo.com^
 ||hm.baidu.com^
-||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
 ||hydro-ma-proxy.akamaized.net^
 ||i.compendium.com^
@@ -4225,8 +4221,6 @@ inapps.appsflyersdk.com^
 ||l.ooyala.com^
 ||l.player.ooyala.com^
 ||l.sharethis.com^
-||taboola.com^
-||taboolasyndication.com^
 ||l.typesquare.com^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
@@ -4252,7 +4246,6 @@ inapps.appsflyersdk.com^
 ||log.go.com^
 ||log.nordot.jp^
 ||log.olark.com^
-||log.outbrain.com^
 ||log.pinterest.com^
 ||log.reformal.ru^
 ||log.seekda.com^
@@ -4331,6 +4324,7 @@ inapps.appsflyersdk.com^
 ||openxcdn.net^
 ||optimeeze.appspot.com^
 ||orts.wixawin.com^
+||outbrain.com^
 ||p.cquotient.com^
 ||p.metrilo.com^
 ||p.placed.com^
@@ -4488,7 +4482,6 @@ inapps.appsflyersdk.com^
 ||st.linkfire.com^
 ||staging-pt.ispot.tv^
 ||starman.fathomdns.com^
-||stas.outbrain.com^
 ||stat.absolutist.com^
 ||stat.boredomtherapy.com^
 ||stat.glaze.ai^
@@ -4562,7 +4555,6 @@ inapps.appsflyersdk.com^
 ||surveywall-api.survata.com^
 ||svibeacon.onezapp.com^
 ||sync.adap.tv^
-||sync.outbrain.com^
 ||system-beta.b-cdn.net^
 ||t.91syun.com^
 ||t.a3cloud.net^
@@ -4597,6 +4589,8 @@ inapps.appsflyersdk.com^
 ||t.spbx.app^
 ||t.spot.im^
 ||t2.t2b.click^
+||taboola.com^
+||taboolasyndication.com^
 ||tag-manager.playbuzz.com^
 ||tag.atom.gamedistribution.com^
 ||tag.aumago.com^
@@ -4641,7 +4635,6 @@ inapps.appsflyersdk.com^
 ||tr.cloud-media.fr^
 ||tr.datatrics.com^
 ||tr.marsflag.com^
-||tr.outbrain.com^
 ||tr.vitals.co^
 ||traccoon.intellectsoft.net^
 ||trace.swaven.com^
@@ -4812,7 +4805,6 @@ inapps.appsflyersdk.com^
 ||vercel-vitals.axiom.co^
 ||video-ad-stats.googlesyndication.com^
 ||video-analytics-api.cloudinary.com^
-||videoevents.outbrain.com^
 ||vortex.data.microsoft.com^
 ||vst.sibnet.ru^
 ||vstat.borderlessbd.com^
@@ -4827,7 +4819,6 @@ inapps.appsflyersdk.com^
 ||webtrack.chd01.com^
 ||webtrack.savoysystems.co.uk^
 ||webtracker.apicasystem.com^
-||widget-pixels.outbrain.com^
 ||widget.educationdynamics.com^
 ||win.staticstuff.net^
 ||wl-pixel.index.digital^
