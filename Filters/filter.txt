@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-19T06:26:53.267Z
+! Last modified: 2024-07-19T12:36:09.034Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -17299,6 +17299,7 @@ inapps.appsflyersdk.com^
 ||tvpqnh.xyz^
 ||bxoaeju.icu^
 ||nznkaq5.cn^
+||hahusa.top^
 ||wnootzc.icu^
 ||eiuoom.xyz^
 ||bavotr.xyz^
@@ -23967,6 +23968,8 @@ analytics-*.aasaam.com
 # >> E <<
 
 # >> F <<
+||analytics.fam.ir^
+
 ||sentry.fidibo.net^
 
 ||vast.filmnet.ir^
@@ -24219,6 +24222,9 @@ analytics-*.aasaam.com
 
 # https://github.com/Webamoozcom/warning-list/discussions/184
 ||chancx.io^
+
+# https://github.com/Webamoozcom/warning-list/discussions/185
+||falixa.com^
 
 # https://github.com/MasterKia/PersianBlocker/pull/201
 # https://webamooz.com/1402/06/25/%D9%84%D8%A7%DA%A9%D8%B3%D9%88%D9%86-laxxson-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D8%A7%D9%86%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA/
