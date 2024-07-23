@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-23T12:37:21.476Z
+! Last modified: 2024-07-23T18:25:12.372Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -444,6 +444,7 @@ vkcdnservice.appspot.com^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
 ||ad01.tmgrup.com.tr^
+||adcheck.about.co.kr^
 ||adinplay-venatus.workers.dev^
 ||adncdnend.azureedge.net^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
@@ -9149,6 +9150,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||siberreklam.com^
 ||baglanbize.net^
 ||revotas.com^
 ||cdn.cdnhipter.xyz^
@@ -23104,7 +23106,6 @@ analytics-*.aasaam.com
 ||adex.ednplus.com^
 ||ad*.wisenut.co.kr^
 ||ad.esmplus.com^
-||adcheck.about.co.kr^
 ||ads.mncmedia.co.kr^
 ||ssp.meba.kr^
 ||ad.adnmore.co.kr^
