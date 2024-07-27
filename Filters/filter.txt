@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-27T01:23:20.641Z
+! Last modified: 2024-07-27T06:24:42.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3730,6 +3730,7 @@ inapps.appsflyersdk.com^
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
 ||analytics-api.klickly.com^
+||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-prd.aws.wehaa.net^
@@ -4137,7 +4138,6 @@ inapps.appsflyersdk.com^
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
-||feliz.data.tm-awx.com^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
@@ -4373,6 +4373,7 @@ inapps.appsflyersdk.com^
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
 ||pixel.driveniq.com^
+||pixel.fohr.co^
 ||pixel.inforsea.com^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
@@ -17327,6 +17328,10 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||hwerilxu.top^
+||t0sfe1.com^
+||shbzqkj.cn^
+||jz4u1.icu^
 ||molpmh.xyz^
 ||starredvs.com^
 ||wnmoobz.icu^
@@ -17335,6 +17340,8 @@ inapps.appsflyersdk.com^
 ||setlwsb.top^
 ||xtrkhv.xyz^
 ||oxoucm.xyz^
+||0h3uds.com^
+||tnzjrj.xyz^
 ||dpweupc.icu^
 ||clqjyw.xyz^
 ||xjpmlf.xyz^
