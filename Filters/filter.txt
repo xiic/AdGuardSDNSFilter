@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-30T06:27:08.837Z
+! Last modified: 2024-07-30T12:37:30.057Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4323,6 +4323,7 @@ inapps.appsflyersdk.com^
 ||netlify-rum.netlify.app^
 ||newsanalytics.com.au^
 ||nitrous-analytics.s3.amazonaws.com^
+||noa.yahoo.com^
 ||noflake-aggregator-http.narvar.com^
 ||nojscontainer.pepperjam.com^
 ||nol.yahoo.com^
@@ -6102,6 +6103,7 @@ inapps.appsflyersdk.com^
 ||da.netease.com^
 ||datacollector-dra.dt.hicloud.com^
 ||dcbpm.suning.cn^
+||dt.xfyun.cn^
 ||dup.baidustatic.com^
 ||eclick.baidu.com^
 ||epro.sogou.com^
@@ -9840,6 +9842,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||qetlwsy.top^
 ||cengqinglin.cn^
 ||sprewcereous.com^
 ||shouldercommandmentlimitless.com^
@@ -17331,6 +17334,9 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||balili2024.top^
+||w0079.com^
+||w0082.com^
 ||shbzpgs.cn^
 ||bxmazls.icu^
 ||guyhok.xyz^
@@ -17338,9 +17344,9 @@ inapps.appsflyersdk.com^
 ||hov15.icu^
 ||qvxtzi.xyz^
 ||nxxkxr.xyz^
-||qetlwsy.top^
 ||4oz4n.icu^
 ||kwerilxd.top^
+||shbzngs.cn^
 ||aiqks.top^
 ||sikapo.top^
 ||sikaq.top^
