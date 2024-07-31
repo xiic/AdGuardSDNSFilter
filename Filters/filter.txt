@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-31T06:06:29.375Z
+! Last modified: 2024-07-31T12:09:45.346Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3327,6 +3327,7 @@ inapps.appsflyersdk.com^
 ||logend.cookpad.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
+||rtlog*.tiktokv.us^
 ||rtlog*.tiktokv.com^
 ||nelo2-col.linecorp.com^
 ||msga.cupid.iqiyi.com^
@@ -9842,6 +9843,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||uetlwst.top^
 ||qetlwsy.top^
 ||cengqinglin.cn^
 ||sprewcereous.com^
@@ -12011,9 +12013,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Jul 2024 22:12 UTC+7
-! Version: 2407212212
-! Blocked: 911 rules
+! Last modified: 31 Jul 2024 14:24 UTC+7
+! Version: 2407311424
+! Blocked: 912 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12496,6 +12498,7 @@ inapps.appsflyersdk.com^
 ||adx.xemvtv.net^
 ||adx.xtv.vn^
 ||aff.atp.vn^
+||aff2.linksht.online^
 ||affiliate.chiaki.vn^
 ||affiliate.k4.tinhte.vn^
 ||ailamtrieuphu.com^
@@ -12920,9 +12923,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 21 Jul 2024 22:13 UTC+7
-! Version: 2407212213
-! Blocked: 4,506 rules
+! Last modified: 31 Jul 2024 14:25 UTC+7
+! Version: 2407311425
+! Blocked: 4,507 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -16276,6 +16279,7 @@ inapps.appsflyersdk.com^
 ||tracuugiaodichvi.com^
 ||tracuugplx.vn^
 ||tracuuthenap247.com^
+||tracuutthvt.com^
 ||traderviet88.com^
 ||traffic-c.com^
 ||trang-chu-vn.com^
@@ -17342,6 +17346,7 @@ inapps.appsflyersdk.com^
 ||tetlwsi.top^
 ||swerilxb.top^
 ||shbznkj.cn^
+||shbzkkj.cn^
 ||balili2024.top^
 ||w0079.com^
 ||w0082.com^
