@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-01T00:26:45.112Z
+! Last modified: 2024-08-01T06:07:56.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ad.kisstvshow.es^
 ||tapi.apkpure.net^
 ||advertising-cdn.dpgmedia.cloud^
 ||ad.twinrdengine.com^
@@ -10799,8 +10800,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-28 05:54:26 CEST
-# entries:        1083
+# last updated:   2024-08-01 07:32:49 CEST
+# entries:        1077
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -10975,7 +10976,6 @@ inapps.appsflyersdk.com^
 ||cdn.advisible.com^
 ||cdn.amplitude.com^
 ||cdn.appsmav.com^
-||cdn.biddercore.io^
 ||cdn.blueconic.net^
 ||cdn.broadstreetads.com^
 ||cdn.convertbox.com^
@@ -11063,6 +11063,7 @@ inapps.appsflyersdk.com^
 ||deals.innocode.no^
 ||delivered-by-madington.com^
 ||di.insplanet.com^
+||digitalaudience.io^
 ||digitaliseringsinitiativet.se^
 ||dinapengar.compricer.se^
 ||dinbilgaranti.se^
@@ -11136,7 +11137,6 @@ inapps.appsflyersdk.com^
 ||img06.en25.com^
 ||improvedigital.com^
 ||insight.nikkasystems.com^
-||instant.page^
 ||interactions.sesamy.com^
 ||investerarbrevet.se^
 ||inviso.rampanel.com^
@@ -11245,7 +11245,6 @@ inapps.appsflyersdk.com^
 ||plausible.webfokus.no^
 ||plus.sharedcount.com^
 ||pm.azerioncircle.com^
-||popitunder.com^
 ||portalhc.com^
 ||protagcdn.com^
 ||proxyas.com^
@@ -11312,7 +11311,6 @@ inapps.appsflyersdk.com^
 ||secure.statcounter.com^
 ||secure-ds.serving-sys.com^
 ||seenthis.se^
-||selectofmychoices.com^
 ||sentry.outbid.io^
 ||seo.compado.com^
 ||seoab.io^
@@ -11389,7 +11387,6 @@ inapps.appsflyersdk.com^
 ||tagging-service.tv4.se^
 ||tags.bkrtx.com^
 ||tags.smilewanted.com^
-||target.digitalaudience.io^
 ||telemetry.bambuser.io^
 ||tools.ascontentcloud.com^
 ||toppmarkensverige.com^
