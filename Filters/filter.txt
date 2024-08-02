@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-01T18:06:51.992Z
+! Last modified: 2024-08-02T00:23:44.079Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -412,6 +412,7 @@ vkcdnservice.appspot.com^
 ||1564285319.rsc.cdn77.org^
 ||1574705750.rsc.cdn77.org^
 ||1593553817.rsc.cdn77.org^
+||1604684587.rsc.cdn77.org^
 ||1630422306.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1723614251.rsc.cdn77.org^
@@ -421,6 +422,7 @@ vkcdnservice.appspot.com^
 ||1770542895.rsc.cdn77.org^
 ||1810793056.rsc.cdn77.org^
 ||1834071374.rsc.cdn77.org^
+||1851111194.rsc.cdn77.org^
 ||1896709103.rsc.cdn77.org^
 ||1933201447.rsc.cdn77.org^
 ||1946365241.rsc.cdn77.org^
@@ -3742,6 +3744,7 @@ inapps.appsflyersdk.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-prd.aws.wehaa.net^
+||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
@@ -4135,6 +4138,7 @@ inapps.appsflyersdk.com^
 ||events.splash-screen.net^
 ||events.split.io^
 ||events.storifyme.com^
+||events.tryamped.com^
 ||events.tubecup.org^
 ||events.whisk.com^
 ||events.yourcx.io^
