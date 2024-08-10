@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-10T12:07:59.537Z
+! Last modified: 2024-08-10T18:06:32.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -12954,8 +12954,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Aug 2024 16:33 UTC+7
-! Version: 2408101633
+! Last modified: 10 Aug 2024 19:33 UTC+7
+! Version: 2408101933
 ! Blocked: 4,527 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
