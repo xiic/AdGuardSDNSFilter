@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-12T00:25:23.575Z
+! Last modified: 2024-08-12T06:08:05.638Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1594,12 +1594,10 @@ vkcdnservice.appspot.com^
 ||cybernetentertainment.com^
 ||daiporno.com^
 ||datefunclub.com^
-||datetraders.com^
 ||datexchanges.net^
 ||datingadnetwork.com^
 ||datingamateurs.com^
 ||datingcensored.com^
-||datingidol.com^
 ||debitcrebit669.com^
 ||deecash.com^
 ||demanier.com^
@@ -1760,7 +1758,6 @@ vkcdnservice.appspot.com^
 ||ngbn.net^
 ||ningme.ru^
 ||njmaq.com^
-||notify.support^
 ||nscash.com^
 ||nudedworld.com^
 ||nummobile.com^
@@ -17389,6 +17386,8 @@ inapps.appsflyersdk.com^
 ||weagehn.icu^
 ||eqygki.xyz^
 ||shbzjgs.cn^
+||jgjyxf.xyz^
+||jrutvnca.top^
 ||11dyw.com^
 ||irutvnco.top^
 ||diskaa.com^
@@ -17397,7 +17396,6 @@ inapps.appsflyersdk.com^
 ||xhlkvx.xyz^
 ||dgkship.icu^
 ||pojdnf.xyz^
-||pfkgl.top^
 ||wdxxx.top^
 ||ekltes.xyz^
 ||gfchck.xyz^
