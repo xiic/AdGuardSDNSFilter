@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-14T18:07:20.372Z
+! Last modified: 2024-08-15T00:23:42.826Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3652,7 +3652,6 @@ inapps.appsflyersdk.com^
 ||a.getflowbox.com^
 ||a.hcaptcha.com^
 ||a.mobify.com^
-||a.opumo.net^
 ||a.vturb.net^
 ||aan.amazon.com^
 ||activity-flow.vtex.com^
@@ -3707,7 +3706,6 @@ inapps.appsflyersdk.com^
 ||analytics.convertlanguage.com^
 ||analytics.data.visenze.com^
 ||analytics.dev.htmedia.in^
-||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
 ||analytics.digitalpfizer.com^
 ||analytics.disney.go.com^
@@ -3733,7 +3731,6 @@ inapps.appsflyersdk.com^
 ||analytics.kapost.com^
 ||analytics.klickly.com^
 ||analytics.lemoolah.com^
-||analytics.live.com^
 ||analytics.livestream.com^
 ||analytics.logsss.com^
 ||analytics.lunaweb.cloud^
@@ -3770,8 +3767,6 @@ inapps.appsflyersdk.com^
 ||analytics.shorthand.com^
 ||analytics.sitewit.com^
 ||analytics.snidigital.com^
-||analytics.springboardvideo.com^
-||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
 ||analytics.superstructure.ai^
 ||analytics.supplyframe.com^
@@ -3818,14 +3813,12 @@ inapps.appsflyersdk.com^
 ||audit.median.hu^
 ||aurora-d3.herokuapp.com^
 ||awaps.yandex.net^
-||awesome.section.io^
 ||ax.babe.today^
 ||axislogger.appspot.com^
 ||az.nzn.io^
 ||az693360.vo.msecnd.net^
 ||b.bedop.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
-||bacon.section.io^
 ||barium.cheezdev.com^
 ||bat.bing.net^
 ||baxter.olx.org^
@@ -3846,15 +3839,10 @@ inapps.appsflyersdk.com^
 ||beacon.sftoaa.com^
 ||beacon.sojern.com^
 ||beacon.statful.com^
-||beacon.tingyun.com^
-||beacon.vertebrae-axis.com^
-||beacon.viewlift.com^
-||beacon2.indieclick.com^
 ||beacons.mediamelon.com^
 ||beam.mjhlifesciences.com^
 ||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
-||behavior.tongdun.net^
 ||bento.agoda.com^
 ||bi.heyloyalty.com^
 ||bi.medscape.com^
@@ -3873,7 +3861,6 @@ inapps.appsflyersdk.com^
 ||c.wen.ru^
 ||c3metrics.medifast1.com^
 ||cache2.delvenetworks.com^
-||cahf4eed.mooo.com^
 ||calltrack.co^
 ||calvera-telemetry.polaris.me^
 ||camel.headfarming.com^
@@ -3902,13 +3889,11 @@ inapps.appsflyersdk.com^
 ||client-analytics.braintreegateway.com^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
-||client.tahono.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
 ||cloudmetrics.xenforo.com^
 ||cltgtstor001.blob.core.windows.net^
 ||cnt.3dmy.net^
-||cnt.mastorage.net^
 ||cod.bitrec.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
@@ -3925,7 +3910,6 @@ inapps.appsflyersdk.com^
 ||collection.e-satisfaction.com^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
-||collector-soompi.viki.io^
 ||collector.api.video^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
@@ -3935,7 +3919,6 @@ inapps.appsflyersdk.com^
 ||collector.mazeberry.com^
 ||collector.sspinc.io^
 ||collector5.zipy.ai^
-||collectorsvc.apac.vesta.io^
 ||commerce.bing.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||connect.idocdn.com^
@@ -3980,7 +3963,6 @@ inapps.appsflyersdk.com^
 ||csr.onet.pl^
 ||ct.capterra.com^
 ||ct.corpusapp.com^
-||ct.eid.co.nz^
 ||ct.itbusinessedge.com^
 ||ct.thegear-box.com^
 ||cts.businesswire.com^
@@ -4005,7 +3987,6 @@ inapps.appsflyersdk.com^
 ||demandmedia.s3.amazonaws.com^
 ||dep.hmgroup.com^
 ||deprecated-custom-domains.b-cdn.net^
-||detect.ergebnis-dienst.de^
 ||dfanalytics.dealerfire.com^
 ||dgcollector.evidon.com^
 ||diagnose.igstatic.com^
@@ -4037,7 +4018,6 @@ inapps.appsflyersdk.com^
 ||eu-mobile.events.data.microsoft.com^
 ||ev.moneymade.io^
 ||ev.stellarlabs.ai^
-||event-api.contactatonce.com^
 ||event-api.rdstation.com.br^
 ||event-listener.air.tv^
 ||event-logger.tagboard.com^
@@ -4106,7 +4086,6 @@ inapps.appsflyersdk.com^
 ||ga.webdigi.co.uk^
 ||ganon.yahoo.com^
 ||gateway.foresee.com^
-||gemius.mgr.consensu.org^
 ||genesis.malwarebytes.com^
 ||geo.gorillanation.com^
 ||geo.mezr.com^
@@ -4135,20 +4114,17 @@ inapps.appsflyersdk.com^
 ||hits.informer.com^
 ||hktracker.hankookilbo.com^
 ||hm.baidu.com^
-||hspbotdetection.azurewebsites.net^
 ||hydro-ma-proxy.akamaized.net^
 ||i.compendium.com^
 ||i.posthog.com^
 ||i.viafoura.co^
 ||iabusprivacy.pmc.com^
-||icu.getstorybox.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||identification.hotmart.com^
 ||ihi.flowplayer.com^
 ||imp.constantcontact.com^
 ||imp.pvnsolutions.com^
 ||impress.vcita.com^
-||impression.clickinc.com^
 ||inbound-analytics.pixlee.co^
 ||infinityid.condenastdigital.com^
 ||informer.yandex.ru^
@@ -4172,7 +4148,6 @@ inapps.appsflyersdk.com^
 ||jtracking-gate.lulusoft.com^
 ||k.keyade.com^
 ||k.streamrail.com^
-||k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com^
 ||kalstats.kaltura.com^
 ||kiwi.mdldb.net^
 ||l.fairblocker.com^
@@ -4195,7 +4170,6 @@ inapps.appsflyersdk.com^
 ||livestats.kaltura.com^
 ||lma.npaw.com^
 ||loader-cdn.azureedge.net^
-||loader.zeroform.com^
 ||log-*.previewnetworks.com^
 ||log-pq.shopfully.cloud^
 ||log.aimtell.com^
@@ -4208,7 +4182,6 @@ inapps.appsflyersdk.com^
 ||log.reformal.ru^
 ||log.seekda.com^
 ||logger.snackly.co^
-||logging.carambo.la^
 ||logging.je-apps.com^
 ||logging.pw.adn.cloud^
 ||loggingapi.spingo.com^
@@ -4217,8 +4190,6 @@ inapps.appsflyersdk.com^
 ||logs.animaapp.com^
 ||logs.mezmo.com^
 ||logs.spilgames.com^
-||logs.thebloggernetwork.com^
-||lps.qantas.com^
 ||lucid.mjhassoc.com^
 ||ma.logsss.com^
 ||magento-recs-sdk.adobe.net^
@@ -4238,7 +4209,6 @@ inapps.appsflyersdk.com^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
 ||metrics.doppiocdn.com^
-||metrics.doppiocdn.org^
 ||metrics.doppiostreams.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
@@ -4323,7 +4293,6 @@ inapps.appsflyersdk.com^
 ||pixel.condenastdigital.com^
 ||pixel.driveniq.com^
 ||pixel.fohr.co^
-||pixel.inforsea.com^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
 ||pixel.mintigo.com^
@@ -4333,7 +4302,6 @@ inapps.appsflyersdk.com^
 ||pixel.roymorgan.com^
 ||pixel.s3xified.com^
 ||pixel.safe-installation.com^
-||pixel.solvemedia.com^
 ||pixel.sprinklr.com^
 ||pixel.videohub.tv^
 ||pixel.wp.com^
@@ -4363,13 +4331,11 @@ inapps.appsflyersdk.com^
 ||proxy.dzeio.com^
 ||pt.crossmediaservices.com^
 ||pt.ispot.tv^
-||ptracker.nurturehq.com^
 ||ptsc.shoplocal.com^
 ||pub.sheknows.com^
 ||px.marchex.io^
 ||px.mountain.com^
 ||px.owneriq.net^
-||px.spiceworks.com^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
 ||ramp.purch.com^
@@ -4418,7 +4384,6 @@ inapps.appsflyersdk.com^
 ||secure.merchantadvantage.com^
 ||seg.sharethis.com^
 ||segments.adap.tv^
-||sentry.arc.io^
 ||service.trustpid.com^
 ||session.timecommerce.net^
 ||sftrack.searchforce.net^
@@ -4443,7 +4408,6 @@ inapps.appsflyersdk.com^
 ||staging-pt.ispot.tv^
 ||starman.fathomdns.com^
 ||stat.absolutist.com^
-||stat.boredomtherapy.com^
 ||stat.glaze.ai^
 ||stat.mixi.media^
 ||stat.moevideo.net^
@@ -4522,7 +4486,6 @@ inapps.appsflyersdk.com^
 ||t.auditedmedia.org.au^
 ||t.beop.io^
 ||t.bimvid.com^
-||t.brand-server.com^
 ||t.buyist.app^
 ||t.c4tw.net^
 ||t.cfjump.com^
@@ -4537,10 +4500,8 @@ inapps.appsflyersdk.com^
 ||t.jobsyn.org^
 ||t.menepe.com^
 ||t.metrilo.com^
-||t.playwayfinder.com^
 ||t.pointandplace.com^
 ||t.powerreviews.com^
-||t.pswec.com^
 ||t.raptorsmartadvisor.com^
 ||t.rentcafe.com^
 ||t.screeb.app^
@@ -4601,14 +4562,12 @@ inapps.appsflyersdk.com^
 ||trace.swaven.com^
 ||track-dark-bz.b-cdn.net^
 ||track.91app.io^
-||track.99acres.com^
 ||track.atgstores.com^
 ||track.bannedcelebs.com^
 ||track.btdmp.com^
 ||track.coherentpath.com^
 ||track.contently.com^
 ||track.cordial.io^
-||track.dark.bz^
 ||track.digitalriver.com^
 ||track.emerse.com^
 ||track.hubspot.com^
@@ -4640,7 +4599,6 @@ inapps.appsflyersdk.com^
 ||tracker-dot-optimeeze.appspot.com^
 ||tracker-v4.gamedock.io^
 ||tracker.affirm.com^
-||tracker.arc.io^
 ||tracker.beezup.com^
 ||tracker.cdnbye.com^
 ||tracker.downdetector.com^
@@ -4786,7 +4744,6 @@ inapps.appsflyersdk.com^
 ||win.staticstuff.net^
 ||wl-pixel.index.digital^
 ||wordmonetize.com^
-||wren.condenastdigital.com^
 ||ws.audioeye.com^
 ||wsmcdn.audioeye.com^
 ||wstats.slashed.cloud^
@@ -4811,7 +4768,6 @@ inapps.appsflyersdk.com^
 ! cloudfront
 ||d10lpsik1i8c69.cloudfront.net^
 ||d11bdev7tcn7wh.cloudfront.net^
-||d15kdaxu5c0hfw.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d1733r3id7jrw5.cloudfront.net^
@@ -4847,7 +4803,6 @@ inapps.appsflyersdk.com^
 ||d241ujsiy3yht0.cloudfront.net
 ||d24cze5sab2jwg.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
-||d28g9g3vb08y70.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2ezz24t9nm0vu.cloudfront.net^
 ||d2fj3s7h83rb61.cloudfront.net
@@ -4857,7 +4812,6 @@ inapps.appsflyersdk.com^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2lxqodqbpy7c2.cloudfront.net^
-||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2pozfvrp52dk4.cloudfront.net^
@@ -4870,15 +4824,12 @@ inapps.appsflyersdk.com^
 ||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2z0bn1jv8xwtk.cloudfront.net^
-||d2zue0pgsssbc6.cloudfront.net^
 ||d31y97ze264gaa.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
 ||d34r8q7sht0t9k.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
-||d36u3psykfwy91.cloudfront.net^
 ||d39ion77s0ucuz.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
-||d3bj8nkfly20uo.cloudfront.net^
 ||d3bo67muzbfgtl.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
@@ -4892,9 +4843,7 @@ inapps.appsflyersdk.com^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
 ||d3or5d0jdz94or.cloudfront.net^
-||d3pi0tys5sdysl.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
-||d3qztsm17pgxue.cloudfront.net^
 ||d3r7h55ola878c.cloudfront.net^
 ||d3s7ggfq1s6jlj.cloudfront.net^
 ||d3sbxpiag177w8.cloudfront.net^
@@ -4905,7 +4854,6 @@ inapps.appsflyersdk.com^
 ||d761erxl2qywg.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
 ||danv01ao0kdr2.cloudfront.net^
-||daq0d0aotgq0f.cloudfront.net^
 ||dc8na2hxrj29i.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcv4p460uqa46.cloudfront.net^
@@ -4919,7 +4867,6 @@ inapps.appsflyersdk.com^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnxlgencstz4.cloudfront.net^
 ||dqif5bl25s0bf.cloudfront.net^
-||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
 ||dtxtngytz5im1.cloudfront.net^
 ||du4rq1xqh3i1k.cloudfront.net^
@@ -4935,7 +4882,6 @@ inapps.appsflyersdk.com^
 ||goat.skeetstats.xyz^
 ||goat.tailspace.net^
 ||st.mapleranks.com^
-||stats.afrocave.com^
 ||stats.boringproxy.io^
 ||stats.how.wtf^
 ! Fingerprinting
@@ -5011,12 +4957,10 @@ inapps.appsflyersdk.com^
 ||bekannt-im-web.de^
 ||belboon.de^
 ||beliebtestewebseite.de^
-||besucherstats.de^
 ||besucherzaehler-counter.de^
 ||besucherzaehler-homepage.de^
 ||besucherzaehler-zugriffszaehler.de^
 ||besucherzaehler.org^
-||besucherzahlen.com^
 ||betarget.de^
 ||bf-tools.net^
 ||blacktri.com^
@@ -5064,7 +5008,6 @@ inapps.appsflyersdk.com^
 ||cya1t.net^
 ||dcmn.io^
 ||df-srv.de^
-||die-rankliste.com^
 ||directcounter.de^
 ||divolution.com^
 ||dl8.me^
@@ -5155,13 +5098,10 @@ inapps.appsflyersdk.com^
 ||page-hit.de^
 ||pagerank-linkverzeichnis.de^
 ||pagerank-online.eu^
-||pagerank-suchmaschine.de^
 ||pc-agency24.de^
-||pimpmypr.de^
 ||plexworks.de^
 ||powercount.com^
 ||ppro.de^
-||pr-chart.com^
 ||pr-linktausch.de^
 ||pr-sunshine.de^
 ||prnetwork.de^
@@ -5262,7 +5202,6 @@ inapps.appsflyersdk.com^
 ||audiencesquare.com^
 ||carts.guru^
 ||casualstat.com^
-||coll1onf.com^
 ||compteur-fr.com^
 ||compteur-gratuit.org^
 ||compteur-visite.com^
@@ -5299,7 +5238,6 @@ inapps.appsflyersdk.com^
 ||netvigie.com^
 ||phywi.org^
 ||pingclock.net^
-||reseau-pub.com^
 ||rossel.tech^
 ||semiocast.com^
 ||sk1n.fr^
@@ -5368,7 +5306,6 @@ inapps.appsflyersdk.com^
 ||phpstat.com^
 ||pixanalytics.com^
 ||pp8.com^
-||prjslxhtx003.top^
 ||pvmax.net^
 ||qchannel03.cn^
 ||qhupdate.com^
@@ -5474,14 +5411,12 @@ inapps.appsflyersdk.com^
 ||contatoreaccessi.com^
 ||cpmktg.com^
 ||ctusolution.com^
-||cuntador.com^
 ||digital-metric.com^
 ||distribeo.com^
 ||freecounter.it^
 ||freestat.ws^
 ||freestats.biz^
 ||freestats.net^
-||freestats.org^
 ||freestats.tv^
 ||freestats.ws^
 ||geocontatore.com^
@@ -5518,7 +5453,6 @@ inapps.appsflyersdk.com^
 ||webmobile.ws^
 ||websanalytic.com^
 ||whoseesyou.com^
-||wstatslive.com^
 ! Japanese
 ||accaii.com^
 ||accesstrade.net^
@@ -5941,7 +5875,6 @@ inapps.appsflyersdk.com^
 ||mastertag.q-sis.de^
 ||met.vgwort.de^
 ||nexxtv-events.servicebus.windows.net^
-||omniture.eaeurope.eu^
 ||orbidder.otto.de^
 ||owen.prolitteris.ch^
 ||pixel.poptok.com^
@@ -5973,7 +5906,6 @@ inapps.appsflyersdk.com^
 ||tracking.emsmobile.de^
 ||tracking.gameforge.de^
 ||tracking.hannoversche.de^
-||tracking.mindshare.de^
 ||tracking.rtl.de^
 ||tracking.s24.com^
 ||tracking.srv2.de^
@@ -5983,7 +5915,6 @@ inapps.appsflyersdk.com^
 ||trecker.aklamio.com^
 ||vtrtl.de^
 ||webcounter.goweb.de^
-||wranalytics.wildrocket.io^
 ||x.bloggurat.net^
 ||zs.dhl.de^
 ||abs.proxistore.com^
@@ -6054,7 +5985,6 @@ inapps.appsflyersdk.com^
 ||dt.xfyun.cn^
 ||dup.baidustatic.com^
 ||eclick.baidu.com^
-||epro.sogou.com^
 ||experiments.sparanoid.net^
 ||fourier.taobao.com^
 ||g.yccdn.com^
@@ -6176,7 +6106,6 @@ inapps.appsflyersdk.com^
 ||nanostats.nanopress.it^
 ||plausible.citynews.ovh^
 ||rd.alice.it^
-||sem.triboomedia.it^
 ||stat.acca.it^
 ||stat.valica.it^
 ||stats.itsol.it^
@@ -6199,7 +6128,6 @@ inapps.appsflyersdk.com^
 ||analytics.contents.by-fw.jp^
 ||analytics.liveact.cri-mw.jp^
 ||analytics.livesense.marketing^
-||analytics.mbga.jp^
 ||analytics.partcommunity.com^
 ||analyzer51.fc2.com^
 ||api.all-internet.jp^
@@ -6234,7 +6162,6 @@ inapps.appsflyersdk.com^
 ||reports-tsi.tangerine.io^
 ||reproio.com^
 ||s.dc-tag.jp^
-||script-sh.d2cdm.jp^
 ||sp-trk.com^
 ||stats.streamhub.io^
 ||stlog.d.dmkt-sp.jp^
@@ -6259,7 +6186,6 @@ inapps.appsflyersdk.com^
 ||tracker.smartseminar.jp^
 ||trk.fensi.plus^
 ||userdive.com^
-||webtracker.jp^
 ||x9.shinobi.jp^
 ! Korean
 ||acelogger.heraldcorp.com^
@@ -6291,7 +6217,6 @@ inapps.appsflyersdk.com^
 ||collect.adplogger.no^
 ||ish.tumedia.no^
 ||log.medietall.no^
-||analytics.aasaam.com^
 ! Polish
 ||analytics.ceneo.pl^
 ||analytics.greensender.pl^
@@ -6449,7 +6374,6 @@ inapps.appsflyersdk.com^
 ||sayac.kapital.com.tr^
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
-||tracking.venturify.at^
 ||traffic.wdc.center^
 ! Ukranian
 ||informers.sinoptik.ua^
@@ -9679,6 +9603,7 @@ inapps.appsflyersdk.com^
 ||trustclick.ne.jp^
 ||tumabeni.com^
 ||webantenna.info^
+||webtracker.jp^
 ||widget-view.dmm.co.jp^
 ||widget-view.dmm.com^
 ||widget.zenback.jp^
@@ -9736,7 +9661,6 @@ inapps.appsflyersdk.com^
 ||ad.abema.io^
 ||ad-hatena.com^
 ||advert.punyu.com^
-||gum.dlbooks.to^
 
 !
 ! Source name: AdGuard German filter ad servers
@@ -17314,6 +17238,10 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||wnstug.xyz^
+||shbzhkj.cn^
+||jrjtibez.icu^
+||bowoprf.icu^
 ||pxqqytk.icu^
 ||dshjbn.xyz^
 ||shbzjkj.cn^
@@ -21618,6 +21546,7 @@ inapps.appsflyersdk.com^
 ||web.900.la^
 ||wew.dushiwenxue.net^
 ||wowad.wow-classic.com^
+||wuliao.epro.sogou.com^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xdyjt.com^
@@ -22447,6 +22376,7 @@ inapps.appsflyersdk.com^
 
 ||amaroid.net^
 
+||analytics.aasaam.com^
 ||analytics-2.aasaam.com^
 ||analytics-3.aasaam.com^
 analytics-*.aasaam.com
