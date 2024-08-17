@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-17T00:23:25.297Z
+! Last modified: 2024-08-17T06:07:20.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10673,8 +10673,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-08-15 05:41:01 CEST
-# entries:        1079
+# last updated:   2024-08-17 05:52:55 CEST
+# entries:        1082
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -10869,6 +10869,7 @@ inapps.appsflyersdk.com^
 ||cdn.qwtag.com^
 ||cdn.reaktion.se^
 ||cdn.routy.app^
+||cdn.rudderlabs.com^
 ||cdn.shareaholic.net^
 ||cdn.snigelweb.com^
 ||cdn.speedcurve.com^
@@ -11047,6 +11048,7 @@ inapps.appsflyersdk.com^
 ||libring.com^
 ||lifeofsvea.mainroll.com^
 ||live.demand.supply^
+||loadbalancer.visitor-analytics.io^
 ||loader.wisepops.com^
 ||loadr.exelator.com^
 ||log-api.newrelic.com^
@@ -11213,6 +11215,7 @@ inapps.appsflyersdk.com^
 ||stat.nyheter24.se^
 ||stat.torgen.se^
 ||stat03.stat.cliche.se^
+||statcounter.va-endpoint.com^
 ||static.chartbeat.com^
 ||static.hotjar.com^
 ||static.matchads.net^
@@ -17240,6 +17243,13 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||uloscw.xyz^
+||gahejiao.com^
+||nbfsvreu.icu^
+||vwvatp.xyz^
+||shbzgkj.cn^
+||bumnxiev.top^
+||tui07.shop^
 ||nmtcxz.xyz^
 ||doujs07.shop^
 ||izqeyo.xyz^
