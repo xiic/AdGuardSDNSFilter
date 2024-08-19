@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-19T06:08:17.047Z
+! Last modified: 2024-08-19T12:09:27.639Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4030,6 +4030,7 @@ inapps.appsflyersdk.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
+||events-endpoint.pointandplace.com^
 ||events.air.tv^
 ||events.api.secureserver.net^
 ||events.attentivemobile.com^
@@ -4245,6 +4246,7 @@ inapps.appsflyersdk.com^
 ||nova.dice.net^
 ||nr.static.mmcdn.com^
 ||ns.rvmkitt.com^
+||observe-nexus.pointandplace.com^
 ||observer.ip-label.net^
 ||octopart-analytics.com^
 ||oda.markitondemand.com^
@@ -11896,8 +11898,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Aug 2024 16:08 UTC+7
-! Version: 2408131608
+! Last modified: 19 Aug 2024 16:18 UTC+7
+! Version: 2408191618
 ! Blocked: 919 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -12813,9 +12815,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Aug 2024 19:33 UTC+7
-! Version: 2408101933
-! Blocked: 4,527 rules
+! Last modified: 19 Aug 2024 16:18 UTC+7
+! Version: 2408191618
+! Blocked: 4,528 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15151,6 +15153,7 @@ inapps.appsflyersdk.com^
 ||rutwdj.id^
 ||rwrb55.com^
 ||rwrb66.com^
+||rxfspe.ulthi.de^
 ||s22khuyenmai.xyz^
 ||s2rjtiki.com^
 ||s33788.com^
@@ -17250,6 +17253,7 @@ inapps.appsflyersdk.com^
 ||iaindu.cn^
 ||dqlrfmwp.icu^
 ||cewrutf.top^
+||grihaith.com^
 ||cb61190372.com^
 ||uloscw.xyz^
 ||gahejiao.com^
