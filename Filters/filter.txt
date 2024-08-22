@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-22T06:07:53.104Z
+! Last modified: 2024-08-22T12:09:12.943Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3047,6 +3047,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||admob-app-id-*.firebaseio.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
 ||tracking.iwhop.cn^
@@ -6378,10 +6379,12 @@ inapps.appsflyersdk.com^
 ||0.myikas.com^
 ||analitik.bik.gov.tr^
 ||analytics.cdnstr.com^
+||analytics.faprika.net^
 ||analytics.kkb.com.tr^
 ||analytics.turk.pro^
 ||c.keltis.com^
 ||collector.wawlabs.com^
+||log.collectaction.com^
 ||sayac.kapital.com.tr^
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
@@ -17260,6 +17263,7 @@ inapps.appsflyersdk.com^
 ||reacdf311.cn^
 ||jewruta.top^
 ||uerbgnkas.com^
+||uftcfo.xyz^
 ||55726zubo56686.com^
 ||sauyv.top^
 ||imgoss820.top^
