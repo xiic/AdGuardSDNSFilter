@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-29T12:09:43.676Z
+! Last modified: 2024-08-29T18:07:33.656Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -385,9 +385,11 @@ vkcdnservice.appspot.com^
 ||1547513774.rsc.cdn77.org^
 ||1547760468.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
+||1670840964.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1739135659.rsc.cdn77.org^
+||1859765560.rsc.cdn77.org^
 ||1939661642.rsc.cdn77.org^
 ||1wnurc.com^
 ||360playvid.com^
@@ -6606,6 +6608,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||cmcxmh.com^
 ||wisokykulas.bid^
 ||yxhouwezb.site^
 ||pwsviu.com^
@@ -9344,6 +9347,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||avhduwvirosl.com^
 ||adma.xsrv.jp^
 ||amazones-tools.com^
 ||ranklet.come.cc^
