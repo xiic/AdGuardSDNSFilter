@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-28T18:07:07.013Z
+! Last modified: 2024-08-29T00:25:13.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -377,10 +377,13 @@ vkcdnservice.appspot.com^
 ||123-stream.org^
 ||1266417098.rsc.cdn77.org^
 ||1284260525.rsc.cdn77.org^
+||1373760390.rsc.cdn77.org^
 ||1432910691.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1527114871.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1547513774.rsc.cdn77.org^
+||1547760468.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
@@ -5641,6 +5644,7 @@ inapps.appsflyersdk.com^
 ||engageya.com^
 ||enviou.com.br^
 ||fulllab.com.br^
+||goadopt.io^
 ||hariken.co^
 ||lomadee.com^
 ||marktest.pt^
@@ -5792,6 +5796,7 @@ inapps.appsflyersdk.com^
 ||botize.com^
 ||ccrtvi.com^
 ||certifica.com^
+||comitiumanalytics.com^
 ||contadordevisitas.es^
 ||contadorgratis.com^
 ||contadorgratis.es^
@@ -17305,6 +17310,11 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||zztxfj.xyz^
+||gbfedashb4.fun^
+||acdfwe113.cn^
+||ymwjwe.xyz^
+||dchyjb.xyz^
 ||maiysw.xyz^
 ||gsdedash9b.fun^
 ||acdwef114.cn^
@@ -21748,6 +21758,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||daima.wenkuwenku.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
