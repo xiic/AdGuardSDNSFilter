@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-31T00:25:02.185Z
+! Last modified: 2024-08-31T06:07:15.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -9346,7 +9346,6 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
-||wpiajkniqnty.com^
 ||adma.xsrv.jp^
 ||amazones-tools.com^
 ||ranklet.come.cc^
@@ -10715,8 +10714,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-08-17 05:52:55 CEST
-# entries:        1082
+# last updated:   2024-08-31 06:27:09 CEST
+# entries:        1083
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11287,6 +11286,7 @@ inapps.appsflyersdk.com^
 ||stpd.cloud^
 ||strossle.com^
 ||st-n.ads1-adnow.com^
+||svanalytics.containers.piwik.pro^
 ||synchrobox.adswizz.com^
 ||system-notify.app^
 ||s-eu-1.pushpushgo.com^
@@ -17321,6 +17321,9 @@ inapps.appsflyersdk.com^
 ||bndxrr.xyz^
 ||iditero.top^
 ||gjmedashb0.fun^
+||lewrutl.top^
+||jditera.top^
+||gbgedashb8.fun^
 ||koauq.top^
 ||zrkksps.icu^
 ||ghjedashb6.fun^
