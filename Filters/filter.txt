@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-31T06:07:15.613Z
+! Last modified: 2024-08-31T12:08:43.884Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3774,6 +3774,7 @@ inapps.appsflyersdk.com^
 ||analytics.piksel.com^
 ||analytics.pinterest.com^
 ||analytics.pixels.ai^
+||analytics.plasmic.app^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -3892,6 +3893,7 @@ inapps.appsflyersdk.com^
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
+||cdn.ravm.tv^
 ||cdn.usefathom.com^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
@@ -4398,6 +4400,7 @@ inapps.appsflyersdk.com^
 ||s.beop.io^
 ||s.logsss.com^
 ||s.srvsynd.com^
+||s.vibe.co^
 ||sa.scorpion.co^
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
@@ -4550,6 +4553,7 @@ inapps.appsflyersdk.com^
 ||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
+||tag.pearldiver.io^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
 ||tag.statshop.fr^
@@ -17324,6 +17328,7 @@ inapps.appsflyersdk.com^
 ||lewrutl.top^
 ||jditera.top^
 ||gbgedashb8.fun^
+||caqreg.xyz^
 ||koauq.top^
 ||zrkksps.icu^
 ||ghjedashb6.fun^
