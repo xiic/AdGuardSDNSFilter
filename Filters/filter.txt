@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-01T06:08:08.817Z
+! Last modified: 2024-09-01T12:08:39.300Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -17302,10 +17302,8 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||asd8900.oss-*.aliyuncs.com^
-||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
-||txhfgwgkwt*.asia^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||107.167.16.*.gif
@@ -17313,6 +17311,7 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||saltsleaseholder.com^
 ||yfaqgk.xyz^
 ||frntzz.xyz^
 ||tyaqzjp.icu^
@@ -17321,6 +17320,7 @@ inapps.appsflyersdk.com^
 ||dvlith.xyz^
 ||gesfdashb5.fun^
 ||bewrutv.top^
+||gcvgedashb3.fun^
 ||wxsicu.xyz^
 ||gedashb112.fun^
 ||htxwzp.xyz^
@@ -17582,7 +17582,6 @@ inapps.appsflyersdk.com^
 ||shbzqkj.cn^
 ||jz4u1.icu^
 ||shbzogs.cn^
-||molpmh.xyz^
 ||starredvs.com^
 ||wnmoobz.icu^
 ||doujs02.shop^
@@ -18524,6 +18523,7 @@ inapps.appsflyersdk.com^
 ||mnpzrgz.xyz^
 ||moberg.cn^
 ||mohvxrvd.xyz^
+||molpmh.xyz^
 ||mondigo.cn^
 ||mpn56e.cn^
 ||mqaoweu.icu^
