@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-01T00:31:05.883Z
+! Last modified: 2024-09-01T06:08:08.817Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10718,8 +10718,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-08-31 06:27:09 CEST
-# entries:        1083
+# last updated:   2024-09-01 07:25:08 CEST
+# entries:        1078
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -10747,7 +10747,6 @@ inapps.appsflyersdk.com^
 ||adpeepshosted.com^
 ||adrecord.com^
 ||adroll.com^
-||ads.affiliate.legolas.bet^
 ||ads.aland.com^
 ||ads.annonsbladet.com^
 ||ads.aralego.com^
@@ -10807,7 +10806,6 @@ inapps.appsflyersdk.com^
 ||analytics.nikkasystems.com^
 ||analytics.residencemagazine.se^
 ||analytics.smhi.se^
-||analytics.sunet.se^
 ||analytics.svenskdam.se^
 ||analytics.svt.se^
 ||analytics.teknikveckan.se^
@@ -10942,7 +10940,6 @@ inapps.appsflyersdk.com^
 ||cl.k5a.io^
 ||classic.avantlink.com^
 ||clevernt.com^
-||click.vgnett.no^
 ||clientcdn.pushengage.com^
 ||cl-eu2.k5a.io^
 ||cl-eu4.k5a.io^
@@ -11152,7 +11149,6 @@ inapps.appsflyersdk.com^
 ||otc-cdn.relevant-digital.com^
 ||owa.agriprim.se^
 ||pa.rxthdr.com^
-||palmangelssverige.com.se^
 ||partners.mcontigo.com^
 ||pcf.tdscd.com^
 ||petrk.com^
@@ -11227,7 +11223,6 @@ inapps.appsflyersdk.com^
 ||se.ads.justpremium.com^
 ||se1.siteimprove.com^
 ||se5.pliing.com^
-||search.spotxchange.com^
 ||secure.curl7bike.com^
 ||secure.reaktion.se^
 ||secure.statcounter.com^
@@ -17324,6 +17319,8 @@ inapps.appsflyersdk.com^
 ||xzwtbdtq.xyz^
 ||gewqashbwq.fun^
 ||dvlith.xyz^
+||gesfdashb5.fun^
+||bewrutv.top^
 ||wxsicu.xyz^
 ||gedashb112.fun^
 ||htxwzp.xyz^
