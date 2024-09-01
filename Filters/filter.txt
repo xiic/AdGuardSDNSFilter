@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-01T12:08:39.300Z
+! Last modified: 2024-09-01T18:06:38.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11935,8 +11935,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Aug 2024 10:35 UTC+7
-! Version: 2408301035
+! Last modified: 01 Sep 2024 22:59 UTC+7
+! Version: 2409012259
 ! Blocked: 920 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -12853,9 +12853,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 30 Aug 2024 10:36 UTC+7
-! Version: 2408301036
-! Blocked: 4,557 rules
+! Last modified: 01 Sep 2024 22:59 UTC+7
+! Version: 2409012259
+! Blocked: 4,574 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12898,6 +12898,7 @@ inapps.appsflyersdk.com^
 ||50gb034.xyz^
 ||555lotte.com^
 ||555shopify.com^
+||558-558-559.com^
 ||55lotte.com^
 ||588589.com^
 ||5giay.cc^
@@ -13407,6 +13408,7 @@ inapps.appsflyersdk.com^
 ||dich-vu-xvip-vib.com^
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
+||dichvu.congtygiaohangtietkiemvn.com^
 ||dichvuchuyentien-ind.weebly.com^
 ||dichvucong-gov.com^
 ||dichvucong.agov.net^
@@ -13527,6 +13529,7 @@ inapps.appsflyersdk.com^
 ||egiontheh.cfd^
 ||egt091102205euc.click^
 ||egt091102207euc.click^
+||elitiorecfreetoo.cc^
 ||email-apple.support^
 ||emodernst.cfd^
 ||emoney2017.com^
@@ -13780,6 +13783,7 @@ inapps.appsflyersdk.com^
 ||giaodichtiente247ipay.weebly.com^
 ||giaodichvidientu.com.vn^
 ||giaohangtietkiem247.com^
+||giaohangtietkiemvn.com^
 ||giaothuongvietnhat.org^
 ||gifcode-lienquan.com^
 ||giftbangbangtank.weebly.com^
@@ -13895,6 +13899,8 @@ inapps.appsflyersdk.com^
 ||hethongdonhang.com^
 ||hethonggiaodichvidientu247.com^
 ||hethongquatang.vn^
+||hethongtikicareers24.com^
+||hethongtikicareers24h.com^
 ||hethongvaynhanh247.com^
 ||hethongviet99.com^
 ||hgff11.com^
@@ -13965,6 +13971,7 @@ inapps.appsflyersdk.com^
 ||hotroviet999.com^
 ||hpggroup.net^
 ||hpjr.shop^
+||hpowixs.info^
 ||hpy88yu.com^
 ||hrbgw.shop^
 ||hs38ma.cyou^
@@ -14195,6 +14202,7 @@ inapps.appsflyersdk.com^
 ||lazada6.org^
 ||lazada6.vip^
 ||lazada66.vip^
+||lazada68.com^
 ||lazada77.com^
 ||lazada7788.com^
 ||lazada8.net^
@@ -14245,6 +14253,7 @@ inapps.appsflyersdk.com^
 ||letanggiai01.com^
 ||letangqua2022.com^
 ||letraoquavn.com^
+||lfb.ink^
 ||lg777.club^
 ||lib1.biz^
 ||lichcatdien.info^
@@ -14339,6 +14348,7 @@ inapps.appsflyersdk.com^
 ||lvietcombank.com^
 ||lzd2024.com^
 ||m-facebookk.com.vn^
+||m-fb.site^
 ||m-fecabook.com^
 ||m.12luxury.com^
 ||m.1svi101.com^
@@ -14940,6 +14950,7 @@ inapps.appsflyersdk.com^
 ||nuk36952s.com^
 ||nvietcombank.com^
 ||nykkky.com^
+||nzx65821s.com^
 ||offer.great1waytowsuccess.com^
 ||officials-kmspico.com^
 ||ofth546ebr.cfd^
@@ -15730,6 +15741,8 @@ inapps.appsflyersdk.com^
 ||sindtex.shop^
 ||sinhvienvietnam2022.weebly.com^
 ||sirec.in^
+||sjfku11.com^
+||sjfku88.com^
 ||skhf11.com^
 ||skhf66.com^
 ||smilitygorb.club^
@@ -16179,6 +16192,7 @@ inapps.appsflyersdk.com^
 ||tinhot24h.website^
 ||tinhothomnay.com^
 ||tinhotnew.com^
+||tinhotnhat.pro^
 ||tinlequa365.com^
 ||tinlocvang123.com^
 ||tinnhanh24gio.com^
@@ -16370,6 +16384,7 @@ inapps.appsflyersdk.com^
 ||upta16theu.cfd^
 ||uptomscan.cfd^
 ||upupdate.ooguy.com^
+||upushjxglaroiqnii.org^
 ||uslimsofbr.cfd^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
 ||uudaikhachhang-tructuyen.com.vn^
@@ -17201,6 +17216,7 @@ inapps.appsflyersdk.com^
 ||westgarybank.com^
 ||wietcombank.com^
 ||wikidoithuong.com^
+||wildrive.com^
 ||winmomo.com^
 ||winsbank.io^
 ||wioabfwyigasfbksl.org^
@@ -17218,6 +17234,7 @@ inapps.appsflyersdk.com^
 ||wooribank.info^
 ||woorivn.online^
 ||word.emldn.com^
+||wrapn.net^
 ||wutienitme247.info^
 ||wvOntgd.pqmg.bid^
 ||wvietcombank.com^
@@ -17321,6 +17338,7 @@ inapps.appsflyersdk.com^
 ||gesfdashb5.fun^
 ||bewrutv.top^
 ||gcvgedashb3.fun^
+||jy01.shop^
 ||wxsicu.xyz^
 ||gedashb112.fun^
 ||htxwzp.xyz^
