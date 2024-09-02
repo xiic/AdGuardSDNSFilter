@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-02T12:09:54.274Z
+! Last modified: 2024-09-02T18:07:32.509Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -96,7 +96,6 @@
 ||d1f7vr2umogk27.cloudfront.net^
 ||dfjlgfb4lxka5.cloudfront.net^
 ||dupcczkfziyd3.cloudfront.net^
-||d1cglulyxpv8sj.cloudfront.net^
 ||c.down.tube^
 ||d3pnod4lg28ix4.cloudfront.net^
 ||d388cbecyo4yoc.cloudfront.net^
@@ -134,7 +133,6 @@
 ||champagne.futurecdn.net^
 ||ih1.fileforums.com^
 ||veih8bee.xhcdn.com^
-||qontent.pomvideo.cc^
 ||ads.thetimes.co.uk^
 ||d1cykymlllue3h.cloudfront.net^
 ||dggaenaawxe8z.cloudfront.net^
@@ -469,7 +467,6 @@ vkcdnservice.appspot.com^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
 ||findcouponspromos.com^
-||fp27ee.wac.systemcdn.net^
 ||free.ovl.me^
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
@@ -1508,6 +1505,7 @@ vkcdnservice.appspot.com^
 ||cashthat.com^
 ||cbmiocw.com^
 ||chatinator.com^
+||cherrytv.media^
 ||citysex.com^
 ||clickaine.com^
 ||clipxn.com^
@@ -4237,6 +4235,7 @@ inapps.appsflyersdk.com^
 ||mv.treehousei.com^
 ||myscoop-tracking.googlecode.com^
 ||native-ads-events-api.c4s-rd.services^
+||native-ads-events-api2.c4s-rd.services^
 ||neocounter.neoworx-blog-tools.net^
 ||net-tracker.notolytix.com^
 ||netlify-rum.netlify.app^
@@ -4421,6 +4420,7 @@ inapps.appsflyersdk.com^
 ||stat.moevideo.net^
 ||stat.mydaddy.cc^
 ||stat.segitek.hu^
+||stat.testme.cloud^
 ||stat.u.sb^
 ||stat.web-regie.com^
 ||statdb.pressflex.com^
@@ -4480,6 +4480,7 @@ inapps.appsflyersdk.com^
 ||statscollector.sd-rtn.com^
 ||statt-collect.herokuapp.com^
 ||stg-data-collector.playbuzz.com^
+||stream-log.dditscdn.com^
 ||streams.cablecar.sph.com.sg^
 ||sts.eccmp.com^
 ||sunlightmetrics.b-cdn.net^
@@ -9329,6 +9330,8 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||creative-klepon-3f0ecb.netlify.app^
+||effulgent-stroopwafel-efb9ce.netlify.app^
 ||adma.xsrv.jp^
 ||amazones-tools.com^
 ||ranklet.come.cc^
@@ -11914,8 +11917,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Sep 2024 22:59 UTC+7
-! Version: 2409012259
+! Last modified: 02 Sep 2024 22:43 UTC+7
+! Version: 2409022243
 ! Blocked: 920 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -12832,9 +12835,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 01 Sep 2024 22:59 UTC+7
-! Version: 2409012259
-! Blocked: 4,574 rules
+! Last modified: 02 Sep 2024 22:23 UTC+7
+! Version: 2409022223
+! Blocked: 4,575 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14446,6 +14449,7 @@ inapps.appsflyersdk.com^
 ||mizonevn.shop^
 ||mkshopmobi.xyz^
 ||mlazada.com^
+||mljfff.zgbv.tech^
 ||mlswl.shop^
 ||mmbonline01.com^
 ||mmocorporation2017.com^
