@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-03T12:09:36.043Z
+! Last modified: 2024-09-04T00:25:38.705Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -496,6 +496,7 @@ vkcdnservice.appspot.com^
 ||mmwebhandler.888.com^
 ||monetize-static.viralize.tv^
 ||neural.myth.dev^
+||ogads-pa.googleapis.com^
 ||onlinepromogift.com^
 ||owebsearch.com^
 ||pacontainer.s3.amazonaws.com^
@@ -1184,6 +1185,7 @@ vkcdnservice.appspot.com^
 ||d3ngt858zasqwf.cloudfront.net^
 ||d3numuoibysgi8.cloudfront.net^
 ||d3nvrqlo8rj1kw.cloudfront.net^
+||d3nz96k4xfpkvu.cloudfront.net^
 ||d3o9njeb29ydop.cloudfront.net^
 ||d3ohee25hhsn8j.cloudfront.net^
 ||d3op2vgjk53ps1.cloudfront.net^
@@ -6582,6 +6584,8 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||paintejuke.com^
+||ipvertnet.com^
 ||cmcxmh.com^
 ||wisokykulas.bid^
 ||yxhouwezb.site^
@@ -9593,7 +9597,6 @@ inapps.appsflyersdk.com^
 ||ad.land.to^
 ||ad.net-tool.jp^
 ||ads.metropolis.co.jp^
-||ads.nicovideo.jp^
 ||api.unthem.com^
 ||arms.livedoor.net^
 ||assoc-amazon.jp^
@@ -12826,8 +12829,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 02 Sep 2024 22:23 UTC+7
-! Version: 2409022223
+! Last modified: 03 Sep 2024 21:42 UTC+7
+! Version: 2409032142
 ! Blocked: 4,575 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17302,6 +17305,14 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||nsfsfn.xyz^
+||wfijsc.xyz^
+||ge3shbdf1.fun^
+||vvttpn.xyz^
+||icudqq.xyz^
+||gesdxashb1.fun^
+||yiwckti.icu^
+||ifxqubw.icu^
 ||nlrsrx.xyz^
 ||gbndash2.fun^
 ||geqshb22.fun^
