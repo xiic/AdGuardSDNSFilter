@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-06T00:25:32.166Z
+! Last modified: 2024-09-06T06:08:06.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11903,8 +11903,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Sep 2024 14:03 UTC+7
-! Version: 2409051403
+! Last modified: 06 Sep 2024 10:32 UTC+7
+! Version: 2409061032
 ! Blocked: 920 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -12821,9 +12821,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Sep 2024 14:03 UTC+7
-! Version: 2409051403
-! Blocked: 4,575 rules
+! Last modified: 06 Sep 2024 10:33 UTC+7
+! Version: 2409061033
+! Blocked: 4,576 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17266,6 +17266,7 @@ inapps.appsflyersdk.com^
 ||yl0sj9.cyou^
 ||ymx33.com^
 ||ynefefyopqvu.com^
+||yonmewon.com^
 ||youtuber-cash.buzz^
 ||yunduofei.xyz^
 ||zSmhlV.zgbv.tech^
@@ -17302,6 +17303,9 @@ inapps.appsflyersdk.com^
 ||kzcayec.icu^
 ||tqbrnd.xyz^
 ||udeias.xyz^
+||fq03.shop^
+||jy05.shop^
+||lrutvncl.top^
 ||wxmmji.xyz^
 ||orutvnck.top^
 ||gedxssashb8.fun^
