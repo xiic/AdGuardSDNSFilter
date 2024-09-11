@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-10T18:07:26.627Z
+! Last modified: 2024-09-11T00:25:31.977Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -365,17 +365,21 @@ vkcdnservice.appspot.com^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1136707664.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
 ||1363394706.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1450691516.rsc.cdn77.org^
+||1510557931.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
+||1560738516.rsc.cdn77.org^
 ||1588341617.rsc.cdn77.org^
 ||1607162747.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1693418686.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1918837748.rsc.cdn77.org^
 ||1wnurc.com^
@@ -17311,6 +17315,12 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||wiwlqc.xyz^
+||baigamp.icu^
+||bnhorn.xyz^
+||gvvedashb6.fun^
+||uqykeq.xyz^
+||vxcvd67.fun^
 ||595image.com^
 ||73336zubo25326.com^
 ||bapa215.top^
