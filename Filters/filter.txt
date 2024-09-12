@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-12T12:15:39.445Z
+! Last modified: 2024-09-12T18:07:49.840Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10038,20 +10038,11 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
 !
 !
-||achmetsdoenerladen.de^
-||alleswegenmicha.de^
-||aluhutmafia.de^
 ||bd742.com^
-||cdu-offline.de^
-||dierussensindschuld.de^
 ||fantecio.com^
 ||gayads.biz^
-||gema-online.de^
-||holyjesus.de^
-||spd-spenden.de^
 ||swissadserver.ch^
 ||windows-pro.net^
-||wirverkaufennichts.de^
 ||wixnm.com^
 ||zazufi.com^
 !
@@ -10073,7 +10064,6 @@ inapps.appsflyersdk.com^
 ||adcocktail.com^
 ||addefend.com^
 ||adhost.in^
-||adical.de^
 ||adiceltic.de^
 ||adindex.de^
 ||adition.de^
@@ -10128,7 +10118,6 @@ inapps.appsflyersdk.com^
 ||bwads24.com^
 ||c-points.de^
 ||cashdorado.de^
-||cduspenden.de^
 ||chatintr.com^
 ||chatntr.com^
 ||ci-marketing.de^
@@ -10165,8 +10154,6 @@ inapps.appsflyersdk.com^
 ||finad.de^
 ||finative.cloud^
 ||firstsponsor.de^
-||flatad.de^
-||flymangoo.com^
 ||fotoscaseras.top^
 ||frvfrv.com^
 ||gamesaffiliate.de^
@@ -10179,7 +10166,6 @@ inapps.appsflyersdk.com^
 ||green-ads.net^
 ||guruads.de^
 ||h5v.eu^
-||heias.com^
 ||hot59.de^
 ||hovg.de^
 ||ibanner.de^
@@ -10196,11 +10182,8 @@ inapps.appsflyersdk.com^
 ||klick4u.de^
 ||klicktausch.com^
 ||komplads.net^
-||korruptionundpartner.de^
 ||ktxtr.com^
-||letvertise.com^
 ||liferd.de^
-||lilaelefant.de^
 ||linkedads.de^
 ||linkstation.de^
 ||localpoint.ch^
@@ -10226,7 +10209,6 @@ inapps.appsflyersdk.com^
 ||netwayer.de^
 ||network-marketing24.com^
 ||network-media.info^
-||networx.me^
 ||netzwerk-ad.de^
 ||notenpartner.de^
 ||nwave.de^
@@ -10235,7 +10217,6 @@ inapps.appsflyersdk.com^
 ||paidsolution.de^
 ||payclick.it^
 ||performance-netzwerk.de^
-||performanceanalyser.net^
 ||planetactive.com^
 ||playamedia.com^
 ||ppac.de^
