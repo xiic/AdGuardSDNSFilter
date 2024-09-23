@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-23T12:10:34.793Z
+! Last modified: 2024-09-23T18:07:33.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -380,6 +380,7 @@ vkcdnservice.appspot.com^
 ||1437953666.rsc.cdn77.org^
 ||1450691516.rsc.cdn77.org^
 ||1478004088.rsc.cdn77.org^
+||1490963580.rsc.cdn77.org^
 ||1510557931.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
@@ -393,6 +394,7 @@ vkcdnservice.appspot.com^
 ||1860610788.rsc.cdn77.org^
 ||1866741353.rsc.cdn77.org^
 ||1918837748.rsc.cdn77.org^
+||1993799599.rsc.cdn77.org^
 ||1wnurc.com^
 ||360playvid.com^
 ||360playvid.info^
@@ -4213,6 +4215,8 @@ inapps.appsflyersdk.com^
 ||magento-recs-sdk.adobe.net^
 ||martech.condenastdigital.com^
 ||mas.nth.ch^
+||mato.clanto.cloud^
+||matomo.clanto.cloud^
 ||mc.webvisor.org^
 ||mc.yandex.com^
 ||mc.yandex.ru^
@@ -11475,6 +11479,7 @@ inapps.appsflyersdk.com^
 ||adkaora.space^
 ||adplay.it^
 ||affiliation.software^
+||broadbandy.net^
 ||brznetwork.com^
 ||btmarketing.it^
 ||delosnetwork.it^
@@ -17321,6 +17326,7 @@ inapps.appsflyersdk.com^
 ||gmmlmo.xyz^
 ||iwatero.top^
 ||dssddf33.fun^
+||kwaterd.top^
 ||rvnaxwqe.icu^
 ||uaoaig.xyz^
 ||xnqboqc.icu^
