@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-29T12:09:14.444Z
+! Last modified: 2024-09-29T18:07:26.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -363,41 +363,17 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
-||1026750852.rsc.cdn77.org^
-||1047430889.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
-||1102480842.rsc.cdn77.org^
-||1116283932.rsc.cdn77.org^
-||1136707664.rsc.cdn77.org^
-||1157433411.rsc.cdn77.org^
-||1167965905.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
-||1205088249.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
-||1228540867.rsc.cdn77.org^
 ||123-stream.org^
-||1361552718.rsc.cdn77.org^
-||1363394706.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
-||1450691516.rsc.cdn77.org^
-||1478004088.rsc.cdn77.org^
-||1490963580.rsc.cdn77.org^
-||1510557931.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
-||1560738516.rsc.cdn77.org^
-||1588341617.rsc.cdn77.org^
-||1607162747.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
-||1693418686.rsc.cdn77.org^
-||1710712823.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
-||1860610788.rsc.cdn77.org^
-||1866741353.rsc.cdn77.org^
-||1918837748.rsc.cdn77.org^
-||1993799599.rsc.cdn77.org^
 ||1wnurc.com^
 ||360playvid.com^
 ||360playvid.info^
@@ -467,7 +443,6 @@ vkcdnservice.appspot.com^
 ||campaigns.williamhill.com^
 ||cdn.ad.page^
 ||cdn.b2.ai^
-||cdn.wt-api.top^
 ||cdn22904910.ahacdn.me^
 ||cdn54405831.ahacdn.me^
 ||chandrabinduad.com^
@@ -1728,7 +1703,6 @@ vkcdnservice.appspot.com^
 ||philstraffic.com^
 ||pictureturn.com^
 ||pkeeper3.ru^
-||plantaosexy.com^
 ||plugrush.com^
 ||pnads.com^
 ||pnperf.com^
@@ -1804,7 +1778,6 @@ vkcdnservice.appspot.com^
 ||sexdatecash.com^
 ||sexiba.com^
 ||sexlist.com^
-||sexopages.com^
 ||sexplaycam.com^
 ||sexsearch.com^
 ||sextadate.net^
@@ -1939,7 +1912,6 @@ vkcdnservice.appspot.com^
 ||dirty-messenger.com^
 ||dirty-tinder.com^
 ||dumbpop.com^
-||ekod.info^
 ||ero-advertising.com^
 ||eroge.com^
 ||ertya.com^
@@ -1969,7 +1941,6 @@ vkcdnservice.appspot.com^
 ||indianfriendfinder.com^
 ||irtye.com^
 ||isanalyze.com^
-||jav-7mmtv.top^
 ||jizzy.org^
 ||jsmjmp.com^
 ||juicyads.com^
@@ -1983,7 +1954,6 @@ vkcdnservice.appspot.com^
 ||notimoti.com^
 ||nyetm2mkch.com^
 ||passtechusa.com^
-||pd-news.com^
 ||pinkberrytube.com^
 ||playgirl.com^
 ||plinx.net^
@@ -2007,12 +1977,10 @@ vkcdnservice.appspot.com^
 ||traffic.club^
 ||trafficbroker.com^
 ||trkbc.com^
-||trkinator.com^
 ||watchmygf.com^
 ||xdtraffic.com^
 ||xmatch.com^
 ||xpeeps.com^
-||xvika.com^
 ||xxlargepop.com^
 ||xxxjmp.com^
 ||zononi.com^
