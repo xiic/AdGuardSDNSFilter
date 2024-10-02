@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-02T06:08:45.881Z
+! Last modified: 2024-10-02T12:10:16.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2122,6 +2122,10 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad.snaptube.app^
+||ad.mobiuspace.net^
+||api-ad-callback.falconnet.app^
+||adnami.io^
 ||ads-router-noneu.truecaller.com^
 ||umphek.com^
 ||ahoy-internal-ads-hv.b-cdn.net^
@@ -3025,6 +3029,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||xplosion.de^
+||theadex.com^
 ||adui.tg.meitu.com^
 ||meitustat.com^
 ||analysis.vesync.com^
@@ -5192,7 +5198,6 @@ inapps.appsflyersdk.com^
 ||wp-worthy.de^
 ||xcounter.ch^
 ||xhit.com^
-||xplosion.de^
 ||yoochoose.net^
 ! French
 ||123compteur.com^
@@ -10669,7 +10674,6 @@ inapps.appsflyersdk.com^
 ||addy.expressen.se^
 ||adeprimo.se^
 ||adhost.se^
-||adnami.io^
 ||adnami2.io^
 ||adnuntius.com^
 ||adonstudio.com^
@@ -10919,7 +10923,6 @@ inapps.appsflyersdk.com^
 ||dinapengar.compricer.se^
 ||dinbilgaranti.se^
 ||dmp.adform.net^
-||dmp.theadex.com^
 ||doktor-se.onelink.me^
 ||driftt.com^
 ||dspk.kindredplc.com^
@@ -17316,6 +17319,9 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||znnfzx.xyz^
+||veryt111.fun^
+||az697jylm.cc^
 ||kwurserd.top^
 ||zeryt111.fun^
 ||tuxpfiok.icu^
