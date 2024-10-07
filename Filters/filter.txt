@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-07T12:10:50.446Z
+! Last modified: 2024-10-07T18:08:00.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -395,7 +395,9 @@ vkcdnservice.appspot.com^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
 ||ad01.tmgrup.com.tr^
+||adblockeromega.com^
 ||adcheck.about.co.kr^
+||addefenderplus.info^
 ||adinplay-venatus.workers.dev^
 ||adncdnend.azureedge.net^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
@@ -464,6 +466,7 @@ vkcdnservice.appspot.com^
 ||datacluster.club^
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^
+||eclipse-adblocker.pro^
 ||epnt.ebay.com^
 ||escape.insites.eu^
 ||etrader.kalahari.com^
@@ -506,11 +509,13 @@ vkcdnservice.appspot.com^
 ||monetize-static.viralize.tv^
 ||neural.myth.dev^
 ||ogads-pa.googleapis.com^
+||omegadblocker.com^
 ||onlinepromogift.com^
 ||out.betforce.io^
 ||owebsearch.com^
 ||pacontainer.s3.amazonaws.com^
 ||pagead2.googlesyndication.com^
+||pageloadstats.pro^
 ||parking.godaddy.com^
 ||partner-app.softwareselect.com^
 ||partner.e-conomic.com^
@@ -2126,6 +2131,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||frontier100-toutiao-lf.fqnovel.com^
 ||ad.snaptube.app^
 ||ad.mobiuspace.net^
 ||api-ad-callback.falconnet.app^
@@ -10005,6 +10011,7 @@ inapps.appsflyersdk.com^
 ||affilaxy.com^
 ||affiliatepartners.com^
 ||affiliateprogramma.eu^
+||banner-online.nl^
 ||believe-the-hype.be^
 ||botndm.nl^
 ||cashpartners.eu^
@@ -17329,6 +17336,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||i2wq4.icu^
+||uegsjnk.com^
+||hwurseru.top^
 ||oaiqksi.top^
 ||edadmy.xyz^
 ||kgymoc.xyz^
@@ -17365,6 +17375,7 @@ inapps.appsflyersdk.com^
 ||twurseri.top^
 ||d2tf0.icu^
 ||bedzbu.xyz^
+||hongi7ie8owiie03.site^
 ||baigh8eosmgie02.site^
 ||hongi7ie8owiie02.site^
 ||loveameng.top^
