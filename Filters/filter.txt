@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-08T12:15:54.166Z
+! Last modified: 2024-10-08T18:08:00.764Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -380,6 +380,7 @@ vkcdnservice.appspot.com^
 ||1846032945.rsc.cdn77.org^
 ||1881574171.rsc.cdn77.org^
 ||1wnurc.com^
+||1xlite-016702.top^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -5265,6 +5266,7 @@ inapps.appsflyersdk.com^
 ||mgtmod01.com^
 ||mmtro.com^
 ||netvigie.com^
+||pa-cd.com^
 ||phywi.org^
 ||pingclock.net^
 ||semiocast.com^
@@ -17341,6 +17343,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||sdfewed.com^
+||whgh1.icu^
 ||wswxsk.xyz^
 ||qpyrqg.xyz^
 ||xvzcfh.xyz^
@@ -22830,6 +22834,7 @@ analytics-*.aasaam.com
 ||sentry.quera.org^
 
 # >> R <<
+||a.reymit.ir^
 
 # >> S <<
 ||ingest-data-afra.snappfood.dev^
