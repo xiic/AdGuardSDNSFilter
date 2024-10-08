@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-08T00:26:58.713Z
+! Last modified: 2024-10-08T06:08:42.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10666,8 +10666,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-10-01 07:37:12 CEST
-# entries:        1083
+# last updated:   2024-10-08 07:35:47 CEST
+# entries:        1088
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11200,9 +11200,14 @@ inapps.appsflyersdk.com^
 ||sprinkletxt.com^
 ||sp-eu.dev.polarbyte.com^
 ||ssp-nj.webtradehub.com^
+||stat.alltforforaldrar.se^
+||stat.blogg.se^
+||stat.brollopstorget.se^
 ||stat.devote.se^
+||stat.familjeliv.se^
 ||stat.modette.se^
 ||stat.nyheter24.se^
+||stat.rodeo.net^
 ||stat.torgen.se^
 ||stat03.stat.cliche.se^
 ||statcounter.va-endpoint.com^
@@ -17342,6 +17347,8 @@ inapps.appsflyersdk.com^
 ||nqyrywn.icu^
 ||oxkqeu.xyz^
 ||ukkiftx.icu^
+||iwursero.top^
+||kvkcei.xyz^
 ||i2wq4.icu^
 ||uegsjnk.com^
 ||hwurseru.top^
