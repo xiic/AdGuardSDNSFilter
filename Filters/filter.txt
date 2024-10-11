@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-11T06:08:43.324Z
+! Last modified: 2024-10-11T12:10:09.831Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1044,6 +1044,7 @@ vkcdnservice.appspot.com^
 ||d2vwl2vhlatm2f.cloudfront.net^
 ||d2vwsmst56j4zq.cloudfront.net^
 ||d2w92zbcg4cwxr.cloudfront.net^
+||d2w9cdu84xc4eq.cloudfront.net^
 ||d2werg7o2mztut.cloudfront.net^
 ||d2wexw25ezayh1.cloudfront.net^
 ||d2wpx0eqgykz4q.cloudfront.net^
@@ -2129,6 +2130,8 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad.zijieapi.com^
+||ads*-normal-hl.zijieapi.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||ad.snaptube.app^
 ||ad.mobiuspace.net^
@@ -2183,7 +2186,6 @@ vkcdnservice.appspot.com^
 ||adfork.co.kr^
 ||92by17snes4.cc^
 ||ads*-normal-lq.zijieapi.com^
-||ad.zijieapi.com^
 ||pglstatp-toutiao.com^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
@@ -3043,10 +3045,8 @@ inapps.appsflyersdk.com^
 ||adui.tg.meitu.com^
 ||meitustat.com^
 ||analysis.vesync.com^
-||log16-normal-useast5.tiktokv.us^
 ||insights.zennioptical.com^
 ||proxy.telemetry.us-ashburn-1.oci.oraclecloud.com^
-||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||admob-app-id-*.firebaseio.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
@@ -3175,7 +3175,6 @@ inapps.appsflyersdk.com^
 ||mon.isnssdk.com^
 ||logs.ironsrc.mobi^
 ||events.mz.unity3d.com^
-||mon*-platform-*.tiktokv.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -3268,8 +3267,6 @@ inapps.appsflyersdk.com^
 ||logend.cookpad.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
-||rtlog*.tiktokv.us^
-||rtlog*.tiktokv.com^
 ||nelo2-col.linecorp.com^
 ||msga.cupid.iqiyi.com^
 ||ndct-data.video.iqiyi.com^
@@ -3305,7 +3302,6 @@ inapps.appsflyersdk.com^
 ||dflow.log.hunantv.com^
 ||msg.simeji.me^
 ||msg.simeji.baidu.jp^
-||log.tiktokv.com^
 ||beacons*.gvt3.com^
 ||post-log.pushwoosh.com^
 ||appanalysis*.banggood.com^
@@ -3631,6 +3627,27 @@ inapps.appsflyersdk.com^
 ||www-google-analytics.l.google.com^
 ||yadro.ru^
 ||ymtracking.com^
+!
+! TikTok
+||log16-normal-useast5.tiktokv.us^
+||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
+||mon*-platform-*.tiktokv.com^
+||rtlog*.tiktokv.us^
+||rtlog*.tiktokv.com^
+||log.tiktokv.com^
+||rtc-logger-va.tiktokv.com^
+||rtlog.tiktokv.com^
+||mon*-*.tiktokv.us^
+||mon.us.tiktokv.com^
+||mon-*.tiktokv.com^
+||mon.tiktokv.com^
+||xlog.tiktokv.com^
+||xlog-va.tiktokv.com^
+||xlog*-*.tiktokv.com^
+||mcs-va.tiktokv.com^
+||mcs-va-*.tiktokv.com^
+||analytics.tiktok.com^
+!
 ! UC Browser
 ||localytics.com^
 ||upoll.umengcloud.com^
@@ -3777,7 +3794,6 @@ inapps.appsflyersdk.com^
 ||analytics.test.cheggnet.com^
 ||analytics.themarketiq.com^
 ||analytics.threedeepmarketing.com^
-||analytics.tiktok.com^
 ||analytics.tout.com^
 ||analytics.unibuddy.co^
 ||analytics.unilogcorp.com^
@@ -9746,6 +9762,23 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||666hh999gg.com^
+||776.jstatic.xyz^
+||kmqianneng66.com^
+||cg-pao-tu.nanyanglk.com^
+||cos1999.top^
+||cosmo202.top^
+||d24fnxkxwarvg8.cloudfront.net^
+||files.xtpag.top^
+||img.175532.com^
+||img.911787.com^
+||tu0379199038.cc^
+||n55ylc001.vip^
+||tu5551976196.cc^
+||dpjzr.top^
+||n55cpw.vip^
+||xpjcg.oss-accelerate.aliyuncs.com^
+||qxwoiv.com^
 ||krbulhb.com^
 ||wl.uqwjdhgv.top^
 ||mm.wxc.cc^
