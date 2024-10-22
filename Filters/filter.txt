@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-21T18:08:27.775Z
+! Last modified: 2024-10-22T00:27:57.017Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -368,6 +368,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
 ||1019175970.rsc.cdn77.org^
+||1051912086.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
@@ -376,6 +377,7 @@ vkcdnservice.appspot.com^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
+||1310530397.rsc.cdn77.org^
 ||1402819692.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
@@ -17439,6 +17441,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||gyunce.xyz^
+||mlgowell.com^
+||rqroytj33.fun^
 ||gpowow.xyz^
 ||jizxnr.xyz^
 ||msmcoa.xyz^
