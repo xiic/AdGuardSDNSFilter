@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-22T06:08:51.194Z
+! Last modified: 2024-10-22T12:10:55.986Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -455,6 +455,7 @@ vkcdnservice.appspot.com^
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c.bigcomics.bid^
+||c.j8jp.com^
 ||c.kkraw.com^
 ||c2shb.pubgw.yahoo.com^
 ||campaigns.williamhill.com^
@@ -501,6 +502,8 @@ vkcdnservice.appspot.com^
 ||jeeng-api-prod.azureedge.net
 ||join.megaphonetv.com^
 ||js.bigcomics.win^
+||js.kakuyomu.in^
+||js.kkraw.com^
 ||js.manga1001.win^
 ||js.mangakl.su^
 ||js.mangalove.top^
@@ -2143,6 +2146,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||jjpp.lmtjapi.com^
 ||a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com^
 ||a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
 ||ad.zijieapi.com^
@@ -3056,6 +3060,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||client-telemetry.hingeprod.net^
 ||events-api.towneers.prod.data.krmt.io^
 ||event.karrotmarket.com^
 ||iot-in-logser.realme.com^
@@ -17447,6 +17452,8 @@ inapps.appsflyersdk.com^
 ||couvxlif.top^
 ||tarvrf.xyz^
 ||sbmhqe.xyz^
+||dayujs.top^
+||fanjs.top^
 ||gpowow.xyz^
 ||jizxnr.xyz^
 ||msmcoa.xyz^
