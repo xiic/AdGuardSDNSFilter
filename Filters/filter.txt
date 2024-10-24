@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-23T18:08:05.283Z
+! Last modified: 2024-10-24T00:27:18.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -368,6 +368,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
 ||1019175970.rsc.cdn77.org^
+||1030671461.rsc.cdn77.org^
 ||1051912086.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
@@ -379,6 +380,7 @@ vkcdnservice.appspot.com^
 ||123-stream.org^
 ||1310530397.rsc.cdn77.org^
 ||1323818756.rsc.cdn77.org^
+||1401315973.rsc.cdn77.org^
 ||1402819692.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1446023384.rsc.cdn77.org^
@@ -17452,6 +17454,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||moqdy.icu^
 ||rdxqbp.xyz^
 ||sksbgm.xyz^
 ||enkvum.xyz^
