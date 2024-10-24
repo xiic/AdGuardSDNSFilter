@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-24T06:09:01.936Z
+! Last modified: 2024-10-24T12:10:39.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4170,6 +4170,7 @@ inapps.appsflyersdk.com^
 ||hit.mybestpro.com^
 ||hits.dealer.com^
 ||hits.getelevar.com^
+||hits.gokwik.co^
 ||hits.informer.com^
 ||hktracker.hankookilbo.com^
 ||hm.baidu.com^
@@ -4400,6 +4401,7 @@ inapps.appsflyersdk.com^
 ||pt.ispot.tv^
 ||ptsc.shoplocal.com^
 ||pub.sheknows.com^
+||pulse.shopflo.com^
 ||px.marchex.io^
 ||px.mountain.com^
 ||px.owneriq.net^
@@ -4472,6 +4474,7 @@ inapps.appsflyersdk.com^
 ||sp.tinymce.com^
 ||spa-tracker.spapi.io^
 ||speedtrap.shopdirect.com^
+||src.freshmarketer.in^
 ||ssa.stepstone.com^
 ||ssr.streamrail.net^
 ||st.cdnco.us^
@@ -17455,6 +17458,11 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||moqdy.icu^
+||ohkfmi.xyz^
+||lgkocdi.icu^
+||gjnbf.com^
+||qdjsiyt.icu^
+||huoxun.wang^
 ||rdxqbp.xyz^
 ||sksbgm.xyz^
 ||enkvum.xyz^
