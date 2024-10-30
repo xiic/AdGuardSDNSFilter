@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-30T12:20:27.208Z
+! Last modified: 2024-10-30T18:08:09.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2154,6 +2154,11 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad.deepthought.industries^
+||ad.bandlab.io^
+||ads.cocomobi.com^
+||inmense.site^
+||dollphoin.site^
 ||news-cdn.site^
 ||adx.mossru.com^
 ||jjpp.lmtjapi.com^
@@ -3070,6 +3075,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||amplitude.life360.com^
 ||events.swiftlycontent.net^
 ||log.cleandesigner.live^
 ||mob2.healthapplines.com^
@@ -9802,6 +9808,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||web-ads.10sq.net^
 ||mitself.net^
 ||jubbie.de^
 ||comparison.financeads.net^
@@ -17465,6 +17472,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||ioublio.top^
 ||whrwlxg.icu^
 ||bdawrsi.icu^
 ||houbliu.top^
