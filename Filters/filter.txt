@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-31T12:10:30.555Z
+! Last modified: 2024-10-31T18:08:04.255Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -393,10 +393,12 @@ vkcdnservice.appspot.com^
 ||1614729201.rsc.cdn77.org^
 ||1651567170.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1686385128.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1771616246.rsc.cdn77.org^
 ||1844221534.rsc.cdn77.org^
 ||1918634747.rsc.cdn77.org^
+||1937343605.rsc.cdn77.org^
 ||1wnurc.com^
 ||1xlite-016702.top^
 ||360playvid.com^
@@ -3178,7 +3180,7 @@ inapps.appsflyersdk.com^
 ||cws-hulu.conviva.com^
 ||vik-analytics.moonactive.net^
 ||report.apkpure.net^
-||report.iheartmedia.gbqofs.io^
+||report.*.gbqofs.io^
 ||grs.hicloud.com^
 ||logbak.hicloud.com^
 ||iot-eu-logser.realme.com^
@@ -6200,6 +6202,7 @@ inapps.appsflyersdk.com^
 ||audit.shaa.it^
 ||click.kataweb.it^
 ||cnt.iol.it^
+||dmp.citynews.ovh^
 ||dmpcdn.el-mundo.net^
 ||dmpmetrics.rcsmetrics.it^
 ||eventsink.api.redbee.live^
@@ -6692,6 +6695,9 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||xjwzbo.com^
+||qgmwby.com^
+||irxybq.com^
 ||mediapays.info^
 ||dotofverse.com^
 ||trutheyesstab.com^
@@ -17483,6 +17489,7 @@ inapps.appsflyersdk.com^
 ||struhuts.com^
 ||joublia.top^
 ||bwz4e.icu^
+||koublid.top^
 ||ioublio.top^
 ||whrwlxg.icu^
 ||bdawrsi.icu^
