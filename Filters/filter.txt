@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-12T12:10:43.983Z
+! Last modified: 2024-11-12T18:07:55.411Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -9750,7 +9750,6 @@ inapps.appsflyersdk.com^
 !
 ! JP-specific scam
 ||94.130.167.163^
-||185.161.248.253^
 
 !
 ! Source name: AdGuard Japanese filter ad servers first-party
@@ -9842,6 +9841,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||avspda.xyz^
 ||666hh999gg.com^
 ||776.jstatic.xyz^
 ||kmqianneng66.com^
@@ -17507,6 +17507,7 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||stunkrins.com^
+||rjwpwod.icu^
 ||ccobksxz.icu^
 ||utbyvyl.icu^
 ||dchdmhf.cn^
