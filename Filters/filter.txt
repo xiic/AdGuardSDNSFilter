@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-18T12:11:33.288Z
+! Last modified: 2024-11-18T18:08:28.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3071,6 +3071,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log.heartratepros.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||ali-bj-pcdn-*.biliapi.net^
 ||tatrack.thinkyeah.com^
@@ -6685,6 +6686,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||hfnuqljjnt.com^
 ||broredir*s.site^
 ||hhbehcahhajfffciaaef.world^
 ||suprion.ru^
@@ -10331,7 +10333,6 @@ inapps.appsflyersdk.com^
 ||marketing-profis.net^
 ||maxi-ad.de^
 ||maxiad.de^
-||media-guides.de^
 ||mega-ad.de^
 ||megawerbung.de^
 ||mename.de^
@@ -17531,11 +17532,14 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||yrccils0spqnkc3.xyz^
+||z9uvpwarkk1mnpf.xyz^
 ||wsgnihbh.icu^
 ||iflucav.icu^
 ||ao1118kas.top^
 ||mhwy6.icu^
 ||uweisit.top^
+||oweisik.top^
 ||mlgowell.org^
 ||ge189.com^
 ||usgowell.com^
