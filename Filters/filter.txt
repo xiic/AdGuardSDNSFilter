@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-20T00:28:36.122Z
+! Last modified: 2024-11-20T06:09:04.392Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12958,9 +12958,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Nov 2024 16:22 UTC+7
-! Version: 2411161622
-! Blocked: 4,688 rules
+! Last modified: 20 Nov 2024 11:35 UTC+7
+! Version: 2411201135
+! Blocked: 4,692 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13895,6 +13895,7 @@ inapps.appsflyersdk.com^
 ||gdriveshop.com^
 ||gdtgov.cfd^
 ||gdviettelpay.weebly.com^
+||gefkyqjq.adckt.tech^
 ||getclipabcxyz.com^
 ||getintopc.digital^
 ||getmacos.org^
@@ -14001,6 +14002,7 @@ inapps.appsflyersdk.com^
 ||hangairsoft.com^
 ||hanghaiqt.com^
 ||hanmucvn.com^
+||happykitcr.com^
 ||hbpnnz.cyou^
 ||hdbankcareer.com^
 ||hdbankfinancc.digital^
@@ -14305,6 +14307,7 @@ inapps.appsflyersdk.com^
 ||kirov1.xyz^
 ||kjgb11.com^
 ||kkh818.com^
+||klingxai.com^
 ||km-digibank.com^
 ||kmnapthe.ga^
 ||korshoptiktok.com^
@@ -16436,6 +16439,7 @@ inapps.appsflyersdk.com^
 ||tpmoney.xyz^
 ||tpviet38.com^
 ||tpviet68.com^
+||tqmwqfh.yo-bc.de^
 ||tracuu-thongtin.online^
 ||tracuu-thongtin.site^
 ||tracuugiaodichvi.com^
@@ -17537,6 +17541,10 @@ inapps.appsflyersdk.com^
 ||cdlekgr.icu^
 ||cxvyk.com^
 ||990215.xyz^
+||ao1120kas.top^
+||aoao11201iis.top^
+||feubgzfx.icu^
+||1buo.icu^
 ||gritoils.com^
 ||thacreks.com^
 ||snnmgdt.icu^
