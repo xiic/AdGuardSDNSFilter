@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-25T12:11:24.065Z
+! Last modified: 2024-11-25T18:08:16.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -722,6 +722,7 @@ vkcdnservice.appspot.com^
 ||d1g4493j0tcwvt.cloudfront.net^
 ||d1g4xgvlcsj49g.cloudfront.net^
 ||d1g8forfjnu2jh.cloudfront.net^
+||d1gpi088t70qaf.cloudfront.net^
 ||d1ha41wacubcnb.cloudfront.net^
 ||d1hgdmbgioknig.cloudfront.net^
 ||d1hnmxbg6rp2o6.cloudfront.net^
@@ -6715,6 +6716,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||iwrcoct.info^
 ||hfnuqljjnt.com^
 ||broredir*s.site^
 ||hhbehcahhajfffciaaef.world^
@@ -17573,6 +17575,9 @@ inapps.appsflyersdk.com^
 ||aizhantj.com^
 ||g41i.icu^
 ||tweizai.top^
+||wcwkcus.top^
+||brulpha.com^
+||uweizat.top^
 ||lipheak.com^
 ||xcwdcynb.icu^
 ||wweizae.top^
