@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-29T06:09:37.585Z
+! Last modified: 2024-11-29T12:11:10.478Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12074,9 +12074,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Nov 2024 10:59 UTC+7
-! Version: 2411271059
-! Blocked: 931 rules
+! Last modified: 29 Nov 2024 14:55 UTC+7
+! Version: 2411291455
+! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12975,6 +12975,7 @@ inapps.appsflyersdk.com^
 ||vietdorje.com^
 ||vietnamdaily-log.kienthuc.net.vn^
 ||vietnamdaily-log.trithuccuocsong.vn^
+||vietpub.com^
 ||vipads.live^
 ||vlxx.host^
 ||vnadssb.com^
@@ -13003,9 +13004,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 27 Nov 2024 10:59 UTC+7
-! Version: 2411271059
-! Blocked: 4,693 rules
+! Last modified: 29 Nov 2024 15:01 UTC+7
+! Version: 2411291501
+! Blocked: 4,694 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13342,6 +13343,7 @@ inapps.appsflyersdk.com^
 ||caoviet.net^
 ||card-tindung-vp.com^
 ||card-tindung.com^
+||cardano-ada.live^
 ||cardshinhan.com^
 ||cardzstorezone.com^
 ||casneon.com^
@@ -17588,6 +17590,7 @@ inapps.appsflyersdk.com^
 ||1gtp.icu^
 ||oo3z.icu^
 ||idamcso.top^
+||vrulqil.com^
 ||0dwm.icu^
 ||satfyxbt.icu^
 ||zodoth.com^
