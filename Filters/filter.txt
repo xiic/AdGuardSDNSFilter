@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-30T00:28:39.625Z
+! Last modified: 2024-11-30T06:07:59.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10847,8 +10847,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-11-26 05:31:41 CET
-# entries:        1094
+# last updated:   2024-11-30 05:51:46 CET
+# entries:        1099
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11529,6 +11529,7 @@ inapps.appsflyersdk.com^
 ||tracking.falukuriren.se^
 ||tracking.fasab6f.se^
 ||tracking.fastighetsnytt.se^
+||tracking.folkracepuls.se^
 ||tracking.gd.se^
 ||tracking.hd.se^
 ||tracking.ht.se^
@@ -11537,6 +11538,7 @@ inapps.appsflyersdk.com^
 ||tracking.jp.se^
 ||tracking.kalmarposten.se^
 ||tracking.klt.nu^
+||tracking.kpwebben.se^
 ||tracking.kristianstadsbladet.se^
 ||tracking.ljusdalsposten.se^
 ||tracking.ljusnan.se^
@@ -11545,11 +11547,14 @@ inapps.appsflyersdk.com^
 ||tracking.market.se^
 ||tracking.meraosterlen.se^
 ||tracking.moratidning.se^
+||tracking.morgonexpressen.se^
 ||tracking.na.se^
 ||tracking.norrteljetidning.se^
 ||tracking.nsk.se^
 ||tracking.nvp.se^
 ||tracking.nyaludvikatidning.se^
+||tracking.nyhetstjansterna.dagensmedicin.se^
+||tracking.nyhetstjansterna.di.se^
 ||tracking.nynashamnsposten.se^
 ||tracking.olandsbladet.se^
 ||tracking.omniture.nt.se^
@@ -17592,6 +17597,8 @@ inapps.appsflyersdk.com^
 ||igabcgnh.icu^
 ||saizih.com^
 ||1gtp.icu^
+||96rj.icu^
+||kdamcsd.top^
 ||oo3z.icu^
 ||idamcso.top^
 ||vrulqil.com^
