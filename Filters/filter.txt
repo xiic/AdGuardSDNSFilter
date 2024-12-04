@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-04T12:11:20.335Z
+! Last modified: 2024-12-04T18:08:47.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -392,6 +392,7 @@ vkcdnservice.appspot.com^
 ||1736253261.rsc.cdn77.org^
 ||1777452258.rsc.cdn77.org^
 ||1841793143.rsc.cdn77.org^
+||1932195014.rsc.cdn77.org^
 ||1wnurc.com^
 ||1xlite-016702.top^
 ||360playvid.com^
@@ -3088,6 +3089,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||logs-ingress.svc.vinted.com^
 ||analytics.baliusuperapp.xyz^
 ||log-va-us-looki.capcutapi.com^
 ||analytics.hardlightgames.com^
@@ -6732,6 +6734,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
 ||hfnuqljjnt.com^
@@ -9911,6 +9914,9 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ig65.vip^
+||ig66.vip^
+||ig67.vip^
 ||avspda.xyz^
 ||666hh999gg.com^
 ||776.jstatic.xyz^
@@ -12084,8 +12090,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Dec 2024 14:04 UTC+7
-! Version: 2412031404
+! Last modified: 04 Dec 2024 23:09 UTC+7
+! Version: 2412042309
 ! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13014,8 +13020,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 03 Dec 2024 14:04 UTC+7
-! Version: 2412031404
+! Last modified: 04 Dec 2024 23:09 UTC+7
+! Version: 2412042309
 ! Blocked: 4,694 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17611,6 +17617,11 @@ inapps.appsflyersdk.com^
 ||fo0.icu^
 ||nuvaioqds.com^
 ||olqead.com^
+||1yj.icu^
+||burniecrepes.com^
+||infantilecombination.com^
+||yrhxttwa.xyz^
+||bdamcsv.top^
 ||sconat.com^
 ||cidhmxxb.icu^
 ||ig69.vip^
