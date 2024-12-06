@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-06T12:11:06.435Z
+! Last modified: 2024-12-06T18:08:37.292Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2168,6 +2168,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads.smrtbid.com^
 ||creative*.bidease.com^
 ||bidjora.com^
 ||aomsitf.com^
@@ -12091,8 +12092,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Dec 2024 22:50 UTC+7
-! Version: 2412052250
+! Last modified: 06 Dec 2024 21:29 UTC+7
+! Version: 2412062129
 ! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17607,6 +17608,10 @@ inapps.appsflyersdk.com^
 ||u6u.icu^
 ||ii3.icu^
 ||inzut.com^
+||irkrors.com^
+||e9h.icu^
+||t7t.icu^
+||ijimtyo.top^
 ||eatnontf.icu^
 ||khesuts.com^
 ||mdamcsx.top^
@@ -23215,6 +23220,8 @@ inapps.appsflyersdk.com^
 ||error-tracking.arvancloud.com^
 
 ||adexo.ir^
+||adexofiles.ir^
+
 ||adskav.com^
 ||advn.ir^
 
@@ -23402,6 +23409,9 @@ analytics-*.aasaam.com
 ||rssbank.ir^
 
 # >> S <<
+# power-music.ir, skmusic.ir, music-week.ir
+||spotyfile.com^
+
 ||spellpop.ir^
 
 ||spellads.com^
