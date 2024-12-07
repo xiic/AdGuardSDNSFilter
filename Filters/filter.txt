@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-07T12:10:03.148Z
+! Last modified: 2024-12-07T18:07:35.562Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12093,8 +12093,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Dec 2024 16:34 UTC+7
-! Version: 2412071634
+! Last modified: 07 Dec 2024 21:50 UTC+7
+! Version: 2412072150
 ! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13023,9 +13023,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 07 Dec 2024 16:35 UTC+7
-! Version: 2412071635
-! Blocked: 4,674 rules
+! Last modified: 07 Dec 2024 21:50 UTC+7
+! Version: 2412072150
+! Blocked: 4.674 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17592,6 +17592,8 @@ inapps.appsflyersdk.com^
 ||shaorgs.cn^
 ||krinkred.com^
 ||zikeke7.com^
+||vh8.icu^
+||kjimtyd.top^
 ||khengrull.com^
 ||ugajiwft.icu^
 ||hjimtyu.top^
