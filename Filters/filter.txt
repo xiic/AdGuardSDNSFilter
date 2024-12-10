@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-10T06:09:43.251Z
+! Last modified: 2024-12-10T12:11:27.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12100,9 +12100,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Dec 2024 23:05 UTC+7
-! Version: 2412082305
-! Blocked: 932 rules
+! Last modified: 10 Dec 2024 16:01 UTC+7
+! Version: 2412101601
+! Blocked: 934 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12352,6 +12352,7 @@ inapps.appsflyersdk.com^
 ||quangcao.tuoitre.vn^
 ||realclick.vn^
 ||rec.aiservice.vn^
+||s-logperf.vnexpress.net^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
 ||sdk.zadn.vn^
@@ -12761,6 +12762,7 @@ inapps.appsflyersdk.com^
 ||log.beecost.com^
 ||log.beecost.vn^
 ||log.bizlive.vn^
+||log.daibieunhandan.vn^
 ||log.daidoanket.vn^
 ||log.dav.edu.vn^
 ||log.doanhnhan.vn^
@@ -13030,9 +13032,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 07 Dec 2024 21:50 UTC+7
-! Version: 2412072150
-! Blocked: 4.674 rules
+! Last modified: 10 Dec 2024 16:02 UTC+7
+! Version: 2412101602
+! Blocked: 4.675 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13496,6 +13498,7 @@ inapps.appsflyersdk.com^
 ||congthongtinvidientu.com^
 ||congtykiman.org^
 ||congtytaichinhlotte.com^
+||continue.dasboard184-account.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
 ||cpa-tc.com^
@@ -17602,6 +17605,7 @@ inapps.appsflyersdk.com^
 ||peclevnl.icu^
 ||wt6.icu^
 ||tjimtyi.top^
+||riemutmh.com^
 ||attelaoe.com^
 ||dsoxgdjv.icu^
 ||3ts.icu^
