@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-12T12:11:27.174Z
+! Last modified: 2024-12-12T18:09:07.136Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3092,6 +3092,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log.pdfviewerscannerstore.live^
 ||mon-boot.capcutapi.com^
 ||mon-va-us-looki.capcutapi.com^
 ||metrics-prod.suno.com^
@@ -6745,6 +6746,14 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||prestich.shop^
+||www.mir-stalkera.ru^
+||armablek.shop^
+||pianis.shop^
+||go.17r.pro^
+||nachalos.shopo^
+||kremchtiv.shopo^
+||leonases.shopo^
 ||dosawes.com^
 ||lusupodum.com^
 ||clairpixum.com^
@@ -17624,6 +17633,8 @@ inapps.appsflyersdk.com^
 ||bjimtyv.top^
 ||d0m.icu^
 ||xoceonsl.com^
+||jo4.icu^
+||mjimtyx.top^
 ||altolsqy.com^
 ||fkjdiefz.icu^
 ||x4d.icu^
