@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-19T12:11:19.030Z
+! Last modified: 2024-12-19T18:08:26.138Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6733,6 +6733,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||1463.info^
 ||prestich.shop^
 ||www.mir-stalkera.ru^
 ||armablek.shop^
@@ -9510,6 +9511,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||carrier202205.tokyo^
 ||axesslove.mixh.jp^
 ||kaomanko.axesslove.com^
 ||jp1media.com^
@@ -17630,6 +17632,9 @@ inapps.appsflyersdk.com^
 ||ltimiyl.top^
 ||ppio12191ios.top^
 ||gherkax.com^
+||ibqemk.icu^
+||h0d.icu^
+||btimiyv.top^
 ||ihearsoh.com^
 ||juutckrt.icu^
 ||qtimiyy.top^
@@ -21126,6 +21131,7 @@ inapps.appsflyersdk.com^
 ||zxpvalr.xyz^
 ||zxqiwe.cn^
 ||zyfnbl.xyz^
+||hitchprivilege.com^
 ||ymmiyun.com^
 ||commonwealthproficient.com^
 ||666aa777bb.com^
