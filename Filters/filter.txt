@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-23T12:10:49.528Z
+! Last modified: 2024-12-23T18:08:08.206Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -918,6 +918,7 @@ vkcdnservice.appspot.com^
 ||d29dbajta0the9.cloudfront.net^
 ||d29dzo8owxlzou.cloudfront.net^
 ||d29i6o40xcgdai.cloudfront.net^
+||d29mhxfd390ueb.cloudfront.net^
 ||d29mxewlidfjg1.cloudfront.net^
 ||d2a4qm4se0se0m.cloudfront.net^
 ||d2a80scaiwzqau.cloudfront.net^
@@ -4623,6 +4624,7 @@ inapps.appsflyersdk.com^
 ||stats.wp.com^
 ||stats.wpmucdn.com^
 ||stats.zotabox.com^
+||stats2.indianpornempire.com^
 ||statsadv.dadapro.com^
 ||statsapi.screen9.com^
 ||statscollector-1.agora.io^
@@ -10489,7 +10491,6 @@ inapps.appsflyersdk.com^
 ||trmwidget.eu^
 ||trocado.at^
 ||turboads.de^
-||uclo.net^
 ||uselayer.com^
 ||vip-websc.org^
 ||vipbanner.de^
@@ -12130,8 +12131,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Dec 2024 23:53 UTC+7
-! Version: 2412222353
+! Last modified: 23 Dec 2024 22:57 UTC+7
+! Version: 2412232257
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13057,8 +13058,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 20 Dec 2024 22:37 UTC+7
-! Version: 2412202237
+! Last modified: 23 Dec 2024 22:54 UTC+7
+! Version: 2412232254
 ! Blocked: 4.689 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17638,6 +17639,8 @@ inapps.appsflyersdk.com^
 ||swilmib.top^
 ||nx8.icu^
 ||irgidshiv.com^
+||ix4.icu^
+||ewilmiw.top^
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^
