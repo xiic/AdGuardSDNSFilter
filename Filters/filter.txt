@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-26T06:08:50.217Z
+! Last modified: 2024-12-26T12:10:17.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -385,7 +385,6 @@ vkcdnservice.appspot.com^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1wnurc.com^
-||1xlite-016702.top^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -563,7 +562,6 @@ vkcdnservice.appspot.com^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
 ||tag.regieci.com^
-||tags.profitsence.com^
 ||tags.refinery89.com^
 ||targeting.vdo.ai^
 ||tcadserver.rain-digital.ca^
@@ -1700,7 +1698,6 @@ vkcdnservice.appspot.com^
 ||mileporn.com^
 ||mmaaxx.com^
 ||mmoframes.com^
-||mncvjhg.com^
 ||mobalives.com^
 ||mobilerevenu.com^
 ||mobtop.ru^
@@ -1750,7 +1747,6 @@ vkcdnservice.appspot.com^
 ||pkeeper3.ru^
 ||plugrush.com^
 ||pnads.com^
-||pnperf.com^
 ||poonproscash.com^
 ||popander.com^
 ||popupclick.ru^
@@ -17645,6 +17641,11 @@ inapps.appsflyersdk.com^
 ||pzzedx.icu^
 ||owilmik.top^
 ||jy7.icu^
+||gmso12261oka.top^
+||dhnnbfok.icu^
+||zaeqrath.com^
+||qovunx.com^
+||lurefq.com^
 ||vriesziy.com^
 ||rwdjrn.icu^
 ||twilmii.top^
