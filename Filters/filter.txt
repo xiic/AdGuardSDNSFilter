@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-30T00:29:07.150Z
+! Last modified: 2024-12-30T06:09:08.925Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10902,8 +10902,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-12-12 05:38:27 CET
-# entries:        1103
+# last updated:   2024-12-30 05:09:15 CET
+# entries:        1104
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11121,6 +11121,7 @@ inapps.appsflyersdk.com^
 ||cdn-header-bidding.snack-media.com^
 ||cdn-magiclinks.trackonomics.net^
 ||cdn-scripts.signifyd.com^
+||cdn.id5-sync.com^
 ||cdn.pushmaster-cdn.xyz^
 ||cdn.relevant-digital.com^
 ||cdn.stat-track.com^
@@ -17649,6 +17650,8 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||xamniksq.com^
 ||pytexb.icu^
+||xbfebqya.icu^
+||o3t.icu^
 ||iemhotqk.com^
 ||rvxmlj.icu^
 ||vjzvgvgz.icu^
