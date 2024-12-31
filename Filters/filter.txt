@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-31T12:10:18.852Z
+! Last modified: 2024-12-31T18:07:50.434Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1972,7 +1972,6 @@ vkcdnservice.appspot.com^
 ||girls.xyz^
 ||global-trk.com^
 ||go-route.com^
-||goaffmy.com^
 ||grtyv.com^
 ||hizlireklam.com^
 ||hkl4h1trk.com^
@@ -1985,11 +1984,9 @@ vkcdnservice.appspot.com^
 ||isanalyze.com^
 ||jizzy.org^
 ||jsmjmp.com^
-||juicyads.com^
 ||kaizentraffic.com^
 ||libedgolart.com^
 ||lncredlbiedate.com^
-||misspkl.com^
 ||moradu.com^
 ||mptentry.com^
 ||needlive.com^
@@ -4052,7 +4049,6 @@ inapps.appsflyersdk.com^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^
-||collector.dmp.cnna.io^
 ||collector.getyourguide.com^
 ||collector.mazeberry.com^
 ||collector.sspinc.io^
@@ -4141,7 +4137,6 @@ inapps.appsflyersdk.com^
 ||dx.mountain.com^
 ||dynamic.ziftsolutions.com^
 ||e.channelexco.com^
-||e.htplayground.com^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecomm.events^
@@ -6325,7 +6320,6 @@ inapps.appsflyersdk.com^
 ||bidder.mediams.mb.softbank.jp^
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
-||cdn.ad-platform.jmty.jp^
 ||client-log.karte.io^
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
@@ -17655,6 +17649,10 @@ inapps.appsflyersdk.com^
 ||eclimiw.top^
 ||sh5.icu^
 ||craivrals.com^
+||okpp12311.xyz^
+||nxcm.cc^
+||nh7.icu^
+||wclimie.top^
 ||xamniksq.com^
 ||pytexb.icu^
 ||xbfebqya.icu^
