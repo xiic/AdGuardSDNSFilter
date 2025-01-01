@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-01T00:30:54.319Z
+! Last modified: 2025-01-01T06:08:59.752Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10897,8 +10897,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-12-30 05:09:15 CET
-# entries:        1104
+# last updated:   2025-01-01 04:50:02 CET
+# entries:        1097
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11209,7 +11209,6 @@ inapps.appsflyersdk.com^
 ||freegeoip.app^
 ||freespee.com^
 ||freewheel-mtgx-tv.akamaized.net^
-||frugalrushcap.com^
 ||funnelytics.io^
 ||fusion.bonniertidskrifter.se^
 ||fw.adsafeprotected.com^
@@ -11323,7 +11322,6 @@ inapps.appsflyersdk.com^
 ||norranstats.azurewebsites.net^
 ||ntrfr.expekt.se^
 ||ntrfr.leovegas.com^
-||ntrfr.pixel.bet^
 ||nucleusanalytics.io^
 ||omni-ad-blocket.herokuapp.com^
 ||onetag-sys.com^
@@ -11358,7 +11356,6 @@ inapps.appsflyersdk.com^
 ||push-notifications.top^
 ||pxl.host^
 ||r.existenz.se^
-||reauthenticator.com^
 ||recirculation.spot.im^
 ||redistats.com^
 ||region1.google-analytics.com^
@@ -11470,7 +11467,6 @@ inapps.appsflyersdk.com^
 ||stats.med.lu.se^
 ||stats.playoncenter.com^
 ||stats.poddtoppen.se^
-||stats.proff.se^
 ||stats.userneeds.com^
 ||stats2.agilecrm.com^
 ||stats2.ehandel.se^
@@ -11704,7 +11700,6 @@ inapps.appsflyersdk.com^
 ||www.vejaskor.com.se^
 ||www.datadoghq-browser-agent.com^
 ||www.gymshark-sweden.com.se^
-||z.moatads.com^
 
 !
 ! Source name: EasyList Italy ad servers
@@ -17647,6 +17642,8 @@ inapps.appsflyersdk.com^
 ||nnfbxz.icu^
 ||gmso01010oka.top^
 ||bxheifoe.icu^
+||8fo.icu^
+||qclimiy.top^
 ||crigroik.com^
 ||vopzhl.icu^
 ||ltvutlyu.icu^
