@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-16T12:10:11.735Z
+! Last modified: 2025-01-16T18:08:11.094Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3091,6 +3091,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^
 ||nstool.netease.com^
@@ -12177,8 +12178,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2025 23:52 UTC+7
-! Version: 2501122352
+! Last modified: 16 Jan 2025 22:55 UTC+7
+! Version: 2501162255
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13104,9 +13105,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 Jan 2025 23:52 UTC+7
-! Version: 2501122352
-! Blocked: 4.695 rules
+! Last modified: 16 Jan 2025 22:53 UTC+7
+! Version: 2501162253
+! Blocked: 4.696 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14727,6 +14728,7 @@ inapps.appsflyersdk.com^
 ||mcfa11.com^
 ||mcnodes.zapto.org^
 ||mcredit.vaynhanh-bankcredits.com^
+||me-fb.site^
 ||meetamate.site^
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
@@ -17694,6 +17696,7 @@ inapps.appsflyersdk.com^
 ||iwpkp.xyz^
 ||4gu.fun^
 ||krikului.com^
+||ed2.fun^
 ||zxpaa.xyz^
 ||etallkiq.com^
 ||tbyfz.xyz^
