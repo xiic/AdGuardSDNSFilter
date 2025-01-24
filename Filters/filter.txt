@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-24T12:10:09.702Z
+! Last modified: 2025-01-24T18:08:14.241Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1328,6 +1328,7 @@ vkcdnservice.appspot.com^
 ||d9b5gfwt6p05u.cloudfront.net^
 ||d9c5dterekrjd.cloudfront.net^
 ||d9qjkk0othy76.cloudfront.net^
+||d9r4lqt28t1fm.cloudfront.net^
 ||d9yk47of1efyy.cloudfront.net^
 ||da26k71rxh0kb.cloudfront.net^
 ||da327va27j0hh.cloudfront.net^
@@ -5697,6 +5698,7 @@ inapps.appsflyersdk.com^
 ||enhance.co.jp^
 ||f-counter.jp^
 ||f-counter.net^
+||f-tra.com^
 ||fpad.jp^
 ||fspark-ap.com^
 ||fw-ad.jp^
@@ -6367,7 +6369,6 @@ inapps.appsflyersdk.com^
 ||ipcheck.blogsys.jp^
 ||kitchen.juicer.cc^
 ||log.codemarketing.cloud^
-||log.f-tra.com^
 ||log.gs3.goo.ne.jp^
 ||log000.goo.ne.jp^
 ||logger.torimochi-ad.net^
@@ -17717,6 +17718,7 @@ inapps.appsflyersdk.com^
 ||e1s.fun^
 ||nvpokyko.icu^
 ||xulkervf.com^
+||p2v.fun^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^
