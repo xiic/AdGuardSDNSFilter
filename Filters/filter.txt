@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-29T06:08:44.653Z
+! Last modified: 2025-01-29T12:10:35.557Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6803,6 +6803,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
 ||cdn.dmtgvn.com^
 ||llet787bww.com^
 ||1463.info^
@@ -9588,6 +9589,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||amawidget.yutbr.com^
 ||adreq.eagle-insight.com^
 ||ranmaotome.com^
 ||sb-hip-happy.ourservice.jp^
@@ -17723,6 +17725,7 @@ inapps.appsflyersdk.com^
 ||jdinmia.top^
 ||0592.mobi^
 ||kdinmid.top^
+||ghairqin.com^
 ||hdinmiu.top^
 ||xxsmad5.com^
 ||hostolhg.com^
