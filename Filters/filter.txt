@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-31T12:10:35.694Z
+! Last modified: 2025-01-31T18:08:06.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11798,7 +11798,6 @@ inapps.appsflyersdk.com^
 ||epeex.io^
 ||hbagency.it^
 ||justearn.it^
-||natexo-programmatic.com^
 ||nativery.com^
 ||rtbuzz.net^
 ||shoppydoo.com^
@@ -11808,23 +11807,15 @@ inapps.appsflyersdk.com^
 ||ad4mat.it^
 ||adagionet.com^
 ||adasta.it^
-||adbrawl.com^
 ||adbreak.ch^
-||addyon.com^
 ||adnext.it^
-||adpartner.it^
-||adresponse.it^
 ||adsolutions.nl^
 ||adspro.it^
-||adultsadv.com^
 ||adventertainment.it^
 ||advhits.com^
 ||advit.it^
 ||advplace.com^
-||affiliago.it^
 ||affiliationpartner.it^
-||affiliazioni.me^
-||affiliazioniweb.com^
 ||atomikad.com^
 ||bannerconnect.biz^
 ||bannerexplosion.it^
@@ -11833,8 +11824,6 @@ inapps.appsflyersdk.com^
 ||bannerporno.com^
 ||bannerpress.it^
 ||bannerpromotion.it^
-||banzaiadv.it^
-||beead.it^
 ||break-even.it^
 ||btsaffiliations.com^
 ||casino-sicuro.it^
@@ -11849,7 +11838,6 @@ inapps.appsflyersdk.com^
 ||disploot.com^
 ||easymarketcrs.it^
 ||ebuzzing.it^
-||edinetadv.com^
 ||evolutionadv.it^
 ||firebanner.com^
 ||go2speed.org^
@@ -11859,35 +11847,24 @@ inapps.appsflyersdk.com^
 ||inaffiliago.it^
 ||ioladv.it^
 ||iperbanner.com^
-||leaderaffiliation.com^
 ||leonardoadv.it^
-||linkto.org^
 ||livepartners.it^
 ||lopfly.com^
 ||mediamond.it^
 ||mondoecommerce.it^
-||mycookies.it^
 ||netszex.com^
 ||newclick.com^
 ||noddus.com^
 ||novadv.com^
 ||open-up.it^
-||overbrowser.com^
-||ovoadv.com^
-||pagetvu.com^
 ||panea.it^
 ||partypartners.it^
-||paypublicity.it^
 ||pirchio.com^
 ||plavid.com^
 ||preludeadv.it^
-||pronostici.app^
 ||prontocampaign.com^
 ||publy.net^
 ||pushly.it^
-||raddoppia-bitcoin.click^
-||raddoppia-bitcoin.pro^
-||radxcomm.com^
 ||rcsadv.it^
 ||reachadv.it^
 ||rizzonelli.it^
@@ -11895,16 +11872,13 @@ inapps.appsflyersdk.com^
 ||s-p-o-n-s-o-r.com^
 ||sbanner.com^
 ||scambiobanner.it^
-||scambiobanner.org^
 ||scambiobanner.tv^
 ||scambiositi.com^
 ||seolabadv.it^
 ||seowebbs.com^
-||simpleview.it^
 ||softwareplanet.net^
 ||soluzionibio.it^
 ||spicciolo.com^
-||sunaffiliation.com^
 ||superbanner.org^
 ||tagvideo.eu^
 ||tgadv.it^
@@ -11914,7 +11888,6 @@ inapps.appsflyersdk.com^
 ||viralbeat.com^
 ||wailay.com^
 ||wbusiness.fr^
-||widebanner.com^
 ||worldfilia.net^
 ||zariumhb.com^
 ||zodiakactive.com^
@@ -17722,6 +17695,7 @@ inapps.appsflyersdk.com^
 ||pw2.fun^
 ||lwtupzua.icu^
 ||drustren.com^
+||1qv.fun^
 ||bodhalqg.com^
 ||xedlxeuz.icu^
 ||twxftd.icu^
