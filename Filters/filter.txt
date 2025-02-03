@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-03T06:09:12.819Z
+! Last modified: 2025-02-03T12:10:42.638Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3100,6 +3100,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||jpush.io^
 ||datacollector-drru.dt.dbankcloud.ru^
 ||ulog*.kwai-pro.com^
 ||spider-tracker.xiaohongshu.com^
@@ -12178,9 +12179,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Feb 2025 23:26 UTC+7
-! Version: 2502012326
-! Blocked: 891 rules
+! Last modified: 03 Feb 2025 15:54 UTC+7
+! Version: 2502031554
+! Blocked: 873 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12198,7 +12199,6 @@ inapps.appsflyersdk.com^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
-||adnetwork.vn^
 ||adop.asia^
 ||adp.vnecdn.net^
 ||adpia.vn^
@@ -12282,7 +12282,6 @@ inapps.appsflyersdk.com^
 ||chatbox-static.botbanhang.vn^
 ||chatbox-tracking.botbanhang.vn^
 ||chatbox-widget.botbanhang.vn^
-||cheap-ads.net^
 ||cityadstrack.com^
 ||cleverads.vn^
 ||clevernet.vn^
@@ -12309,7 +12308,6 @@ inapps.appsflyersdk.com^
 ||fly-ads.net^
 ||flygame.io^
 ||fuseplatform.net^
-||gammadsp.com^
 ||gammaplatform.com^
 ||gammassp.com^
 ||genmonet.com^
@@ -12361,12 +12359,10 @@ inapps.appsflyersdk.com^
 ||m.zedcdn.me^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mautic.hubs.vn^
 ||mclick.mobi^
 ||mda.zadn.vn^
 ||me.zedcdn.me^
 ||media-ads.zaloapp.com^
-||mediad.asia^
 ||mediaz.asia^
 ||mediaz.vn^
 ||mediazcorp.com^
@@ -12402,9 +12398,7 @@ inapps.appsflyersdk.com^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
 ||phukienthoitranggiare.com^
-||piads.vn^
 ||pinetech.vn^
-||piwik.*.com.vn^
 ||piwik.*.vn^
 ||pixel.coccoc.com^
 ||polyad.net^
@@ -12436,15 +12430,11 @@ inapps.appsflyersdk.com^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
 ||service.adlinknetwork.vn^
-||serving-system.com^
 ||sharefb.cnnd.vn^
 ||shop-cdn.coccoc.com^
 ||slimads.vn^
-||smartadnetwork.net^
-||smartconvert.co^
 ||socialloginplus-apps.haravan.com^
 ||sourcetobin.com^
-||sporttv.today^
 ||starseed.fr^
 ||stat.play.zing.vn^
 ||static-addtoany-com.cdn.ampproject.org^
@@ -12461,7 +12451,6 @@ inapps.appsflyersdk.com^
 ||stc-support-app-brand.zdn.vn^
 ||surfcountor.com^
 ||syndication.adlinknetwork.vn^
-||t.sieu-viet.com^
 ||tebrand.asia^
 ||tebrand.vn^
 ||tech.zapps.me^
@@ -12496,13 +12485,10 @@ inapps.appsflyersdk.com^
 ||vda.viettel.vn^
 ||vdacdn1.viettel.vn^
 ||vdacdn2.viettel.vn^
-||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
 ||vipads.cc^
-||viraads.com^
 ||vnn-tracking.vnncdn.net^
-||vnnayngaytin.vn^
 ||wataads.com^
 ||watanet.work^
 ||wg.zaloapp.com^
@@ -12515,7 +12501,6 @@ inapps.appsflyersdk.com^
 ||wiinvent.tv^
 ||yeah1publishing.com^
 ||yoads.net^
-||yoads.network^
 ||yomedia.vn^
 ||younetmedia.com^
 ||za.zapps.vn^
@@ -12662,7 +12647,6 @@ inapps.appsflyersdk.com^
 ||aff2.linksht.online^
 ||affiliate.chiaki.vn^
 ||affiliate.k4.tinhte.vn^
-||aj2393.online^
 ||ak9.6895588.com^
 ||alexajstrack.com^
 ||an.dongphim.net^
@@ -12849,7 +12833,6 @@ inapps.appsflyersdk.com^
 ||log.vneconomy.vn^
 ||log.vnfinance.vn^
 ||log.vov.vn^
-||log.vovplus.vn^
 ||log.vovworld.vn^
 ||log.xoso.com.vn^
 ||log.zamba.vn^
@@ -13067,8 +13050,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 01 Feb 2025 23:27 UTC+7
-! Version: 2502012327
+! Last modified: 03 Feb 2025 15:54 UTC+7
+! Version: 2502031554
 ! Blocked: 4.698 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
