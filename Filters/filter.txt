@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-03T12:10:42.638Z
+! Last modified: 2025-02-03T18:08:14.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -380,6 +380,7 @@ vkcdnservice.appspot.com^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1170050225.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
@@ -390,6 +391,7 @@ vkcdnservice.appspot.com^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1758664454.rsc.cdn77.org^
+||1852210865.rsc.cdn77.org^
 ||1wnurc.com^
 ||360playvid.com^
 ||360playvid.info^
@@ -475,6 +477,7 @@ vkcdnservice.appspot.com^
 ||cts.tradepub.com^
 ||customer.heartinternet.co.uk^
 ||datacluster.club^
+||download-adblock-bear.com^
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^
 ||ebayadservices.com^
@@ -10435,7 +10438,6 @@ inapps.appsflyersdk.com^
 ||chatntr.com^
 ||ci-marketing.de^
 ||cmadserver.de^
-||codes.wai.it^
 ||conative.de^
 ||connects.ch^
 ||cpdsrv.de^
@@ -10536,7 +10538,6 @@ inapps.appsflyersdk.com^
 ||quality-channel.de^
 ||qualitymedianetwork.de^
 ||quartermedia.de^
-||quarterserver.de^
 ||rapidads.de^
 ||revresrennab.de^
 ||rgadvert.com^
@@ -10547,10 +10548,8 @@ inapps.appsflyersdk.com^
 ||selfpuc.com^
 ||server4ads.com^
 ||servote.de^
-||sexgoesmobile.com^
 ||solads.media^
 ||sparkads.ws^
-||sparkassen-partner.de^
 ||sponsortown.de^
 ||spoods.io^
 ||stilanzeigen.net^
@@ -10587,7 +10586,6 @@ inapps.appsflyersdk.com^
 ||wwm24.de^
 ||www.p.de^
 ||wz-werbewelt.de^
-||xaded.de^
 ||xiji.de^
 ||xtreff69.com^
 ||yoomedia.de^
@@ -17642,6 +17640,8 @@ inapps.appsflyersdk.com^
 ||krirkroins.com^
 ||xutvbt.icu^
 ||bctuapia.icu^
+||dhemixu.com^
+||cdinmaf.top^
 ||tbbfdr.icu^
 ||oveakmqk.com^
 ||lsxvnzif.icu^
