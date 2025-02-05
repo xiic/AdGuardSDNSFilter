@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-05T06:09:00.443Z
+! Last modified: 2025-02-05T12:10:48.132Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2174,6 +2174,10 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||adx-sg-req.bridgeoos.com^
+||adx-os.bridgeoos.com^
+||api.kickoffo.site^
+||api.bridgeoos.com^
 ||r0.mail.ru^
 ||r0.mradx.net^
 ||serveraddr.service.kugou.com^
@@ -3985,6 +3989,7 @@ inapps.appsflyersdk.com^
 ||az.nzn.io^
 ||az693360.vo.msecnd.net^
 ||b.bedop.com^
+||b.trueanthem.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||barium.cheezdev.com^
 ||bat.bing.net^
@@ -17644,6 +17649,7 @@ inapps.appsflyersdk.com^
 ||qhaccid.com^
 ||tnlixn.icu^
 ||u7y.pw^
+||ommatht.com^
 ||hdinmau.top^
 ||shaenphiks.com^
 ||feronyv.com^
