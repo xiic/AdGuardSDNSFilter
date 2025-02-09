@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-09T12:09:17.445Z
+! Last modified: 2025-02-09T18:07:02.233Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -9962,7 +9962,6 @@ inapps.appsflyersdk.com^
 ||s-ad.rmp.rakuten.co.jp^
 ||ad.jp.ap.valuecommerce.com^
 ||valuecommerce.ne.jp^
-||sgad.surfsnow.jp^
 ||mbadv.nan.co.jp^
 ||creative.live.tktube.com^
 ||ads.world-fusigi.net^
@@ -10038,10 +10037,8 @@ inapps.appsflyersdk.com^
 ||ydxdg.xyz^
 ||aafns.xyz^
 ||zbb.bbb.*.pics^
-||towmfs.com^
 ||hfisngksng.com^
 ||sikncs.com^
-||qimaf.com^
 ||renrenkanpian.com^
 ||b10.justacdn.net^
 ||wkzw.me^
@@ -10280,7 +10277,6 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||abc.ruodian360.com^
 ||xmm.wxc.cc^
 ||srtb.msn.cn^
 ||ad.hot-mob.com^
@@ -12194,9 +12190,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Feb 2025 09:33 UTC+7
-! Version: 2502050933
-! Blocked: 873 rules
+! Last modified: 09 Feb 2025 23:02 UTC+7
+! Version: 2502092302
+! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12723,6 +12719,7 @@ inapps.appsflyersdk.com^
 ||beta-log.anninhthudo.vn^
 ||bi.vhost.vn^
 ||bidgear-syndication.com^
+||bloggiamgia.info^
 ||btrack.homedy.com^
 ||bubblyzucchini.com^
 ||campaign.gitiho.com^
@@ -13065,9 +13062,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Feb 2025 09:34 UTC+7
-! Version: 2502050934
-! Blocked: 4.700 rules
+! Last modified: 09 Feb 2025 23:03 UTC+7
+! Version: 2502092303
+! Blocked: 4.703 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13826,6 +13823,7 @@ inapps.appsflyersdk.com^
 ||facebook62747.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
+||facebookvideo87.blogspot.com^
 ||facebookvni.com^
 ||facialwaxmaxfaxlax3.com^
 ||faecbooks.com^
@@ -14590,6 +14588,7 @@ inapps.appsflyersdk.com^
 ||lmht-membership.com^
 ||lmoney01.com^
 ||lo.dama582.com^
+||loafoushuho.com^
 ||loanmoney-th.com^
 ||locabank.vn^
 ||locmomo.com^
@@ -15255,6 +15254,7 @@ inapps.appsflyersdk.com^
 ||onlineshop888.com^
 ||onlineshop999.com^
 ||onlinetiki.com^
+||onlinetopchoice.com^
 ||onzeage.cfd^
 ||optimagroupthuongphuong.net^
 ||ordsexecutiv.cfd^
@@ -17655,6 +17655,7 @@ inapps.appsflyersdk.com^
 ||tmvirr.icu^
 ||udinmat.top^
 ||odinmak.top^
+||ldinmal.top^
 ||brornaeq.com^
 ||vjzqfh.icu^
 ||8ff0.cn^
@@ -17775,9 +17776,9 @@ inapps.appsflyersdk.com^
 ||lqxzx.com^
 ||r0j.fun^
 ||y0o.fun^
-||icokamio.top^
 ||thrumulr.com^
 ||01210sop.xyz^
+||icokamio.top^
 ||qhihoins.com^
 ||uv4.fun^
 ||01211sop.xyz^
@@ -17937,6 +17938,7 @@ inapps.appsflyersdk.com^
 ||cuvedyqs.com^
 ||jthotb.icu^
 ||qhatarsl.com^
+||towmfs.com^
 ||lqlwjr.icu^
 ||ppxndfgf.icu^
 ||1tv.icu^
@@ -18051,6 +18053,7 @@ inapps.appsflyersdk.com^
 ||ei7.icu^
 ||iwilmio.top^
 ||shaotgs.cn^
+||qimaf.com^
 ||ledollull.com^
 ||grmzwc.icu^
 ||ppio12200ios.top^
@@ -18105,7 +18108,6 @@ inapps.appsflyersdk.com^
 ||jtimiya.top^
 ||aigfednd.icu^
 ||chonaesor.com^
-||warped-bus.com^
 ||ktimiyd.top^
 ||a5t.icu^
 ||xpicj0.icu^
@@ -18470,9 +18472,9 @@ inapps.appsflyersdk.com^
 ||g4y7uuk.com^
 ||pmwofrq.icu^
 ||soublib.top^
-||1dki0.icu^
 ||bhakte.com^
 ||lalabaos1101.top^
+||1dki0.icu^
 ||eoubliw.top^
 ||qkgllif.icu^
 ||extopae.icu^
@@ -18685,7 +18687,6 @@ inapps.appsflyersdk.com^
 ||bytmfj.xyz^
 ||caicme.xyz^
 ||caqreg.xyz^
-||cb61190372.com^
 ||cdcs34.fun^
 ||cdickef.top^
 ||cdmyeg.xyz^
@@ -18732,7 +18733,6 @@ inapps.appsflyersdk.com^
 ||dgkship.icu^
 ||dgrgr34.fun^
 ||diendh.xyz^
-||diskaa.com^
 ||djecgyk.icu^
 ||dkasdeerw.xyz^
 ||dkhffh.xyz^
@@ -19451,7 +19451,6 @@ inapps.appsflyersdk.com^
 ||165tchuang.com^
 ||17123.net^
 ||1cecn.icu^
-||1f84e33459.com^
 ||1l1.cc^
 ||1ny3r.icu^
 ||2024114t.shop^
@@ -19490,8 +19489,6 @@ inapps.appsflyersdk.com^
 ||666bbb888www.com^
 ||666ppp222ppp.com^
 ||666ppp888ppp.com^
-||6b70b1086b.com^
-||6b856ee58e.com^
 ||6pznpz.com^
 ||6slb0.cyou^
 ||6zfem.icu^
@@ -19724,7 +19721,6 @@ inapps.appsflyersdk.com^
 ||chbheroq.xyz^
 ||cherylssb.com^
 ||chgpuxim.xyz^
-||chinaslauras.com^
 ||chnvgdkw.xyz^
 ||chsdwjes.xyz^
 ||chubsxmg.xyz^
@@ -19857,7 +19853,6 @@ inapps.appsflyersdk.com^
 ||dskjbvzvs.com^
 ||dssdfsf.cn^
 ||dtjpihv.xyz^
-||dugapiece.com^
 ||duluoweiyu.com^
 ||duyewnf.icu^
 ||dv4ku.icu^
@@ -19900,7 +19895,6 @@ inapps.appsflyersdk.com^
 ||enalzlw.top^
 ||engwsq.xyz^
 ||enifdlaw.top^
-||enviousinevitable.com^
 ||eoucxzw.icu^
 ||epxfjcb.xyz^
 ||eqkvks.xyz^
@@ -20602,14 +20596,12 @@ inapps.appsflyersdk.com^
 ||rdsgick.icu^
 ||rebojf.xyz^
 ||retinaesprent.com^
-||retintsmillion.com^
 ||retrefsf.cn^
 ||rfnvqpo.xyz^
 ||rgdcrt.xyz^
 ||rghbvp.xyz^
 ||rghqrj.xyz^
 ||rhzvlcu.xyz^
-||ringingneo.com^
 ||riscil.com^
 ||rjhbjv.xyz^
 ||rkgbqn.icu^
@@ -20683,7 +20675,6 @@ inapps.appsflyersdk.com^
 ||sosakk.xyz^
 ||sotunet.com^
 ||sowsuwm.icu^
-||sprewcereous.com^
 ||srtlisb.top^
 ||srwwce.xyz^
 ||srzpsbf.xyz^
@@ -20703,7 +20694,6 @@ inapps.appsflyersdk.com^
 ||sxoejoc.icu^
 ||sxtnpzd.xyz^
 ||syislob.top^
-||syiwgwsqwngrdw.xyz^
 ||synergyat.work^
 ||syuwkbb.top^
 ||szbxw.cn^
@@ -20712,7 +20702,6 @@ inapps.appsflyersdk.com^
 ||tahznx.xyz^
 ||tajdad.cn^
 ||talyrt.xyz^
-||taproximo.com^
 ||taxoxz.xyz^
 ||tc911.vip^
 ||tcfgtd.xyz^
@@ -21544,6 +21533,7 @@ inapps.appsflyersdk.com^
 ||27gh.cc^
 ||code.wenbanzhu.com^
 ||reke.at.sohu.com^
+||abc.ruodian360.com^
 ||hcirentgh.360doc.cn^
 ||a1.cyyangqiguan.com^
 ||jbdch1.appmobile.cn^
