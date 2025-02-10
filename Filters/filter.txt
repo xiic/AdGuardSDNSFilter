@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-10T06:09:24.172Z
+! Last modified: 2025-02-10T12:10:54.167Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2325,7 +2325,7 @@ vkcdnservice.appspot.com^
 ||ads-server.mxplay.com^
 ||mxaserver.mxplay.com^
 ||contextualadv.com^
-||prebid-cache.ifunny.co^
+||prebid-cache*.ifunny.co^
 ||tk0x1.com^
 ||itdsmr.com^
 ||displayio.cloud^
@@ -4280,6 +4280,7 @@ inapps.appsflyersdk.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
 ||geoservice.curse.com^
+||geotags.refinery89.com^
 ||gi-client-tracking.goodgamestudios.com^
 ||go.activengage.com^
 ||go.toutapp.com^
@@ -6835,7 +6836,6 @@ inapps.appsflyersdk.com^
 ||dosawes.com^
 ||lusupodum.com^
 ||clairpixum.com^
-||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
 ||hfnuqljjnt.com^
@@ -6871,7 +6871,6 @@ inapps.appsflyersdk.com^
 ||cdn.tameti.com^
 ||eehhabacgieacfjeaacg.world^
 ||bidmatic.io^
-||vidscriptshark.com^
 ||1qe.info^
 ||23oct2023.site^
 ||fcepahafyq.com^
@@ -17659,6 +17658,7 @@ inapps.appsflyersdk.com^
 ||brornaeq.com^
 ||strakuty.com^
 ||zcrddj.icu^
+||nonguds.com^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
