@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-12T06:09:04.382Z
+! Last modified: 2025-02-12T12:10:42.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||advert*.livesportmedia.eu^
 ||vtrk.dv.tech^
 ||cdn-media.brightline.tv^
 ||mt.ssai.peacocktv.com^
@@ -2352,7 +2353,7 @@ vkcdnservice.appspot.com^
 ||itdsmr.com^
 ||displayio.cloud^
 ||external-api.impression-neo.naver.com^
-||mobiadvert.livesportmedia.eu^
+||mobiadvert*.livesportmedia.eu^
 ||sdkv2.imaginationunwired.com^
 ||api-ad-adapter.wps.com^
 ||jtbo*.nqxvevk.cn^
@@ -3132,6 +3133,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||stat.weamvideo.com^
 ||log.ultimatecleaner.pro^
 ||impression.link^
 ||rm.aarki.net^
@@ -12209,8 +12211,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Feb 2025 09:56 UTC+7
-! Version: 2502110956
+! Last modified: 12 Feb 2025 17:45 UTC+7
+! Version: 2502121745
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13081,9 +13083,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 09 Feb 2025 23:03 UTC+7
-! Version: 2502092303
-! Blocked: 4.703 rules
+! Last modified: 12 Feb 2025 17:44 UTC+7
+! Version: 2502121744
+! Blocked: 4.704 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13561,6 +13563,7 @@ inapps.appsflyersdk.com^
 ||continue.dasboard965-account.com^
 ||continue.dasboard966-account.com^
 ||continue.dasboard974-account.com^
+||cooknove.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
 ||cpa-tc.com^
@@ -17671,6 +17674,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||strelgrell.com^
 ||traukvan.com^
 ||20wx.com^
 ||vitqzd.icu^
