@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-13T12:10:59.026Z
+! Last modified: 2025-02-13T18:08:27.783Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1196,6 +1196,7 @@ vkcdnservice.appspot.com^
 ||d3d9gb3ic8fsgg.cloudfront.net^
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
+||d3ea0dyj1ehgcr.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
 ||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
@@ -2156,8 +2157,12 @@ vkcdnservice.appspot.com^
 ||criteo.com^
 ||criteo.net^
 !
+! Appodeal
 ||appodeal.com^
-||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
+! ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
+/^https:\/\/a\.[0-9a-f]{56}\.com$/
+! For DNS filtering
+/^a\.[0-9a-f]{56}\.com$/
 !
 ||ad.buzzvil.com^
 ||screen.buzzvil.com^
@@ -2196,6 +2201,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads.appbundledownload.com^
 ||san.myadssupport.com^
 ||api.youngle.tech^
 ||api.myadsget.com^
@@ -2234,8 +2240,6 @@ vkcdnservice.appspot.com^
 ||news-cdn.site^
 ||mossru.com^
 ||jjpp.lmtjapi.com^
-||a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com^
-||a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
 ||ad.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
 ||frontier100-toutiao-lf.fqnovel.com^
@@ -3130,9 +3134,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
-!
-! NOTE: Regular rules
-!
+||flashtalking.com^
 ||stat.weamvideo.com^
 ||log.ultimatecleaner.pro^
 ||impression.link^
@@ -11531,7 +11533,6 @@ inapps.appsflyersdk.com^
 ||seo.compado.com^
 ||seoab.io^
 ||seonify.com^
-||servedby.flashtalking.com^
 ||servedby.lintigroup.se^
 ||servedby.studads.com^
 ||servedby.aqua-adserver.com^
@@ -17676,6 +17677,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||saddarue.com^
+||scinmab.top^
+||stroveiks.com^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
@@ -22708,6 +22712,10 @@ analytics-*.aasaam.com
 # >> L <<
 
 # >> M <<
+# Referral links disguised as movie download links
+# https://mediawach. com/introducing-telegram-app-for-mobile-standard-and-premium-versions/
+||mediawach.com^
+
 ||sentry.mci.dev^
 # On zarebin.ir
 
