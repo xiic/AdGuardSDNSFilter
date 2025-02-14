@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-14T00:27:42.083Z
+! Last modified: 2025-02-14T06:08:48.762Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4560,6 +4560,7 @@ inapps.appsflyersdk.com^
 ||prod.ew.srp.navigacloud.com^
 ||prod.fennec.atp.fox^
 ||prodregistryv2.org^
+||propsid.b-cdn.net^
 ||proxy.dzeio.com^
 ||proxy.trysavvy.com^
 ||pt.crossmediaservices.com^
@@ -12050,7 +12051,6 @@ inapps.appsflyersdk.com^
 ||presbanise.pw^
 ||promobagus.com^
 ||promotioncamp.com^
-||propsid.b-cdn.net^
 ||publish.web.id^
 ||pusatiklan.com^
 ||s2pops.club^
@@ -12218,8 +12218,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Feb 2025 16:21 UTC+7
-! Version: 2502131621
+! Last modified: 14 Feb 2025 10:19 UTC+7
+! Version: 2502141019
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13090,9 +13090,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 13 Feb 2025 15:45 UTC+7
-! Version: 2502131545
-! Blocked: 4.704 rules
+! Last modified: 14 Feb 2025 10:19 UTC+7
+! Version: 2502141019
+! Blocked: 4.709 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13350,6 +13350,7 @@ inapps.appsflyersdk.com^
 ||baovietn.vip^
 ||baovietvay.top^
 ||baovietvc.top^
+||bapoder.com^
 ||barbecueappledos.pw^
 ||bb9998.com^
 ||bbankpower.com^
@@ -13780,6 +13781,7 @@ inapps.appsflyersdk.com^
 ||dv-nang-cap-vpbank.com^
 ||dvdienmayxanh.com^
 ||dvfbnhan.com^
+||dvw22rk.c2dat.shop^
 ||e-bankingshopee.vn^
 ||e-commercesc.cc^
 ||e-sacombank.com^
@@ -13847,6 +13849,7 @@ inapps.appsflyersdk.com^
 ||face-book.co^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
+||facebook10002158.blogspot.com^
 ||facebook4288062.blogspot.com^
 ||facebook60118.blogspot.com^
 ||facebook62747.blogspot.com^
@@ -14288,6 +14291,7 @@ inapps.appsflyersdk.com^
 ||i-sacombank.com^
 ||i-shopping888.com^
 ||i-vietcombank.com^
+||i.scriptovore.com^
 ||iazada.com^
 ||ib-ebanking.com^
 ||ibankingdigital.com^
@@ -15377,6 +15381,7 @@ inapps.appsflyersdk.com^
 ||procfullcracked.com^
 ||procrackfree.com^
 ||profileid.info^
+||profileid.site^
 ||prolicensekeys.com^
 ||promomobilsuzukijakarta.com^
 ||provider.giize.com^
