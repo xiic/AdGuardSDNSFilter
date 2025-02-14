@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-14T12:10:38.462Z
+! Last modified: 2025-02-14T18:08:09.381Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3137,6 +3137,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||tnc*.tiktokv.us^
 ||aws.userlogsanalytics.com^
 ||atb-stats-api.imolive.tv^
 ||i.mxplayer.j2inter.com^
@@ -5173,7 +5174,6 @@ inapps.appsflyersdk.com^
 ||secure.trust-guard.com^
 ||securitymetrics.com^
 ||shield.sitelock.com^
-||shopperapproved.com^
 ||siteintercept.allegiancetech.com^
 ||smart-widget-assets.ekomiapps.de^
 ||trusted-web-seal.cybertrust.ne.jp^
@@ -6858,6 +6858,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||showsclick.com^
 ||7kprtners.com^
 ||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
 ||cdn.dmtgvn.com^
@@ -17695,6 +17696,8 @@ inapps.appsflyersdk.com^
 ||zbldxf.icu^
 ||ldbnhd.icu^
 ||i8m6.com^
+||qhunetsq.com^
+||wbe4.cn^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
