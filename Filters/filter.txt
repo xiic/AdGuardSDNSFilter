@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-15T18:07:34.260Z
+! Last modified: 2025-02-16T00:30:42.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -665,6 +665,7 @@ vkcdnservice.appspot.com^
 ||d192g7g8iuw79c.cloudfront.net^
 ||d192r5l88wrng7.cloudfront.net^
 ||d199kwgcer5a6q.cloudfront.net^
+||d19a04d0igndnt.cloudfront.net^
 ||d19bpqj0yivlb3.cloudfront.net^
 ||d19diizb3qce6y.cloudfront.net^
 ||d19gkl2iaav80x.cloudfront.net^
@@ -924,6 +925,7 @@ vkcdnservice.appspot.com^
 ||d27qffx6rqb3qm.cloudfront.net^
 ||d27tbpngbwa8i.cloudfront.net^
 ||d27x9po2cfinm5.cloudfront.net^
+||d28bcu8ltt2bxh.cloudfront.net^
 ||d28exbmwuav7xa.cloudfront.net^
 ||d28quk6sxoh2w5.cloudfront.net^
 ||d28s7kbgrs6h2f.cloudfront.net^
@@ -993,6 +995,7 @@ vkcdnservice.appspot.com^
 ||d2it3a9l98tmsr.cloudfront.net^
 ||d2izcn32j62dtp.cloudfront.net^
 ||d2j042cj1421wi.cloudfront.net^
+||d2j45sh7zpklsw.cloudfront.net^
 ||d2j71mqxljhlck.cloudfront.net^
 ||d2jgbcah46jjed.cloudfront.net^
 ||d2jgp81mjwggyr.cloudfront.net^
@@ -1006,6 +1009,7 @@ vkcdnservice.appspot.com^
 ||d2k7gvkt8o1fo8.cloudfront.net^
 ||d2kadvyeq051an.cloudfront.net^
 ||d2kd9y1bp4zc6.cloudfront.net^
+||d2kecuadujf2df.cloudfront.net^
 ||d2kgzdmv0vdycp.cloudfront.net^
 ||d2khpmub947xov.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
@@ -1071,6 +1075,8 @@ vkcdnservice.appspot.com^
 ||d2t47qpr8mdhkz.cloudfront.net^
 ||d2t72ftdissnrr.cloudfront.net^
 ||d2taktuuo4oqx.cloudfront.net^
+||d2tbszkvx1p56e.cloudfront.net^
+||d2tc1zttji8e3a.cloudfront.net^
 ||d2tkdzior84vck.cloudfront.net^
 ||d2tvgfsghnrkwb.cloudfront.net^
 ||d2u2lv2h6u18yc.cloudfront.net^
@@ -1113,6 +1119,7 @@ vkcdnservice.appspot.com^
 ||d2zk8mk8hghu3d.cloudfront.net^
 ||d2zrhnhjlfcuhf.cloudfront.net^
 ||d2zzazjvlpgmgi.cloudfront.net^
+||d300jm499woj5o.cloudfront.net^
 ||d301cxwfymy227.cloudfront.net^
 ||d30sxnvlkawtwa.cloudfront.net^
 ||d30tme16wdjle5.cloudfront.net^
@@ -1273,6 +1280,7 @@ vkcdnservice.appspot.com^
 ||d3ou4areduq72f.cloudfront.net^
 ||d3oy68whu51rnt.cloudfront.net^
 ||d3p8w7to4066sy.cloudfront.net^
+||d3p9nm1ictat1y.cloudfront.net^
 ||d3pe8wzpurrzss.cloudfront.net^
 ||d3phzb7fk3uhin.cloudfront.net^
 ||d3pvcolmug0tz6.cloudfront.net^
@@ -1294,6 +1302,7 @@ vkcdnservice.appspot.com^
 ||d3rr3d0n31t48m.cloudfront.net^
 ||d3rxqouo2bn71j.cloudfront.net^
 ||d3s40ry602uhj1.cloudfront.net^
+||d3sdfpysdncs72.cloudfront.net^
 ||d3sdg6egu48sqx.cloudfront.net^
 ||d3skqyr7uryv9z.cloudfront.net^
 ||d3sof4x9nlmbgy.cloudfront.net^
@@ -1308,6 +1317,7 @@ vkcdnservice.appspot.com^
 ||d3tjml0i5ek35w.cloudfront.net^
 ||d3tnmn8yxiwfkj.cloudfront.net^
 ||d3tozt7si7bmf7.cloudfront.net^
+||d3u0wd7ppfhcxv.cloudfront.net^
 ||d3u598arehftfk.cloudfront.net^
 ||d3ubdcv1nz4dub.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
@@ -17689,6 +17699,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||vudqth.icu^
+||grarnuns.com^
+||hwtadf.icu^
 ||sholxorw.com^
 ||xehyjx.icu^
 ||jgxirv.icu^
