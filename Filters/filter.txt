@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-18T12:10:47.455Z
+! Last modified: 2025-02-18T18:08:40.220Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -560,6 +560,7 @@ vkcdnservice.appspot.com^
 ||smartads.statsperform.com^
 ||squirrels.getsquirrel.co^
 ||srv.dynamicyield.com^
+||srv.yeahwebimobi.fun^
 ||static.tradetracker.net^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
@@ -729,6 +730,7 @@ vkcdnservice.appspot.com^
 ||d1g4493j0tcwvt.cloudfront.net^
 ||d1g4xgvlcsj49g.cloudfront.net^
 ||d1g8forfjnu2jh.cloudfront.net^
+||d1gof7ug63b1q4.cloudfront.net^
 ||d1gpi088t70qaf.cloudfront.net^
 ||d1ha41wacubcnb.cloudfront.net^
 ||d1hgdmbgioknig.cloudfront.net^
@@ -908,6 +910,7 @@ vkcdnservice.appspot.com^
 ||d23a1izvegnhq4.cloudfront.net^
 ||d23d7sc86jmil5.cloudfront.net^
 ||d23guct4biwna6.cloudfront.net^
+||d23h3o5tkgytgm.cloudfront.net^
 ||d23i0h7d50duv0.cloudfront.net^
 ||d23pdhuxarn9w2.cloudfront.net^
 ||d23rx8p5l6yry7.cloudfront.net^
@@ -1133,6 +1136,7 @@ vkcdnservice.appspot.com^
 ||d30vnp3fqcdhq5.cloudfront.net^
 ||d30yd3ryh0wmud.cloudfront.net^
 ||d313lzv9559yp9.cloudfront.net^
+||d31h09ditj91uf.cloudfront.net^
 ||d31m6w8i2nx65e.cloudfront.net^
 ||d31mxuhvwrofft.cloudfront.net^
 ||d31o2k8hutiibd.cloudfront.net^
@@ -1528,6 +1532,7 @@ vkcdnservice.appspot.com^
 ||dvh66m0o7et0z.cloudfront.net^
 ||dvl8xapgpqgc1.cloudfront.net^
 ||dvmdwmnyj3u4h.cloudfront.net^
+||dvwowtnmyluv4.cloudfront.net^
 ||dw55pg05c2rl5.cloudfront.net^
 ||dw7vmlojkx16k.cloudfront.net^
 ||dw85st0ijc8if.cloudfront.net^
@@ -3157,6 +3162,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||track.aieic.com^
+||tracker.str-nrg.com^
 ||use-trk*.bluevoox.com^
 ||pixel.magentamarketing.com^
 ||bisrtb.vidazoo.com^
@@ -3375,6 +3382,7 @@ inapps.appsflyersdk.com^
 ||adash.man.aliyuncs.com^
 ||woodpecker.uc.cn^
 ||adashx4ae.ut.taobao.com^
+||h-adashx4ae.ut.taobao.com^
 ||audid-api.taobao.com^
 ||analytics.ff.avast.com^
 ||node.aibeacon.jp^
@@ -17718,6 +17726,9 @@ inapps.appsflyersdk.com^
 ||lclqbh.icu^
 ||qnhi.cn^
 ||phazaeth.com^
+||uewotga.top^
+||ccinvdf.top^
+||uvoisbg.xyz^
 ||aegzoils.com^
 ||bxzlfr.icu^
 ||shudi8.com^
