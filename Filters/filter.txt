@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-19T18:08:25.558Z
+! Last modified: 2025-02-20T00:28:09.998Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3164,6 +3164,9 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||collect.ureca-lab.com^
+||api.abcsinsights.com^
+||tracking.carbonatixaudio.com^
 ||adashx.ut.alibaba.com^
 ||h-adashx.ut.alibaba.com^
 ||stats.calldorado.com^
@@ -6897,6 +6900,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||adlook.tech^
 ||showsclick.com^
 ||7kprtners.com^
 ||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
@@ -11454,6 +11458,7 @@ inapps.appsflyersdk.com^
 ||mcgtrack.herokuapp.com^
 ||media.casumoaffiliates.com^
 ||media.comeon.com^
+||media.go2speed.org^
 ||media.hajper.com^
 ||media.snabbare.com^
 ||mediaglacier.com^
@@ -11866,79 +11871,36 @@ inapps.appsflyersdk.com^
 ! Source name: EasyList Italy ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
+||adasta.it^
+||adbreak.ch^
 ||addendo.network^
 ||adkaora.space^
 ||adplay.it^
+||adspro.it^
 ||affiliation.software^
+||break-even.it^
 ||broadbandy.net^
 ||brznetwork.com^
 ||btmarketing.it^
+||codesour.com^
+||consigli.it^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
+||evolutionadv.it^
 ||hbagency.it^
 ||justearn.it^
+||leonardoadv.it^
+||mediamond.it^
+||noddus.com^
+||open-up.it^
 ||rtbuzz.net^
 ||seowebbs.com^
 ||shoppydoo.com^
 ||tjekscores.dk^
 ||yobee.it^
 ||yohtads.com^
-||24network.it^
-||ad4mat.it^
-||adagionet.com^
-||adasta.it^
-||adbreak.ch^
-||adnext.it^
-||adsolutions.nl^
-||adspro.it^
-||adventertainment.it^
-||advhits.com^
-||advit.it^
-||advplace.com^
-||affiliationpartner.it^
-||atomikad.com^
-||bannerconnect.biz^
-||bannerexplosion.it^
-||bannergratis.it^
-||bannerout.com^
-||bannerporno.com^
-||bannerpress.it^
-||bannerpromotion.it^
-||break-even.it^
-||btsaffiliations.com^
-||casino-sicuro.it^
-||clacson24.com^
-||clickadv.it^
-||clickcount.pw^
-||clickpoint.it^
-||codesour.com^
-||consigli.it^
-||coreg-feed.com^
-||digitalbees.it^
-||disploot.com^
-||easymarketcrs.it^
-||ebuzzing.it^
-||evolutionadv.it^
-||firebanner.com^
-||go2speed.org^
-||guarda4k.online^
-||hubaffiliations.net^
-||husfly.com^
-||inaffiliago.it^
-||ioladv.it^
-||iperbanner.com^
-||leonardoadv.it^
-||livepartners.it^
-||lopfly.com^
-||mediamond.it^
-||mondoecommerce.it^
-||netszex.com^
-||newclick.com^
-||noddus.com^
-||novadv.com^
-||open-up.it^
-||panea.it^
+!
 ||partypartners.it^
 ||pirchio.com^
 ||plavid.com^
@@ -17727,6 +17689,10 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||stildell.com^
+||dtntnl.icu^
+||hvddxj.icu^
+||ssydquy.top^
 ||dhannaq.com^
 ||xqrydt.icu^
 ||rsohvot.xyz^
