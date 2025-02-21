@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-20T18:08:25.924Z
+! Last modified: 2025-02-21T00:28:27.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11898,45 +11898,18 @@ inapps.appsflyersdk.com^
 ||mediamond.it^
 ||noddus.com^
 ||open-up.it^
+||preludeadv.it^
+||publy.net^
+||rcsadv.it^
+||rizzonelli.it^
 ||rtbuzz.net^
 ||seowebbs.com^
 ||shoppydoo.com^
 ||tjekscores.dk^
+||upstory.it^
+||worldfilia.net^
 ||yobee.it^
 ||yohtads.com^
-!
-||partypartners.it^
-||pirchio.com^
-||plavid.com^
-||preludeadv.it^
-||prontocampaign.com^
-||publy.net^
-||pushly.it^
-||rcsadv.it^
-||reachadv.it^
-||rizzonelli.it^
-||s-lab.it^
-||s-p-o-n-s-o-r.com^
-||sbanner.com^
-||scambiobanner.it^
-||scambiobanner.tv^
-||scambiositi.com^
-||seolabadv.it^
-||softwareplanet.net^
-||soluzionibio.it^
-||spicciolo.com^
-||superbanner.org^
-||tagvideo.eu^
-||tgadv.it^
-||tgadvcdn.it^
-||tipster.space^
-||upstory.it^
-||viralbeat.com^
-||wailay.com^
-||wbusiness.fr^
-||worldfilia.net^
-||zariumhb.com^
-||zodiakactive.com^
 
 !
 ! Source name: ABPindo ad servers
@@ -17693,6 +17666,13 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||fttxhcua.icu^
+||crazodsxx.com^
+||kcinvdd.top^
+||xxsmad6.com^
+||bjtlzv.icu^
+||nljyjt.icu^
+||fngmeat.top^
 ||stildell.com^
 ||dtntnl.icu^
 ||hvddxj.icu^
