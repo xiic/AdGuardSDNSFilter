@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-25T06:09:10.214Z
+! Last modified: 2025-02-25T12:11:07.744Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3876,9 +3876,11 @@ inapps.appsflyersdk.com^
 ||ymtracking.com^
 !
 ! TikTok
+||mcs.tiktokw.us^
+||mcs.*.tiktokv.com^
 ||log*-normal-*.tiktokv.us^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
-||mon*-platform-*.tiktokv.com^
+||mon*-*.tiktokv.com^
 ||rtlog*.tiktokv.us^
 ||rtlog*.tiktokv.com^
 ||log.tiktokv.com^
@@ -12219,8 +12221,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Feb 2025 09:44 UTC+7
-! Version: 2502250944
+! Last modified: 25 Feb 2025 14:03 UTC+7
+! Version: 2502251403
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17696,6 +17698,10 @@ inapps.appsflyersdk.com^
 ||znlvhnej.icu^
 ||okwjmii.top^
 ||onjncgq.top^
+||o02251aokk.com^
+||pheidheat.com^
+||thampheth.com^
+||vtrrxqbi.xyz^
 ||dfhthh.icu^
 ||chuundads.com^
 ||xvvfpsmp.icu^
