@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-26T06:09:04.446Z
+! Last modified: 2025-02-26T12:11:09.547Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11083,8 +11083,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-02-25 05:18:07 CET
-# entries:        1106
+# last updated:   2025-02-26 07:26:21 CET
+# entries:        1107
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11650,6 +11650,7 @@ inapps.appsflyersdk.com^
 ||static.zotabox.com^
 ||statistics.heltenkelt.se^
 ||statistik.blogg1.se^
+||statistik.sailguide.com^
 ||statistik.svenskaakademien.se^
 ||stats.agrar.nu^
 ||stats.allabolag.se^
@@ -17696,6 +17697,7 @@ inapps.appsflyersdk.com^
 ||lnptph.icu^
 ||pisb.cn^
 ||dyyygyg.top^
+||dhulzehgk.com^
 ||druqodrly.com^
 ||bidotz.icu^
 ||nktydx.icu^
