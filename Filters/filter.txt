@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-27T06:09:19.873Z
+! Last modified: 2025-02-27T12:10:59.349Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4410,6 +4410,7 @@ inapps.appsflyersdk.com^
 ||i.posthog.com^
 ||i.viafoura.co^
 ||iabusprivacy.pmc.com^
+||id.a-mx.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||identification.hotmart.com^
 ||ihi.flowplayer.com^
@@ -7832,7 +7833,6 @@ inapps.appsflyersdk.com^
 ||fqwgi.com^
 ||admediator.ru^
 ||cdn.hunteryvely.com^
-||threedrive.su^
 ||skwstat.ru^
 ||kinoaction.ru^
 ||onemontay.ru^
@@ -9473,15 +9473,11 @@ inapps.appsflyersdk.com^
 ||policycounsel.org^
 ||d8c5y8fq3znwi.cloudfront.net^
 ||medyanative.com^
-||61ads.net^
 ||apptospace.com^
 ://sportframe*.co^
 ||publisher-network.com^
-||dzypro.xyz^
 ://sportframe*.org^
-||storj.cloud^
 ||clbanners9.com^
-||my.urdreama.cfd^
 ||referans.xyz^
 ||diken.xyz^
 ||likevertising.com^
@@ -9525,7 +9521,6 @@ inapps.appsflyersdk.com^
 ||aspartos.com^
 ||basvformu*.xyz^
 ||bcvc.mobi^
-||betendads.com^
 ||betkanyon100.com^
 ||betwinnerpromo.com^
 ||bo.facesbet.com^
@@ -9544,13 +9539,10 @@ inapps.appsflyersdk.com^
 ||gmgreklam.com^
 ||gorselcdn.com^
 ||gorselpanel.com^
-||htpanel.com^
 ||indirads.org^
 ||inegolreklam.net^
-||inrool.com^
 ||installads.net^
 ||installads.org^
-||installads2.com^
 ||ivr.com.tr^
 ||iyisayfa.net^
 ||kalitereklam.com^
@@ -9565,7 +9557,6 @@ inapps.appsflyersdk.com^
 ||mp.subservis.com^
 ||n69adserv.com^
 ||nativendo.com^
-||noxaffiliates.com^
 ||numarapaneli.com^
 ||nutga.com^
 ||partner.superbahisaffiliates*.com^
@@ -9574,7 +9565,6 @@ inapps.appsflyersdk.com^
 ||permato.com^
 ||piaads.com^
 ||pmelon.com^
-||r20.club^
 ||ref.gitadres.com^
 ||rek.yemlee.com^
 ||reklam7.com^
@@ -9602,7 +9592,6 @@ inapps.appsflyersdk.com^
 ||wonoddgiris.com^
 ||yedimedia.net^
 ||youtubesave.org^
-||youtubex.top^
 
 !
 ! Source name: AdGuard Turkish filter ad servers first-party
@@ -17698,6 +17687,8 @@ inapps.appsflyersdk.com^
 ||fbvbrb.icu^
 ||rojj.cn^
 ||bmasamd.top^
+||dhonphehr.com^
+||svjj.cn^
 ||zlzgfj.icu^
 ||lnptph.icu^
 ||pisb.cn^
