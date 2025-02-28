@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-28T00:28:38.424Z
+! Last modified: 2025-02-28T06:09:09.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1335,6 +1335,7 @@
 ||toponclick.com^$dnsrewrite=ad-block.dns.adguard.com
 ||topperformance.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||torrent09.uno^$dnsrewrite=ad-block.dns.adguard.com
+||torrent9.cm^$dnsrewrite=ad-block.dns.adguard.com
 ||tourpowouro.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||trbx-l1.online^$dnsrewrite=ad-block.dns.adguard.com
 ||trmzum.com^$dnsrewrite=ad-block.dns.adguard.com
