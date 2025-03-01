@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-01T00:31:33.830Z
+! Last modified: 2025-03-01T06:08:10.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11073,8 +11073,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-02-26 07:26:21 CET
-# entries:        1107
+# last updated:   2025-03-01 06:58:35 CET
+# entries:        1100
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -11227,7 +11227,6 @@ inapps.appsflyersdk.com^
 ||brandy.bonniernewslifestyle.se^
 ||browser-http-intake.logs.datadoghq.com^
 ||browser-http-intake.logs.datadoghq.eu^
-||bs.serving-sys.com^
 ||btloader.com^
 ||buzzador.com^
 ||b-code.liadm.com^
@@ -11466,7 +11465,6 @@ inapps.appsflyersdk.com^
 ||look.ufinkln.com^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
-||markhor.organicfruitapps.com^
 ||matomo.chsc.dk^
 ||matomo.goteborgco.se^
 ||matomo.lulea.se^
@@ -11595,7 +11593,6 @@ inapps.appsflyersdk.com^
 ||secure.curl7bike.com^
 ||secure.reaktion.se^
 ||secure.statcounter.com^
-||secure-ds.serving-sys.com^
 ||seenthis.se^
 ||sentry.outbid.io^
 ||seo.compado.com^
@@ -11656,7 +11653,6 @@ inapps.appsflyersdk.com^
 ||stats.userneeds.com^
 ||stats2.agilecrm.com^
 ||stats2.ehandel.se^
-||statsapi.tiendeo.se^
 ||step-dk.gscontxt.net^
 ||storymedia.se^
 ||stpd.cloud^
@@ -11875,7 +11871,6 @@ inapps.appsflyersdk.com^
 ||www.effectivecreativeformat.com^
 ||www.fakturino.se^
 ||www.flashb.id^
-||www.guesssverige.com.se^
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
 ||www.onclickalgo.com^
@@ -17687,6 +17682,8 @@ inapps.appsflyersdk.com^
 ||kczq.cn^
 ||zcnmjb.icu^
 ||ledwtz.icu^
+||aa03010iiko.com^
+||iyqbsst.top^
 ||derwbl.icu^
 ||nievolmqn.com^
 ||sikvoilst.com^
