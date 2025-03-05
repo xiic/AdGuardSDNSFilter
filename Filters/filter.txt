@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-05T12:11:02.225Z
+! Last modified: 2025-03-05T18:08:48.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6533,6 +6533,7 @@ inapps.appsflyersdk.com^
 ||tracker.shanon-services.com^
 ||tracker.smartseminar.jp^
 ||trk.fensi.plus^
+||tver-metrics.streaks.jp^
 ||userdive.com^
 ||x9.shinobi.jp^
 ! Korean
@@ -9424,6 +9425,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Ad servers
 !
+||ads2native.com^
 ||hdvmyo.com^
 ||adsy.mail.bg^
 
@@ -10127,6 +10129,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||aizhantj.com^
 ||sm-cloud.yunsafe.top^
 ||dwyeuy.com^
 ||ziweuu.com^
@@ -17703,6 +17706,8 @@ inapps.appsflyersdk.com^
 ||hbxmdf.icu^
 ||ojmv.cn^
 ||rvgtaai.top^
+||vwvj.cn^
+||fpfhtr.icu^
 ||nhur.cn^
 ||bybrrn.icu^
 ||hmjmjz.icu^
@@ -22663,7 +22668,6 @@ analytics-*.aasaam.com
 ||cyad.nate.com^
 ||ads.gamemeca.com^
 ||adcdn.gamemeca.com^
-||trendpick.shopping.naver.com^
 ||powerclick.about.co.kr^
 ||ads.tapzin.com^
 ||advod.sbs.co.kr^
