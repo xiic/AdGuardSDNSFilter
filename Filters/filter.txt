@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-08T00:23:18.313Z
+! Last modified: 2025-03-08T06:07:18.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -38,6 +38,7 @@
 ||hesads.akamaized.net^
 ||videoads.hotstar.com^
 ||iframe.porndudegirls.com^
+||cdn.slots.baxter.olx.org^
 ||s.trvdp.com^
 ||undersite.pages.dev^
 ||reklama.shinden.eu^
@@ -4101,7 +4102,6 @@ inapps.appsflyersdk.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||barium.cheezdev.com^
 ||bat.bing.net^
-||baxter.olx.org^
 ||bc.geocities.
 ||bc.marfeelcache.com^
 ||beacon.adelphic.com^
@@ -4864,6 +4864,7 @@ inapps.appsflyersdk.com^
 ||telemetry.smartframe.io^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||telemetry.transcend.io^
 ||telemetry.vtex.com^
 ||test.takedwn.ws^
 ||timejs.game.163.com^
@@ -17710,6 +17711,7 @@ inapps.appsflyersdk.com^
 ||hltpdd.icu^
 ||bxlulr.icu^
 ||stralotsb.com^
+||pfhe.cn^
 ||hbxmdf.icu^
 ||dupzbh.icu^
 ||jixurt.icu^
