@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-18T00:29:07.052Z
+! Last modified: 2025-03-18T06:09:32.367Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12257,8 +12257,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Mar 2025 16:02 UTC+7
-! Version: 2503161602
+! Last modified: 18 Mar 2025 09:43 UTC+7
+! Version: 2503180943
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13129,9 +13129,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Mar 2025 13:58 UTC+7
-! Version: 2503161358
-! Blocked: 4.720 rules
+! Last modified: 18 Mar 2025 09:43 UTC+7
+! Version: 2503180943
+! Blocked: 4.721 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -16361,6 +16361,7 @@ inapps.appsflyersdk.com^
 ||tetlienquan.com^
 ||tetlienquan2023.website^
 ||tetquatang.vn^
+||tffqv.bhszc.de^
 ||tfi1233.com^
 ||tfi6678.com^
 ||thang365g.com^
@@ -17740,6 +17741,8 @@ inapps.appsflyersdk.com^
 ||lppfnf.icu^
 ||shedranfd.com^
 ||quyr.cn^
+||vljkjx.top^
+||yaaumqa.top^
 ||vnbbrx.top^
 ||hylplj.icu^
 ||naukreatn.com^
