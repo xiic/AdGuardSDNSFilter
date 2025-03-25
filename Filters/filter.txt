@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-25T06:09:43.632Z
+! Last modified: 2025-03-25T12:11:31.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20,7 +20,6 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-
 ||creative.boyfriend.show^
 ||creative.camsplanetlive.com^
 ||creative.celebjihad.live^
@@ -398,6 +397,7 @@ vkcdnservice.appspot.com^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
+||1305314473.rsc.cdn77.org^
 ||1352924994.rsc.cdn77.org^
 ||1361424968.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
@@ -406,6 +406,7 @@ vkcdnservice.appspot.com^
 ||1560807123.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1985536323.rsc.cdn77.org^
 ||1wglkbv.com^
 ||1wincdn.b-cdn.net^
 ||1winpb.com^
@@ -17758,6 +17759,8 @@ inapps.appsflyersdk.com^
 ||pqav.cn^
 ||fsjfnp.top^
 ||jgapcsi.icu^
+||bremphumz.com^
+||xluz.cn^
 ||khegritww.com^
 ||knul.cn^
 ||ra10.xyz^
