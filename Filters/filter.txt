@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-27T12:11:19.661Z
+! Last modified: 2025-03-27T18:08:52.946Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1407,6 +1407,7 @@ vkcdnservice.appspot.com^
 ||d8cxnvx3e75nn.cloudfront.net^
 ||d8dcj5iif1uz.cloudfront.net^
 ||d8dkar87wogoy.cloudfront.net^
+||d8sllv1cwflbw.cloudfront.net^
 ||d8xy39jrbjbcq.cloudfront.net^
 ||d91i6bsb0ef59.cloudfront.net^
 ||d9b5gfwt6p05u.cloudfront.net^
@@ -12275,8 +12276,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Mar 2025 13:53 UTC+7
-! Version: 2503231353
+! Last modified: 27 Mar 2025 23:00 UTC+7
+! Version: 2503272300
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13147,9 +13148,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 22 Mar 2025 17:16 UTC+7
-! Version: 2503221716
-! Blocked: 4.724 rules
+! Last modified: 27 Mar 2025 22:59 UTC+7
+! Version: 2503272259
+! Blocked: 4.728 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13160,6 +13161,7 @@ inapps.appsflyersdk.com^
 ||0fb.co^
 ||0fb.info^
 ||0fb.ltd^
+||1125bgg.teknikad.com^
 ||113-bca.online^
 ||11tiki.com^
 ||123-vay.com^
@@ -14360,6 +14362,7 @@ inapps.appsflyersdk.com^
 ||ibankingshopee.vn^
 ||ibkbank.net^
 ||ibmgroup.co.uk^
+||icloud-vietnam.info^
 ||icloud.support^
 ||icloudhelp.com^
 ||icloudvi.com^
@@ -15615,6 +15618,7 @@ inapps.appsflyersdk.com^
 ||sadm26.com^
 ||saifcrack.com^
 ||salu.gq^
+||samcenter-vn.com^
 ||sandealshopee.com^
 ||sanduon.com^
 ||sanmomo.me^
@@ -17701,6 +17705,7 @@ inapps.appsflyersdk.com^
 ||xn--shopmllutv-cx3e.vn^
 ||xn--shoptienzombe-mw2g.vn^
 ||xn--shptruongstar-4w2g.com^
+||xn--wvvw-icoud-rw3e.com^
 ||xnqwuwlq.org^
 ||xosomomo.co^
 ||xosomomo.me^
@@ -22366,6 +22371,7 @@ analytics-*.aasaam.com
 
 # >> Y <<
 ||yelloadwise.ir^
+||ylad.ir^
 
 ||sentry.yektanet.tech^
 
@@ -22510,6 +22516,7 @@ analytics-*.aasaam.com
 
 ||adengine.telewebion.com^
 ||analytics.telewebion.com^
+||hadeseh.simra.cloud^
 
 # >> U <<
 
