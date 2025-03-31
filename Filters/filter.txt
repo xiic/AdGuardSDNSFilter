@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-31T06:10:02.771Z
+! Last modified: 2025-03-31T12:11:39.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||l4s.love4porn.com^
 ||creative.boyfriend.show^
 ||creative.camsplanetlive.com^
 ||creative.celebjihad.live^
@@ -10829,6 +10830,7 @@ inapps.appsflyersdk.com^
 ||bsdygital.co.il^
 ||bulgarine.com^
 ||bumbalu-israel.com^
+||carsguys.co.il^
 ||cdn.mdigital.co.il^
 ||cdnic.site^
 ||cellebrate.mobi^
@@ -17753,6 +17755,8 @@ inapps.appsflyersdk.com^
 ||jtdltu.top^
 ||xsti.cn^
 ||onwnomv.icu^
+||so03311koaq.com^
+||emphidaho.com^
 ||lubrzh.top^
 ||hrwbeqv.icu^
 ||vqle.cn^
