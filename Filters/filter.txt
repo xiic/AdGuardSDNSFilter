@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-10T12:11:46.193Z
+! Last modified: 2025-04-10T18:09:11.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2305,6 +2305,9 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||tiktokpangle.us^
+||api16-access-ttp*.tiktokpangle-b.us^
+||lf-static.tiktokpangle-cdn-us.com^
 ||v8b9c0x1z2.sai7348.xyz^
 ||lgvlbd.icu^
 ||crossadsapi.ecomobileapp.com^
@@ -3281,7 +3284,6 @@ inapps.appsflyersdk.com^
 ||pixel.magentamarketing.com^
 ||bisrtb.vidazoo.com^
 ||t*.playdigo.live^
-||hotapi*.tiktokv.us^
 ||tnc*.tiktokv.us^
 ||aws.userlogsanalytics.com^
 ||atb-stats-api.imolive.tv^
@@ -6850,6 +6852,8 @@ inapps.appsflyersdk.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||upeex.com.br^
+||upeex.com^
 ||adspublicidades.agency^
 ||butlercdn.com^
 ||classic-bonus.com^
@@ -17734,6 +17738,8 @@ inapps.appsflyersdk.com^
 ||vqnjrz.top^
 ||strakvad.com^
 ||rwix.cn^
+||saktuddo.com^
+||kcglsiv.icu^
 ||nbdtdt.icu^
 ||uucatiqnd.com^
 ||ixoe.cn^
