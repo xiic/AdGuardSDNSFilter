@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-12T18:07:51.636Z
+! Last modified: 2025-04-13T00:56:29.507Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4196,6 +4196,7 @@ inapps.appsflyersdk.com^
 ||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
 ||bento.agoda.com^
+||bi-metrics.aramuz.net^
 ||bi.heyloyalty.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
@@ -6070,6 +6071,7 @@ inapps.appsflyersdk.com^
 ||airlogs.ru^
 ||announcement.ru^
 ||apkonline.ru^
+||apptracer.ru^
 ||audsp.com^
 ||avsplow.com^
 ||ban.su^
@@ -6332,6 +6334,7 @@ inapps.appsflyersdk.com^
 ||trck.bdi-services.de^
 ||trck.spoteffects.net^
 ||trecker.aklamio.com^
+||tw.reppublika.com^
 ||vtrtl.de^
 ||webcounter.goweb.de^
 ||x.bloggurat.net^
@@ -17745,6 +17748,9 @@ inapps.appsflyersdk.com^
 ||okeaxgugq.com^
 ||kvqp.cn^
 ||mvcnmtx.top^
+||ifethbrzb.com^
+||nnntxx.icu^
+||okvt.cn^
 ||ruvgbv.icu^
 ||chugveasoy.com^
 ||sfile.top^
