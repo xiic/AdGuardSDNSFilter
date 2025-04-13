@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-13T12:10:22.298Z
+! Last modified: 2025-04-13T18:07:57.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4363,6 +4363,7 @@ inapps.appsflyersdk.com^
 ||dx.mountain.com^
 ||dynamic.ziftsolutions.com^
 ||e.channelexco.com^
+||e045f561.b-cdn.net^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecomm.events^
@@ -5117,6 +5118,7 @@ inapps.appsflyersdk.com^
 ||uid.mediacorp.sg^
 ||uilogging.tcdevops.com^
 ||umami.aigenerations.net^
+||umami.heroku.uk^
 ||units.knotch.it^
 ||us-central1-markuphero.cloudfunctions.net^
 ||usaoptimizedby.increasingly.co^
@@ -5649,6 +5651,7 @@ inapps.appsflyersdk.com^
 ||semiocast.com^
 ||sk1n.fr^
 ||sk8t.fr^
+||sparteo.com^
 ||stats.fr^
 ||sync.tv^
 ||tget.me^
@@ -6496,6 +6499,7 @@ inapps.appsflyersdk.com^
 ||tr.mediafin.be^
 ||trjs2.mediafin.be^
 ||trkr.shoppingminds.net^
+||ubt-sgp.travix.com^
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
 ! Georgian
@@ -17740,6 +17744,8 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||wvcnmte.top^
 ||tvcnmti.top^
+||uvcnmtt.top^
+||thriseds.com^
 ||showkkkp.top^
 ||pxrbnf.icu^
 ||irkp.cn^
