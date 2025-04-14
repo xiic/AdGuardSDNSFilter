@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-14T06:10:21.869Z
+! Last modified: 2025-04-14T12:12:00.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6563,6 +6563,7 @@ inapps.appsflyersdk.com^
 ||analyzer51.fc2.com^
 ||api.all-internet.jp^
 ||asumi.shinobi.jp^
+||b.clipkit.co^
 ||b.sli-spark.com^
 ||b0.yahoo.co.jp^
 ||bidder.mediams.mb.softbank.jp^
@@ -10238,12 +10239,6 @@ inapps.appsflyersdk.com^
 ||xjwhtz7.com^
 ||xjwhtz8.com^
 ||xjwhtz9.com^
-||xxsmad1.com^
-||xxsmad2.com^
-||xxsmad3.com^
-||xxsmad4.com^
-||xxsmad5.com^
-||xxsmad6.com^
 ||xxsmtz1.com^
 ||xxsmtz10.com^
 ||xxsmtz2.com^
@@ -10264,9 +10259,6 @@ inapps.appsflyersdk.com^
 ||xiaoshuotxt668.org^
 ||bobobo6688.top^
 ||xj-oss.com^
-||ookaso.com^
-||uuaisp.com^
-||hauqoa.com^
 ||telecome.cn^
 ||aizhantj.com^
 ||sm-cloud.yunsafe.top^
@@ -10766,7 +10758,6 @@ inapps.appsflyersdk.com^
 ||mobileadvertise.de^
 ||mupads.de^
 ||murcs.org^
-||native-commerce.com^
 ||nativendo.de^
 ||neqty.net^
 ||netpoint-media.de^
@@ -17828,6 +17819,9 @@ inapps.appsflyersdk.com^
 ||zwgqzgo.icu^
 ||rinl.cn^
 ||dhorzivnn.com^
+||hauqoa.com^
+||ookaso.com^
+||uuaisp.com^
 ||phozeksr.com^
 ||nrlupu.top^
 ||biabfqq.icu^
@@ -18126,6 +18120,7 @@ inapps.appsflyersdk.com^
 ||fttxhcua.icu^
 ||crazodsxx.com^
 ||kcinvdd.top^
+||xxsmad6.com^
 ||bjtlzv.icu^
 ||nljyjt.icu^
 ||fngmeat.top^
@@ -18282,6 +18277,7 @@ inapps.appsflyersdk.com^
 ||ghairqin.com^
 ||7tc.fun^
 ||hdinmiu.top^
+||xxsmad5.com^
 ||hostolhg.com^
 ||4zn.fun^
 ||rajxjj.icu^
@@ -19931,6 +19927,7 @@ inapps.appsflyersdk.com^
 ||xufyxhiu.icu^
 ||xvzcfh.xyz^
 ||xwbmjb.xyz^
+||xxsmad4.com^
 ||yckamq.xyz^
 ||ycuhky.xyz^
 ||ycwuoq.xyz^
@@ -20769,6 +20766,9 @@ inapps.appsflyersdk.com^
 ||xwdjnj.xyz^
 ||xwvnhe.cn^
 ||xx3691b.com^
+||xxsmad1.com^
+||xxsmad2.com^
+||xxsmad3.com^
 ||xxxuhx.xyz^
 ||xxxx68xxxx.com^
 ||xxxx88xxxx.com^
