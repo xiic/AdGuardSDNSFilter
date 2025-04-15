@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-15T12:11:48.503Z
+! Last modified: 2025-04-15T18:08:07.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2306,6 +2306,8 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||apishow.babybus.com^
+||apppromoteapi.babybus.com^
 ||tiktokpangle.us^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||lf-static.tiktokpangle-cdn-us.com^
@@ -3253,6 +3255,9 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||apishowstats.babybus.com^
+||tjinit-event.babybus.com^
+||tjinit-global-register.babybus.com^
 ||metrics-us.cometchat.io^
 ||clog.weverse.io^
 ||collection.weverse.io^
@@ -9547,6 +9552,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||movturs.click^
 ||dontmakethem.club^
 ||subaxe.xyz^
 ||dahmnrmhyhsjxx.com^
@@ -17743,6 +17749,7 @@ inapps.appsflyersdk.com^
 ||bhdnti.top^
 ||bvcnmtv.top^
 ||iiyurraeoh.com^
+||mnrz.cn^
 ||ergiekszra.com^
 ||txvq.cn^
 ||tqjojh.icu^
