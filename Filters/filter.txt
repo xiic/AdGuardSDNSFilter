@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-16T06:09:44.565Z
+! Last modified: 2025-04-16T12:11:54.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||donasi.lk21.de^
 ||l4s.love4porn.com^
 ||creative.boyfriend.show^
 ||creative.camsplanetlive.com^
@@ -961,6 +962,7 @@ vkcdnservice.appspot.com^
 ||d24g87zbxr4yiz.cloudfront.net^
 ||d24iusj27nm1rd.cloudfront.net^
 ||d24lwiav9pbaw7.cloudfront.net^
+||d24qbn28utpewb.cloudfront.net^
 ||d25dfknw9ghxs6.cloudfront.net^
 ||d25xkbr68qqtcn.cloudfront.net^
 ||d25yl3zz7cfmzs.cloudfront.net^
@@ -12267,8 +12269,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Apr 2025 11:19 UTC+7
-! Version: 2504141119
+! Last modified: 16 Apr 2025 15:23 UTC+7
+! Version: 2504161523
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13140,9 +13142,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 09 Apr 2025 22:36 UTC+7
-! Version: 2504092236
-! Blocked: 4.731 rules
+! Last modified: 16 Apr 2025 15:22 UTC+7
+! Version: 2504161522
+! Blocked: 4.734 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13560,6 +13562,9 @@ inapps.appsflyersdk.com^
 ||cl247.me^
 ||claudfront.net^
 ||clb.vin^
+||click-eu-v4.mainexpclkdir.com^
+||click-v4.mainexpclkdir.com^
+||click.mainexpclkdir.com^
 ||cliphott.io.vn^
 ||clmm.me^
 ||clmm.nl^
@@ -17768,6 +17773,8 @@ inapps.appsflyersdk.com^
 ||qucnmty.top^
 ||hwcnmtu.top^
 ||throxul.com^
+||uektedsni.com^
+||fheiu43bcdhsj.top^
 ||thricrulnf.com^
 ||rtfgvz.icu^
 ||pekr.cn^
