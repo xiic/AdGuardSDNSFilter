@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-18T00:30:05.524Z
+! Last modified: 2025-04-18T06:09:39.414Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||bundle.ppas.monster^
 ||adf.underhentai.net^
 ||donasi.lk21.de^
 ||l4s.love4porn.com^
@@ -12282,8 +12283,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Apr 2025 15:23 UTC+7
-! Version: 2504161523
+! Last modified: 18 Apr 2025 10:47 UTC+7
+! Version: 2504181047
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13155,9 +13156,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Apr 2025 15:22 UTC+7
-! Version: 2504161522
-! Blocked: 4.734 rules
+! Last modified: 18 Apr 2025 10:46 UTC+7
+! Version: 2504181046
+! Blocked: 4.735 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13408,6 +13409,7 @@ inapps.appsflyersdk.com^
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
 ||baohiemxahoi.vnagov.com^
+||baonhanh.online^
 ||baosaoviet24h.net^
 ||baothanhnien.top^
 ||baotienphong.net^
@@ -17780,6 +17782,8 @@ inapps.appsflyersdk.com^
 ||jcfbgdbd.top^
 ||wigk.cn^
 ||henqnv.top^
+||lucnmtl.top^
+||jwcnmta.top^
 ||ewdk.cn^
 ||fflbpi.top^
 ||hbeafcac.top^
