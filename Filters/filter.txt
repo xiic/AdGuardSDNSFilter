@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-19T18:07:33.220Z
+! Last modified: 2025-04-20T00:33:32.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5283,6 +5283,7 @@ inapps.appsflyersdk.com^
 ||d3uvwl4wtkgzo1.cloudfront.net^
 ||d3vebqdofhigrn.cloudfront.net^
 ||d4ax0r5detcsu.cloudfront.net^
+||d5yoctgpv4cpx.cloudfront.net^
 ||d761erxl2qywg.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
 ||danv01ao0kdr2.cloudfront.net^
@@ -6536,6 +6537,8 @@ inapps.appsflyersdk.com^
 ! Greek
 ||event-tracker-library.mediaownerscloud.com^
 ||stats-real-clients.zentech.gr^
+! Hebrew
+||tag.weezmo.com^
 ||heartbeat.pmd.444.hu^
 ||pixel.barion.com^
 ||rum.marquardmedia.hu^
@@ -12208,7 +12211,6 @@ inapps.appsflyersdk.com^
 ||paidforfree.com^
 ||pasangiklan.com^
 ||paypopup.com^
-||pc3ads.com^
 ||pondokiklan.com^
 ||popclck.net^
 ||promotioncamp.com^
@@ -12248,7 +12250,6 @@ inapps.appsflyersdk.com^
 ||jillsclickcorner.com^
 ||midgerelativelyhoax.com^
 ||mousheen.net^
-||olmsoneenh.info^
 ||pheersie.com^
 ||ueuodgnrhb.com^
 ||wpiohdquqo.com^
@@ -17780,6 +17781,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||nbragzui.com^
 ||mghezaxh.com^
 ||hhppzkhurf.com^
 ||jktkhn.top^
