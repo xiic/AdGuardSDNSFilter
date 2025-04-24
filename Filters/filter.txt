@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-24T06:09:59.866Z
+! Last modified: 2025-04-24T12:12:03.012Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4529,6 +4529,7 @@ inapps.appsflyersdk.com^
 ||infinityid.condenastdigital.com^
 ||informer.yandex.ru^
 ||ingest.make.rvapps.io^
+||ingress.trendii.com^
 ||ins.connatix.com^
 ||insight.mintel.com^
 ||insights.algolia.io^
@@ -4811,6 +4812,7 @@ inapps.appsflyersdk.com^
 ||sftrack.searchforce.net^
 ||sgali-mcs.byteoversea.com^
 ||shared.65twenty.com^
+||shopify-webhooks.sailthru.com^
 ||shopnetic.com^
 ||slackb.com^
 ||smart-data-systems.com^
@@ -10289,6 +10291,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||kai5741.xyz^
 ||xn860wu.vlxue.cn^
 ||mernrza.com^
 ||xjwhtz10.com^
@@ -10575,6 +10578,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||fc.3dmgame.com^
 ||xmm.wxc.cc^
 ||srtb.msn.cn^
 ||ad.hot-mob.com^
@@ -12302,8 +12306,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Apr 2025 09:24 UTC+7
-! Version: 2504240924
+! Last modified: 24 Apr 2025 14:16 UTC+7
+! Version: 2504241416
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13175,9 +13179,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 24 Apr 2025 09:24 UTC+7
-! Version: 2504240924
-! Blocked: 4.736 rules
+! Last modified: 24 Apr 2025 14:16 UTC+7
+! Version: 2504241416
+! Blocked: 4.740 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15389,6 +15393,7 @@ inapps.appsflyersdk.com^
 ||onlineshop999.com^
 ||onlinetiki.com^
 ||onlinetopchoice.com^
+||onstraints.store^
 ||onzeage.cfd^
 ||optimagroupthuongphuong.net^
 ||ordsexecutiv.cfd^
@@ -15494,6 +15499,7 @@ inapps.appsflyersdk.com^
 ||pwsk88.com^
 ||qjc2vo.cyou^
 ||qqwyihwm.thjen.tech^
+||qrdfibtn.xfbly.online^
 ||qrsg11.com^
 ||qtaqlbt.ciofgnm.co^
 ||qua-tang.vn^
@@ -15593,6 +15599,7 @@ inapps.appsflyersdk.com^
 ||reallkeys.com^
 ||receive-international-money-24h.weebly.com^
 ||redpinevikoviethan.weebly.com^
+||referencet.art^
 ||regis2tarsgroup.click^
 ||regis2tarsinc.click^
 ||reglienquan.online^
@@ -16227,6 +16234,7 @@ inapps.appsflyersdk.com^
 ||ssvnshop.com^
 ||standardresourcebank.com^
 ||starbucksthai.shop^
+||statediting.live^
 ||stbuyshopoui.com^
 ||stcard-vib.com^
 ||steamunlocked.one^
@@ -17803,6 +17811,7 @@ inapps.appsflyersdk.com^
 ||pflwta.top^
 ||uucnwtt.top^
 ||twcnmti.top^
+||918000.xyz^
 ||leirerspfz.com^
 ||ifje.cn^
 ||ngjcvn.top^
