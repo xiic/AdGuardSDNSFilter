@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-25T06:09:44.488Z
+! Last modified: 2025-04-25T12:11:41.525Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2283,10 +2283,12 @@ vkcdnservice.appspot.com^
 !
 ! Appodeal
 ||appodeal.com^
-! ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
-/^https:\/\/a\.[0-9a-f]{56}\.com$/
+||appbaqend.com^
+! https://a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+! https://c.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com
+/^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
 ! For DNS filtering
-/^a\.[0-9a-f]{56}\.com$/
+/^(a|c)\.[0-9a-f]{56}\.com$/
 !
 ||ad.buzzvil.com^
 ||screen.buzzvil.com^
@@ -2325,6 +2327,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad*.zonaplus.tv^
 ||apishow.babybus.com^
 ||apppromoteapi.babybus.com^
 ||tiktokpangle.us^
@@ -2692,7 +2695,6 @@ vkcdnservice.appspot.com^
 ||adv-ettoday.cdn.hinet.net^
 ||adv.ettoday.net^
 ||startappservice.com^
-||x.appbaqend.com^
 ||tkcatwalk.aotter.net^
 ||tkmedia.aotter.net^
 ||tkmedia-cache.aotter.net^
@@ -3274,6 +3276,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||ulogs*.ksapisrv.com^
 ||adashx4id.ut.taobao.com^
 ||analytics.us.tiktok.com^
 ||ads-privacy-api.prd.mz.internal.unity3d.com^
@@ -3835,7 +3838,6 @@ inapps.appsflyersdk.com^
 ||geoinfo.i2w.io^
 ||tracking.i2w.io^
 ||detect.rayjump.com^
-||a.appbaqend.com^
 ||ue.flipboard.com^
 ||mobileapptracking.com^
 ||ilyonanalytics.herokuapp.com^
@@ -9874,6 +9876,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||ads-lite2.net^
 ||mid-round.com^
 ||ploud-crew.net^
 ||prime-ever.com^
@@ -12316,8 +12319,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Apr 2025 11:00 UTC+7
-! Version: 2504251100
+! Last modified: 25 Apr 2025 14:13 UTC+7
+! Version: 2504251413
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
