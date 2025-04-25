@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-25T00:31:15.058Z
+! Last modified: 2025-04-25T06:09:44.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12316,8 +12316,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Apr 2025 14:16 UTC+7
-! Version: 2504241416
+! Last modified: 25 Apr 2025 11:00 UTC+7
+! Version: 2504251100
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17816,6 +17816,12 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||hvrunsqqy.com^
+||nlnlrn.top^
+||ohqp.cn^
+||lucnwtl.top^
+||uwcnmtt.top^
+||tljrvn.icu^
 ||thaincoth.com^
 ||etbh.cn^
 ||pflwta.top^
