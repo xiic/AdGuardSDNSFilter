@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-25T18:08:58.597Z
+! Last modified: 2025-04-26T00:30:02.830Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5319,6 +5319,7 @@ inapps.appsflyersdk.com^
 ||di2xwvxz1jrvu.cloudfront.net^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
+||dmxhgf4zuwdvu.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dniyppubkuut7.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
@@ -6740,11 +6741,13 @@ inapps.appsflyersdk.com^
 ||collect.chaordicsystems.com^
 ||events.chaordicsystems.com^
 ||feature-flag-edge.live.clickbus.net^
+||gke.econodata.com.br^
 ||hitserver.ibope.com.br^
 ||lurker.olx.com.br^
 ||nctrk.abmail.com.br^
 ||neurotrack.neurolake.io^
 ||pageviews.tray.com.br^
+||pixel.leadlovers.app^
 ||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
 ||statistic.audima.co^
@@ -17819,6 +17822,10 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||vrosqutsgh.com^
+||rgme.cn^
+||zofmhx.icu^
+||pktfla.top^
 ||hvrunsqqy.com^
 ||nlnlrn.top^
 ||ohqp.cn^
