@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-28T06:16:04.939Z
+! Last modified: 2025-04-28T12:11:44.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3303,7 +3303,6 @@ inapps.appsflyersdk.com^
 ||logservice.dbankcloud.cn
 ||logs.nebulahoroscope.com^
 ||braveglobal.tv^
-||insights.alibaba.com^
 ||mssdk-boot.cpacutapi.com^
 ||collect.ureca-lab.com^
 ||api.abcsinsights.com^
@@ -7096,6 +7095,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||w.rulive.ru^
 ||thagrechulo.com^
 ||vvdrhe.win^
 ||adwadvert.com.ua^
@@ -17836,6 +17836,9 @@ inapps.appsflyersdk.com^
 ||tiboha.top^
 ||knwuamd.top^
 ||bwcnmtv.top^
+||wwok04281kl.com^
+||qwti.cn^
+||gekhasaks.com^
 ||zbislaernv.com^
 ||xebetp.icu^
 ||inwuamo.top^
