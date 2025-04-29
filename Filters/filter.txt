@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-29T12:12:48.156Z
+! Last modified: 2025-04-29T18:09:19.992Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3277,10 +3277,6 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
-||kix-ulogl*.kwai-pro.com^
-||log-sdk.ksapisrv.com^
-||ulogjs.ksapisrv.com^
-||ulogs*.ksapisrv.com^
 ||adashx4id.ut.taobao.com^
 ||analytics.us.tiktok.com^
 ||ads-privacy-api.prd.mz.internal.unity3d.com^
@@ -3985,6 +3981,34 @@ inapps.appsflyersdk.com^
 ||www-google-analytics.l.google.com^
 ||yadro.ru^
 ||ymtracking.com^
+!
+! https://github.com/hagezi/dns-blocklists/issues/6060
+-logsdk.kwai-pro.com^
+-ulog-*.kwai-pro.com^
+-ulog-*.kwaipros.com^
+-ulog.*.kwai-pro.com^
+-ulog.*.kwaipros.com^
+-ulog.ksapisrv.com^
+-ulog.kwai-pro.com^
+-ulog.kwaipros.com^
+-ulog.region.kwai-pro.com^
+-ulogl2.kwai-pro.com^
+-ulogl2.kwaipros.com^
+||csplog.kwai-pro.com^
+||log-sdk.ksapisrv.com^
+||logsdk.kwai-pro.com^
+||ulog-*.ksapisrv.com^
+||ulog.*.ksapisrv.com^
+||ulog.*.kwai-pro.com^
+||ulog.ksapisrv.com^
+||ulog.kwai-pro.com^
+||ulog.kwaipros.com^
+||ulog1-us.kwai-pro.com^
+||ulog2-us.kwaipros.com^
+||ulogjs.ksapisrv.com^
+||ulogs1.ksapisrv.com^
+||ulogs2.ksapisrv.com^
+||wlog.ksapisrv.com^
 !
 ! TikTok
 ||mcs.tiktokw.us^
@@ -17847,6 +17871,8 @@ inapps.appsflyersdk.com^
 ||mwcnmtx.top^
 ||wwok04291kl.com^
 ||fvitteilse.com^
+||iwhp.cn^
+||wnwuame.top^
 ||oldh.cn^
 ||vcaqexl.com^
 ||hua4207.xyz^
