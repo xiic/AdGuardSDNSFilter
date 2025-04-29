@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-28T18:09:42.931Z
+! Last modified: 2025-04-29T00:31:13.518Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4780,6 +4780,7 @@ inapps.appsflyersdk.com^
 ||refer.wordpress.com^
 ||referrer.disqus.com^
 ||removeads.workers.dev^
+||report.23video.com^
 ||reporting-api.gannettinnovation.com^
 ||reporting.cdndex.io^
 ||reporting.singlefeed.com^
@@ -4984,6 +4985,7 @@ inapps.appsflyersdk.com^
 ||tags.dxmdp.com^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
+||tags.pw.adn.cloud^
 ||tagtracking.vibescm.com^
 ||target.mixi.media^
 ||telemetrics.klaviyo.com^
@@ -6362,6 +6364,7 @@ inapps.appsflyersdk.com^
 ||plausible.ams.to^
 ||px.staticfiles.at^
 ||retrack.q-divisioncdn.de^
+||rum.mauve.eu^
 ||sp.data.funkedigital.de^
 ||stat.clichehosting.de^
 ||statistics.klicktel.de^
@@ -11796,7 +11799,6 @@ inapps.appsflyersdk.com^
 ||redistats.com^
 ||region1.google-analytics.com^
 ||regstat.se^
-||report.23video.com^
 ||resor-external.barnsemester.se^
 ||retargettracker.com^
 ||revive.edgeflyfishing.com^
@@ -17829,6 +17831,10 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||bxdupj.icu^
+||cautols.com^
+||exoh.cn^
+||rhdifs.top^
 ||oldh.cn^
 ||vcaqexl.com^
 ||hua4207.xyz^
