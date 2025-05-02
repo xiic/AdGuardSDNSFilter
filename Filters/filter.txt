@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-02T12:12:10.828Z
+! Last modified: 2025-05-02T18:09:04.768Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -544,6 +544,7 @@ vkcdnservice.appspot.com^
 ||ogads-pa.googleapis.com^
 ||omegadblocker.com^
 ||onlinepromogift.com^
+||optimizer.apiswidget.com^
 ||out.betforce.io^
 ||owebsearch.com^
 ||pacontainer.s3.amazonaws.com^
@@ -4181,6 +4182,7 @@ inapps.appsflyersdk.com^
 ||analytics.reyrey.net^
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
+||analytics.scorpion.co^
 ||analytics.shareaholic.com^
 ||analytics.shorte.st^
 ||analytics.shorthand.com^
@@ -4222,6 +4224,7 @@ inapps.appsflyersdk.com^
 ||api.autopilothq.com^
 ||api.country.is^
 ||api.june.so^
+||api.visitorapi.com^
 ||api.wipmania.com^
 ||app.adjust.com^
 ||apple.www.letv.com^
@@ -12323,8 +12326,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 Apr 2025 10:13 UTC+7
-! Version: 2504291013
+! Last modified: 02 May 2025 22:12 UTC+7
+! Version: 2505022212
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13195,9 +13198,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 29 Apr 2025 10:12 UTC+7
-! Version: 2504291012
-! Blocked: 4.744 rules
+! Last modified: 02 May 2025 22:11 UTC+7
+! Version: 2505022211
+! Blocked: 4.749 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13432,6 +13435,7 @@ inapps.appsflyersdk.com^
 ||baiduthi2051.work^
 ||baiduthi2063.work^
 ||balamall.shop^
+||bamvaodayxem.blogspot.com^
 ||bank247quocte-westernunion.weebly.com^
 ||bank86.net^
 ||bankgame.online^
@@ -14588,6 +14592,7 @@ inapps.appsflyersdk.com^
 ||kxtmstjs.org^
 ||kyaj11.com^
 ||l-fb.co^
+||l-j.me^
 ||la533.com^
 ||la5959.com^
 ||la7168.com^
@@ -15319,6 +15324,7 @@ inapps.appsflyersdk.com^
 ||ngoahotanglong.vn^
 ||ngoctu.click^
 ||ngocvang.pw^
+||nguoilaodong.net^
 ||nguyenkim.co^
 ||nhan-tienvidientu247.com^
 ||nhan.design^
@@ -15668,6 +15674,7 @@ inapps.appsflyersdk.com^
 ||rwrb55.com^
 ||rwrb66.com^
 ||rxfspe.ulthi.de^
+||s-fb.net^
 ||s22khuyenmai.xyz^
 ||s2rjtiki.com^
 ||s33788.com^
@@ -17467,6 +17474,7 @@ inapps.appsflyersdk.com^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
 ||vneid.vieegovn.cc^
+||vnexpresss.com^
 ||vnexprress.com^
 ||vnfiba.com^
 ||vngiao.hangtietkiem.online^
@@ -17831,6 +17839,9 @@ inapps.appsflyersdk.com^
 ||xlnlvf.top^
 ||qqosk05021llo.com^
 ||inwucno.top^
+||inulgaenypa.com^
+||okpl05021ai.com^
+||ddow.cn^
 ||rgtghulduk.com^
 ||uaqe.cn^
 ||okpl05010ai.com^
