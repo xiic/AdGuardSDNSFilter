@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-02T18:09:04.768Z
+! Last modified: 2025-05-03T00:30:09.492Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4341,6 +4341,7 @@ inapps.appsflyersdk.com^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
 ||collection.e-satisfaction.com^
+||collector-*.luigisbox.com^
 ||collector-1.ex.co^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
@@ -4934,6 +4935,7 @@ inapps.appsflyersdk.com^
 ||stats.screenresolution.org^
 ||stats.senty.com.au^
 ||stats.shopify.com^
+||stats.slashed.cloud^
 ||stats.tiktoker.win^
 ||stats.topofblogs.com^
 ||stats.uscreen.io^
@@ -5203,6 +5205,7 @@ inapps.appsflyersdk.com^
 ||trx-cdn.zip.co^
 ||trx.zip.co^
 ||ts.tradetracker.net^
+||ubm.docu.info^
 ||ucounter.ucoz.net^
 ||uid.mediacorp.sg^
 ||uilogging.tcdevops.com^
@@ -5244,6 +5247,7 @@ inapps.appsflyersdk.com^
 ||wsmcdn.audioeye.com^
 ||wstats.slashed.cloud^
 ||wt.viagogo.net^
+||wtb-tag.swaven.com^
 ||wtbevents.pricespider.com^
 ||wtr-digital-analytics.ew.r.appspot.com^
 ||x.babe.today^
@@ -5308,6 +5312,7 @@ inapps.appsflyersdk.com^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2lxqodqbpy7c2.cloudfront.net^
+||d2o5idwacg3gyw.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2pozfvrp52dk4.cloudfront.net^
@@ -5348,6 +5353,7 @@ inapps.appsflyersdk.com^
 ||d3vebqdofhigrn.cloudfront.net^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d5yoctgpv4cpx.cloudfront.net^
+||d6rak4b14t5gp.cloudfront.net^
 ||d761erxl2qywg.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
 ||danv01ao0kdr2.cloudfront.net^
@@ -17833,6 +17839,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||okpl05030ai.com^
+||vtqhelleano.com^
+||qqosk05030llo.com^
 ||vldp.cn^
 ||ghgietuthz.com^
 ||qqosk05020llo.com^
