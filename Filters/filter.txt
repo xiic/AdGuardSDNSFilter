@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-04T18:08:11.295Z
+! Last modified: 2025-05-05T00:33:41.762Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -396,11 +396,13 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
 ||1080872514.rsc.cdn77.org^
+||1165571007.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
 ||1437953666.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
+||1531317231.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
@@ -6847,6 +6849,7 @@ inapps.appsflyersdk.com^
 ||logs.viavideo.digital^
 ||metrics.aviasales.ru^
 ||piper.amocrm.ru^
+||pixel-storage.konnektu.ru^
 ||programmatica.com^
 ||s.agava.ru^
 ||scnt.rambler.ru^
@@ -17847,6 +17850,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||yqqv.cn^
+||zxiws.cn^
+||qiwqaagnaell.com^
 ||bebx.cn^
 ||qqosk05040llo.com^
 ||ebroktean.com^
