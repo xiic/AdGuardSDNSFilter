@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-07T00:31:32.867Z
+! Last modified: 2025-05-07T06:10:03.276Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1734,13 +1734,11 @@ vkcdnservice.appspot.com^
 ||daiporno.com^
 ||datefunclub.com^
 ||datexchanges.net^
-||datingadnetwork.com^
 ||datingamateurs.com^
 ||datingcensored.com^
 ||debitcrebit669.com^
 ||deecash.com^
 ||demanier.com^
-||dematom.com^
 ||digiad.co^
 ||digitaldesire.com^
 ||digreality.com^
@@ -1759,7 +1757,6 @@ vkcdnservice.appspot.com^
 ||exoticads.com^
 ||faceporn.com^
 ||facetz.net^
-||farrivederev.pro^
 ||felixflow.com^
 ||festaporno.com^
 ||filexan.com^
@@ -1781,7 +1778,6 @@ vkcdnservice.appspot.com^
 ||fuckbook.cm^
 ||fuckbookdating.com^
 ||fuckedbyme.com^
-||fuckermedia.com^
 ||fuckyoucash.com^
 ||fuelbuck.com^
 ||g--o.info^
@@ -1853,7 +1849,6 @@ vkcdnservice.appspot.com^
 ||maxiadv.com^
 ||mc-nudes.com^
 ||mcprofits.com^
-||meccahoo.com^
 ||media-click.ru^
 ||mediad2.jp^
 ||mediumpimpin.com^
@@ -1862,7 +1857,6 @@ vkcdnservice.appspot.com^
 ||methodcash.com^
 ||mileporn.com^
 ||mmaaxx.com^
-||mmoframes.com^
 ||mobalives.com^
 ||mobilerevenu.com^
 ||mobtop.ru^
@@ -1967,11 +1961,9 @@ vkcdnservice.appspot.com^
 ||rivcash.com^
 ||royal-cash.com^
 ||rubanners.com^
-||rukplaza.com^
 ||russianlovematch.com^
 ||safelinktracker.com^
 ||sancdn.net^
-||sascentral.com^
 ||sbs-ad.com^
 ||searchpeack.com^
 ||secretbehindporn.com^
@@ -2020,7 +2012,6 @@ vkcdnservice.appspot.com^
 ||teaservizio.com^
 ||test1productions.com^
 ||the-adult-company.com^
-||thepayporn.com^
 ||thesocialsexnetwork.com^
 ||tingrinter.com^
 ||tizernet.com^
@@ -2165,6 +2156,7 @@ vkcdnservice.appspot.com^
 ||reporo.net^
 ||restions-planted.com^
 ||reviewdollars.com^
+||sascentral.com^
 ||setravieso.com^
 ||sexemulator.com^
 ||sexflirtbook.com^
@@ -5216,6 +5208,7 @@ inapps.appsflyersdk.com^
 ||trx-cdn.zip.co^
 ||trx.zip.co^
 ||ts.tradetracker.net^
+||uaas.yandex.ru^
 ||ubm.docu.info^
 ||ucounter.ucoz.net^
 ||uid.mediacorp.sg^
@@ -12347,8 +12340,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 May 2025 09:50 UTC+7
-! Version: 2505050950
+! Last modified: 07 May 2025 10:22 UTC+7
+! Version: 2505071022
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13219,8 +13212,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 May 2025 09:49 UTC+7
-! Version: 2505050949
+! Last modified: 07 May 2025 10:21 UTC+7
+! Version: 2505071021
 ! Blocked: 4.749 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17856,6 +17849,12 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||ebrid.cn^
+||wtrotilloye.com^
+||dnjxds.top^
+||dxvfdv.icu^
+||mfkfkhfhmfkfkhfh.top^
+||klvt.cn^
+||wnwucne.top^
 ||qsko05060mas.com^
 ||qsko05061mas.com^
 ||pwchaukoieor.com^
