@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-09T18:08:58.006Z
+! Last modified: 2025-05-10T00:30:03.469Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -403,6 +403,7 @@ vkcdnservice.appspot.com^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
 ||1235985460.rsc.cdn77.org^
+||1388119814.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1531317231.rsc.cdn77.org^
@@ -410,6 +411,7 @@ vkcdnservice.appspot.com^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1826093648.rsc.cdn77.org^
+||1851495959.rsc.cdn77.org^
 ||1wglkbv.com^
 ||1wincdn.b-cdn.net^
 ||1winpb.com^
@@ -4406,6 +4408,7 @@ inapps.appsflyersdk.com^
 ||csp-reporting.cloudflare.com^
 ||csp.secureserver.net^
 ||csr.onet.pl^
+||ct-errs.cartrawler.com^
 ||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.itbusinessedge.com^
@@ -4549,6 +4552,7 @@ inapps.appsflyersdk.com^
 ||geoservice.curse.com^
 ||geotags.refinery89.com^
 ||gi-client-tracking.goodgamestudios.com^
+||globale-analytics-sdk.global-e.com^
 ||go.activengage.com^
 ||go.toutapp.com^
 ||green-griffin-860.appspot.com^
@@ -5157,7 +5161,6 @@ inapps.appsflyersdk.com^
 ||tracking.cerdmann.com^
 ||tracking.chilipiper.com^
 ||tracking.dealeranalytics.com^
-||tracking.diginetica.net^
 ||tracking.drsfostersmith.com^
 ||tracking.drum.io^
 ||tracking.dsmmadvantage.com^
@@ -6208,6 +6211,7 @@ inapps.appsflyersdk.com^
 ||cszz.ru^
 ||culturaltracking.ru^
 ||detmir-stats.ru^
+||diginetica.net^
 ||dircont3.com^
 ||directcrm.ru^
 ||e-kuzbass.ru^
@@ -7002,6 +7006,7 @@ inapps.appsflyersdk.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||simpleads.com.br^
 ||upeex.com.br^
 ||upeex.com^
 ||adspublicidades.agency^
@@ -17871,6 +17876,11 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||stgxau.icu^
+||qpqp05100oki.com^
+||rdut.cn^
+||sdwrghcv.top^
+||wubizigeng.com^
 ||jguhqbe.top^
 ||fadjqqe.top^
 ||bcpxll.icu^
