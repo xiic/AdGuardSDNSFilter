@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-12T00:33:59.164Z
+! Last modified: 2025-05-12T06:10:33.112Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12344,7 +12344,6 @@ inapps.appsflyersdk.com^
 ||mousheen.net^
 ||pheersie.com^
 ||ueuodgnrhb.com^
-||wpiohdquqo.com^
 ||zukxd6fkxqn.com^
 !
 ! Source name: ABPindo ad servers third-party
@@ -17888,6 +17887,7 @@ inapps.appsflyersdk.com^
 ||pjcqzm.cn^
 ||pharoilrw.com^
 ||vqqf.cn^
+||jibjpk.top^
 ||yimh.cn^
 ||qwcpme.icu^
 ||hjvprx.top^
@@ -17895,6 +17895,7 @@ inapps.appsflyersdk.com^
 ||iiwk.cn^
 ||mos05111o9i.com^
 ||mos05110o9i.com^
+||kklq05121p0i.com^
 ||kklq05120p0i.com^
 ||kklq05111p0i.com^
 ||stgxau.icu^
