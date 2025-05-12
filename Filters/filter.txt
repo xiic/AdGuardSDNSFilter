@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-12T06:10:33.112Z
+! Last modified: 2025-05-12T12:12:37.689Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2332,6 +2332,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||cvt-s2.agl005.tech^
 ||legy-jp.line-apps.com^
 ||rainmaker.production-public.tubi.io^
 ||configure.rayjump.com^
@@ -4611,6 +4612,7 @@ inapps.appsflyersdk.com^
 ||jennifersoft.com^
 ||jill.fc.yahoo.com^
 ||jly24aw29n5m-a.akamaihd.net^
+||js.verisoul.ai^
 ||jtracking-gate.lulusoft.com^
 ||k.keyade.com^
 ||k.streamrail.com^
@@ -5171,6 +5173,7 @@ inapps.appsflyersdk.com^
 ||tracking.g2crowd.com^
 ||tracking.godatafeed.com^
 ||tracking.graphly.io^
+||tracking.happierleads.com^
 ||tracking.hivecloud.net^
 ||tracking.hyros.com^
 ||tracking.intentsify.io^
@@ -17888,6 +17891,11 @@ inapps.appsflyersdk.com^
 ||pharoilrw.com^
 ||vqqf.cn^
 ||jibjpk.top^
+||onchilurg.com^
+||zai1648.xyz^
+||ihgm.cn^
+||hur05121kns.com^
+||pebrihmethwa.com^
 ||yimh.cn^
 ||qwcpme.icu^
 ||hjvprx.top^
