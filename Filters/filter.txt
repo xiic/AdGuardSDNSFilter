@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-15T12:12:13.818Z
+! Last modified: 2025-05-15T18:09:35.108Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2096,6 +2096,7 @@ vkcdnservice.appspot.com^
 ||1ts11.top^
 ||3questionsgetthegirl.com^
 ||9content.com^
+||access-the-website.com^
 ||adultadworld.com^
 ||banners.cams.com^
 ||bestdatinghere.life^
@@ -2103,6 +2104,7 @@ vkcdnservice.appspot.com^
 ||cam4tracking.com^
 ||checkmy.cam^
 ||chokertraffic.com^
+||cityofsin3d.com^
 ||ckrf1.com^
 ||connexionsafe.com^
 ||cooch.tv^
@@ -9958,6 +9960,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||linoee.com^
 ||line-e.com^
 ||shindnx.site^
 ||ads-lite2.net^
@@ -12383,8 +12386,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 May 2025 14:26 UTC+7
-! Version: 2505151426
+! Last modified: 15 May 2025 21:59 UTC+7
+! Version: 2505152159
 ! Blocked: 877 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -13257,9 +13260,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 May 2025 14:03 UTC+7
-! Version: 2505151403
-! Blocked: 4.750 rules
+! Last modified: 15 May 2025 21:59 UTC+7
+! Version: 2505152159
+! Blocked: 4.751 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14842,6 +14845,7 @@ inapps.appsflyersdk.com^
 ||luuvanquang.com^
 ||lvietcombank.com^
 ||lzd2024.com^
+||m-facebook.com.vn^
 ||m-facebookk.com.vn^
 ||m-fb.com^
 ||m-fb.site^
@@ -17902,6 +17906,10 @@ inapps.appsflyersdk.com^
 ||opkrerkaidf.com^
 ||nalyxg.top^
 ||niu05151jd.top^
+||cuqpi.cn^
+||fqanoreirlpa.com^
+||tqphaqoye.com^
+||iafg.cn^
 ||ssqxuy.icu^
 ||gmendanln.com^
 ||akoo0514uis.com^
