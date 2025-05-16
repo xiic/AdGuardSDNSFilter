@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-16T08:10:28.118Z
+! Last modified: 2025-05-16T18:09:17.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3292,6 +3292,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||track.adflow-prod.minionplatform.com^
 ||t-odx.op-mobile.opera.com^
 ||stat-analytics.mediavitrina.ru^
 ||discovery-ios-*.ertelecom.ru^
@@ -4814,7 +4815,6 @@ inapps.appsflyersdk.com^
 ||processor.asccommunications.com^
 ||prod.ew.srp.navigacloud.com^
 ||prod.fennec.atp.fox^
-||prodregistryv2.org^
 ||propsid.b-cdn.net^
 ||proxy.dzeio.com^
 ||proxy.trysavvy.com^
@@ -6092,6 +6092,7 @@ inapps.appsflyersdk.com^
 ||uncn.jp^
 ||viaklera.com^
 ||wonder-ma.com^
+||woomy.me^
 ||zerostats.com^
 ||ziyu.net^
 ! Korean
@@ -9960,6 +9961,8 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||lifeedly.com^
+||hyadain.com^
 ||linoee.com^
 ||line-e.com^
 ||shindnx.site^
@@ -10162,7 +10165,6 @@ inapps.appsflyersdk.com^
 ||neofield.click^
 ||r-ad.ne.jp^
 ||spreadlink.net^
-||woomy.me^
 ||seedapp-creative.s3.amazonaws.com^
 ||admane.jp^
 ||smaad.net^
@@ -17906,6 +17908,10 @@ inapps.appsflyersdk.com^
 ||pznnvt.top^
 ||kfvq.cn^
 ||niu05161jd.top^
+||3rcld5y1dm.com^
+||tmqhageaip.com^
+||muoy.cn^
+||ouqo05161luj.com^
 ||qimsgi.icu^
 ||akoo0515uis.com^
 ||wyvw.cn^
