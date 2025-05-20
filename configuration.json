@@ -5,22 +5,8 @@
   "license": "https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE",
   "sources": [
     {
-      "name": "AdGuard Base filter ad servers",
-      "source": "https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "ValidateAllowIp"]
-    },
-    {
       "name": "AdGuard Base filter ad servers first-party",
       "source": "https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers_firstparty.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "ValidateAllowIp"]
-    },
-    {
-      "name": "AdGuard Base filter ad servers foreign",
-      "source": "https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/foreign.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "ValidateAllowIp"]
@@ -31,13 +17,6 @@
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "ValidateAllowIp"]
-    },
-    {
-      "name": "EasyList ad servers",
-      "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
     },
     {
       "name": "EasyList ad servers third-party",
@@ -69,13 +48,6 @@
       "transformations": ["RemoveModifiers", "ValidateAllowIp"]
     },
     {
-      "name": "AdGuard Tracking Protection filter third-party trackers",
-      "source": "https://adguardteam.github.io/AdguardFilters/SpywareFilter/sections/tracking_servers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "ValidateAllowIp"]
-    },
-    {
       "name": "AdGuard Tracking Protection filter first-party trackers",
       "source": "https://adguardteam.github.io/AdguardFilters/SpywareFilter/sections/tracking_servers_firstparty.txt",
       "type": "adblock",
@@ -88,13 +60,6 @@
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "ValidateAllowIp"]
-    },
-    {
-      "name": "EasyPrivacy tracking servers",
-      "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
     },
     {
       "name": "EasyPrivacy third-party tracking servers",
