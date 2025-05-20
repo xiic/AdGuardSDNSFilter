@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-20T07:39:09.651Z
+! Last modified: 2025-05-20T18:09:45.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2469,7 +2469,6 @@ vkcdnservice.appspot.com^
 ||ads*.bojijulebu.com^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
-||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
 ||pangolin16.sgsnssdk.com^
@@ -3322,7 +3321,6 @@ vkcdnservice.appspot.com^
 ||log.strawpoll.com^
 ||client.rum.*.amazonaws.com^
 ||tempo-client-metric-prod.s3.amazonaws.com^
-||sapphire-api.target.com^
 ||analytics.viture.dev^
 ||pixel.thoughtmetric.io^
 ||c9nyrr.puurfiguur.nl^
@@ -12438,6 +12436,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||diziwatchpreroll.pages.dev^
 ||bitcasino365.b-cdn.net^
 ||rotorfon.go-prod.dogt.xyz^
 ||r.yabancidizi.in^
@@ -20237,6 +20236,11 @@ inapps.appsflyersdk.com^
 ||tcdkjy.top^
 ||staitcfile.org^
 ||qdn4ydsg3s.com^
+||dfgddgfd.com^
+||pfvufy.cn^
+||nbraenkikrn.com^
+||ulad.cn^
+||mk10ow7zoi.com^
 ||xdea.cn^
 ||ldrerirbuaou.com^
 ||rwbqll.top^
