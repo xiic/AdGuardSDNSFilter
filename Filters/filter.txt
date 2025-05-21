@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-21T12:12:18.438Z
+! Last modified: 2025-05-21T18:09:32.943Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3184,6 +3184,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ingestion.webanalytics.italia.it^
+||njoevqi1nx.hockerty.com^
 ||analytics.lunarclientprod.com^
 ||web-ivcbrasil-tag.s3.us-west-2.amazonaws.com^
 ||log.realelements.live^
@@ -12270,6 +12272,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||trpartners.io^
 ||ahatm8od.top^
 ||statbest.in^
 ||movturs.click^
@@ -13612,7 +13615,6 @@ inapps.appsflyersdk.com^
 ||browsiprod.com^
 ||bumbalu-israel.com^
 ||carsguys.co.il^
-||cdn.mdigital.co.il^
 ||clickon.co.il^
 ||clmbtrk.com^
 ||cohenza-il.com^
@@ -13670,7 +13672,6 @@ inapps.appsflyersdk.com^
 ||losittooday.info^
 ||lp.playsmart.co.il^
 ||lyplay.net^
-||madas-ads.securest.org^
 ||makelove.co.il^
 ||mashrokit.info^
 ||maskoter.com^
@@ -20241,6 +20242,7 @@ inapps.appsflyersdk.com^
 ||vbjzdl.top^
 ||zevwrl.top^
 ||bdcrihraly.com^
+||iyxh.cn^
 ||i9i3ko2o70.com^
 ||ieix.cn^
 ||gnglehraith.com^
