@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-22T06:10:21.314Z
+! Last modified: 2025-05-22T12:12:27.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6196,9 +6196,13 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
-!
-! NOTE: Regular rules
-!
+||app-tracking.hlogo.de^
+||px.wpk.quark.cn^
+||uc9.ucweb.com^
+||ucus.ucweb.com^
+||applog.lc.quark.cn^
+||log.m.sm.cn^
+||track.uc.cn^
 ||track.adflow-prod.minionplatform.com^
 ||t-odx.op-mobile.opera.com^
 ||stat-analytics.mediavitrina.ru^
@@ -6802,7 +6806,6 @@ inapps.appsflyersdk.com^
 ||rt.applvn.com^
 ||api*.moengage.com^
 ||sdk-*.moengage.com^
-||track.uc.cn^
 ||uc.ucweb.com^
 ||puds.ucweb.com^
 ||patriot.cs.pp.cn^
@@ -9311,6 +9314,7 @@ inapps.appsflyersdk.com^
 ||heymatic.com^
 ||limone.iltrovatore.it^
 ||livestats.matrix.it^
+||load.nootiz.com^
 ||log.edidomus.it^
 ||logger.kataweb.it^
 ||nanostats.nanopress.it^
@@ -9323,6 +9327,7 @@ inapps.appsflyersdk.com^
 ||stats.rcsobjects.it^
 ||stats2.*.fdnames.com^
 ||tag.triboomedia.it^
+||tr.brand-fresh.it^
 ||tr.bt.matrixspa.it^
 ||track.cedsdigital.it^
 ||track.veedio.it^
@@ -14732,9 +14737,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 May 2025 23:29 UTC+7
-! Version: 2505192329
-! Blocked: 877 rules
+! Last modified: 22 May 2025 13:57 UTC+7
+! Version: 2505221357
+! Blocked: 879 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15328,6 +15333,7 @@ inapps.appsflyersdk.com^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log-tamnhin.kienthuc.net.vn^
 ||log-video.baotintuc.vn^
 ||log.1vn.app^
 ||log.247post.vn^
@@ -15392,6 +15398,7 @@ inapps.appsflyersdk.com^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||logv2.kienthuc.net.vn^
 ||logv3.metric.vn^
 ||lottery.headlines.pw^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
@@ -20240,6 +20247,9 @@ inapps.appsflyersdk.com^
 ||11xkkhe8hd.com^
 ||bdblpy.top^
 ||kf2038zvxt.com^
+||sduaiy.icu^
+||meenehboq.com^
+||hiaphrilloig.com^
 ||465k3mlo9.com^
 ||hwpvhilkuth.com^
 ||kuiv.cn^
