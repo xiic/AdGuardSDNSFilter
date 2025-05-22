@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-22T12:12:27.786Z
+! Last modified: 2025-05-22T18:09:19.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8627,6 +8627,7 @@ inapps.appsflyersdk.com^
 ||0stats.com^
 ||24log.it^
 ||accessi.it^
+||brevo.com^
 ||buzzoole.com^
 ||contatoreaccessi.com^
 ||cpmktg.com^
@@ -8673,6 +8674,7 @@ inapps.appsflyersdk.com^
 ||webmobile.ws^
 ||websanalytic.com^
 ||whoseesyou.com^
+||yodalytics.com^
 ! Japanese
 ||accaii.com^
 ||accesstrade.net^
@@ -9310,6 +9312,7 @@ inapps.appsflyersdk.com^
 ||dmpmetrics.rcsmetrics.it^
 ||eventsink.api.redbee.live^
 ||evnt.iol.it^
+||fa5.dn4.it^
 ||heatmaps.lcisoft.it^
 ||heymatic.com^
 ||limone.iltrovatore.it^
@@ -24991,6 +24994,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||veta.naver.com^
 ||planad.net^
 ||aedi.ai^
 ||mobon.net^
