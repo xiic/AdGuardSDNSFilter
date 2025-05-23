@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-23T06:10:06.129Z
+! Last modified: 2025-05-23T12:11:56.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3184,6 +3184,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||cdp.yna.co.kr^
 ||ingestion.webanalytics.italia.it^
 ||njoevqi1nx.hockerty.com^
 ||analytics.lunarclientprod.com^
@@ -6196,6 +6197,12 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+!
+! NOTE: Regular rules
+!
+||fp-it.fengkongcloud.com^
+||api-fp-retry-bj.fengkongcloud.com^
+||tnc16-*.hypic.com^
 ||app-tracking.hlogo.de^
 ||px.wpk.quark.cn^
 ||uc9.ucweb.com^
@@ -6289,14 +6296,19 @@ inapps.appsflyersdk.com^
 ||log.documentmanagerpdfdocxlssale.live^
 ||stats.samsungpass.com^
 ||log.pdfviewerscannerstore.live^
+||log-sg.capcutapi.com^
+||mon-sg.capcutapi.com^
+||tnc-sg.capcutapi.com^
+||tnc-boot.capcutapi.com^
+||tnc-va-us-looki.capcutapi.com^
 ||mon-va-us-looki.capcutapi.com^
+||log-va-us-looki.capcutapi.com^
 ||metrics-prod.suno.com^
 -ulogl*.kwai-pro.com^
 ||ulog*.kwaipros.com^
 ||snowplow-collector.
 ||logs-ingress.svc.vinted.com^
 ||analytics.baliusuperapp.xyz^
-||log-va-us-looki.capcutapi.com^
 ||analytics.hardlightgames.com^
 ||plankton-gtm.a.autoscout24.com^
 ||pangle-b.io^
@@ -6631,6 +6643,7 @@ inapps.appsflyersdk.com^
 ||collector.vhx.tv^
 ||analytics-server.gimbal.com^
 ||log-tb.sgsnssdk.com^
+||rtlog.byteoversea.com^
 ||tnc16-*.byteoversea.com^
 ||xlog.byteoversea.com^
 ||ug-sg.byteoversea.com^
@@ -9763,6 +9776,8 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||alloviewroll.com^
+||adstag0102.xyz^
 ||w.rulive.ru^
 ||thagrechulo.com^
 ||vvdrhe.win^
@@ -12548,6 +12563,8 @@ inapps.appsflyersdk.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||gamegadget.jp^
+||welte.jp^
 ||lifeedly.com^
 ||hyadain.com^
 ||linoee.com^
@@ -20256,6 +20273,7 @@ inapps.appsflyersdk.com^
 ||evkc.cn^
 ||zcdfnl.top^
 ||qa6z7kz5r.com^
+||adfjxsrw.cc^
 ||xg8mbvu3x8.com^
 ||lzov.cn^
 ||opicrutuk.com^
@@ -25006,6 +25024,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||ad.yna.co.kr^
 ||veta.naver.com^
 ||planad.net^
 ||aedi.ai^
