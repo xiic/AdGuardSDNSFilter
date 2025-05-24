@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-24T12:10:29.082Z
+! Last modified: 2025-05-24T18:08:06.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12563,6 +12563,7 @@ inapps.appsflyersdk.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||adlookmanager.com^
 ||gamegadget.jp^
 ||welte.jp^
 ||lifeedly.com^
@@ -12678,18 +12679,17 @@ inapps.appsflyersdk.com^
 ||promolayer.io^
 ||boost-next.co.jp^
 ||googleailesi.com^
-||bartinkizogrenciyurdu.com^
 ||js.glossom.jp^
 ||ratel-ad.com^
 ||cdn.mixx-ad.net^
 ||ad.xrea.com^
 ||advision-adnw.jp^
 ||ad-spire.net^
-||best-lucky-cat.xyz^
 ||geotg.jp^
 ||link-ag.net^
 ||js.mulan.cloud^
 ||abh.jp^
+||av-mov.com^
 ||click-count.info^
 ||andhub.jp^
 ||cross-a.net^
