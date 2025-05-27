@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-26T18:09:06.943Z
+! Last modified: 2025-05-27T00:31:40.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -431,6 +431,7 @@ vkcdnservice.appspot.com^
 ||ads.betfair.com^
 ||ads.kelkoo.com^
 ||ads.linkedin.com^
+||ads.scored.co^
 ||ads.sportradar.com^
 ||ads.travelaudience.com^
 ||ads.viralize.tv^
@@ -3184,6 +3185,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||t.illuma-tech.com^
 ||experiment-variant.baemin.com^
 ||cdp.yna.co.kr^
 ||ingestion.webanalytics.italia.it^
@@ -7246,6 +7248,7 @@ inapps.appsflyersdk.com^
 ||collector.sspinc.io^
 ||collector5.zipy.ai^
 ||commerce.bing.com^
+||conan.screencast-o-matic.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||connect.idocdn.com^
 ||connext-cdn.azureedge.net^
@@ -9554,6 +9557,7 @@ inapps.appsflyersdk.com^
 ||mtm.qdqmedia.com
 ||pub.servidoresge.com^
 ||rt.cdnmedia.tv^
+||segment.lalr.co^
 ||sp.vtex.com^
 ||stats.administrarweb.es^
 ||stats.qdq.com^
@@ -20267,6 +20271,13 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||3kfvgobkw.com^
+||wy12cewh4.com^
+||bgf05270lko.com^
+||21cfhm0s1.top^
+||ysavom.icu^
+||osjt.cn^
+||hftxbq.top^
 ||gkxqt.cn^
 ||m9s3h265lq.com^
 ||apeacc.icu^
