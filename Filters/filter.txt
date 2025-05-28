@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-28T06:10:02.726Z
+! Last modified: 2025-05-28T12:12:28.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2472,6 +2472,7 @@ vkcdnservice.appspot.com^
 ||ads*.bojijulebu.com^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
+||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
 ||pangolin16.sgsnssdk.com^
@@ -3187,6 +3188,9 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||telegraph.prd.api.bleacherreport.com^
+||gmss.use1.prd.api.discomax.com^
+||events.shoplift.ai^
 ||flxr.myplan-c.com^
 ||seghg.hottopic.com^
 ||imgsct.cookiebot.com^
@@ -6307,9 +6311,9 @@ inapps.appsflyersdk.com^
 ||mon-sg.capcutapi.com^
 ||tnc-sg.capcutapi.com^
 ||tnc-boot.capcutapi.com^
-||tnc-va-us-looki.capcutapi.com^
-||mon-va-us-looki.capcutapi.com^
-||log-va-us-looki.capcutapi.com^
+||tnc-va*.capcutapi.com^
+||mon-va*.capcutapi.com^
+||log-va*.capcutapi.com^
 ||metrics-prod.suno.com^
 -ulogl*.kwai-pro.com^
 ||ulog*.kwaipros.com^
@@ -7373,7 +7377,6 @@ inapps.appsflyersdk.com^
 ||events.missena.io^
 ||events.realgravity.com^
 ||events.shareably.net^
-||events.shoplift.ai^
 ||events.splash-screen.net^
 ||events.storifyme.com^
 ||events.tubecup.org^
@@ -12574,6 +12577,7 @@ inapps.appsflyersdk.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||ibento-yahoo.com^
 ||adlookmanager.com^
 ||gamegadget.jp^
 ||welte.jp^
@@ -20287,6 +20291,9 @@ inapps.appsflyersdk.com^
 ||43eksc8w59.com^
 ||jitdlj.icu^
 ||fevrvd.top^
+||6c641lgikp.top^
+||vrow.cn^
+||vgnhigankih.com^
 ||3kfvgobkw.com^
 ||wy12cewh4.com^
 ||bgf05270lko.com^
@@ -23890,6 +23897,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||static.wjxcdn.com^
 ||a1.tuke8.com^
 ||nxet1.360doc.cn^
 ||bun1.dayi.org.cn^
@@ -25092,7 +25100,6 @@ analytics-*.aasaam.com
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
 ||ad.yna.co.kr^
-||veta.naver.com^
 ||planad.net^
 ||aedi.ai^
 ||mobon.net^
