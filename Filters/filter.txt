@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-28T00:32:12.263Z
+! Last modified: 2025-05-28T06:10:02.726Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7373,6 +7373,7 @@ inapps.appsflyersdk.com^
 ||events.missena.io^
 ||events.realgravity.com^
 ||events.shareably.net^
+||events.shoplift.ai^
 ||events.splash-screen.net^
 ||events.storifyme.com^
 ||events.tubecup.org^
@@ -7638,6 +7639,7 @@ inapps.appsflyersdk.com^
 ||raven.adeptmind.ai^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
+||reco.target2sell.com^
 ||recs-api.conde.digital^
 ||recs.shareaholic.com^
 ||refer.wordpress.com^
@@ -20282,6 +20284,9 @@ inapps.appsflyersdk.com^
 ||lvsm.cn^
 ||rpvqhicca.com^
 ||q5sn40kmp2.com^
+||43eksc8w59.com^
+||jitdlj.icu^
+||fevrvd.top^
 ||3kfvgobkw.com^
 ||wy12cewh4.com^
 ||bgf05270lko.com^
