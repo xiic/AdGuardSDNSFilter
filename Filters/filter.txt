@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-27T18:08:57.975Z
+! Last modified: 2025-05-28T00:32:12.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -402,8 +402,10 @@ vkcdnservice.appspot.com^
 ||1437953666.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
+||1580240639.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1776396397.rsc.cdn77.org^
 ||1wincdn.b-cdn.net^
 ||1winpb.com^
 ||360playvid.com^
@@ -3185,6 +3187,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||flxr.myplan-c.com^
+||seghg.hottopic.com^
 ||imgsct.cookiebot.com^
 ||img.sct.eu1.usercentrics.eu^
 ||segapi.splice.com^
@@ -20271,6 +20275,13 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||iaxmmw9fbx.com^
+||bgf05280lko.com^
+||n72bn5s7uu.top^
+||wigqae.icu^
+||lvsm.cn^
+||rpvqhicca.com^
+||q5sn40kmp2.com^
 ||3kfvgobkw.com^
 ||wy12cewh4.com^
 ||bgf05270lko.com^
