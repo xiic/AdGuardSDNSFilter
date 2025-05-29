@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-29T12:12:01.767Z
+! Last modified: 2025-05-29T18:09:23.332Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -404,8 +404,10 @@ vkcdnservice.appspot.com^
 ||1548164934.rsc.cdn77.org^
 ||1580240639.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1721553824.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1776396397.rsc.cdn77.org^
+||1860793711.rsc.cdn77.org^
 ||1wincdn.b-cdn.net^
 ||1winpb.com^
 ||360playvid.com^
@@ -12581,6 +12583,9 @@ inapps.appsflyersdk.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||assessoriagmv.com^
+||brightskillsacademy.com^
+||japans-offers.com^
 ||ibento-yahoo.com^
 ||adlookmanager.com^
 ||gamegadget.jp^
@@ -20295,6 +20300,7 @@ inapps.appsflyersdk.com^
 ||irlj.cn^
 ||pknh27a7j.com^
 ||bgf05291lko.com^
+||qiu4592.xyz^
 ||iaxmmw9fbx.com^
 ||bgf05280lko.com^
 ||n72bn5s7uu.top^
