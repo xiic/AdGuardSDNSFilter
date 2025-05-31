@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-30T18:09:17.129Z
+! Last modified: 2025-05-31T00:31:22.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20292,6 +20292,15 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||7x9i88rvn.com^
+||jkn05310loi.com^
+||mc5e9p8qx.com^
+||yeuviq.icu^
+||riht.cn^
+||u408n6z4f.top^
+||mwgehrudb.com^
+||cockersbehint.com^
+||aldusmiskals.com^
 ||f9gv87zoq2.com^
 ||aoydwg.icu^
 ||3exfu7vaxu.com^
@@ -20360,7 +20369,6 @@ inapps.appsflyersdk.com^
 ||m8zgls6zt.com^
 ||aitongji.vip^
 ||lcvl.cn^
-||hghngh.com^
 ||mmkkkkk.com^
 ||dalofq.top^
 ||y1n1n3e0v.com^
@@ -20376,6 +20384,7 @@ inapps.appsflyersdk.com^
 ||gavm.cn^
 ||bbjzly.top^
 ||fup5qxstgi.com^
+||hghngh.com^
 ||cdjst7i1v.com^
 ||9oru1vh0w.com^
 ||uwxez.com^
@@ -22767,7 +22776,6 @@ inapps.appsflyersdk.com^
 ||rtroytj33.fun^
 ||rvnaxwqe.icu^
 ||ryqgdrh.icu^
-||saltsleaseholder.com^
 ||sauyv.top^
 ||sbovgy.xyz^
 ||script302.top^
@@ -23514,7 +23522,6 @@ inapps.appsflyersdk.com^
 ||zxqiwe.cn^
 ||zyfnbl.xyz^
 ||xianliao.voto^
-||deafeningphone.com^
 ||7299tu75.cc^
 ||uu11881.com^
 ||uu22332.com^
