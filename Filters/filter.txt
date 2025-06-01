@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-01T00:40:14.927Z
+! Last modified: 2025-06-01T06:09:31.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13802,8 +13802,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-05-21 05:37:28 CEST
-# entries:        1124
+# last updated:   2025-06-01 06:54:20 CEST
+# entries:        1121
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -14104,7 +14104,6 @@ inapps.appsflyersdk.com^
 ||f.convertkit.com^
 ||faro-collector-prod-eu-west-0.grafana.net^
 ||feed.aservice.tools^
-||fila.com.se^
 ||findbetterresults.com^
 ||flag.lab.eu.amplitude.com^
 ||flx1.com^
@@ -14320,7 +14319,6 @@ inapps.appsflyersdk.com^
 ||seo.compado.com^
 ||seoab.io^
 ||seonify.com^
-||servedby.lintigroup.se^
 ||servedby.studads.com^
 ||servedby.aqua-adserver.com^
 ||servedby.revive-adserver.net^
@@ -14333,7 +14331,6 @@ inapps.appsflyersdk.com^
 ||smetrics.avanza.se^
 ||smtvn.112.2o7.net^
 ||source.advisible.com^
-||spel.expressen.se^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
 ||sp-eu.dev.polarbyte.com^
@@ -20299,6 +20296,7 @@ inapps.appsflyersdk.com^
 ||nlzyp.cn^
 ||cedhoinle.com^
 ||xpxi.cn^
+||naljjd.top^
 ||7x9i88rvn.com^
 ||jkn05310loi.com^
 ||jkn05311loi.com^
