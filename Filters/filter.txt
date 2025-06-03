@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-03T12:12:33.124Z
+! Last modified: 2025-06-03T18:09:28.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1191,6 +1191,7 @@ vkcdnservice.appspot.com^
 ||d2xng9e6gymuzr.cloudfront.net^
 ||d2y1lr6nqzfgkq.cloudfront.net^
 ||d2y8ttytgze7qt.cloudfront.net^
+||d2yc6hxtq0phup.cloudfront.net^
 ||d2yeczd6cyyd0z.cloudfront.net^
 ||d2ykons4g8jre6.cloudfront.net^
 ||d2ywv53s25fi6c.cloudfront.net^
@@ -3191,6 +3192,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||e.aimerce.ai^
+||j0v36abmdj.execute-api.us-east-1.amazonaws.com^
 ||lumberjack-metrics.razorpay.com^
 ||statistics-collector-api.listglobally.com^
 ||telegraph.prd.api.bleacherreport.com^
@@ -3479,7 +3482,6 @@ vkcdnservice.appspot.com^
 ||afl.rozetka.com.ua^
 ||c783.fastcompany.com^
 ||event.northghost.com^
-||profile-api.amplitude.com^
 ||f793.inc.com^
 ||mytop.live.vkvideo.ru^
 ||event.newsbreak.com^
@@ -8078,6 +8080,7 @@ inapps.appsflyersdk.com^
 ||d2ezz24t9nm0vu.cloudfront.net^
 ||d2fj3s7h83rb61.cloudfront.net
 ||d2gbtcuv3w9qyv.cloudfront.net^
+||d2i34c80a0ftze.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
@@ -9802,6 +9805,9 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||timing-js-menu.xyz^
+||simplejsmenu.com^
+||1astrjasr.ru^
 ||alloviewroll.com^
 ||adstag0102.xyz^
 ||w.rulive.ru^
@@ -12637,7 +12643,6 @@ inapps.appsflyersdk.com^
 ||bibincom.com^
 ||smart-below.com^
 ||ad1.girls-affiliate.com^
-||manga.boy.jp^
 ||af.atsoho.com^
 ||flux-cdn.com^
 ||js.mediams.mb.softbank.jp^
@@ -12668,7 +12673,6 @@ inapps.appsflyersdk.com^
 ||smart-c.jp^
 ||jpshopes.com^
 ||ads.mediams.mb.softbank.jp^
-||safemy-ios.com^
 ||ad.owlair.net^
 ||js.medi-8.net^
 ||presco.ai^
@@ -12683,7 +12687,6 @@ inapps.appsflyersdk.com^
 ||adstuber.com^
 ||ad.orange-park.jp^
 ||d-064.com^
-||public.adgger.jp^
 ||expdirclk.com^
 ||pompass.net^
 ||v2st.shinobi.jp^
@@ -12849,7 +12852,6 @@ inapps.appsflyersdk.com^
 ||addeluxe.jp^
 ||adfurikun.jp^
 ||adingo.jp^
-||advg.jp^
 ||doubleclick.ne.jp^
 ||fout.jp^
 ||genieesspv.jp^
@@ -12890,7 +12892,6 @@ inapps.appsflyersdk.com^
 ||i2idata.com^
 ||i2iserv.com^
 ||image-rentracks.com^
-||itgear.jp^
 ||link-trade.net^
 ||mcnt.jp^
 ||microad.jp^
