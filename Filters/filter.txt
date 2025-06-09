@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-09T00:34:57.678Z
+! Last modified: 2025-06-09T06:11:13.781Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7380,6 +7380,7 @@ dlsdk.appsflyer.com^
 ||events.matterport.com^
 ||events.medio.com^
 ||events.missena.io^
+||events.pickrr.com^
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
@@ -7999,6 +8000,7 @@ dlsdk.appsflyer.com^
 ||uilogging.tcdevops.com^
 ||umami.aigenerations.net^
 ||umami.heroku.uk^
+||uptime.fastrr.com^
 ||us-central1-markuphero.cloudfunctions.net^
 ||usaoptimizedby.increasingly.co^
 ||user.userguiding.com^
@@ -20284,6 +20286,14 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||80ms6831o.com^
+||sghcj5pnb.com^
+||vgnyli.top^
+||opwc.cn^
+||uwtewvalgil.com^
+||fygel9rtc.com^
+||aewgwu.icu^
+||strawberryy14.top^
 ||yto3kavwud.com^
 ||bmpdm3z282.com^
 ||cbaokk.icu^
