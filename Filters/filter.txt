@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-08T18:08:21.025Z
+! Last modified: 2025-06-09T00:34:57.678Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -321,7 +321,6 @@
 ||pool.supportxmr.com^
 ||bmwebm.org^
 ||monerominer.rocks^
-||cloud-miner.de^
 ||webminepool.com^
 ||omine.org^
 ||tercabilis.info^
@@ -349,9 +348,7 @@ vkcdnservice.appspot.com^
 ||coinnebula.com^
 ||coinpirate.cf^
 ||coinpot.co^
-||coinrail.io^
 ||crypto-loot.com^
-||go.bestmobiworld.com^
 ||hashing.win^
 ||hemnes.win^
 ||igrid.org^
@@ -367,8 +364,6 @@ vkcdnservice.appspot.com^
 ||pertholin.com^
 ||ppoi.org^
 ||premiumstats.xyz^
-||projectpoi.com^
-||questionfly.com^
 ||rocks.io^
 ||serie-vostfr.com^
 ||smartoffer.site^
@@ -376,7 +371,6 @@ vkcdnservice.appspot.com^
 ||thewise.com^
 ||tulip18.com^
 ||webmine.cz^
-||webmining.co^
 ||wtm.monitoringservice.co^
 ! don't add `^` to these rules
 ||freecontent.date
@@ -3186,6 +3180,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.emforce.co.kr^
+||track.ssg.com^
 ||c2-eu.piano.io^
 ||proxima.midjourney.com^
 ||e.aimerce.ai^
