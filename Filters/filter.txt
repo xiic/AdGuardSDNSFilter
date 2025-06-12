@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-12T00:32:24.672Z
+! Last modified: 2025-06-12T06:10:39.044Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3142,6 +3142,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||kamp.daum.net^
 ||netmarbleslog.netmarble.com^
 ||slf.fugu-it.com^
 ||ukadh.livelyroot.com^
@@ -6142,6 +6143,12 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+!
+! NOTE: Regular rules
+!
+||data-detect.nie.easebar.com^
+||mgbsdk*.matrix.easebar.com^
+||applog*.matrix.easebar.com^
 ||hz-telemetry.adobe.io^
 ||smartcard.apps.coloros.com^
 ||fp-it.fengkongcloud.com^
@@ -19659,6 +19666,10 @@ dlsdk.appsflyer.com^
 ||vbjm.cn^
 ||bmelkellv.com^
 ||river49xx.org^
+||xsvyvr.top^
+||fo0qofhtaw.com^
+||t78obxl4h1.com^
+||yui06121shga.com^
 ||jikklfexh.com^
 ||nrephihe.com^
 ||4rcajmf0m.com^
