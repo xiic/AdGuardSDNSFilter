@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-13T00:32:57.253Z
+! Last modified: 2025-06-13T06:10:28.875Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6141,6 +6141,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||*-datareceiver.aki-game.net^
 ||data-detect.nie.easebar.com^
 ||mgbsdk*.matrix.easebar.com^
 ||applog*.matrix.easebar.com^
@@ -13143,8 +13144,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-06-03 05:16:45 CEST
-# entries:        1122
+# last updated:   2025-06-13 05:40:30 CEST
+# entries:        1125
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -13304,6 +13305,7 @@ dlsdk.appsflyer.com^
 ||c.adsco.re^
 ||c.eacla.com^
 ||c1.adform.net^
+||cadmus.script.ac^
 ||canariajournalen.ads.ramsalt.com^
 ||cargodisplayads.com^
 ||carneoam.com^
@@ -13914,6 +13916,7 @@ dlsdk.appsflyer.com^
 ||widgets.ad.style^
 ||widgets.getsitecontrol.com^
 ||widgets.spklw.com^
+||wix-engage-visitors-prod-16.firebaseio.com^
 ||woomio.com^
 ||ws.sharethis.com^
 ||www.adnordics.com^
@@ -14126,9 +14129,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Jun 2025 21:57 UTC+7
-! Version: 2506102157
-! Blocked: 879 rules
+! Last modified: 13 Jun 2025 11:35 UTC+7
+! Version: 2506131135
+! Blocked: 886 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14237,6 +14240,7 @@ dlsdk.appsflyer.com^
 ||customers.fptad.com^
 ||dable.io^
 ||daleriki.com^
+||dantocmiennui-log.baotintuc.vn^
 ||delivery.akadigital.vn^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
@@ -14246,6 +14250,8 @@ dlsdk.appsflyer.com^
 ||dtadnetwork.com^
 ||eclick.vn^
 ||elogs.vnexpress.net^
+||en-log.vietnamplus.vn^
+||es-log.vietnamplus.vn^
 ||eva-ad.24hstatic.com^
 ||ezca.asia^
 ||facebook-ads.hara.vn^
@@ -14253,6 +14259,7 @@ dlsdk.appsflyer.com^
 ||ff.imacdn.com^
 ||fly-ads.net^
 ||flygame.io^
+||fr-log.vietnamplus.vn^
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||gammassp.com^
@@ -14369,6 +14376,7 @@ dlsdk.appsflyer.com^
 ||quangcao.tuoitre.vn^
 ||realclick.vn^
 ||rec.aiservice.vn^
+||ru-log.vietnamplus.vn^
 ||s-logperf.vnexpress.net^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -14458,6 +14466,7 @@ dlsdk.appsflyer.com^
 ||zalo-ads-td.zadn.vn^
 ||zalo-ads.zadn.vn^
 ||zaloads-480.zdn.vn^
+||zh-log.vietnamplus.vn^
 ||zlog.mp3.zing.vn^
 ||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
@@ -14733,6 +14742,7 @@ dlsdk.appsflyer.com^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baohatinh.vn^
 ||log.baolaocai.vn^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
@@ -14990,8 +15000,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Jun 2025 21:56 UTC+7
-! Version: 2506102156
+! Last modified: 13 Jun 2025 11:34 UTC+7
+! Version: 2506131134
 ! Blocked: 4.759 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -19644,6 +19654,8 @@ dlsdk.appsflyer.com^
 ||munkrudhhv.com^
 ||1lqw75ogo.com^
 ||haole1xx.top^
+||xldyxnzo6.com^
+||n0usvkb1x.com^
 ||zrbnte.top^
 ||c21x8nmdak.com^
 ||hvmdu6macy.com^
