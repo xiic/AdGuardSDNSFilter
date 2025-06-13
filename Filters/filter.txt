@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-13T12:11:59.767Z
+! Last modified: 2025-06-13T18:09:27.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -202,7 +202,6 @@
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
 ||rek.www.wp.pl^
-||dz5bomaog2c5t.cloudfront.net^
 ||s.remonti.org^
 ||rst.pornyhd.com^
 ||ads-media.gameforge.com^
@@ -221,7 +220,6 @@
 ||osm-onead.cdn.hinet.net^
 ||d13jhr4vol1304.cloudfront.net^
 ||dash.tmearn.com^
-||drrcckbju3nd0.cloudfront.net^
 ||secure.iqmining.com^
 ||d2nrdy2pg3k168.cloudfront.net^
 ||d9tnvwv7i2n85.cloudfront.net^
@@ -6141,6 +6139,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+-client-report.honkaiimpact3.com^
 ||*-datareceiver.aki-game.net^
 ||data-detect.nie.easebar.com^
 ||mgbsdk*.matrix.easebar.com^
@@ -6496,6 +6495,7 @@ dlsdk.appsflyer.com^
 ||eventgw.twilio.com^
 ||log.estand.jp^
 ||event-search.jorte.com^
+||sdk-log-upload-os.hoyoverse.com^
 ||ad-log-upload-os.hoyoverse.com^
 ||apm-log-upload-os.hoyoverse.com^
 ||devlog-upload-os.hoyoverse.com^
@@ -6798,8 +6798,6 @@ dlsdk.appsflyer.com^
 ||amp-error-reporting.appspot.com^
 ||analytics.mobile.yandex.net^
 ||andmlb.kshwtj.com^
-||api-analytics-bootstrap.metaps.com^
-||api-analytics.metaps.com^
 ||api.analytics.omgpop.com^
 ||api.apptentive.com^
 ||api.branch.io^
@@ -10102,7 +10100,6 @@ dlsdk.appsflyer.com^
 ||main-ti-cod.com^
 ||svedkan.com^
 ||big6q4y2oy.ru^
-||muzhskoy.xyz^
 ||afp.ai^
 ||bro1.biz^
 ||rdrctgoweb.com^
@@ -10461,7 +10458,6 @@ dlsdk.appsflyer.com^
 ||addweb.ru^
 ||addynamo.com^
 ||adeclc.com^
-||adfill.me^
 ||adforce.ru^
 ||adforce.team^
 ||adfun.ru^
@@ -10556,7 +10552,6 @@ dlsdk.appsflyer.com^
 ||andsedrit.com^
 ||anews.cc^
 ||anyfiles.ru^
-||api.smartadv.ru^
 ||api9.net^
 ||apytrc.com^
 ||asiantraffic.net^
@@ -10702,7 +10697,6 @@ dlsdk.appsflyer.com^
 ||danilidi.ru^
 ||data.neosmi.ru^
 ||datamind.ru^
-||dating-cart.com^
 ||dating-exchange.com^
 ||davarello.com^
 ||dddevki4u.com^
@@ -11131,7 +11125,6 @@ dlsdk.appsflyer.com^
 ||pozzitiv.ru^
 ||prbn.ru^
 ||primechoice.ru^
-||prnhpe.pro^
 ||profit-casino.com^
 ||profit-partner.ru^
 ||profitraf.ru^
@@ -11962,7 +11955,6 @@ dlsdk.appsflyer.com^
 ||reklam.milliyet.com.tr^
 ||reklam.misli.com^
 ||reklam.mynet.com^
-||reklam.softreklam.com^
 ||reklam.star.com.tr^
 ||reklam.yonlendir.com^
 ||reklam1.akhisar.bel.tr^
@@ -12465,7 +12457,6 @@ dlsdk.appsflyer.com^
 ||lh1dki82.com^
 ||u40pdqw.com^
 ||theweeklydonut.org^
-||bobobo6688.top^
 ||xj-oss.com^
 ||telecome.cn^
 ||aizhantj.com^
@@ -12493,7 +12484,6 @@ dlsdk.appsflyer.com^
 ||776.jstatic.xyz^
 ||kmqianneng66.com^
 ||cos1999.top^
-||d24fnxkxwarvg8.cloudfront.net^
 ||files.xtpag.top^
 ||img.175532.com^
 ||img.911787.com^
@@ -12534,7 +12524,6 @@ dlsdk.appsflyer.com^
 ||pm.poqwua.cn^
 ||ahejtw.onelink.me^
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
-||tp4sul.jwzd.com.cn^
 ||yinyouapp.com^
 ||adbottw.net^
 ||mdfsbn.com^
@@ -19648,6 +19637,7 @@ dlsdk.appsflyer.com^
 ||cnzz.trafficmanager.net^
 ||yui06131shga.com^
 ||uahivaqettl.com^
+||ojxr.cn^
 ||e4jdb7k8j.com^
 ||yui06130shga.com^
 ||bborxjkan.com^
