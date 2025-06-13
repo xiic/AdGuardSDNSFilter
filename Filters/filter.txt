@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-12T12:12:24.103Z
+! Last modified: 2025-06-13T00:32:57.253Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -352,7 +352,6 @@ vkcdnservice.appspot.com^
 ||jscdndel.com^
 ||jsecoin.com^
 ||laserveradedomaina.com^
-||machieved.com^
 ||minemytraffic.com^
 ||nametraff.com^
 ||offerreality.com^
@@ -2500,7 +2499,6 @@ vkcdnservice.appspot.com^
 ||api-ad-adapter.wps.com^
 ||jtbo*.nqxvevk.cn^
 ||nasimobi.com^
-||wd.adcolony.xyz^
 ||adx-*.dbankcloud.
 ||ad-*.appacc.dbankedge.cn^
 ||adx-*.dbankedge.cn^
@@ -2545,7 +2543,6 @@ vkcdnservice.appspot.com^
 ||rossoad.com^
 ||athena.api.kwalee.com^
 ||mobondhrd.appspot.com^
-||a.cookpad-ads.com^
 ||api.ads.newsdigest.jp^
 ||mobi.yanosik.pl^
 ||videoads-cloud.rovio.com^
@@ -4938,7 +4935,6 @@ vkcdnservice.appspot.com^
 ||hi.hellobar.com^
 ||hindsight.significanceapps.com^
 ||hit.darmoweliczniki.pl^
-||hit.demirorenteknoloji.com^
 ||hit.mynet.com^
 ||hits.dealer.com^
 ||hits.theguardian.com^
@@ -5336,7 +5332,6 @@ vkcdnservice.appspot.com^
 ||sp.bucyrustelegraphforum.com^
 ||sp.burlingtonfreepress.com^
 ||sp.caller.com^
-||sp.centralfloridafuture.com^
 ||sp.chillicothegazette.com^
 ||sp.cincinnati.com^
 ||sp.citizen-times.com^
@@ -5638,13 +5633,11 @@ vkcdnservice.appspot.com^
 ||trac.clicplan.fr^
 ||trac.clicplan.it^
 ||trac.couponandgo.co.uk^
-||trac.couponandgo.com^
 ||trac.oferting.co.uk^
 ||trac.oferting.es^
 ||trac.oferting.fr^
 ||trac.oferting.it^
 ||trac.oferting.net^
-||trac.oferting.org^
 ||tracelog.www.alibaba.com^
 ||track.analitycs.net^
 ||track.berliner-kurier.de^
@@ -9594,7 +9587,6 @@ dlsdk.appsflyer.com^
 ||butlercdn.com^
 ||classic-bonus.com^
 ||assets.etus.digital^
-||ncwabgl.com^
 ||adzonestatic.com^
 ||adzep.com.br^
 ||nobeta.com.br^
@@ -9669,7 +9661,6 @@ dlsdk.appsflyer.com^
 ||coguan.com^
 ||contadorgratis.web-kit.org^
 ||controlsgc.prisacom.com^
-||coolmobile.es^
 ||detectca.easysol.net^
 ||epartner.es^
 ||foneclick.com.br^
@@ -9684,7 +9675,6 @@ dlsdk.appsflyer.com^
 ||miarroba.info^
 ||mipagerank.com^
 ||navdmp.com^
-||netfilia.com^
 ||newstogram.com^
 ||nspmotion.com^
 ||nuevaq.net^
@@ -9775,7 +9765,6 @@ dlsdk.appsflyer.com^
 ||sheisnotateacher.com^
 ||srvd2204.com^
 ||miradres.com^
-||cdn.tameti.com^
 ||eehhabacgieacfjeaacg.world^
 ||bidmatic.io^
 ||1qe.info^
@@ -9888,10 +9877,8 @@ dlsdk.appsflyer.com^
 ||clicktroute.com^
 ||riamiavid.com^
 ||octolinkcom.me^
-||clickatdcode.com^
 ||top-js-metrics.top.my.ua^
 ||cdn.umh.ua^
-||adversting.riamedia.com.ua^
 ||go.xl.ua^
 ||a.ava.com.ua^
 ||add.in.ua^
@@ -9931,7 +9918,6 @@ dlsdk.appsflyer.com^
 ||bc-news.net^
 ||bngdyn.com^
 ||cnb.cnews.ru^
-||api-fangarma.utyug.media^
 ||dr5.biz^
 ||kasfas.com^
 ||abqjst.com^
@@ -10094,7 +10080,6 @@ dlsdk.appsflyer.com^
 ||ljsiir.com^
 ||infomix.best^
 ||widjet.analnoe.tv^
-||feetct.com^
 ||qq86tbqodk.ru^
 ||sandelf.com^
 ||fooluminou.review^
@@ -10155,7 +10140,6 @@ dlsdk.appsflyer.com^
 ||7nkbwdf1uq.ru^
 ||biocdn.net^
 ||tiz.jsite.top^
-||news-network.ru^
 ||boostingads.com^
 ||prod.html5-ads.vk-apps.com^
 ||3kbktygzr5.ru^
@@ -10303,7 +10287,6 @@ dlsdk.appsflyer.com^
 ||gxxcbj.com^
 ||ubar-pro4.ru^
 ||offergate.pro^
-||newmedia.live^
 ||ucurtatus.com^
 ||actpx.com^
 ||fegortius.com^
@@ -10499,7 +10482,6 @@ dlsdk.appsflyer.com^
 ||adnova.ru^
 ||adone.ru^
 ||adoneast.ru^
-||adpartner.pro^
 ||adplus.io^
 ||adpod.in^
 ||adpremium.ru^
@@ -10789,7 +10771,6 @@ dlsdk.appsflyer.com^
 ||gameteaser.ru^
 ||gatewey.net^
 ||gbs.gamingmedia.ru
-||gddrio.com^
 ||get-ads.ru^
 ||get-click.ru^
 ||get35.com^
@@ -10996,7 +10977,6 @@ dlsdk.appsflyer.com^
 ||mastertarget.ru^
 ||mateast.com^
 ||maxato.com^
-||maxforta.com^
 ||maxtrust.ru^
 ||mctqu.com^
 ||mdeih.com^
@@ -11947,7 +11927,6 @@ dlsdk.appsflyer.com^
 ||ad.hepsiburada.com^
 ||ad.reklm.com^
 ||ads.motosiklet.net^
-||ad.sigortagundem.biz^
 ||cdn.eksiup.com^
 ||url.isimsepeti.net^
 ||ads.gencgazete.net^
@@ -12582,7 +12561,6 @@ dlsdk.appsflyer.com^
 ||mscs.svaeuzh.cn^
 ||luolitang.com^
 ||hlstlyy.com^
-||gzhying1.cn^
 ||ddgjjj.com^
 ||sofseo.cn^
 ||zxptw.cn^
@@ -19658,6 +19636,15 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||e4jdb7k8j.com^
+||yui06130shga.com^
+||bborxjkan.com^
+||aqgjqy.icu^
+||dlig.cn^
+||munkrudhhv.com^
+||1lqw75ogo.com^
+||haole1xx.top^
+||zrbnte.top^
 ||c21x8nmdak.com^
 ||hvmdu6macy.com^
 ||yui06120shga.com^
@@ -19671,6 +19658,8 @@ dlsdk.appsflyer.com^
 ||fo0qofhtaw.com^
 ||t78obxl4h1.com^
 ||yui06121shga.com^
+||vwuudahnarh.com^
+||gigptruetlop.com^
 ||jikklfexh.com^
 ||nrephihe.com^
 ||4rcajmf0m.com^
@@ -24822,6 +24811,7 @@ analytics-*.aasaam.com
 ||s.infogr.am^
 ||s2.youtube.com^
 ||sp.baxterbulletin.com^
+||sp.centralfloridafuture.com^
 ||sp.udimg.com^
 ||sp.usatoday.com^
 ||spanids.reference.com^
