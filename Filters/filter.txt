@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-16T12:13:07.754Z
+! Last modified: 2025-06-16T18:10:01.794Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -383,6 +383,7 @@ vkcdnservice.appspot.com^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
 ||1437953666.rsc.cdn77.org^
+||1489322637.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||1580240639.rsc.cdn77.org^
@@ -3139,6 +3140,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracker.ris.promo^
+||nid.thesun.co.uk^
 ||stats.anime-go.cc^
 ||netmarbleslog.netmarble.com^
 ||slf.fugu-it.com^
@@ -6139,6 +6142,11 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||rtc-logger.bytevcloud.com^
+||gpm-mon-va.byteoversea.com^
+||logs-sg.rebxgame.com^
+||talog-eu.rebxgame.com^
+||logs-*.rebxgame.com^
 -client-report.honkaiimpact3.com^
 ||*-datareceiver.aki-game.net^
 ||data-detect.nie.easebar.com^
@@ -12001,6 +12009,7 @@ dlsdk.appsflyer.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||erogazopple.com^
 ||paradise1972.com^
 ||line-jp.live^
 ||assessoriagmv.com^
@@ -12971,7 +12980,6 @@ dlsdk.appsflyer.com^
 ||a.walla.co.il^
 ||activated.co.il^
 ||activated.digital^
-||activetrail.biz^
 ||adland.co.il^
 ||ads.one.co.il^
 ||adserv.mako.co.il^
@@ -24477,6 +24485,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||adpacker.net^
 ||ad.yna.co.kr^
 ||planad.net^
 ||aedi.ai^
