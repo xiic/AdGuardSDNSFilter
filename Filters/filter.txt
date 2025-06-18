@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-18T06:10:31.072Z
+! Last modified: 2025-06-18T12:12:46.712Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||chuchle.all-usanomination.com^
 ||bundle.ppas.monster^
 ||adf.underhentai.net^
 ||donasi.lk21.de^
@@ -3139,6 +3140,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||uac.mk.co.kr^
 ||sp.stapecdn.com^
 ||cdn.powerinboxedge.com^
 ||tracker.ris.promo^
@@ -6141,11 +6143,14 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||clientlog.perfectworldgames.com^
+||log1.perfectworldgames.com^
+||log2.perfectworldgames.com^
+||dlog.perfectworldgames.com^
 ||ads-img-al.xhscdn.com^
 ||apm-native.xiaohongshu.com^
 ||apm-fe.xiaohongshu.com^
 ||apm-track.xiaohongshu.com^
-||edith.xiaohongshu.com^
 ||edith-seb.xiaohongshu.com^
 ||rtc-logger.bytevcloud.com^
 ||gpm-mon-va.byteoversea.com^
