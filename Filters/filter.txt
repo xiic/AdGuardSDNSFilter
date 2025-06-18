@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-18T12:12:46.712Z
+! Last modified: 2025-06-18T18:09:31.136Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3140,6 +3140,10 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||stats.pixeldrain.com^
+||dd.reuters.com^
+||nexus.uniten.io^
+||rusty-heartbeat.services.ps.axelspringer.de^
 ||uac.mk.co.kr^
 ||sp.stapecdn.com^
 ||cdn.powerinboxedge.com^
@@ -7701,7 +7705,6 @@ dlsdk.appsflyer.com^
 ||stats.netbopdev.co.uk^
 ||stats.netdriven.com^
 ||stats.ozwebsites.biz^
-||stats.pixeldrain.com^
 ||stats.polldaddy.com^
 ||stats.prebytes.com^
 ||stats.pushloop.io^
@@ -19553,6 +19556,10 @@ dlsdk.appsflyer.com^
 ||nebzrn.icu^
 ||ktfmk4utug.com^
 ||lettucex977.com^
+||zqydulfzxb.com^
+||fttzfw.top^
+||dggenduprnyi.com^
+||1uo9djbnsr.com^
 ||l235cj20z.com^
 ||ce71jubc2.com^
 ||dgfhjmd.com^
