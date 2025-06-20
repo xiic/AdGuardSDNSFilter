@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-20T00:32:35.549Z
+! Last modified: 2025-06-20T06:10:35.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13054,8 +13054,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-06-14 05:01:37 CEST
-# entries:        1129
+# last updated:   2025-06-20 07:26:50 CEST
+# entries:        1132
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -13280,6 +13280,7 @@ dlsdk.appsflyer.com^
 ||cdn-magiclinks.trackonomics.net^
 ||cdn-scripts.signifyd.com^
 ||cdn.id5-sync.com^
+||cdn.lrkt-in.com^
 ||cdn.pushmaster-cdn.xyz^
 ||cdn.relevant-digital.com^
 ||cdn.vip-hd-movies.xyz^
@@ -13503,6 +13504,7 @@ dlsdk.appsflyer.com^
 ||plus.sharedcount.com^
 ||pm.azerioncircle.com^
 ||portalhc.com^
+||privalytic.com^
 ||protagcdn.com^
 ||proxyas.com^
 ||public.servenobid.com^
@@ -13589,6 +13591,7 @@ dlsdk.appsflyer.com^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
 ||sp-eu.dev.polarbyte.com^
+||sr-client-cfg.eu.amplitude.com^
 ||ssp-nj.webtradehub.com^
 ||stat.alltforforaldrar.se^
 ||stat.blogg.se^
@@ -14034,8 +14037,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Jun 2025 11:35 UTC+7
-! Version: 2506131135
+! Last modified: 20 Jun 2025 10:53 UTC+7
+! Version: 2506201053
 ! Blocked: 886 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -14905,9 +14908,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 13 Jun 2025 11:34 UTC+7
-! Version: 2506131134
-! Blocked: 4.759 rules
+! Last modified: 20 Jun 2025 10:53 UTC+7
+! Version: 2506201053
+! Blocked: 4.760 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15047,6 +15050,7 @@ dlsdk.appsflyer.com^
 ||ahoravideo-schnellvpn.com^
 ||ahoravideo-schnellvpn.xyz^
 ||ahthegha.cfd^
+||aiagjgqz.njasu.de^
 ||airst.giize.com^
 ||aivaylaco.com^
 ||alibabavip.xyz^
