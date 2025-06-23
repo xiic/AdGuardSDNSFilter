@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-22T18:08:34.955Z
+! Last modified: 2025-06-23T00:35:27.525Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7527,6 +7527,7 @@ dlsdk.appsflyer.com^
 ||p.cquotient.com^
 ||p.metrilo.com^
 ||p.placed.com^
+||p.tryretool.com^
 ||p.typekit.net^
 ||page-events-ustats.udemy.com^
 ||pages-stats.rbl.ms^
@@ -19560,6 +19561,16 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||67u36vmzm.com^
+||jwjwtw.top^
+||moa06230ju.com^
+||r40h9qvpq.com^
+||wio06230j7.com^
+||f7tkpjw6v.com^
+||ehczaa.icu^
+||ebhaliragd.com^
+||lthuvb.icu^
+||chicorty2.com^
 ||gegeoq.icu^
 ||00p034d0dw.com^
 ||3hads4i5hm.com^
@@ -19567,7 +19578,6 @@ dlsdk.appsflyer.com^
 ||rthrondrae.com^
 ||aubergineq8.top^
 ||nqlzlr.icu^
-||jwjwtw.top^
 ||moa06221ju.com^
 ||wpuzzcudultv.com^
 ||4kxczstxil.com^
