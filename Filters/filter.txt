@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-27T18:09:34.125Z
+! Last modified: 2025-06-28T00:31:47.941Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -81,8 +81,6 @@
 ||d2psma0az3acui.cloudfront.net^
 ||rec.deezer.com^
 ||ads.greengeeks.com^
-||d2xupcbyjjjfoa.cloudfront.net^
-||d17xmf66fp9kg9.cloudfront.net^
 ||d3icekm41k795y.cloudfront.net^
 ||ads.videy.co^
 ||ads.sportslocalmedia.com^
@@ -329,16 +327,13 @@ vkcdnservice.appspot.com^
 ||vkcdnservice.com^
 ||acbp0020171456.page.tl^
 ||vuryua.ru^
-||webminerpool.com^
 ||mepirtedic.com^
 ||nerohut.com^
 ||silimbompom.com^
 ||afminer.com^
 ||bablace.com^
-||becanium.com^
 ||brominer.com^
 ||coin-have.com^
-||coinblind.com^
 ||coinerra.com^
 ||coinimp.com^
 ||coinnebula.com^
@@ -351,7 +346,6 @@ vkcdnservice.appspot.com^
 ||jscdndel.com^
 ||jsecoin.com^
 ||minemytraffic.com^
-||nametraff.com^
 ||offerreality.com^
 ||papoto.com^
 ||party-vqgdyvoycc.now.sh^
@@ -4581,7 +4575,6 @@ vkcdnservice.appspot.com^
 ||beacon.ehow.com^
 ||beacon.gu-web.net^
 ||beacon.gutefrage.net^
-||beacon.indieclicktv.com^
 ||beacon.itmedia.jp^
 ||beacon.kmi-us.com^
 ||beacon.lycos.com^
@@ -6573,7 +6566,6 @@ dlsdk.appsflyer.com^
 ||toblog.ctobsnssdk.com^
 ||tobapplog.ctobsnssdk.com^
 ||t.castle.io^
-||log1.happymod.com^
 ||log.pvpgang.com^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
@@ -9671,12 +9663,10 @@ dlsdk.appsflyer.com^
 ||actualtrade.eu^
 ||ad-pub.terra.com.br^
 ||ad.correioweb.com.br^
-||ad.harrenmedianetwork.com^
 ||ad.terra.com.mx^
 ||ad.terra.com^
 ||adbasket.net^
 ||ads.elpais.com.uy^
-||ads.eorezo.com^
 ||ads.gamavirtual.com^
 ||ads.gazetaesportiva.net^
 ||ads.grupozeta.es^
@@ -9796,16 +9786,13 @@ dlsdk.appsflyer.com^
 ||advscdn.com^
 ||socdem-enrich.getshop.tv^
 ||newton1.ru^
-||sheisnotateacher.com^
 ||srvd2204.com^
-||eehhabacgieacfjeaacg.world^
 ||bidmatic.io^
 ||1qe.info^
 ||23oct2023.site^
 ||fcepahafyq.com^
 ||6rn05mmbct.ru^
 ||adplay.ru^
-||isatonabench.com^
 ||lzbgeg.com^
 ||bestssrv.com^
 ||v.strosin.biz^
@@ -9838,7 +9825,6 @@ dlsdk.appsflyer.com^
 ||ippstuet.com^
 ||vst.videolink.
 ||ippscriptbear.com^
-||roomrentpast.com^
 ||builthuosefor.com^
 ||gomtdata.com^
 ||ad2the.net^
@@ -9884,14 +9870,11 @@ dlsdk.appsflyer.com^
 ||rbfour.bid^
 ||prft1pub.com^
 ||wishesen.com^
-||cchdbond.com^
 ||hhooyivpxq.com^
-||mrgreekroad.com^
 ||clicksfordsm.com^
 ||ynlfpyeifc.com^
 ||videoprodavec.ru^
 ||doprodavec.ru^
-||ippcodepink.com^
 ||dqwzhseasq.com^
 ||vst.dfn-network.pro^
 ||mediasystems.am^
@@ -10056,7 +10039,6 @@ dlsdk.appsflyer.com^
 ||exaleprn.com^
 ||o4svlxhjun.xyz^
 ||1p3opxwwet.ru^
-||vyocqq.com^
 ||banganet.com^
 ||jdmodr.com^
 ||mibmcbm.com^
@@ -10097,7 +10079,6 @@ dlsdk.appsflyer.com^
 ||fatlossremedies.com^
 ||brodmn.com^
 ||xcec.ru^
-||ssso.ru^
 ||rbtwo.bid^
 ||kwgefe.com^
 ||contrivenus.com^
@@ -10112,12 +10093,10 @@ dlsdk.appsflyer.com^
 ||widjet.analnoe.tv^
 ||qq86tbqodk.ru^
 ||sandelf.com^
-||fooluminou.review^
 ||rzqdqw.com^
 ||mobflow21.com^
 ||blaindgatum.com^
 ||cdn.yanews24.com^
-||4251.tech^
 ||kq6lwk3m9g.ru^
 ||popadon.com^
 ||2ad.wtf^
@@ -10167,7 +10146,6 @@ dlsdk.appsflyer.com^
 ||tiz.jsite.top^
 ||boostingads.com^
 ||prod.html5-ads.vk-apps.com^
-||3kbktygzr5.ru^
 ||betemolgar.com^
 ||allowandgo.link^
 ||jrs2igoimq.ru^
@@ -10176,7 +10154,6 @@ dlsdk.appsflyer.com^
 ||adrun.ru^
 ||pwwghcyzsn.info^
 ||memtkh.com^
-||farantitid.racing^
 ||gswtol.com^
 ||yxhstwzjbu.info
 ||traffer.biz^
@@ -10282,7 +10259,6 @@ dlsdk.appsflyer.com^
 ||uzmdfi.com^
 ||jux9ms4vc7.ru^
 ||ahaclub.ru^
-||q0yxfvuo32.ru^
 ||almasatten.com^
 ||bcnewltd.club^
 ||2track.info^
@@ -10480,7 +10456,6 @@ dlsdk.appsflyer.com^
 ||adlmerge.com^
 ||adlook.net^
 ||admachina.com^
-||admaster.net^
 ||admilk.ru^
 ||admulti.
 ||adne.info^
@@ -10541,7 +10516,6 @@ dlsdk.appsflyer.com^
 ||aiadvi.com^
 ||airlead.ru^
 ||aixcdn.com^
-||ajpxs.xyz^
 ||akabo.ru^
 ||alfainternet.su^
 ||alfatarget.ru^
@@ -10553,7 +10527,6 @@ dlsdk.appsflyer.com^
 ||alltizer.ru^
 ||almosto.com
 ||alpari.ru^
-||altpubli.com^
 ||amazingcl.ru^
 ||amzbr.com^
 ||an.webvisor.org^
@@ -11030,7 +11003,6 @@ dlsdk.appsflyer.com^
 ||new4.me^
 ||ngads.com^
 ||nhqqv.space^
-||nnn.ru^
 ||nnvkh.com^
 ||node.market-place.su^
 ||nostalgia.onego.ru^
@@ -11213,7 +11185,6 @@ dlsdk.appsflyer.com^
 ||seriouspartner.biz^
 ||serl.mooo.com^
 ||servebbs.net^
-||sexnimfa.ru^
 ||sgood.ru^
 ||shakeson.ru^
 ||shuffele.com^
@@ -11223,7 +11194,6 @@ dlsdk.appsflyer.com^
 ||skycdnhost.com^
 ||skypromotion.ru^
 ||slickjump.net^
-||slivz.com^
 ||slopeac.com^
 ||smart.allocine.fr
 ||smigid.ru^
@@ -11256,7 +11226,6 @@ dlsdk.appsflyer.com^
 ||talysu.info^
 ||td-everest.biz^
 ||tds.vrcteam.ru^
-||tdsantcrazy.ru^
 ||teachac.com^
 ||teaser-goods.ru^
 ||teaser.cc^
@@ -11409,8 +11378,6 @@ dlsdk.appsflyer.com^
 ||vsdcdn.com^
 ||vsesumki.com^
 ||vtdoska.ru^
-||vv.tmska.com^
-||vwcsl.com^
 ||vztfc.com^
 ||w*statistics.info^
 ||web-rotation.net
@@ -11534,7 +11501,6 @@ dlsdk.appsflyer.com^
 ||auraodin.com^
 ||ssp.rutube.ru^
 ||media-advcycle.imgsmail.ru^
-||sdk.kokocads.com^
 ||r1.ati.su^
 ||rcmjs.rambler.ru^
 ||sharemefiles.ru^
@@ -11720,7 +11686,6 @@ dlsdk.appsflyer.com^
 ||revotas.com^
 ||cdn.cdnhipter.xyz^
 ||kingads2.org^
-||ad-service.shop^
 ||gr.hdream.cfd^
 ||kriptoparahaber.care^
 ||alty.fun^
@@ -11810,7 +11775,6 @@ dlsdk.appsflyer.com^
 ||makroo.com^
 ||metrics34.com^
 ||minireklam.com^
-||mkazanc.com^
 ||mp.subservis.com^
 ||nativendo.com^
 ||numarapaneli.com^
@@ -11923,7 +11887,6 @@ dlsdk.appsflyer.com^
 ||1f2e7.v.fwmrm.net^
 ||7b9de.v.fwmrm.net^
 ||ads.dugwood.com^
-||fristminyas.com^
 !
 ! Source name: AdGuard French filter ad servers
 ! Source: https://adguardteam.github.io/AdguardFilters/FrenchFilter/sections/adservers_firstparty.txt
@@ -12021,7 +11984,6 @@ dlsdk.appsflyer.com^
 ||ad.moo-mam-tai.com^
 ||hydrangeao.com^
 ||smart-c.jp^
-||jpshopes.com^
 ||ads.mediams.mb.softbank.jp^
 ||ad.owlair.net^
 ||js.medi-8.net^
@@ -12043,7 +12005,6 @@ dlsdk.appsflyer.com^
 ||link-a.net^
 ||moro-douga.link^
 ||gusion.space^
-||ad-clcount.com^
 ||js.kabutocho-dsp.net^
 ||enmusubimail000.com^
 ||infohimatalk77.net^
@@ -12398,7 +12359,6 @@ dlsdk.appsflyer.com^
 ||lh1dki82.com^
 ||u40pdqw.com^
 ||theweeklydonut.org^
-||xj-oss.com^
 ||telecome.cn^
 ||aizhantj.com^
 ||sm-cloud.yunsafe.top^
@@ -12429,7 +12389,6 @@ dlsdk.appsflyer.com^
 ||img.175532.com^
 ||img.911787.com^
 ||n55ylc001.vip^
-||tu5551976196.cc^
 ||dpjzr.top^
 ||n55cpw.vip^
 ||xpjcg.oss-accelerate.aliyuncs.com^
@@ -12437,7 +12396,6 @@ dlsdk.appsflyer.com^
 ||krbulhb.com^
 ||wl.uqwjdhgv.top^
 ||mm.wxc.cc^
-||xn--mts60is5y5uk.com^
 ||dfqzah.xyz^
 ||lafacw.xyz^
 ||dadatuwz.com^
@@ -12453,11 +12411,9 @@ dlsdk.appsflyer.com^
 ||002777.xyz^
 ||ad.zui.com^
 ||ra1.xyz^
-||fq67.top^
 ||1200555.com^
 ||n0611.com^
 ||sx.fakjkwp.cn^
-||dr.mlcuzee.cn^
 ||p.wktfkj.com^
 ||ymdxl.com^
 ||wildwist.com^
@@ -12479,7 +12435,6 @@ dlsdk.appsflyer.com^
 ||ysx8.vip^
 ||pop.wioau.com^
 ||lnhsjob.com^
-||oaftaijo.net^
 ||cxdcn9c.fjshxjs.cn^
 ||dat1.jzjxmj.com^
 ||dns.chuzushijian.cn^
@@ -12491,7 +12446,6 @@ dlsdk.appsflyer.com^
 ||luolitang.com^
 ||hlstlyy.com^
 ||ddgjjj.com^
-||sofseo.cn^
 ||ef9i0f3oev47.com^
 ||fuoo1.top^
 ||adserve.work^
@@ -19566,6 +19520,10 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||1l27pkxp5w.com^
+||kwsugo.icu^
+||hl4pvqgbyt.com^
+||chdhvckqav.com^
 ||m8ryjf38a.com^
 ||fajdhuhdh.com^
 ||mbg06270pg.com^
@@ -24871,6 +24829,7 @@ analytics-*.aasaam.com
 ||atax.gamestats.com^
 ||atax.ign.com^
 ||beacon.examiner.com^
+||beacon.indieclicktv.com^
 ||beacon.search.yahoo.com^
 ||beacons.helium.com^
 ||c.microsoft.com^
