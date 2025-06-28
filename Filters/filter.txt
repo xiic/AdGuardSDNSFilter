@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-28T12:10:59.826Z
+! Last modified: 2025-06-28T18:08:31.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -5580,7 +5580,6 @@ vkcdnservice.appspot.com^
 ||t.webjavaskript.net^
 ||t.wizards.com^
 ||t*.zcvh.net^
-||t1.musthird.com^
 ||t2.hulu.com^
 ||t2.huluim.com^
 ||ta.trs.cn^
@@ -6848,7 +6847,6 @@ dlsdk.appsflyer.com^
 ||installtracker.com^
 ||krxd.net^
 ||lepodownload.mediatek.com^
-||log.droid4x.cn^
 ||log.umsns.com^
 ||lp4.io^
 ||metrics.sdkbox.com^
@@ -6856,9 +6854,7 @@ dlsdk.appsflyer.com^
 ||mobile-collector.newrelic.com^
 ||mobilelog.upqzfile.com^
 ||ms.cmcm.com^
-||mtlog.droid4x.cn^
 ||nativesdks.mparticle.com^
-||nlog.droid4x.cn^
 ||nrc.tapas.net^
 ||openstat.net^
 ||pingma.qq.com^
@@ -9664,7 +9660,6 @@ dlsdk.appsflyer.com^
 ||ad.correioweb.com.br^
 ||ad.terra.com.mx^
 ||ad.terra.com^
-||adbasket.net^
 ||ads.elpais.com.uy^
 ||ads.gamavirtual.com^
 ||ads.gazetaesportiva.net^
@@ -10889,7 +10884,6 @@ dlsdk.appsflyer.com^
 ||link.ru^
 ||linkexchange.
 ||linkfeed.ru^
-||linkforyoud.com^
 ||linkslot.ru^
 ||linktraff.ru^
 ||linkunder.ru^
@@ -12388,7 +12382,6 @@ dlsdk.appsflyer.com^
 ||img.911787.com^
 ||n55ylc001.vip^
 ||dpjzr.top^
-||n55cpw.vip^
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||qxwoiv.com^
 ||krbulhb.com^
