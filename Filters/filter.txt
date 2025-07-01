@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-01T12:12:53.594Z
+! Last modified: 2025-07-01T18:09:36.212Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4525,7 +4525,6 @@ vkcdnservice.appspot.com^
 ||analytics*.carambo.la^
 ||analytics2.tvreport.co.kr^
 ||analyticsnew.overwolf.com^
-||analyzer*.fc2.com^
 ||anon-stats.eff.org^
 ||ape-tagit.timeinc.net^
 ||api-adservices.apple.com^
@@ -9330,7 +9329,6 @@ dlsdk.appsflyer.com^
 ||analytics.livesense.marketing^
 ||analytics.partcommunity.com^
 ||analytics.spearly.com^
-||analyzer51.fc2.com^
 ||api.all-internet.jp^
 ||b.clipkit.co^
 ||b.sli-spark.com^
@@ -12715,7 +12713,6 @@ dlsdk.appsflyer.com^
 ||h5v.eu^
 ||hot59.de^
 ||ibanner.de^
-||iias.eu^
 ||imo-cash.de^
 ||in24.at^
 ||inlinks.de^
@@ -13976,8 +13973,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Jun 2025 10:58 UTC+7
-! Version: 2506301058
+! Last modified: 01 Jul 2025 22:47 UTC+7
+! Version: 2507012247
 ! Blocked: 887 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -14848,8 +14845,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 30 Jun 2025 10:58 UTC+7
-! Version: 2506301058
+! Last modified: 01 Jul 2025 22:46 UTC+7
+! Version: 2507012246
 ! Blocked: 4.760 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -19501,6 +19498,9 @@ dlsdk.appsflyer.com^
 ||iber07yk9.com^
 ||guekoe.icu^
 ||oaox.cn^
+||5uazcu2o1.com^
+||gardenian8.top^
+||7rag9q1on.com^
 ||dn6ik9809m.com^
 ||nbpczr.icu^
 ||rl1vypwyd2.com^
