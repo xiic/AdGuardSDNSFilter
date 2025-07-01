@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-01T06:10:58.373Z
+! Last modified: 2025-07-01T12:12:53.594Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1043,6 +1043,7 @@ vkcdnservice.appspot.com^
 ||d2j45sh7zpklsw.cloudfront.net^
 ||d2j71mqxljhlck.cloudfront.net^
 ||d2jgbcah46jjed.cloudfront.net^
+||d2jgih9urxpa47.cloudfront.net^
 ||d2jgp81mjwggyr.cloudfront.net^
 ||d2jp0uspx797vc.cloudfront.net^
 ||d2jp87c2eoduan.cloudfront.net^
@@ -1537,6 +1538,7 @@ vkcdnservice.appspot.com^
 ||dl5ft52dtazxd.cloudfront.net^
 ||dlem1deojpcg7.cloudfront.net^
 ||dlh8c15zw7vfn.cloudfront.net^
+||dlk457skl57zp.cloudfront.net^
 ||dlmr7hpb2buud.cloudfront.net^
 ||dlne6myudrxi1.cloudfront.net^
 ||dlooqrhebkjoh.cloudfront.net^
@@ -3116,6 +3118,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||inbound-analytics.pixlee.co^
+||connect.blockboardtech.com^
 ||analytics.macpaw.com^
 ||mtg.macpaw.com^
 ||demeter-tr-core-collect.trendyol.com^
@@ -6128,9 +6132,6 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
-!
-! NOTE: Regular rules
-!
 ||tracking.trackchecker.net^
 ||mon*-misc.fqnovel.com^
 ||clientlog.perfectworldgames.com^
@@ -7390,7 +7391,6 @@ dlsdk.appsflyer.com^
 ||imp.pvnsolutions.com^
 ||impress.vcita.com^
 ||in.treasuredata.com^
-||inbound-analytics.pixlee.co^
 ||ingest.make.rvapps.io^
 ||ingesteer.services-prod.nsvcs.net^
 ||ingress.trendii.com^
@@ -19495,6 +19495,12 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||uub6hz5eu.com^
+||tristaspd.com^
+||ngjfjf.icu^
+||iber07yk9.com^
+||guekoe.icu^
+||oaox.cn^
 ||dn6ik9809m.com^
 ||nbpczr.icu^
 ||rl1vypwyd2.com^
