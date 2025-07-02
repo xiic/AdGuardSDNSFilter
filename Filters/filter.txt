@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-02T06:10:58.553Z
+! Last modified: 2025-07-02T12:12:16.121Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9589,6 +9589,7 @@ dlsdk.appsflyer.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||cibersexo.net^
 ||ceremonyjogglecling.com^
 ||simpleads.com.br^
 ||upeex.com.br^
@@ -13858,10 +13859,8 @@ dlsdk.appsflyer.com^
 ||adstarsmedia.co.id^
 ||alertpay.com^
 ||ampclicks.com^
-||baliadv.com^
 ||bellaads.com^
 ||berangkasilmu.com^
-||brand.ad^
 ||cdnasiaclub.com^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
@@ -13974,8 +13973,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Jul 2025 22:47 UTC+7
-! Version: 2507012247
+! Last modified: 02 Jul 2025 15:17 UTC+7
+! Version: 2507021517
 ! Blocked: 887 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -14846,8 +14845,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 01 Jul 2025 22:46 UTC+7
-! Version: 2507012246
+! Last modified: 02 Jul 2025 15:17 UTC+7
+! Version: 2507021517
 ! Blocked: 4.760 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -19493,6 +19492,13 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||pq9alk18ik.com^
+||mxafaw.icu^
+||d1pc1a0g34.com^
+||tjfavx.icu^
+||bvek.cn^
+||4aqoxkesav.com^
+||jasmined544.com^
 ||uub6hz5eu.com^
 ||tristaspd.com^
 ||ngjfjf.icu^
