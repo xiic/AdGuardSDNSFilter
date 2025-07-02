@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-02T12:12:16.121Z
+! Last modified: 2025-07-02T18:10:03.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1704,7 +1704,6 @@ vkcdnservice.appspot.com^
 ||bcash4you.com^
 ||beachlinkz.com^
 ||betweendigital.com^
-||black6adv.com^
 ||blackpics.net^
 ||blossoms.com^
 ||bookofsex.com^
@@ -1724,18 +1723,14 @@ vkcdnservice.appspot.com^
 ||chatinator.com^
 ||cherrytv.media^
 ||clickaine.com^
-||clipxn.com^
 ||cwchmb.com^
 ||cybernetentertainment.com^
 ||daiporno.com^
-||datefunclub.com^
-||datexchanges.net^
 ||datingamateurs.com^
 ||datingcensored.com^
 ||debitcrebit669.com^
 ||deecash.com^
 ||demanier.com^
-||digiad.co^
 ||digitaldesire.com^
 ||digreality.com^
 ||directadvert.ru^
@@ -1752,7 +1747,6 @@ vkcdnservice.appspot.com^
 ||exoticads.com^
 ||faceporn.com^
 ||facetz.net^
-||felixflow.com^
 ||festaporno.com^
 ||filexan.com^
 ||findandtry.com^
@@ -1793,14 +1787,12 @@ vkcdnservice.appspot.com^
 ||ifrwam.com^
 ||iheartbucks.com^
 ||ilovecheating.com^
-||imediacrew.club^
 ||imglnka.com^
 ||imglnkb.com^
 ||imglnkc.com^
 ||impressionmonster.com^
 ||in3x.net^
 ||inheart.ru^
-||intelensafrete.stream^
 ||internebula.net^
 ||intrapromotion.com^
 ||itmcash.com^
@@ -1827,8 +1819,6 @@ vkcdnservice.appspot.com^
 ||livepromotools.com^
 ||livestatisc.com^
 ||livexxx.me^
-||loading-delivery1.com^
-||lostun.com^
 ||lovecam.com.br^
 ||lovercash.com^
 ||lsawards.com^
@@ -1857,7 +1847,6 @@ vkcdnservice.appspot.com^
 ||modelsgonebad.com^
 ||morehitserver.com^
 ||mp-https.info^
-||mpmcash.com^
 ||mrporngeek.com^
 ||mrskincash.com^
 ||mtree.com^
@@ -1881,30 +1870,25 @@ vkcdnservice.appspot.com^
 ||omynews.net^
 ||onhercam.com^
 ||onlineporno.fun^
-||ordermc.com^
 ||otaserve.net^
 ||otherprofit.com^
 ||otieu.com^
 ||outster.com^
 ||oxcluster.com^
 ||ozelmedikal.com^
-||parkingpremium.com^
 ||partnercash.com^
 ||partnercash.de^
 ||pc20160522.com^
 ||pecash.com^
 ||pennynetwork.com^
 ||pepipo.com^
-||philstraffic.com^
 ||pictureturn.com^
 ||pkeeper3.ru^
 ||plugrush.com^
-||pnads.com^
 ||poonproscash.com^
 ||popander.com^
 ||popupclick.ru^
 ||porn369.net^
-||porn88.net^
 ||porn99.net^
 ||pornattitude.com^
 ||pornconversions.com^
@@ -1957,7 +1941,6 @@ vkcdnservice.appspot.com^
 ||russianlovematch.com^
 ||safelinktracker.com^
 ||sancdn.net^
-||sbs-ad.com^
 ||searchpeack.com^
 ||secretbehindporn.com^
 ||seeawhale.com^
@@ -1972,7 +1955,6 @@ vkcdnservice.appspot.com^
 ||sexsearch.com^
 ||sextadate.net^
 ||sextracker.com^
-||sexufly.com^
 ||sexvertise.com^
 ||sexy-ch.com^
 ||showmeyouradsnow.com^
@@ -1987,7 +1969,6 @@ vkcdnservice.appspot.com^
 ||spacash.com^
 ||spankmasters.com^
 ||spunkycash.com^
-||startede.com^
 ||startwebpromo.com^
 ||statserv.net^
 ||steamtraffic.com^
@@ -2001,12 +1982,10 @@ vkcdnservice.appspot.com^
 ||tantoporno.com^
 ||targetingnow.com^
 ||teasernet.ru^
-||teaservizio.com^
 ||test1productions.com^
 ||the-adult-company.com^
 ||thesocialsexnetwork.com^
 ||tingrinter.com^
-||tizernet.com^
 ||tm-core.net^
 ||tmserver-1.com^
 ||tmserver-2.net^
@@ -2021,22 +2000,17 @@ vkcdnservice.appspot.com^
 ||trafficman.io^
 ||trafficpimps.com^
 ||trafficstars.com^
-||traffictraffickers.com^
 ||trafficundercontrol.com^
 ||trfpump.com^
 ||trickyseduction.com^
 ||trunblock.com^
 ||trw12.com^
-||try9.com^
-||ttlmodels.com^
-||tube.ac^
 ||tubeadnetwork.com^
 ||tubeadv.com^
 ||tubecorporate.com^
 ||tubepush.eu^
 ||twistyscash.com^
 ||uxernab.com^
-||ver-pelis.net^
 ||verticalaffiliation.com^
 ||vfgta.com^
 ||vghd.com^
@@ -2074,7 +2048,6 @@ vkcdnservice.appspot.com^
 ||access-the-website.com^
 ||adultadworld.com^
 ||banners.cams.com^
-||bestdatinghere.life^
 ||c4tracking01.com^
 ||cam4tracking.com^
 ||chokertraffic.com^
@@ -2082,8 +2055,6 @@ vkcdnservice.appspot.com^
 ||ckrf1.com^
 ||connexionsafe.com^
 ||cooch.tv^
-||cpng.lol.^
-||cpng.lol^
 ||crdefault2.com^
 ||crentexgate.com^
 ||crlcw.link^
@@ -2099,9 +2070,7 @@ vkcdnservice.appspot.com^
 ||ero-advertising.com^
 ||eroge.com^
 ||ertya.com^
-||ezofferz.com^
 ||flagads.net^
-||flndmyiove.net^
 ||fpctraffic2.com^
 ||freecamsexposed.com^
 ||freewebcams.com^
@@ -2109,34 +2078,26 @@ vkcdnservice.appspot.com^
 ||frtyi.com^
 ||funkydaters.com^
 ||gambol.link^
-||gayfinder.life^
 ||get-partner.life^
 ||girls.xyz^
 ||global-trk.com^
 ||go-route.com^
 ||grtyv.com^
 ||hkl4h1trk.com^
-||hotplay-games.life^
-||hottesvideosapps.com^
 ||hpyrdr.com^
 ||hrtya.com^
 ||indianfriendfinder.com^
 ||irtye.com^
-||isanalyze.com^
 ||jizzy.org^
 ||jsmjmp.com^
 ||kaizentraffic.com^
 ||libedgolart.com^
-||lncredlbiedate.com^
-||moradu.com^
 ||mptentry.com^
 ||needlive.com^
 ||notimoti.com^
 ||nyetm2mkch.com^
 ||passtechusa.com^
-||pinkberrytube.com^
 ||playgirl.com^
-||plinx.net^
 ||poweredbyliquidfire.mobi^
 ||prodtraff.com^
 ||quadrinhoseroticos.net^
@@ -2162,7 +2123,6 @@ vkcdnservice.appspot.com^
 ||xdtraffic.com^
 ||xmatch.com^
 ||xpeeps.com^
-||xxlargepop.com^
 ||xxxjmp.com^
 ||zononi.com^
 !
@@ -2877,6 +2837,7 @@ vkcdnservice.appspot.com^
 ||bet365affiliates.com^
 ||betrad.com^
 ||bigmobileads.com^
+||black6adv.com^
 ||blogads.com^
 ||boostads.net^
 ||brealtime.com^
@@ -3916,7 +3877,6 @@ vkcdnservice.appspot.com^
 ||tracking.epicgames.com^
 ||tracking.fortnite.com^
 ||log.znews.vn^
-||aem-kakao-collector.onkakao.net^
 ||cellar-analytics.mapion.co.jp^
 ||event.hackle.io^
 ||r.aachener-zeitung.de^
@@ -9702,6 +9662,7 @@ dlsdk.appsflyer.com^
 ||solution911.com^
 ||templates.buscape.com^
 ||urlcash.net^
+||ver-pelis.net^
 !
 !
 ! Source name: AdGuard common Cyrillic filters ad servers
@@ -19499,6 +19460,7 @@ dlsdk.appsflyer.com^
 ||bvek.cn^
 ||4aqoxkesav.com^
 ||jasmined544.com^
+||yhak0o7rtz.com^
 ||uub6hz5eu.com^
 ||tristaspd.com^
 ||ngjfjf.icu^
