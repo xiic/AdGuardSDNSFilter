@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-03T00:33:23.780Z
+! Last modified: 2025-07-03T06:10:42.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7236,6 +7236,7 @@ dlsdk.appsflyer.com^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecomm.events^
+||ecommerce-events.adscale.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||eel.transistor.fm^
@@ -12955,8 +12956,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-07-01 05:02:02 CEST
-# entries:        1131
+# last updated:   2025-07-03 04:46:45 CEST
+# entries:        1133
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -13166,6 +13167,7 @@ dlsdk.appsflyer.com^
 ||cdn.shareaholic.net^
 ||cdn.snigelweb.com^
 ||cdn.speedcurve.com^
+||cdn.spelwidgets.se^
 ||cdn.sprida.se^
 ||cdn.stroeerdigitalgroup.de^
 ||cdn.subscribers.com^
@@ -13348,6 +13350,7 @@ dlsdk.appsflyer.com^
 ||matomo.lantmannen.com^
 ||matomo.lulea.se^
 ||matomo.mindbite.cloud^
+||matomo.nokportalen.se^
 ||matomo.studio.se^
 ||matomo.vibb.ax^
 ||maxetise.net^
