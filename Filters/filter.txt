@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-05T00:31:29.794Z
+! Last modified: 2025-07-05T06:09:26.117Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7410,6 +7410,7 @@ dlsdk.appsflyer.com^
 ||loglady.skypicker.com^
 ||logs-api.shoprunner.com^
 ||logs.animaapp.com^
+||logs.dynamicauth.com^
 ||lucid.mjhassoc.com^
 ||ma.logsss.com^
 ||magento-recs-sdk.adobe.net^
@@ -9558,6 +9559,7 @@ dlsdk.appsflyer.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||publyads.jstag.space^
 ||crummydevioussucculent.com^
 ||cibersexo.net^
 ||ceremonyjogglecling.com^
@@ -19467,6 +19469,9 @@ dlsdk.appsflyer.com^
 ||cnzz.trafficmanager.net^
 ||59xx2yr9i.com^
 ||y7pcgacfn.com^
+||u10nte4ba.com^
+||fiu07051kl.com^
+||qdwhru8p2.com^
 ||q83v5haaz.com^
 ||vhaugmotn.com^
 ||x1c9gze9i.com^
