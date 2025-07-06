@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-06T06:09:42.752Z
+! Last modified: 2025-07-06T12:11:08.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -189,8 +189,6 @@
 ||spyglass.octanime.net^
 ||ad.aceplanet.co.kr^
 ||ad.phaserep.com^
-||vast.holmesmind.com^
-||ad.holmesmind.com^
 ||j83ad.speedrun.com^
 ||tontent.powv1deo.cc^
 ||my.shymilftube.com^
@@ -9139,7 +9137,6 @@ dlsdk.appsflyer.com^
 ||beacon.sina.com.cn^
 ||beaconcdn.qq.com^
 ||busuanzi.ibruce.info^
-||c.holmesmind.com^
 ||cartx.cloud^
 ||click.bokecc.com^
 ||cms.grandcloud.cn^
@@ -11831,6 +11828,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||heliumads.com^
 ||proxy.ads.canalplus-bo.net^
 ||7bd92.v.fwmrm.net^
 ||7cbf2.v.fwmrm.net^
@@ -12352,7 +12350,6 @@ dlsdk.appsflyer.com^
 ||shouldercommandmentlimitless.com^
 ||tagtoo.co^
 ||98765.pw^
-||cdn.holmesmind.com^
 ||st-fly.b-cdn.net^
 ||ggsfq.xyz^
 ||ue8im.com^
@@ -19476,6 +19473,7 @@ dlsdk.appsflyer.com^
 ||petalen88.top^
 ||rjxvff.icu^
 ||b79e4u3hz7.com^
+||fiu07061kl.com^
 ||59xx2yr9i.com^
 ||y7pcgacfn.com^
 ||u10nte4ba.com^
@@ -22928,6 +22926,8 @@ dlsdk.appsflyer.com^
 ||zwlxnj.xyz^
 ||zxqiwe.cn^
 ||zyfnbl.xyz^
+||gn01.top^
+||holmesmind.com^
 ||burniecrepes.com^
 ||663008888.com^
 ||xxxx68xxxx.com^
