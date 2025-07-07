@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-07T06:11:08.405Z
+! Last modified: 2025-07-07T12:12:44.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3079,6 +3079,10 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tag.panorama.ai^
+||beacon.panorama.ai^
+||dtm.ashleyhomestore.ca^
+||maxwell.france.tv^
 ||cdn.instant.one^
 ||m.techpump.com^
 ||d1vg5xiq7qffdj.cloudfront.net^
@@ -3086,6 +3090,8 @@ vkcdnservice.appspot.com^
 ||connect.blockboardtech.com^
 ||analytics.macpaw.com^
 ||mtg.macpaw.com^
+||collect.trendyol.com^
+||en-collect.trendyol.com^
 ||demeter-tr-core-collect.trendyol.com^
 ||lc-event.pixiv.net^
 ||count.ing.de^
@@ -19472,6 +19478,8 @@ dlsdk.appsflyer.com^
 ||ullc.cn^
 ||fiu07070kl.com^
 ||8v08mjri7.com^
+||fiu07071kl.com^
+||mbaedurr.com^
 ||33w8tdyelw.com^
 ||tvzapt.icu^
 ||mi2zv8wiw0.com^
