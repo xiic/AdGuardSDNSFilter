@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-08T00:33:08.001Z
+! Last modified: 2025-07-08T06:10:31.076Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ads-service.api.linkme.global^
 ||d3m6crjuedf6o.cloudfront.net^
 ||chuchle.all-usanomination.com^
 ||bundle.ppas.monster^
@@ -3079,6 +3080,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics-service.api.linkme.global^
 ||athena-event-provider.n11.com^
 ||hepsiads-gw.hepsiburada.com^
 ||tag.panorama.ai^
@@ -6105,6 +6107,8 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||usstat.icocofun.com^
+||usdiagnosis.icocofun.com^
 ||eats-ads-event-capture.coupang.com^
 ||tracking.trackchecker.net^
 ||mon*-misc.fqnovel.com^
@@ -12974,8 +12978,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-07-03 04:46:45 CEST
-# entries:        1133
+# last updated:   2025-07-08 04:54:51 CEST
+# entries:        1135
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -13426,6 +13430,7 @@ dlsdk.appsflyer.com^
 ||plus.sharedcount.com^
 ||pm.azerioncircle.com^
 ||portalhc.com^
+||premium.analys.cloud^
 ||privalytic.com^
 ||protagcdn.com^
 ||proxyas.com^
@@ -13766,6 +13771,7 @@ dlsdk.appsflyer.com^
 ||www.blogtoplist.se^
 ||www.championsverige.com.se^
 ||www.clarity.ms^
+||www.creativeconsortiuminspired.com^
 ||www.dwin2.com^
 ||www.effectivecreativeformat.com^
 ||www.fakturino.se^
@@ -19478,6 +19484,10 @@ dlsdk.appsflyer.com^
 ||fuq3sve1gj.com^
 ||fiu07080kl.com^
 ||ipmsqu.icu^
+||sunflowers66.top^
+||vasz.cn^
+||hqluu46i3a.com^
+||fiu07081kl.com^
 ||07pv7k61z.com^
 ||ryvvzl.icu^
 ||gdmxjbjjo.com^
