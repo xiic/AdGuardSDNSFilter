@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-10T06:10:59.487Z
+! Last modified: 2025-07-10T12:12:36.567Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4529,7 +4529,6 @@ vkcdnservice.appspot.com^
 ||audience.visiblemeasures.com^
 ||awsync.yandex.ru^
 ||b-aws.aol.com^
-||banstat.nadavi.net^
 ||bats.video.yahoo.com^
 ||bc.nhk.jp^
 ||bcd.esprit.de^
@@ -9704,6 +9703,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||adtec.ru^
 ||x-app639-cc.tod99shi.com^
 ||timing-js-menu.xyz^
 ||simplejsmenu.com^
@@ -10962,6 +10962,7 @@ dlsdk.appsflyer.com^
 ||mytraf.ru^
 ||n1307adserv.xyz^
 ||n161adserv.com^
+||nadavi.net^
 ||nanofantiki.edigest.ru^
 ||nasimke.ru^
 ||nativeroll.tv^
@@ -12940,6 +12941,7 @@ dlsdk.appsflyer.com^
 ||pigment-adv.co.il^
 ||pinukim.net^
 ||pisrael.com^
+||play.milly-style.co.il^
 ||plushome.co.il^
 ||premium-offers.space^
 ||quick-date.xyz^
@@ -19503,6 +19505,7 @@ dlsdk.appsflyer.com^
 ||fiu07101kl.com^
 ||6cjdya3djn.com^
 ||izgl.cn^
+||huo07101hy.com^
 ||fiu07090kl.com^
 ||eh6xjr8p0.com^
 ||1ykbpp1jx.com^
