@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-12T18:08:50.568Z
+! Last modified: 2025-07-13T00:37:49.167Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13978,9 +13978,6 @@ dlsdk.appsflyer.com^
 ! Source name: AdblockID adservers
 ! Source: https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 !
-! ---
-! Dihapus dalam beberapa bulan
-! 205.251.197.235, 205.251.198.251, 205.251.193.177, 205.251.195.134
 !
 ! Source name: hostsVN ad servers
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
@@ -19506,6 +19503,11 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||p4gdt4um6.com^
+||awywlb89y.com^
+||huo07130hy.com^
+||oesnwi.icu^
+||designx08.com^
 ||huo07120hy.com^
 ||qxn9qlvmca.com^
 ||yh823ogu6b.com^
