@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-15T00:34:47.217Z
+! Last modified: 2025-07-15T06:11:12.112Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7321,6 +7321,7 @@ dlsdk.appsflyer.com^
 ||events.tubecup.org^
 ||events.yourcx.io^
 ||eventsproxy.gargantuan.futureplc.com^
+||experiments.parsely.com^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
 ||fallback.attntags.com^
@@ -7795,6 +7796,7 @@ dlsdk.appsflyer.com^
 ||tms.fmm.io^
 ||to.getnitropack.com^
 ||tpx.tesseradigital.com^
+||tr-experiments.parsely.com^
 ||tr-op.datatrics.com^
 ||tr.cloud-media.fr^
 ||tr.datatrics.com^
@@ -12322,6 +12324,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||tw-726620180914.*.run.app^
 ||au.adhacker.online^
 ||kai5741.xyz^
 ||mernrza.com^
@@ -13009,8 +13012,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-07-09 05:01:21 CEST
-# entries:        1136
+# last updated:   2025-07-15 06:34:01 CEST
+# entries:        1137
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -13081,6 +13084,7 @@ dlsdk.appsflyer.com^
 ||amd.sellingsimplified.net^
 ||analys.landskrona.se^
 ||analytics.ahrefs.com^
+||analytics.alandpost.com^
 ||analytics.alandsradio.ax^
 ||analytics.allas.se^
 ||analytics.apotekhjartat.se^
@@ -13990,8 +13994,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Jul 2025 14:26 UTC+7
-! Version: 2507141426
+! Last modified: 15 Jul 2025 09:37 UTC+7
+! Version: 2507150937
 ! Blocked: 887 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -14862,8 +14866,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 14 Jul 2025 14:26 UTC+7
-! Version: 2507141426
+! Last modified: 15 Jul 2025 09:35 UTC+7
+! Version: 2507150935
 ! Blocked: 4.761 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
