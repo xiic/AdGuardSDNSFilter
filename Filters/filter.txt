@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-21T18:10:13.125Z
+! Last modified: 2025-07-22T00:34:53.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9701,7 +9701,6 @@ dlsdk.appsflyer.com^
 ||nspmotion.com^
 ||nuevaq.net^
 ||opromo.com^
-||pelicula20.com^
 ||planetup.com^
 ||pmssrv.mercadolibre.com.mx^
 ||pmssrv.mercadolibre.com.ve^
@@ -9717,7 +9716,6 @@ dlsdk.appsflyer.com^
 ||solution911.com^
 ||templates.buscape.com^
 ||urlcash.net^
-||ver-pelis.net^
 !
 !
 ! Source name: AdGuard common Cyrillic filters ad servers
@@ -9759,7 +9757,6 @@ dlsdk.appsflyer.com^
 ||lusupodum.com^
 ||clairpixum.com^
 ||bmmwa.info^
-||iwrcoct.info^
 ||hfnuqljjnt.com^
 ||broredir*s.site^
 ||hhbehcahhajfffciaaef.world^
@@ -9828,7 +9825,6 @@ dlsdk.appsflyer.com^
 ||gomtdata.com^
 ||ad2the.net^
 ||get2.fun^
-||teachmeiwnd.com^
 ||adtscriptshark.com^
 ||maxrilla.com^
 ||stteeruptowind.com^
@@ -9981,7 +9977,6 @@ dlsdk.appsflyer.com^
 ||xveenk.com^
 ||hsgdyq.com^
 ||cdn.dsmstats.com^
-||a2nn5eri7ce.com^
 ||ouvyil.com^
 ||stcvhf.com^
 ||mxzijg.com^
@@ -10097,7 +10092,6 @@ dlsdk.appsflyer.com^
 ||blaindgatum.com^
 ||cdn.yanews24.com^
 ||kq6lwk3m9g.ru^
-||popadon.com^
 ||2ad.wtf^
 ||nasrispit.com^
 ||ads2.pbxware.ru^
@@ -10146,7 +10140,6 @@ dlsdk.appsflyer.com^
 ||boostingads.com^
 ||prod.html5-ads.vk-apps.com^
 ||betemolgar.com^
-||allowandgo.link^
 ||jrs2igoimq.ru^
 ||u7kgr54jr7.ru^
 ||hwmonitor-ru.ru^
@@ -10159,7 +10152,6 @@ dlsdk.appsflyer.com^
 .potopy.ru^
 .vipko.ru^
 ||bs-dante.ru^
-||baxofalis.com^
 ||nativerent.ru^
 ||extrablocks.ru^
 ||mpsuadv.ru^
@@ -10170,7 +10162,6 @@ dlsdk.appsflyer.com^
 ||tune-up.site^
 ||ad.letmeads.com^
 ||yourclk.com^
-||bnlif.com^
 ||cdnkimg.com^
 ||adshunter.fra1.digitaloceanspaces.com^
 ||ndroip.com^
@@ -10338,7 +10329,6 @@ dlsdk.appsflyer.com^
 ||ensurania.com^
 ||armi.media^
 ||pornogoogle.info^
-||advmusic.net^
 ||metrika.traff.space^
 ||aj1913.online^
 ||ad.1k3.com^
@@ -10353,7 +10343,6 @@ dlsdk.appsflyer.com^
 ||plyfoni.ru^
 ||69v.club^
 ||content.mql5.com^
-||kymirasite.pro^
 ||cdn.movieads.ru^
 ||devtizer.ru^
 ||fat1domain1.com^
@@ -10434,7 +10423,6 @@ dlsdk.appsflyer.com^
 ||ad3.rambler.ru^
 ||ad4sell.com^
 ||adbean.ru^
-||adbid.pl^
 ||adbmi.com^
 ||adbn.ru^
 ||adbomb.ru^
@@ -10483,7 +10471,6 @@ dlsdk.appsflyer.com^
 ||adulttraffic.ru^
 ||adv.vz.ru^
 ||advaction.ru^
-||advancets.org^
 ||advarkads.com^
 ||advbroker.ru^
 ||advclicks.net^
@@ -10522,7 +10509,6 @@ dlsdk.appsflyer.com^
 ||allbn.net^
 ||allmt.com
 ||allowac.com^
-||allsiemens.com^
 ||alltizer.ru^
 ||almosto.com
 ||alpari.ru^
@@ -10614,7 +10600,6 @@ dlsdk.appsflyer.com^
 ||bx.neolabs.kz^
 ||byeej.com^
 ||bytde.com^
-||bzlwe.com^
 ||camadmin.ru^
 ||capliman.com^
 ||cbbvi.com^
@@ -10678,7 +10663,6 @@ dlsdk.appsflyer.com^
 ||delightcash.com^
 ||delivery.adrecover.com^
 ||delta.mediafort.ru^
-||dev4enki.com^
 ||digital-forest.info^
 ||dl.qcash.ws
 ||domertb.com^
@@ -10729,8 +10713,6 @@ dlsdk.appsflyer.com^
 ||freeavalanche.ru^
 ||freeexchange.ru^
 ||fresh-video.com^
-||fx-trend.com^
-||fxcast.com^
 ||fznpq.com^
 ||galaxymeet.ru^
 ||gameteaser.ru^
@@ -10761,7 +10743,6 @@ dlsdk.appsflyer.com^
 ||gogousenet.com^
 ||gomakemerich.com^
 ||gomakemerich2.com^
-||gomtdatacom.xyz^
 ||gonews*.net^
 ||goodadvert.
 ||goodsblock.dt00.net^
@@ -10872,7 +10853,6 @@ dlsdk.appsflyer.com^
 ||league-of-legends.ru^
 ||ledhatbet.com^
 ||ledinika.ru^
-||ledsitling.pro^
 ||leforma.com^
 ||legandruk.com^
 ||lenty.ru^
@@ -10905,7 +10885,6 @@ dlsdk.appsflyer.com^
 ||lordofads.com^
 ||loveadvert.ru^
 ||lovn.ru^
-||lrcs.info^
 ||ltcraft.ru^
 ||luisardo.com^
 ||luxads.net^
@@ -11160,7 +11139,6 @@ dlsdk.appsflyer.com^
 ||ruttwind.com^
 ||rutvind.com^
 ||rwhxz.space^
-||ryushare.com^
 ||s-manager.com^
 ||s.kma1.biz^
 ||s.sdx.ru^
@@ -11324,7 +11302,6 @@ dlsdk.appsflyer.com^
 ||uvcwj.com^
 ||v.dlski.space^
 ||v.newsportal*.ru^
-||v2mlemerald.com^
 ||vadideo.com^
 ||vareza.net^
 ||vast.reyden-x.com^
@@ -11799,7 +11776,6 @@ dlsdk.appsflyer.com^
 ||savoy.storage.cubecdn.net^
 ||segmentify.com^
 ||seldos.com.tr^
-||smrtbnr.com^
 ||theadx.com^
 ||trackocean.com^
 ||vegabet.net^
@@ -12448,7 +12424,6 @@ dlsdk.appsflyer.com^
 ||luolitang.com^
 ||hlstlyy.com^
 ||ddgjjj.com^
-||ef9i0f3oev47.com^
 ||fuoo1.top^
 ||adserve.work^
 ||ce.wlaoc.cn^
@@ -19525,6 +19500,11 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||marketpd4.top^
+||zj9puq8ycu.com^
+||9hyf6wsiv5.com^
+||msslwa.icu^
+||ukfp.cn^
 ||q3rlg1flo.com^
 ||auy07210km.com^
 ||jcbj62b2t.com^
