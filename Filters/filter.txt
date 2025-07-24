@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-24T06:11:20.938Z
+! Last modified: 2025-07-24T12:13:16.631Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3087,6 +3087,10 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||lg3.media.net^
+||navvy.media.net^
+||app-tracking-gfa-collector.naver.com^
+||hba*.hepsiburada.com^
 ||windsurf-telemetry.codeium.com^
 ||uxlog.next.koapp.com^
 ||affiliate.kinguin.net^
@@ -4239,7 +4243,6 @@ vkcdnservice.appspot.com^
 ||static.affiliatly.com^
 ||client-analytics.mts.ru^
 ||analytics-wcms.joins.net^
-||as.tarnkappe.info^
 ||analytics.mall.tv^
 ||log.etoday.co.kr^
 ||u.zhugeapi.net^
@@ -11862,6 +11865,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||lopfly.com^
 ||heliumads.com^
 ||proxy.ads.canalplus-bo.net^
 ||7bd92.v.fwmrm.net^
