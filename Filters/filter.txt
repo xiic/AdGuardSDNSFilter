@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-25T06:11:20.553Z
+! Last modified: 2025-07-25T12:12:56.160Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3087,6 +3087,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||cdn.js.fpaudience.com^
 ||lg3.media.net^
 ||navvy.media.net^
 ||app-tracking-gfa-collector.naver.com^
@@ -6126,6 +6127,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||pangolin-sdk-toutiao.com^
 ||stat.tpns.sgp.tencent.com^
 ||guid.tpns.sgp.tencent.com^
 ||xgdata.xoyo.games^
@@ -6711,7 +6713,6 @@ dlsdk.appsflyer.com^
 ||cafe-log.myshoplus.com^
 ||de01.rayjump.com^
 ||c.sayhi.360.cn^
-||log-api.pangolin-sdk-toutiao.com^
 ||log.tpns.tencent.com^
 ||stat.m.360.cn^
 ||stats-a.maxthon.com^
@@ -13987,8 +13988,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Jul 2025 10:37 UTC+7
-! Version: 2507231037
+! Last modified: 25 Jul 2025 15:04 UTC+7
+! Version: 2507251504
 ! Blocked: 887 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -14859,8 +14860,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 23 Jul 2025 10:36 UTC+7
-! Version: 2507231036
+! Last modified: 25 Jul 2025 15:04 UTC+7
+! Version: 2507251504
 ! Blocked: 4.764 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -19517,6 +19518,7 @@ dlsdk.appsflyer.com^
 ||orangevd.top^
 ||lrta.cn^
 ||awkxf8bbj.com^
+||gio07251rp.com^
 ||fiwf54qahl.com^
 ||t0cv7pmo2y.com^
 ||qlkysc.icu^
