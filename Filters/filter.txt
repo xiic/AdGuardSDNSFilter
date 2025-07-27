@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-27T00:38:47.768Z
+! Last modified: 2025-07-27T06:10:08.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7015,6 +7015,7 @@ dlsdk.appsflyer.com^
 ||analytics.kapost.com^
 ||analytics.klickly.com^
 ||analytics.lemoolah.com^
+||analytics.loadweb.com^
 ||analytics.logsss.com^
 ||analytics.m7g.twitch.tv^
 ||analytics.maikel.pro^
@@ -8021,6 +8022,7 @@ dlsdk.appsflyer.com^
 ||d1r55yzuc1b1bw.cloudfront.net^
 ||d1t9uctetvi0tu.cloudfront.net^
 ||d1tbj6eaenapdy.cloudfront.net^
+||d1tqsoh7s4xjz9.cloudfront.net^
 ||d1z3r0i09bwium.cloudfront.net^
 ||d1z9vm58yath60.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
@@ -9447,6 +9449,7 @@ dlsdk.appsflyer.com^
 ||pageviews.tray.com.br^
 ||pixel.leadlovers.app^
 ||sat.soluall.net^
+||scripts.dadata.com.br^
 ||segmentor.snowfox-ai.com^
 ||statistic.audima.co^
 ||stats.gridmidia.com.br^
@@ -19516,6 +19519,8 @@ dlsdk.appsflyer.com^
 ||gio07270rp.com^
 ||shigao.icu^
 ||pencild4.com^
+||z0ha6abmi.com^
+||qpeq.cn^
 ||gio07260rp.com^
 ||valeriesara.com^
 ||t1d26dvout.com^
