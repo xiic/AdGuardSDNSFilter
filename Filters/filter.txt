@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-29T00:38:18.141Z
+! Last modified: 2025-07-29T12:13:52.869Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2274,6 +2274,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||zmqdez.ru^
 ||tr.acobt.tech^
 ||promotion.xmeye.net^
 ||promotion-en.xmeye.net^
@@ -2368,7 +2369,6 @@ vkcdnservice.appspot.com^
 ||adsassets-ipv6.waze.com^
 ||iads.unity3d.com^
 ||togothermany.com^
-||gdl.zmqdez.ru^
 ||rtblab.net^
 ||lacunads.com^
 ||ads*.textra.me^
@@ -3087,6 +3087,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||slc.commerce.naver.com^
 ||a.klaviyo.com^
 ||nlog.shinhan.com^
 ||cdn.js.fpaudience.com^
@@ -7956,7 +7957,6 @@ dlsdk.appsflyer.com^
 ||trk2-wtb.swaven.com^
 ||trx-cdn.zip.co^
 ||trx.zip.co^
-||tzm.px-cloud.net^
 ||ubm.docu.info^
 ||uid.mediacorp.sg^
 ||uilogging.tcdevops.com^
@@ -19523,6 +19523,10 @@ dlsdk.appsflyer.com^
 ||oaatyq.icu^
 ||sneakersq5.com^
 ||xpya.cn^
+||gio07290rp.com^
+||3rre9r4t2.com^
+||aai07291mu.com^
+||wkzvf2658.com^
 ||nhy9i8t56f.com^
 ||zrzgsdocqm.com^
 ||aai07280mu.com^
