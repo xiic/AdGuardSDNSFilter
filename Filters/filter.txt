@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-30T00:35:14.087Z
+! Last modified: 2025-07-30T06:12:01.661Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7982,6 +7982,7 @@ dlsdk.appsflyer.com^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
 ||video-analytics-api.cloudinary.com^
+||video-intel.pixels.ai^
 ||vortex.data.microsoft.com^
 ||vplayeranalytics.vidgyor.com^
 ||vst.sibnet.ru^
@@ -14004,9 +14005,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Jul 2025 09:57 UTC+7
-! Version: 2507280957
-! Blocked: 887 rules
+! Last modified: 30 Jul 2025 09:35 UTC+7
+! Version: 2507300935
+! Blocked: 888 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14576,6 +14577,7 @@ dlsdk.appsflyer.com^
 ||event.filum.ai^
 ||event.headlines.pw^
 ||fa.fpt.shop^
+||farawayinstallation.com^
 ||fbuser.ovp.vn^
 ||file-subiz.com^
 ||financial-agent.headlines.pw^
@@ -14876,8 +14878,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 28 Jul 2025 09:57 UTC+7
-! Version: 2507280957
+! Last modified: 30 Jul 2025 09:35 UTC+7
+! Version: 2507300935
 ! Blocked: 4.764 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -19527,7 +19529,15 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||f7ugx6b863.com^
 ||4xicd08qs.com^
+||cinemaup.top^
+||udwlki.icu^
+||nug07300lu.com^
+||5fyme6x6uy.com^
+||utve.cn^
+||b82q168jgj.com^
+||gio07300rp.com^
 ||oaatyq.icu^
 ||sneakersq5.com^
 ||xpya.cn^
