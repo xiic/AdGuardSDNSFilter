@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-31T06:11:20.805Z
+! Last modified: 2025-07-31T12:11:45.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -467,6 +467,7 @@ vkcdnservice.appspot.com^
 ||commercial.daznservices.com^
 ||couponcp-a.akamaihd.net^
 ||cpm.amateurcommunity.de^
+||cpm.appocean.media^
 ||creatives.inmotionhosting.com^
 ||cts.tradepub.com^
 ||customer.heartinternet.co.uk^
@@ -3088,6 +3089,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||gw.stape.fr^
+||analytics-ipv6.tiktokw.us^
 ||aws-analytics.nmg.com.hk^
 ||starman.usefathom.com^
 ||eu.usefathom.com^
@@ -19540,6 +19543,14 @@ dlsdk.appsflyer.com^
 ||wuyjtew.icu^
 ||yopo0hx26.com^
 ||nug07310lu.com^
+||stsgus.icu^
+||kibn.cn^
+||nug07311lu.com^
+||tinjsicyt.com^
+||gio07311rp.com^
+||82e9ac3c1.com^
+||dkngfkgbc.com^
+||qhaazaduez.com^
 ||4xicd08qs.com^
 ||cinemaup.top^
 ||udwlki.icu^
