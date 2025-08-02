@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-02T00:33:45.920Z
+! Last modified: 2025-08-02T06:09:37.112Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7329,6 +7329,7 @@ dlsdk.appsflyer.com^
 ||event.syftdata.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
+||eventapi.libring.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.chatlead.com^
 ||events-endpoint.pointandplace.com^
@@ -13033,8 +13034,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-07-28 05:21:52 CEST
-# entries:        1139
+# last updated:   2025-08-02 05:54:08 CEST
+# entries:        1137
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -13414,7 +13415,6 @@ dlsdk.appsflyer.com^
 ||leiki-doubleclick-proxy.appspot.com^
 ||leue.stape.net^
 ||levaochbo.compricer.se^
-||libring.com^
 ||lifeofsvea.mainroll.com^
 ||live.demand.supply^
 ||loadbalancer.visitor-analytics.io^
@@ -13843,7 +13843,6 @@ dlsdk.appsflyer.com^
 ||www.tamgrt.com^
 ||www.topdisplaynetwork.com^
 ||www.datadoghq-browser-agent.com^
-||www.gymshark-sweden.com.se^
 !
 ! Source name: EasyList Italy ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
@@ -19546,6 +19545,9 @@ dlsdk.appsflyer.com^
 ||nug08020lu.com^
 ||insideex.top^
 ||mgux.cn^
+||kcqstn35as.com^
+||nug08021lu.com^
+||8lz3swf01q.com^
 ||b0rz2s5ik.com^
 ||nug08010lu.com^
 ||ivzaq2irg.com^
