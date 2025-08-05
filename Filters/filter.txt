@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-05T06:12:41.628Z
+! Last modified: 2025-08-05T12:14:14.198Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3092,6 +3092,15 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||telemetry.proton.me^
+||analytics.tempmail100.com^
+||telemetry.sgp.pvp.net^
+||copilot-telemetry.githubusercontent.com^
+||metrics.kapa.ai^
+||analytics.org.coveo.com^
+||analytics.zdassets.com^
+||analyzer*.fc2.com^
+||analytics.flexclip.com^
 ||iws2.io.naver.com^
 ||clog.tanshudata.com^
 ||gw.stape.fr^
@@ -6145,6 +6154,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||analytics.nianticspatial.com^
 ||statistical-report.djiservice.org^
 ||qcloud-sg-datareceiver.kurogame.xyz^
 ||statistic-overseas.yunxinfw.com^
@@ -9645,6 +9655,7 @@ dlsdk.appsflyer.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||jogoforte.com^
 ||publyads.jstag.space^
 ||crummydevioussucculent.com^
 ||cibersexo.net^
@@ -11686,6 +11697,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||partsroll.xyz^
 ||azelvid.com^
 ||polatads.com^
 ||approximatedriver.com^
