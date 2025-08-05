@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-05T12:14:14.198Z
+! Last modified: 2025-08-05T18:11:09.724Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2277,6 +2277,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads-segment-profile-noneu.truecaller.com^
 ||ad.intools.dev^
 ||mp-api.afafb.com^
 ||zmqdez.ru^
@@ -3092,6 +3093,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||logapi.sooplive.com^
+||log-api.sooplive.com^
 ||telemetry.proton.me^
 ||analytics.tempmail100.com^
 ||telemetry.sgp.pvp.net^
@@ -11697,7 +11700,6 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
-||partsroll.xyz^
 ||azelvid.com^
 ||polatads.com^
 ||approximatedriver.com^
@@ -11942,6 +11944,7 @@ dlsdk.appsflyer.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||live-qj.cc^
 ||ademon.net^
 ||api.ada-cloud.com^
 ||erogazopple.com^
