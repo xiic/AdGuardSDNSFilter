@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-07T06:12:05.402Z
+! Last modified: 2025-08-07T12:14:04.440Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14039,8 +14039,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Aug 2025 11:10 UTC+7
-! Version: 2508011110
+! Last modified: 07 Aug 2025 14:24 UTC+7
+! Version: 2508071424
 ! Blocked: 888 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -14912,9 +14912,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 30 Jul 2025 16:01 UTC+7
-! Version: 2507301601
-! Blocked: 4.765 rules
+! Last modified: 07 Aug 2025 14:23 UTC+7
+! Version: 2508071423
+! Blocked: 4.768 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15014,6 +15014,7 @@ dlsdk.appsflyer.com^
 ||acclienquan24h.vn^
 ||acclienquan365.com^
 ||acclienquangiare.shop^
+||account-garrena.xyz^
 ||acs84.com^
 ||activationskey.org^
 ||addatamarket.net^
@@ -16081,6 +16082,7 @@ dlsdk.appsflyer.com^
 ||hotbuckers.com^
 ||hotdealshopee.com^
 ||hotline-dienmayxanh.com^
+||hotro-gareena.fun^
 ||hotro-garenavn.com^
 ||hotro-taikhoan-garena-lqmb.com^
 ||hotro-vi.net^
@@ -17119,6 +17121,7 @@ dlsdk.appsflyer.com^
 ||nsomomo.com^
 ||nuk36952s.com^
 ||nvietcombank.com^
+||nwbfmp.qzms.online^
 ||nykkky.com^
 ||nzu66938s.com^
 ||nzx65821s.com^
