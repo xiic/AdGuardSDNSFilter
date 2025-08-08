@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-08T06:12:15.335Z
+! Last modified: 2025-08-08T12:13:40.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2279,6 +2279,11 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||beijingzhongnanhai.com^
+||jybsb9oyss.com^
+||vniddlg.xyz^
+||tiu6ij9yqn.com^
+||drbbzzs.xyz^
 ||ads-segment-profile-noneu.truecaller.com^
 ||ad.intools.dev^
 ||mp-api.afafb.com^
@@ -12165,7 +12170,6 @@ dlsdk.appsflyer.com^
 ||mttag.com^
 ||preaf.jp^
 ||relaido.jp^
-||widget.cybershop-affiliate.jp^
 ||ad-arrow.com^
 ||aff.jskyservices.com^
 ||smac-ad.com^
@@ -24946,6 +24950,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||dnzedhceh7nim.cloudfront.net^
 ||appmon.shinhan.com^
 ||ads.ahnlab.com^
 ||adpacker.net^
