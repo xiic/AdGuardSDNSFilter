@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-08T00:35:21.499Z
+! Last modified: 2025-08-08T06:12:15.335Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13060,8 +13060,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-08-02 05:54:08 CEST
-# entries:        1137
+# last updated:   2025-08-08 05:36:32 CEST
+# entries:        1140
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -13188,6 +13188,7 @@ dlsdk.appsflyer.com^
 ||assets.adfenix.com^
 ||assets.bonad.io^
 ||assets.heylink.com^
+||assets.zubitracker.io^
 ||auction-release.mlpapi.com^
 ||audience.systems^
 ||autodeal.agilecrm.com^
@@ -13525,6 +13526,7 @@ dlsdk.appsflyer.com^
 ||push-notifications.top^
 ||pxl.host^
 ||r.existenz.se^
+||r1.ddlnk.net^
 ||recirculation.spot.im^
 ||redistats.com^
 ||region1.google-analytics.com^
@@ -13624,6 +13626,7 @@ dlsdk.appsflyer.com^
 ||static.zotabox.com^
 ||statistics.heltenkelt.se^
 ||statistik.blogg1.se^
+||statistik.jagareforbundet.se^
 ||statistik.sailguide.com^
 ||statistik.svenskaakademien.se^
 ||stats.agrar.nu^
