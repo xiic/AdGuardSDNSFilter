@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-10T06:09:56.379Z
+! Last modified: 2025-08-10T12:12:01.630Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7481,7 +7481,6 @@ dlsdk.appsflyer.com^
 ||k.streamrail.com^
 ||kalstats.kaltura.com^
 ||kiwi.mdldb.net^
-||kumo.network-n.com^
 ||l.fairblocker.com^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
@@ -19584,13 +19583,15 @@ dlsdk.appsflyer.com^
 ||swqmuo.icu^
 ||dlkfhlkjoirfgn.com^
 ||pinmgm.com^
+||vbc08101op.com^
+||7strqfn56s.com^
 ||vbc08091op.com^
 ||bfthrelgad.com^
 ||bei5029.xyz^
 ||frhopo.cn^
 ||nxwm44neo.com^
 ||w3019cdt.top^
-||myhuaweicloud.com^
+||bbcz4tta.top^
 ||uturiw.icu^
 ||yflieu.cn^
 ||sksi91y8rs.com^
@@ -23727,6 +23728,7 @@ dlsdk.appsflyer.com^
 ||super.cat898.com^
 ||super.kdnet.net^
 ||synacast.com^
+||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||tf.360.cn^
 ||theta.sogoucdn.com^
 ||tk.504pk.com^
