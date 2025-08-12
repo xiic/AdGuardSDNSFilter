@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-12T12:12:47.337Z
+! Last modified: 2025-08-12T18:10:18.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20,6 +20,8 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||id-msp.newsbreak.com
+||msp.newsbreak.com^
 ||29773.v.fwmrm.net^
 ||813c5.v.fwmrm.net^
 ||dh8azcl753e1e.cloudfront.net^
@@ -3101,6 +3103,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||dsp.newsbreak.com^
 ||a.wb.ru^
 ||beehiiv-adnetwork-production.s*.amazonaws.com^
 ||stats.vidalytics.com^
@@ -6171,6 +6174,11 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||adash-emas.cn-hangzhou.aliyuncs.com^
+||dfe.mic.mob.com^
+||dutils.com^
+||openlog.tapapis.cn^
+||log.aliyuncs.com^
 ||analytics.nianticspatial.com^
 ||statistical-report.djiservice.org^
 ||qcloud-sg-datareceiver.kurogame.xyz^
