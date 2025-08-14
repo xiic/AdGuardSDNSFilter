@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-14T06:10:56.761Z
+! Last modified: 2025-08-14T12:13:31.854Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2282,6 +2282,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads.fubo.tv^
 ||beijingzhongnanhai.com^
 ||jybsb9oyss.com^
 ||vniddlg.xyz^
@@ -3103,6 +3104,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||clck.edadeal.ru^
 ||analytics-cdn.levante-emv.com^
 ||analytics-cdn.prensaiberica.es^
 ||dsp.newsbreak.com^
@@ -3918,7 +3920,7 @@ vkcdnservice.appspot.com^
 ||log.pipeline.datarize.io^
 ||analyticswritenew.xerevo.com^
 ||tracking.staff-start.com^
-||p-aw2-adapt-beacon.awsprodops.movetv.com^
+||*adapt-beacon.awsprodops.movetv.com^
 ||p-cg64-slinganalytics.movetv.com^
 ||pdsssl.gmarket.co.kr^
 ||pds.gmarket.co.kr^
@@ -6176,6 +6178,9 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||trackers.fubo.tv^
+||beacons-prod.fubo.tv^
+||events.fubo.tv^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||dfe.mic.mob.com^
 ||dutils.com^
@@ -7553,6 +7558,7 @@ dlsdk.appsflyer.com^
 ||mon.domdog.io^
 ||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
+||monitor.agenedia.com^
 ||monitor.fraudblocker.com^
 ||monitoring.iraiser.eu^
 ||ms-trackingapi.phenompeople.com^
@@ -19603,6 +19609,9 @@ dlsdk.appsflyer.com^
 ||fzruzulad.com^
 ||6888.site^
 ||4ufutzmihl.com^
+||f8c2gftcsj.com^
+||goi08141kh.com^
+||wqhuludpb.com^
 ||naarnurm.com^
 ||fe4c0422j.com^
 ||r0hpdbkqs.com^
