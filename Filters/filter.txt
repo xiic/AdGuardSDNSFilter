@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-15T06:10:41.328Z
+! Last modified: 2025-08-15T12:12:23.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2282,6 +2282,12 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||horsed44.com^
+||fxlcvd.icu^
+||goi08150kh.com^
+||okloib88.com^
+||23.224.199.96^
+||23.224.199.74^
 ||cross-promo-provider.easybrain.com^
 ||consent.easybrain.com^
 ||ads.fubo.tv^
@@ -4157,7 +4163,6 @@ vkcdnservice.appspot.com^
 ||dsas.danawa.com^
 ||t.apkpure.net^
 ||weblog.woowa.in^
-||site-azp.slgnt.eu^
 ||pra.praxis.nl^
 ||tracker.samplicio.us^
 ||visit.xchina.pics^
@@ -5193,7 +5198,6 @@ vkcdnservice.appspot.com^
 ||mms.splinternews.com^
 ||mms.syracuse.com^
 ||mms.theroot.com^
-||mobile.slgnt.eu^
 ||momowa.momoshop.com.tw^
 ||monitor-targeting-failures.sqrt-5041.de^
 ||monitoring.youronlinechoices.com^
