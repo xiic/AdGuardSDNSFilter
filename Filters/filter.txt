@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-18T00:36:08.334Z
+! Last modified: 2025-08-18T06:11:52.445Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3112,6 +3112,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||count.shein.com^
 ||analytics.cosmopolitanmag.com.tr^
 ||clck.edadeal.ru^
 ||analytics-cdn.levante-emv.com^
@@ -7342,6 +7343,7 @@ dlsdk.appsflyer.com^
 ||data.woosmap.com^
 ||data2.gosquared.com^
 ||datadog-service.mvfglobal.com^
+||datasphere-sbsvc.sharethis.com^
 ||dcinfos-cache.abtasty.com^
 ||dd.garena.com^
 ||demandmedia.s3.amazonaws.com^
@@ -13101,8 +13103,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-08-14 05:01:38 CEST
-# entries:        1141
+# last updated:   2025-08-18 05:10:40 CEST
+# entries:        1144
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -13223,6 +13225,7 @@ dlsdk.appsflyer.com^
 ||app.yieldify.com^
 ||apps.shareaholic.com^
 ||apps-cdn.relevant-digital.com^
+||app.visitor-analytics.io^
 ||apsislead.com^
 ||aquaplatform.com^
 ||arbetaren.innocraft.cloud^
@@ -13332,6 +13335,7 @@ dlsdk.appsflyer.com^
 ||cdn-header-bidding.snack-media.com^
 ||cdn-magiclinks.trackonomics.net^
 ||cdn-scripts.signifyd.com^
+||cdn.confiant-integrations.net^
 ||cdn.id5-sync.com^
 ||cdn.lrkt-in.com^
 ||cdn.pushmaster-cdn.xyz^
@@ -13615,6 +13619,7 @@ dlsdk.appsflyer.com^
 ||scripts.makeinfluence.com^
 ||scripts.mediavine.com^
 ||scripts.simpleanalyticscdn.com^
+||scripts.stay22.com^
 ||scripts.opti-digital.com^
 ||script.e-space.se^
 ||sdk.pulse.schibsted.com^
