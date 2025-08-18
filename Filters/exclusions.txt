@@ -1,3 +1,36 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1939
+||monetag.com^
+! https://github.com/AdguardTeam/AdguardFilters/commit/a55eb73eb0439f7d95a7981457172f0f059569ff#commitcomment-163113893
+||usefathom.com^
+||bentonow.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/210099
+||i.posthog.com^
+! https://github.com/AdguardTeam/CoreLibs/issues/1971#issuecomment-3131079404
+||veta.naver.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/209715
+||marketo.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/209795
+||sstats.bitdefender.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1919
+||datacaciques.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/207941
+||sstats.adobe.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/207905
+||dogo.intel.com^
+! https://github.com/hagezi/dns-blocklists/issues/6459
+||mairdumont.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1905
+||betfair.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1895
+||eu-mobile.events.data.microsoft.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1900
+||firstpromoter.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1898
+||brevo.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/205818
+||exactag.com^
+! https://github.com/hagezi/dns-blocklists/issues/6286
+||s.sick.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1888
 ||flaviar.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1884
@@ -417,8 +450,6 @@
 ||insight.rapid7.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/727
 ||ipcheck.tmgrup.com.tr^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/724
-||analytics.google.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/88390
 ||airbrake.io^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/723
