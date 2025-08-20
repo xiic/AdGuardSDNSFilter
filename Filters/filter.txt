@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-20T16:04:00.341Z
+! Last modified: 2025-08-20T18:04:24.197Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3270,6 +3270,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ihi.flowplayer.com^
 ||pixel.spotify.com^
 ||gtmserverside.eluniversal.com.mx^
 ||ym-tack.b-cdn.net^
@@ -7650,7 +7651,6 @@ dlsdk.appsflyer.com^
 ||id.a-mx.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||identification.hotmart.com^
-||ihi.flowplayer.com^
 ||imp.constantcontact.com^
 ||imp.pvnsolutions.com^
 ||impress.vcita.com^
@@ -15117,8 +15117,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-08-19 05:12:27 CEST
-# entries:        1146
+# last updated:   2025-08-20 18:18:36 CEST
+# entries:        1149
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -15195,6 +15195,7 @@ dlsdk.appsflyer.com^
 ||analytics.apotekhjartat.se^
 ||analytics.arvika.se^
 ||analytics.ciseway.se^
+||analytics.citreamedia.com^
 ||analytics.elle.se^
 ||analytics.equmeniakyrkan.se^
 ||analytics.femina.se^
@@ -15306,6 +15307,7 @@ dlsdk.appsflyer.com^
 ||cdn.adt532.com^
 ||cdn.adt545.net^
 ||cdn.adt567.net^
+||cdn.adt574.com^
 ||cdn.adt598.com^
 ||cdn.adtrue.com^
 ||cdn.advisible.com^
@@ -15506,6 +15508,7 @@ dlsdk.appsflyer.com^
 ||levaochbo.compricer.se^
 ||lifeofsvea.mainroll.com^
 ||live.demand.supply^
+||load.a.receptskatt.se^
 ||loadbalancer.visitor-analytics.io^
 ||loader.wisepops.com^
 ||loadr.exelator.com^
