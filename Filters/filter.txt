@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-21T16:03:55.468Z
+! Last modified: 2025-08-21T18:04:15.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||micro.rubiconproject.com^
 ||promo.evvnt.com^
 ||id-msp.newsbreak.com
 ||msp.newsbreak.com^
@@ -6361,6 +6362,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||event.*.karrotmarket.com^
 ||beacons.ads.fubo.tv^
 ||s3-ca-liveops.easybrain.com^
 ||trackers.fubo.tv^
@@ -15551,7 +15553,6 @@ dlsdk.appsflyer.com^
 ||metapic.se^
 ||metrics-fe-na1.hubspot.com^
 ||mgdk-cdn.relevant-digital.com^
-||micro.rubiconproject.com^
 ||missaffiliate.com^
 ||mraffiliate.com^
 ||mrporter-creative.prf.hn^
