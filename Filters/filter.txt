@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-22T00:12:23.332Z
+! Last modified: 2025-08-22T02:31:41.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7464,7 +7464,8 @@ dlsdk.appsflyer.com^
 ||connext-cdn.azureedge.net^
 ||console.uxlens.com^
 ||container.pepperjam.com^
-||contents-tracking.beop.io^
+||ads-tracking.beop.io^
+||ads-tracking.collectiveaudience.co^
 ||control.cityofcairns.com^
 ||conversions.genieventures.co.uk^
 ||cookie-guard-erdee.ey.r.appspot.com^
@@ -7645,6 +7646,7 @@ dlsdk.appsflyer.com^
 ||h-bid.com^
 ||happen.spkt.io^
 ||harvest.graindata.com^
+||hb.collectiveaudience.co^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||highway.cablecar.sph.com.sg^
@@ -7894,6 +7896,7 @@ dlsdk.appsflyer.com^
 ||rum.uptime.com^
 ||rw.marchex.io^
 ||s.autopilotapp.com^
+||s.collectiveaudience.co^
 ||s.logsss.com^
 ||s.srvsynd.com^
 ||s.vibe.co^
@@ -10001,6 +10004,7 @@ dlsdk.appsflyer.com^
 ||swankysquare.com^
 ||sweetslope.com^
 ||swellstocking.com^
+||swiftintro.com^
 ||swimfreely.com^
 ||swingslip.com^
 ||swipechief.com^
