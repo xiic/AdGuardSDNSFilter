@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-24T16:03:07.948Z
+! Last modified: 2025-08-24T18:03:57.095Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -498,6 +498,7 @@ vkcdnservice.appspot.com^
 ||go.affiliatesleague.com^
 ||go.bloxplay.com^
 ||googleads.github.io^
+||hb.collectiveaudience.co^
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hotwire-widget.dailywire.com^
@@ -558,6 +559,7 @@ vkcdnservice.appspot.com^
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
 ||rubylife.go2cloud.org^
+||s.collectiveaudience.co^
 ||saambaa.com^
 ||search-carousel-widget.snc-prod.aws.cinch.co.uk^
 ||secure.money.com^
@@ -7652,7 +7654,6 @@ dlsdk.appsflyer.com^
 ||h-bid.com^
 ||happen.spkt.io^
 ||harvest.graindata.com^
-||hb.collectiveaudience.co^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||highway.cablecar.sph.com.sg^
@@ -7831,6 +7832,7 @@ dlsdk.appsflyer.com^
 ||pixel.s3xified.com^
 ||pixel.safe-installation.com^
 ||pixel.sprinklr.com^
+||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
 ||pixel.yola.com^
 ||pixels.afcdn.com^
@@ -7903,7 +7905,6 @@ dlsdk.appsflyer.com^
 ||rum.uptime.com^
 ||rw.marchex.io^
 ||s.autopilotapp.com^
-||s.collectiveaudience.co^
 ||s.logsss.com^
 ||s.srvsynd.com^
 ||s.vibe.co^
