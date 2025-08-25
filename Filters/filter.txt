@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-25T08:04:30.440Z
+! Last modified: 2025-08-25T10:03:40.724Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3273,6 +3273,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||magic.prism.gg^
 ||c.bazu.cc^
 ||sherlock-events-sampler.ebay.com^
 ||ads.mozilla.org^
@@ -3328,7 +3329,6 @@ vkcdnservice.appspot.com^
 ||analytics.webanalytics.op.europa.eu^
 ||aem-kakao-collector.onkakao.net^
 ||slc.commerce.naver.com^
-||a.klaviyo.com^
 ||nlog.shinhan.com^
 ||cdn.js.fpaudience.com^
 ||lg3.media.net^
@@ -6134,6 +6134,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t133.sun-sentinel.com^
 ||x446.orlandosentinel.com^
 !
+! Klaviyo - don't block subdomains of a.klaviyo.com by DNS
+|a.klaviyo.com^
+!
 ! Hisense Smart TV
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
@@ -6367,6 +6370,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||logs.dradis.netflix.com^
 ||analytics-stg.samsungknox.com^
 ||event.flareflow.tv^
 ||api.deeplink.dev^
