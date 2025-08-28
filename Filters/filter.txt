@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-28T10:03:44.169Z
+! Last modified: 2025-08-28T12:05:05.882Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3280,6 +3280,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||collector-pxdojv695v.protechts.net^
+||collector-pxdojv695v.px-cloud.net^
 ||st.sooplive.co.kr^
 ||exlogcollector.sooplive.co.kr^
 ||snowflake.qq.com^
@@ -6701,6 +6703,7 @@ dlsdk.appsflyer.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||tracking.purchasely.io^
+||uts-front.line-apps.com^
 ||ts.line-apps.com^
 ||log-music-data.line-apps.com^
 ||events-api.soundcloud.com^
@@ -21795,6 +21798,8 @@ dlsdk.appsflyer.com^
 ||bzkmqr6vo4.com^
 ||jldsfd.icu^
 ||jubsg4r6qy.com^
+||nio08281lt.com^
+||phozatoi.com^
 ||5gg466kzv.com^
 ||lmwwbrgjj.com^
 ||nio08270lt.com^
