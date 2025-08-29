@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-29T12:05:23.696Z
+! Last modified: 2025-08-29T14:03:28.978Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2769,6 +2769,7 @@ vkcdnservice.appspot.com^
 ||iam.datasavannah.com^
 ||yovoads.com^
 ||restartad.com^
+||appgiftwall.oss-us-west-1.aliyuncs.com^
 ||appgift.sinaapp.com^
 ||servedby.o2.co.uk^
 ||amillionads.com^
@@ -6409,9 +6410,11 @@ dlsdk.appsflyer.com^
 ||trackers.fubo.tv^
 ||beacons-prod.fubo.tv^
 ||events.fubo.tv^
+||adash-emas.cn-hangzhou.aliyuncs.com^
 ||dfe.mic.mob.com^
 ||dutils.com^
 ||openlog.tapapis.cn^
+||log.aliyuncs.com^
 ||analytics.nianticspatial.com^
 ||statistical-report.djiservice.org^
 ||qcloud-sg-datareceiver.kurogame.xyz^
@@ -6724,6 +6727,8 @@ dlsdk.appsflyer.com^
 ||logservice1.hicloud.com^
 ||logservice.hicloud.com^
 ||logger.growstarry.com^
+||beacon-api.aliyuncs.com^
+||adash.man.aliyuncs.com^
 ||woodpecker.uc.cn^
 ||adashx4ae.ut.taobao.com^
 ||h-adashx4ae.ut.taobao.com^
@@ -14483,7 +14488,6 @@ dlsdk.appsflyer.com^
 !
 !
 ||7d36a.com^
-||aliyuncs.com^
 ||vernaellac.com^
 ||dkaktsb.icu^
 ||tw-726620180914.*.run.app^
@@ -14546,6 +14550,7 @@ dlsdk.appsflyer.com^
 ||img.911787.com^
 ||n55ylc001.vip^
 ||dpjzr.top^
+||xpjcg.oss-accelerate.aliyuncs.com^
 ||qxwoiv.com^
 ||krbulhb.com^
 ||wl.uqwjdhgv.top^
@@ -21799,6 +21804,8 @@ dlsdk.appsflyer.com^
 ||nl071vrnv.com^
 ||nio08291lt.com^
 ||ci38iu1ch.com^
+||mcahinohez.com^
+||xoiz.cn^
 ||86aocbvvsh.com^
 ||finallyy2.top^
 ||6t51r3ge18.com^
@@ -25596,7 +25603,9 @@ dlsdk.appsflyer.com^
 ||a.youdao.com^
 ||adrs.sdo.com^
 ||ads-6686.top^
+||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alimama.alicdn.com^
+||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||baiducom.bj.bcebos.com^
 ||cb.baidu.com^
 ||cbjs.baidu.com^
@@ -25605,18 +25614,24 @@ dlsdk.appsflyer.com^
 ||d1zoi2q7y0e4d.cloudfront.net^
 ||d37d9zbli5ytch.cloudfront.net^
 ||d3d7a0q05k6bvz.cloudfront.net^
+||darren01.oss-cn-beijing.aliyuncs.com^
 ||dingbu.bj.bcebos.com^
+||dmg-dd.oss-accelerate.aliyuncs.com^
+||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||drmcmm.baidu.com^
 ||duiwai.baidu.com^
 ||eduad.baidu.com^
 ||eiv.baidu.com^
+||facai383.oss-cn-guangzhou.aliyuncs.com^
 ||farm-cn.plista.com^
 ||fijipic.xyz^
+||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||foreveryoung.gz01.bdysite.com^
 ||g1.tagtic.cn^
 ||gg.miued.com^
 ||guanjiabo.net^
 ||haokoubei.top^
+||hdtu.oss-cn-beijing.aliyuncs.com^
 ||hiad.myweb.hinet.net^
 ||img301.com^
 ||js22f.net^
@@ -25626,6 +25641,7 @@ dlsdk.appsflyer.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
 ||mnnmnn.com^
+||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||mttpsy6666.cc^
 ||n0211.com^
 ||n0244.com^
@@ -25648,8 +25664,11 @@ dlsdk.appsflyer.com^
 ||re.taotaosou.com^
 ||show.kc.taotaosou.com^
 ||spcode.baidu.com^
+||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||static-cn.plista.com^
+||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||tad.suning.com^
+||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||tx99y.net^
 ||u0056.com^
 ||u0057.com^
@@ -25681,8 +25700,10 @@ dlsdk.appsflyer.com^
 ||u833ij.com^
 ||ubmcvideo.baidustatic.com^
 ||union-wifi.com^
+||video231.oss-cn-beijing.aliyuncs.com^
 ||xh33g.net^
 ||xiaoshuoyun.cn^
+||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xwdsp.com^
 ||yellowjm.com^
 ||yhtpsy8888.cc^
@@ -25778,6 +25799,7 @@ dlsdk.appsflyer.com^
 ||atm.youku.com^
 ||ax.*.ifeng.com^
 ||ax.ifeng.com^
+||badding.oss-ap-southeast-1.aliyuncs.com^
 ||baifen.music.baidu.com^
 ||besc.baidustatic.com^
 ||biz.gexing.com^
@@ -25820,6 +25842,7 @@ dlsdk.appsflyer.com^
 ||erebor.douban.com^
 ||ff.meikanguo.com^
 ||fkesfg.com^
+||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||g.hsw.cn^
 ||g.lznews.cn^
 ||g.mnw.cn^
@@ -25871,6 +25894,7 @@ dlsdk.appsflyer.com^
 ||js.duotegame.com^
 ||jsyefc.com^
 ||jxad.jx163.com^
+||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||ll.gxsky.com^
 ||lxting.com^
 ||m.aty.sohu.com^
@@ -25926,6 +25950,7 @@ dlsdk.appsflyer.com^
 ||tf.360.cn^
 ||theta.sogoucdn.com^
 ||tk.504pk.com^
+||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tp.sgcn.com^
 ||tt.biquge.la^
 ||union.china.com.cn^
@@ -26704,6 +26729,10 @@ dlsdk.appsflyer.com^
 ||zuowen.hydcd.com^
 ||zx.docin.com^
 ||d2un76zvb5mgzx.cloudfront.net^
+||jpg1.oss-cn-beijing.aliyuncs.com^
+||jun01.oss-cn-beijing.aliyuncs.com^
+||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
+||wzjs1.oss-accelerate.aliyuncs.com^
 ||mihoutao1868.github.io^
 ||22588888.com^
 ||2481e.com^
