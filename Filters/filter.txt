@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-31T02:31:28.708Z
+! Last modified: 2025-08-31T04:03:29.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15180,8 +15180,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-08-21 05:12:15 CEST
-# entries:        1151
+# last updated:   2025-08-31 05:11:13 CEST
+# entries:        1153
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -15486,6 +15486,7 @@ dlsdk.appsflyer.com^
 ||embed.bannerboo.com^
 ||embi-media.com^
 ||emea.hhkld.com^
+||eniro-cdn.relevant-digital.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
 ||eum.instana.io^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
@@ -15613,6 +15614,7 @@ dlsdk.appsflyer.com^
 ||mtpc.se^
 ||mtst.io^
 ||my.hellobar.com^
+||my.rtmark.net^
 ||n.dyntrk.com^
 ||network.ad.nu^
 ||newstats.blogg.se^
