@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-01T06:04:53.211Z
+! Last modified: 2025-09-01T08:04:51.593Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7365,6 +7365,7 @@ dlsdk.appsflyer.com^
 ||analytics.vdo.ai^
 ||analytics.vendemore.com^
 ||analytics.vitalsignstracker.com^
+||analytics.wask.co^
 ||analytics.webpushr.com^
 ||analytics.websolute.it^
 ||analytics.wildtangent.com^
@@ -21804,6 +21805,9 @@ dlsdk.appsflyer.com^
 ||rtau9pif4.com^
 ||yirst6pfi.com^
 ||ebcf.cn^
+||d5xogy0qi.com^
+||nio09011lt.com^
+||mgrwaui4.top^
 ||gdpj8lm2t.com^
 ||cbo9vo98i.com^
 ||alternatee23.com^
@@ -26793,17 +26797,8 @@ dlsdk.appsflyer.com^
 ! Source: https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 !
 # >> A <<
-||adtodate.ir^
-||adrooz.com^
-||affilio.ir^
-||analyt.ir^
 ||scripts-ads.s3.ir-thr-at1.arvanstorage.com^
 ||error-tracking.arvancloud.com^
-||adexo.ir^
-||adexofiles.ir^
-||adskav.com^
-||advn.ir^
-||amaroid.net^
 ||analytics.aasaam.com^
 ||analytics-2.aasaam.com^
 ||analytics-3.aasaam.com^
