@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-05T06:04:50.363Z
+! Last modified: 2025-09-05T08:04:03.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2121,6 +2121,7 @@ vkcdnservice.appspot.com^
 ||c.seksohub.com^
 ||c3s.bionestraff.pro^
 ||ca.fapnow.xxx^
+||ca.lesbianbliss.com^
 ||cams.enjoy.be^
 ||cash.femjoy.com^
 ||cdn.007moms.com^
@@ -21820,6 +21821,7 @@ dlsdk.appsflyer.com^
 ||nijlfx.icu^
 ||yrgsqi0zc.com^
 ||joi09051pt.com^
+||nio09051lt.com^
 ||oztg6i0ass.com^
 ||wmnqifp98t.com^
 ||receiptgg.top^
