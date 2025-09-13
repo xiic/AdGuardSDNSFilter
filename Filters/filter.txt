@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-13T00:11:22.936Z
+! Last modified: 2025-09-13T02:22:51.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8955,6 +8955,7 @@ dlsdk.appsflyer.com^
 ||eatablesquare.com^
 ||echoinghaven.com^
 ||economysoil.com^
+||educationcar.com^
 ||educrated.com^
 ||effervescentcoral.com^
 ||effervescentvista.com^
@@ -9273,6 +9274,7 @@ dlsdk.appsflyer.com^
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
 ||infamousstream.com^
+||infinityhedge.com^
 ||informalbook.com^
 ||innocentlamp.com^
 ||inputicicle.com^
@@ -21845,6 +21847,15 @@ dlsdk.appsflyer.com^
 ||ual23t6yz.com^
 ||yur09130og.com^
 ||2osq127yy.com^
+||uzwx.cn^
+||comparisonn4.top^
+||bgrukidu.com^
+||rpdlt.cn^
+||needle058.top^
+||itqyik.icu^
+||flkgjlfghm.com^
+||kltjbnfjmnh.com^
+||45yz5i35r.com^
 ||wthizudgdg.com^
 ||wa9dald544.com^
 ||g15wt3ci68.com^
