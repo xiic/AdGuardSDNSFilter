@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-18T04:04:03.716Z
+! Last modified: 2025-09-18T06:04:33.479Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8784,6 +8784,7 @@ dlsdk.appsflyer.com^
 ||classicnotebook.com^
 ||cleanhaircut.com^
 ||cloisteredcurve.com^
+||cloudguppy.com^
 ||cloudhustles.com^
 ||cloudjumbo.com^
 ||clumsycar.com^
@@ -8813,6 +8814,7 @@ dlsdk.appsflyer.com^
 ||conditionchange.com^
 ||conditioncrush.com^
 ||confesschairs.com^
+||confidencetalks.com^
 ||configchain.com^
 ||confirmglobal.com^
 ||confusedcart.com^
@@ -8896,6 +8898,7 @@ dlsdk.appsflyer.com^
 ||dapperdiscussion.com^
 ||dashingdrop.com^
 ||datacirrus.com^
+||daybreaklights.com^
 ||daymodern.com^
 ||dazzlingbook.com^
 ||debonairdust.com^
@@ -9064,6 +9067,7 @@ dlsdk.appsflyer.com^
 ||fewjuice.com^
 ||fewkittens.com^
 ||fieldconfig.com^
+||fillthemap.com^
 ||filtercutter.com^
 ||finalizeforce.com^
 ||financefear.com^
@@ -9209,6 +9213,7 @@ dlsdk.appsflyer.com^
 ||haltingbadge.com^
 ||haltingdivision.com^
 ||hammerhearing.com^
+||hamsterspot.com^
 ||handleteeth.com^
 ||handsomehose.com^
 ||handsomeindustry.com^
@@ -10065,6 +10070,7 @@ dlsdk.appsflyer.com^
 ||strivesquirrel.com^
 ||strokesystem.com^
 ||strongercity.com^
+||studycooking.com^
 ||stupendoussleet.com^
 ||stupendoussnow.com^
 ||stupidscene.com^
@@ -21869,6 +21875,8 @@ dlsdk.appsflyer.com^
 ||gusp.cn^
 ||yur09180og.com^
 ||6gvg5saail.com^
+||oxggiwdp57.com^
+||dfi09181kq.com^
 ||yur09170og.com^
 ||gtfccewpo.com^
 ||w2j4kdjma.com^
