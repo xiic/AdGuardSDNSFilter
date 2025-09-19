@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-19T20:04:02.711Z
+! Last modified: 2025-09-19T22:03:49.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -838,6 +838,7 @@ vkcdnservice.appspot.com^
 ||d1p3zboe6tz3yy.cloudfront.net^
 ||d1p7gp5w97u7t7.cloudfront.net^
 ||d1pdf4c3hchi80.cloudfront.net^
+||d1pk6uu6wqrpce.cloudfront.net^
 ||d1pn3cn3ri604k.cloudfront.net^
 ||d1pvpz0cs1cjk8.cloudfront.net^
 ||d1pwvobm9k031m.cloudfront.net^
@@ -975,6 +976,7 @@ vkcdnservice.appspot.com^
 ||d26e5rmb2qzuo3.cloudfront.net^
 ||d26p9ecwyy9zqv.cloudfront.net^
 ||d26yfyk0ym2k1u.cloudfront.net^
+||d26ynmm8jhmv6r.cloudfront.net^
 ||d27genukseznht.cloudfront.net^
 ||d27gtglsu4f4y2.cloudfront.net^
 ||d27pxpvfn42pgj.cloudfront.net^
@@ -1526,6 +1528,7 @@ vkcdnservice.appspot.com^
 ||dg6gu9iqplusg.cloudfront.net^
 ||dg7k1tpeaxzcq.cloudfront.net^
 ||dg9sw33hxt5i7.cloudfront.net^
+||dgaf2ncy4dtan.cloudfront.net^
 ||dgw7ae5vrovs7.cloudfront.net^
 ||dgyrizngtcfck.cloudfront.net^
 ||dh6dm31izb875.cloudfront.net^
@@ -1541,6 +1544,7 @@ vkcdnservice.appspot.com^
 ||dita6jhhqwoiz.cloudfront.net^
 ||divekcl7q9fxi.cloudfront.net^
 ||diz4z73aymwyp.cloudfront.net^
+||djgnqo9p1icyr.cloudfront.net^
 ||djm080u34wfc5.cloudfront.net^
 ||djnaivalj34ub.cloudfront.net^
 ||djr4k68f8n55o.cloudfront.net^
@@ -9171,6 +9175,7 @@ dlsdk.appsflyer.com^
 ||glisteningguide.com^
 ||glisteningsign.com^
 ||glitteringbrook.com^
+||gloomyseason.com^
 ||gloriousbeef.com^
 ||glowingmeadow.com^
 ||gluedpixel.com^
@@ -10180,6 +10185,7 @@ dlsdk.appsflyer.com^
 ||ticklesign.com^
 ||tidymitten.com^
 ||tightpowder.com^
+||tinybluewhale.com^
 ||tinyswans.com^
 ||tinytendency.com^
 ||tiredthroat.com^
