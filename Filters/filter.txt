@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-24T04:04:01.845Z
+! Last modified: 2025-09-24T06:05:26.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7481,6 +7481,8 @@ dlsdk.appsflyer.com^
 ||browser.covatic.io^
 ||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
+||bundle.9gtb.com^
+||bundle.dyn-rev.app^
 ||c.albss.com^
 ||c.amazinglybrilliant.com.au^
 ||c.bazo.io^
@@ -7602,6 +7604,7 @@ dlsdk.appsflyer.com^
 ||d.shareaholic.com^
 ||dadi.technology^
 ||dash.getsitecontrol.com^
+||data.armexfort.uk^
 ||data.circulate.com^
 ||data.debugbear.com^
 ||data.digitalks.az^
@@ -8001,6 +8004,7 @@ dlsdk.appsflyer.com^
 ||s.srvsynd.com^
 ||s.vibe.co^
 ||sa.scorpion.co^
+||science.ctf.gg^
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
 ||sdk.51.la^
@@ -8986,6 +8990,7 @@ dlsdk.appsflyer.com^
 ||earnbaht.com^
 ||earthups.com^
 ||eatablesquare.com^
+||echoacloud.com^
 ||echoinghaven.com^
 ||economysoil.com^
 ||educationcar.com^
@@ -9363,6 +9368,7 @@ dlsdk.appsflyer.com^
 ||kindasingle.com^
 ||kindhush.com^
 ||kitetuning.com^
+||kittycatking.com^
 ||knewpenny.com^
 ||knifetreasury.com^
 ||knitstamp.com^
@@ -10112,6 +10118,7 @@ dlsdk.appsflyer.com^
 ||suggestionbridge.com^
 ||sulkycook.com^
 ||summerobject.com^
+||sunsetcampfires.com^
 ||sunsetstatic.com^
 ||sunshinegates.com^
 ||sunshinepint.com^
@@ -21916,6 +21923,10 @@ dlsdk.appsflyer.com^
 ||throlnod.com^
 ||vowellm4.com^
 ||wph2zu9rlb.com^
+||kapkh.cn^
+||lrphk.cn^
+||d7ytrv7yxa.com^
+||dfi09241kq.com^
 ||dfi09230kq.com^
 ||bof8804jn.com^
 ||mrtm4lylj.com^
