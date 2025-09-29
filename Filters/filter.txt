@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-29T02:30:37.004Z
+! Last modified: 2025-09-29T04:04:14.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11140,6 +11140,7 @@ dlsdk.appsflyer.com^
 ||1dmp.io^
 ||24log.ru^
 ||24smi.net^
+||2xclick.ru^
 ||a-counter.kiev.ua^
 ||admile.ru^
 ||adsmediator.com^
@@ -12406,7 +12407,6 @@ dlsdk.appsflyer.com^
 ||eldos.xyz^
 ||advertiseru.net^
 ||hranakel.xyz^
-||2xclick.ru^
 ||randiul.com^
 ||ogtz5yn2u1.ru^
 ||kkmacsqsbf.info^
@@ -15297,8 +15297,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-09-28 04:41:42 CEST
-# entries:        1153
+# last updated:   2025-09-29 04:53:38 CEST
+# entries:        1154
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -15663,6 +15663,7 @@ dlsdk.appsflyer.com^
 ||investerarbrevet.se^
 ||inviso.rampanel.com^
 ||ion.btcswe.com^
+||ip.holid.io^
 ||ipmeta.io^
 ||izooto.com^
 ||js.adsaga.se^
@@ -16304,9 +16305,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Sep 2025 15:43 UTC+7
-! Version: 2509161543
-! Blocked: 889 rules
+! Last modified: 29 Sep 2025 10:33 UTC+7
+! Version: 2509291033
+! Blocked: 887 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -16671,7 +16672,6 @@ dlsdk.appsflyer.com^
 ||adclient.vietnamnetjsc.vn^
 ||addlog.thuvienphapluat.vn^
 ||addtop.trangvangvietnam.com^
-||adhub.mobifone.vn^
 ||adm.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
 ||admin.giaminhmedia.vn^
@@ -16831,7 +16831,6 @@ dlsdk.appsflyer.com^
 ||ax.mpcdn.top^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
 ||banner.5giay.vn^
-||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
 ||banner.trangvangvietnam.com^
 ||banner.uto.vn^
@@ -17178,9 +17177,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Sep 2025 15:42 UTC+7
-! Version: 2509161542
-! Blocked: 4.774 rules
+! Last modified: 29 Sep 2025 10:33 UTC+7
+! Version: 2509291033
+! Blocked: 4.775 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -21807,6 +21806,7 @@ dlsdk.appsflyer.com^
 ||zalorashop.com^
 ||zaloweb.pro^
 ||zeroshop.cc^
+||ziefobjq.m0jdq3.me^
 ||zingmp3.pro^
 ||zingshop.net^
 ||zkika.okyla.de^
