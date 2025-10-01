@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-01T10:04:14.538Z
+! Last modified: 2025-10-01T12:05:51.326Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2466,6 +2466,8 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||robin-flow.com^
+||adsmoloco.com^
 ||app-ads-services.com^
 ||adtmonetize.com^
 ||rugfrfji.win^
@@ -2562,7 +2564,9 @@ vkcdnservice.appspot.com^
 ||adnami.io^
 ||ads-router-noneu.truecaller.com^
 ||umphek.com^
+||playgap.b-cdn.net^
 ||ahoy-internal-ads-hv.b-cdn.net^
+||downloadshi.b-cdn.net^
 ||ad.iwhop.cn^
 ||s-odx.oleads.com^
 ||mediation.unity3d.com^
@@ -2577,7 +2581,6 @@ vkcdnservice.appspot.com^
 ||static.timetreeads.com^
 ||zgzxs.weathercn.com^
 ||kiesta.net^
-||downloadshi.b-cdn.net^
 ||ads.rmbl.ws^
 ||adsassets-ipv6.waze.com^
 ||iads.unity3d.com^
@@ -3010,7 +3013,6 @@ vkcdnservice.appspot.com^
 ||adserver.kimia.es^
 ||adshost2.com^
 ||adsmo.ru^
-||adsmoloco.com^
 ||adsniper.ru^
 ||adsrvr.org^
 ||adtech.de^
@@ -9653,6 +9655,7 @@ dlsdk.appsflyer.com^
 ||perfectfetch.com^
 ||perkyjade.com^
 ||phonecup.com^
+||phoneresult.com^
 ||photohints.com^
 ||physicstees.com^
 ||pickmicro.com^
@@ -21958,6 +21961,8 @@ dlsdk.appsflyer.com^
 ||txbptd.icu^
 ||hlj10011ip.com^
 ||u7em9v4hp.com^
+||bzlmtuniv.com^
+||nzl10011oa.com^
 ||vzia.cn^
 ||u4jlr6f6n2.com^
 ||jqs77n9x.xyz^
