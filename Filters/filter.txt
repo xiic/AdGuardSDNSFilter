@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-02T00:11:32.254Z
+! Last modified: 2025-10-02T02:27:37.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3299,6 +3299,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||orderana*.spankbang.com^
 ||upsell.alphwidget.com^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
 ||static.alphwidget.com^
@@ -21956,6 +21957,7 @@ dlsdk.appsflyer.com^
 ||discards55.com^
 ||rnxhdv.icu^
 ||trundrak.com^
+||p7d3miyh2q.com^
 ||a2424xe80.com^
 ||ddrqd9eox.com^
 ||hlj10010ip.com^
