@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-06T06:05:22.103Z
+! Last modified: 2025-10-06T08:04:23.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2468,6 +2468,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||parrot-flow.com^
 ||robin-flow.com^
 ||adsmoloco.com^
 ||app-ads-services.com^
@@ -15321,6 +15322,7 @@ dlsdk.appsflyer.com^
 ||ws.walla.co.il^
 ||yazizim.com^
 ||zohar-trends.com^
+||zoharajewels.com^
 !
 ! Source name: Frellwits Swedish Filter
 ! Source: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
@@ -21968,6 +21970,8 @@ dlsdk.appsflyer.com^
 ||mmeumm.icu^
 ||vwiy.cn^
 ||btfclfeqc9.com^
+||hlj10061ip.com^
+||wucvvf3t6n.com^
 ||d24fx92qb.com^
 ||mmes30jla.com^
 ||ojizau.icu^
