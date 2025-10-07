@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-07T14:04:12.249Z
+! Last modified: 2025-10-07T16:04:09.162Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2434,13 +2434,6 @@ vkcdnservice.appspot.com^
 ||banner.hpmdnetwork.ru^
 ||hybrid.ai^
 ||px.adhigh.net^
-||ad.auditude.com^
-||adfiles.auditude.com^
-||cdn.auditude.com^
-||cdn2.auditude.com^
-||otcdn2.auditude.com^
-||www.auditude.com^
-||manifest.auditude.com^
 ||mblapi.ssl2.duapps.com^
 ||api.mobula.ds.duapps.com^
 ||noxagile.duapp.com^
@@ -2466,10 +2459,8 @@ vkcdnservice.appspot.com^
 !
 ||freewheel-jitt.sanoma.fi^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
-||7caa2.v.fwmrm.net^
 ||parrot-flow.com^
 ||robin-flow.com^
-||adsmoloco.com^
 ||app-ads-services.com^
 ||adtmonetize.com^
 ||rugfrfji.win^
@@ -2499,7 +2490,6 @@ vkcdnservice.appspot.com^
 ||ads*-normal*.zijieapi.com^
 ||sheilaqeb.com^
 ||api.adaether.com^
-||cvt-s2.agl005.tech^
 ||rainmaker.production-public.tubi.io^
 ||configure.rayjump.com^
 ||v.kidoz.net^
@@ -2557,7 +2547,6 @@ vkcdnservice.appspot.com^
 ||news-cdn.site^
 ||mossru.com^
 ||jjpp.lmtjapi.com^
-||ad.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||ad.snaptube.app^
@@ -2607,6 +2596,7 @@ vkcdnservice.appspot.com^
 ||ad.mediamixer.co.kr^
 ||adfork.co.kr^
 ||ads*-normal-lq.zijieapi.com^
+||ad.zijieapi.com^
 ||pglstatp-toutiao.com^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
@@ -2751,7 +2741,6 @@ vkcdnservice.appspot.com^
 ||cads.scalemonk.com^
 ||adspot.tfgapps.com^
 ||analytics.scalemonk.com^
-||vrizead.com^
 ||adpopcorn.com^
 ||pangle.io^
 ||pubnative.info^
@@ -2773,12 +2762,10 @@ vkcdnservice.appspot.com^
 ||adslog.apexinnotech.com^
 ||matrix.dailyinnovation.biz^
 ||powerlinks.com^
-||adkernel.com^
 ||dotomi.com^
 ||adentifi.com^
 ||springserve.com^
 ||aniview.com^
-||mfadsrvr.com^
 ||dm.toutiao.com^
 ||ads-leaseweb.appsgeyser.com^
 ||ads.appsgeyser.com^
@@ -2955,12 +2942,10 @@ vkcdnservice.appspot.com^
 ||1mp.mobi^
 ||247realmedia.com^
 ||31.14.252.148^
-||360yield.com^
 ||abnad.net^
 ||abtest.swrve.com^
 ||ad*.nexage.com^
 ||ad-brix.com^
-||ad-stir.com^
 ||ad-x.co.uk^
 ||ad.apps.fm^
 ||ad.apsalar.com^
@@ -2993,7 +2978,6 @@ vkcdnservice.appspot.com^
 ||admedia.com^
 ||admicro1.vcmedia.vn^
 ||admixer.co.kr^
-||admixer.net^
 ||admulti.com^
 ||adonly.com^
 ||vm5apis.com^
@@ -3015,6 +2999,7 @@ vkcdnservice.appspot.com^
 ||adserver.kimia.es^
 ||adshost2.com^
 ||adsmo.ru^
+||adsmoloco.com^
 ||adsniper.ru^
 ||adsrvr.org^
 ||adtech.de^
@@ -3030,7 +3015,6 @@ vkcdnservice.appspot.com^
 ||adz.mobi^
 ||adzerk.net^
 ||adzmobi.com^
-||am15.net^
 ||amobee.com^
 ||api.fusepowered.com^
 ||api.usebutton.com^
@@ -3046,7 +3030,6 @@ vkcdnservice.appspot.com^
 ||assoc-amazon.com^
 ||astrsk.net^
 ||atti.com^
-||axonix.com^
 ||bannerflow.com^
 ||banners.etermax.com^
 ||bannersnack.com^
@@ -3076,7 +3059,6 @@ vkcdnservice.appspot.com^
 ||chango.com^
 ||chartboost.com^
 ||clk.taptica.com^
-||clkfeed.com^
 ||comscore.com^
 ||config.tremorhub.com^
 ||cp.pushwoosh.com^
@@ -3162,7 +3144,6 @@ vkcdnservice.appspot.com^
 ||mobilecore.com^
 ||mobiledl.adboe.com^
 ||mofox.com^
-||mtburn.com^
 ||mtburn.jp^
 ||mtrcss.com^
 ||mydas.mobi^
@@ -3190,10 +3171,8 @@ vkcdnservice.appspot.com^
 ||pos.baidu.com^
 ||production-adserver-*.amazonaws.com^
 ||pub1.co^
-||pubmatic.com^
 ||pubnative.net^
 ||questionmarket.com^
-||revcontent.com^
 ||rotaban.ru^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||saymedia.com^
@@ -3206,8 +3185,6 @@ vkcdnservice.appspot.com^
 ||sdk-api-v1.singular.net^
 ||skadnetwork.singular.net^
 ||sitescout.com^
-||smaclick.com^
-||smartadserver.com^
 ||sonobi.com^
 ||splash.appsgeyser.com^
 ||sscefsol.com^
@@ -3229,12 +3206,9 @@ vkcdnservice.appspot.com^
 ||tizerclik.com^
 ||tm1.hoiplay.com^
 ||tonefuse.com^
-||tpc.googlesyndication.com^
 ||track.cpatool.net^
 ||trackimpression.com^
 ||tracking.applift.com^
-||tradeadexchange.com^
-||trafficjunky.net^
 ||trafmag.com^
 ||traktum.com^
 ||trk.glispa.com^
@@ -12760,6 +12734,7 @@ dlsdk.appsflyer.com^
 ||adlook.net^
 ||admachina.com^
 ||admilk.ru^
+||admixer.net^
 ||admulti.
 ||adne.info^
 ||adnetpartner.com^
@@ -15463,6 +15438,7 @@ dlsdk.appsflyer.com^
 ||assets.adfenix.com^
 ||assets.bonad.io^
 ||assets.heylink.com^
+||assets.revcontent.com^
 ||assets.zubitracker.io^
 ||auction-release.mlpapi.com^
 ||audience.systems^
@@ -15959,6 +15935,7 @@ dlsdk.appsflyer.com^
 ||toppmarkensverige.com^
 ||tourn.co^
 ||tourn.se^
+||tpc.googlesyndication.com^
 ||track.postkodlotteriet.se^
 ||track.uniqodo.com^
 ||track.yetric.net^
@@ -27305,10 +27282,13 @@ analytics-*.aasaam.com
 ||wtg-ads.com^
 ||shoppingcall.me^
 ||bidr.io^
+||pubmatic.com^
 ||3lift.com^
 ||casalemedia.com^
 ||openx.net^
+||smartadserver.com^
 ||lijit.com^
+||360yield.com^
 ||quantserve.com^
 ||adnxs.com^
 ||adskeeper.com^
