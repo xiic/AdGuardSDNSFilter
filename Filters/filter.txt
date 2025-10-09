@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-09T00:11:56.053Z
+! Last modified: 2025-10-09T02:29:03.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15314,8 +15314,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-10-01 06:49:55 CEST
-# entries:        1151
+# last updated:   2025-10-09 04:11:51 CEST
+# entries:        1152
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.omappapi.com^
@@ -15942,6 +15942,7 @@ dlsdk.appsflyer.com^
 ||tourn.co^
 ||tourn.se^
 ||tpc.googlesyndication.com^
+||tr.apsisforms.com^
 ||track.postkodlotteriet.se^
 ||track.uniqodo.com^
 ||track.yetric.net^
@@ -21947,6 +21948,12 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||o6oxvugdl.com^
+||wizoevljj.com^
+||oiscuy.icu^
+||hlj10090ip.com^
+||lwbo.cn^
+||ogdoad7.top^
 ||vwtbrzymoz.com^
 ||bsyrimw.xyz^
 ||7p5ruxflv0.com^
