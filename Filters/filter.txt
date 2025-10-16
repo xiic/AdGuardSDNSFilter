@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-16T04:03:54.610Z
+! Last modified: 2025-10-16T06:05:17.103Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6462,6 +6462,9 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||experiment.pixverse.ai^
+||capture.pixverse.ai^
+||report.pixverse.ai^
 ||dxp.baidu.com^
 ||nsclickvideo.xiaodutv.com^
 ||api-access.pangolin-sdk-toutiao1.com^
@@ -9258,6 +9261,7 @@ dlsdk.appsflyer.com^
 ||gloriousbeef.com^
 ||glowingmeadow.com^
 ||gluedpixel.com^
+||goddesslamps.com^
 ||godseedband.com^
 ||goldfishgrowth.com^
 ||goldstudies.com^
@@ -9390,6 +9394,7 @@ dlsdk.appsflyer.com^
 ||intentlens.com^
 ||internalcondition.com^
 ||internalsink.com^
+||inventorycache.com^
 ||inventtango.com^
 ||iotapool.com^
 ||irelandroad.com^
@@ -9559,6 +9564,7 @@ dlsdk.appsflyer.com^
 ||mindfulgem.com^
 ||mindlessmark.com^
 ||mineinvoice.com^
+||minibilling.com^
 ||minorcattle.com^
 ||minuteburst.com^
 ||miscreantmoon.com^
@@ -9625,6 +9631,7 @@ dlsdk.appsflyer.com^
 ||notcardboard.com^
 ||notconscious.com^
 ||notifyglass.com^
+||notrealcat.com^
 ||noundictionary.com^
 ||novaseekers.com^
 ||nowaymail.com^
