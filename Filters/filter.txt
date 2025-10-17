@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-17T06:04:58.405Z
+! Last modified: 2025-10-17T08:04:41.102Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9441,6 +9441,7 @@ dlsdk.appsflyer.com^
 ||kidpowers.com^
 ||kindasingle.com^
 ||kindhush.com^
+||kindlereunion.com^
 ||kitetuning.com^
 ||kittycatking.com^
 ||knewpenny.com^
@@ -12081,6 +12082,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||6i7y3i.ru^
 ||punchmedia.ru^
 ||imaginarybad.com^
 ||california1955.nl^
@@ -14921,6 +14923,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
 ||x9t7g4m2qk2.azurewebsites.net^
 ||kjdsfjisdfjr23.azurewebsites.net^
 ||content2.nrc.nl^
@@ -22016,6 +22019,8 @@ dlsdk.appsflyer.com^
 ||okoy.cn^
 ||btjsvl.icu^
 ||kw17vswzu.com^
+||zsy10171yok.com^
+||com052bin.com^
 ||zsy10161yok.com^
 ||hhr3ybjsoy.com^
 ||yizj5fcwaj.com^
