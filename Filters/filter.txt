@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-19T14:03:07.638Z
+! Last modified: 2025-10-19T14:30:37.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7953,7 +7953,6 @@ dlsdk.appsflyer.com^
 ||p.metrilo.com^
 ||p.placed.com^
 ||p.tryretool.com^
-||p.typekit.net^
 ||page-events-ustats.udemy.com^
 ||pages-stats.rbl.ms^
 ||pagesense-collect.zoho.com^
@@ -11747,7 +11746,6 @@ dlsdk.appsflyer.com^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||sas.nsm-corp.com^
-||tracker.digitalcamp.co.kr^
 ! Latvian
 ||counter.hackers.lv^
 ! Lithuanian
@@ -27220,7 +27218,7 @@ analytics-*.aasaam.com
 ||ewpb.site^
 !
 ! Source name: List-KR filter ad servers
-! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
+! Source: https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/adblocking/filters-share/1st_domains.txt
 !
 ||ad.kakaobank.com^
 ||ad-pulse.kakaobank.cloud^
@@ -27327,8 +27325,9 @@ analytics-*.aasaam.com
 ||adcastmarket.com^
 !
 ! Source name: List-KR filter third-party ad servers
-! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt
+! Source: https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/adblocking/filters-share/3rd_domains.txt
 !
+||digitalcamp.co.kr^
 ||mman.kr^
 ||admize.io^
 ||adguru.kr^
@@ -27713,6 +27712,14 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/215116
+@@||puzzles-games-api.gp-prod.conde.digital^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/212351
+! Blocked by CNAME slgnt.eu
+@@||news.warhammer.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/211060
+! Blocked by CNAME treehousei.com
+@@||prod.impartner.live^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/210955
 ! Blocked by CNAME publisher1st.com
 @@||cdn.atmedia.hu^|
@@ -27843,9 +27850,11 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
 ! Blocked by CNAME getblueshift.com
 @@||clickattr.wayup.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/213677
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
 ! Blocked by CNAME adperfect.com
 @@||remembering.ca^|
+@@||obituaries.thestar.com^|
 @@||obituaries.therecord.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
 @@||catchup.thisisdax.com^|
