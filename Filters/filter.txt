@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-21T04:04:03.721Z
+! Last modified: 2025-10-21T06:04:52.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16390,8 +16390,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Oct 2025 10:30 UTC+7
-! Version: 2510211030
+! Last modified: 21 Oct 2025 11:14 UTC+7
+! Version: 2510211114
 ! Blocked: 889 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17264,9 +17264,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 21 Oct 2025 10:29 UTC+7
-! Version: 2510211029
-! Blocked: 4.777 rules
+! Last modified: 21 Oct 2025 11:13 UTC+7
+! Version: 2510211113
+! Blocked: 4.779 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17344,6 +17344,7 @@ dlsdk.appsflyer.com^
 ||9smomo.com^
 ||Free-4paid.com^
 ||a.viethu.com^
+||a46e0368.forwarding-request-consent.pages.dev^
 ||a666.vn^
 ||aaeeonmart.com^
 ||abb-vnbank.cc^
@@ -19711,6 +19712,7 @@ dlsdk.appsflyer.com^
 ||regis2tarsgroup.click^
 ||regis2tarsinc.click^
 ||reglienquan.online^
+||repingz.com^
 ||resonherse.cfd^
 ||rest.redirectme.net^
 ||restless.su^
