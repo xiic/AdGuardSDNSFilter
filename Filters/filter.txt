@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-25T08:03:57.767Z
+! Last modified: 2025-10-25T10:03:23.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3351,7 +3351,6 @@ vkcdnservice.appspot.com^
 ||logstash-*.radio-canada.ca^
 ||leo.hepsiburada.com^
 ||usage.trackjs.com^
-||dlt-beacon.dynatrace-managed.com^
 ||rainbow-prod-jdlog.ldoverseas.com^
 ||posthog.lingvanex.com^
 ||analytics.vgtimes.com^
@@ -3482,7 +3481,6 @@ vkcdnservice.appspot.com^
 ||nexus.uniten.io^
 ||rusty-heartbeat.services.ps.axelspringer.de^
 ||uac.mk.co.kr^
-||sp.stapecdn.com^
 ||cdn.powerinboxedge.com^
 ||tracker.ris.promo^
 ||nid.thesun.co.uk^
@@ -6721,7 +6719,6 @@ dlsdk.appsflyer.com^
 ||mediation.mwmadnetworks.com^
 ||xplosion.de^
 ||theadex.com^
-||adui.tg.meitu.com^
 ||meitustat.com^
 ||analysis.vesync.com^
 ||insights.zennioptical.com^
@@ -22037,6 +22034,7 @@ dlsdk.appsflyer.com^
 ||6pctuhriw.com^
 ||4nc4qc1fo.com^
 ||zdh10251lo.com^
+||birbmcmp.icu^
 ||zdh10240lo.com^
 ||3ge064tt79.com^
 ||fjalsr83a6.com^
