@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-27T22:03:33.688Z
+! Last modified: 2025-10-28T00:12:06.011Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8735,6 +8735,7 @@ dlsdk.appsflyer.com^
 ||bilingualgeek.com^
 ||billowybead.com^
 ||billowybelief.com^
+||billtable.com^
 ||binarycrest.com^
 ||binspiredtees.com^
 ||birthdaybelief.com^
@@ -9569,6 +9570,7 @@ dlsdk.appsflyer.com^
 ||merryopal.com^
 ||merryvault.com^
 ||mesaviewlodge.com^
+||messagelists.com^
 ||messmonster.com^
 ||messyoranges.com^
 ||metajaws.com^
@@ -22033,6 +22035,14 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||vtx2r60nuf.com^
+||xmo0oixbx8.com^
+||listlessly1.top^
+||dlelkindp.com^
+||zdh10280lo.com^
+||ttnjhlhys.icu^
+||rsoz.cn^
+||tkdjrsee.icu^
 ||phodhithp.com^
 ||zdh10270lo.com^
 ||1kiaxb3kl.com^
