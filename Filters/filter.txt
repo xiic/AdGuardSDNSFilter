@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-28T20:04:15.586Z
+! Last modified: 2025-10-28T22:03:54.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3292,6 +3292,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||applytics.my1337jog.run^
 ||data-track*.yingxiong.com^
 ||applytics.os4work.com^
 ||applytics.napps-1.com^
@@ -6823,6 +6824,7 @@ dlsdk.appsflyer.com^
 ||conff.dc.oppomobile.com^
 ||dragate.dc.oppomobile.com^
 ||esa-reg-eup.myoppo.com^
+||obus-in.dc.heytapmobile.com^
 ||adx-in.ads.heytapmobile.com^
 ||dragate-in-dc.heytapmobile.com^
 ||omes-sec.heytapmobile.com^
@@ -9214,6 +9216,7 @@ dlsdk.appsflyer.com^
 ||framebanana.com^
 ||franksfloral.com^
 ||franticroof.com^
+||freedomgrail.com^
 ||freezeassets.com^
 ||freezingbuilding.com^
 ||frequentflesh.com^
@@ -9487,6 +9490,7 @@ dlsdk.appsflyer.com^
 ||likethedog.com^
 ||limepeal.com^
 ||linkedleg.com^
+||linksoutside.com^
 ||livelumber.com^
 ||livelylaugh.com^
 ||livingsleet.com^
@@ -9756,6 +9760,7 @@ dlsdk.appsflyer.com^
 ||polishedfolly.com^
 ||politeplanes.com^
 ||politicalporter.com^
+||popmixradio.com^
 ||popplantation.com^
 ||possibleboats.com^
 ||possiblepencil.com^
