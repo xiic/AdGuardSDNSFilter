@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-30T20:04:01.155Z
+! Last modified: 2025-10-30T22:03:51.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6635,7 +6635,6 @@ dlsdk.appsflyer.com^
 ||aws.userlogsanalytics.com^
 ||atb-stats-api.imolive.tv^
 ||i.mxplayer.j2inter.com^
-||flashtalking.com^
 ||stat.weamvideo.com^
 ||log.ultimatecleaner.pro^
 ||impression.link^
@@ -6725,8 +6724,6 @@ dlsdk.appsflyer.com^
 ||analytics.wildlifestudios.com^
 ||opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io^
 ||mediation.mwmadnetworks.com^
-||xplosion.de^
-||theadex.com^
 ||meitustat.com^
 ||analysis.vesync.com^
 ||insights.zennioptical.com^
@@ -7038,7 +7035,6 @@ dlsdk.appsflyer.com^
 ||tenant-content.apm.appfolio-analytics.com^
 ||log.avlyun.com^
 ||api-analytics.prod.birdapp.com^
-||mpianalytics.com^
 ||umengjmacs.m.taobao.com^
 ||umengacs.m.taobao.com^
 ||analytics-api.liveapp.com^
@@ -7082,18 +7078,6 @@ dlsdk.appsflyer.com^
 ||analytics.snaptube.app^
 ||px.ucweb.com^
 ||adtima-static.zadn.vn^
-||akstat.io^
-||chartbeat.net^
-||advangelists.com^
-||agkn.com^
-||33across.com^
-||cpx.to^
-||bfmio.com^
-||mathtag.com^
-||w55c.net^
-||bidswitch.net^
-||simpli.fi^
-||getclicky.com^
 ||ztevents.zaloapp.com^
 ||tunion-api.m.taobao.com^
 ||nbsdk-baichuan.taobao.com^
@@ -7167,7 +7151,6 @@ dlsdk.appsflyer.com^
 ||tracking.trnox.com^
 ||rts.mobula.sdk.duapps.com^
 ||omni-ads.omni.news^
-||npario-inc.net^
 ||wzrkt.com^
 ||analytics-events.inshorts.com^
 ||e-ssl.apsalar.com^
@@ -7177,7 +7160,6 @@ dlsdk.appsflyer.com^
 ||tracker.adotmob.com^
 ||analytics-tracker.thescore.com^
 ||report*.appmetrica.webvisor.com^
-||geoplugin.net^
 ||d.applvn.com^
 ||rt.applvn.com^
 ||api*.moengage.com^
@@ -7186,8 +7168,6 @@ dlsdk.appsflyer.com^
 ||puds.ucweb.com^
 ||patriot.cs.pp.cn^
 ||sdk-orion.appboy.com^
-||pippio.com^
-||io.narrative.io^
 ||loadus.exelator.com^
 ||api.mixpanel.com^
 ||decide.mixpanel.com^
@@ -7232,23 +7212,18 @@ dlsdk.appsflyer.com^
 ||bidder.mdspinc.com^
 ||c.bigmir.net^
 ||cedexis-radar.net^
-||cedexis.com^
 ||clientmetrics-augmentum.kik.com^
 ||clientmetrics.kik.com^
 ||collector.brandify.com^
 ||config2.mparticle.com^
 ||crasheye.cn^
-||crwdcntrl.net^
-||demdex.net^
 ||etl.xlmc.sandai.net^
 ||events.lbesecapi.com^
 ||geoip.fotoable.net^
 ||iam-agof-app.irquest.com^
 ||installtracker.com^
-||krxd.net^
 ||lepodownload.mediatek.com^
 ||log.umsns.com^
-||lp4.io^
 ||metrics.sdkbox.com^
 ||mlb.did.ijinshan.com^
 ||mobile-collector.newrelic.com^
@@ -7256,11 +7231,9 @@ dlsdk.appsflyer.com^
 ||ms.cmcm.com^
 ||nativesdks.mparticle.com^
 ||nrc.tapas.net^
-||openstat.net^
 ||pingma.qq.com^
 ||prugskh.com^
 ||prugskh.net^
-||quantcount.com^
 ||rc.dxsvr.com^
 ||rlog-api.under9.co^
 ||rlog.9gag.com^
@@ -7274,10 +7247,8 @@ dlsdk.appsflyer.com^
 ||tracking.lenzmx.com^
 ||trk.pinterest.com^
 ||tunein.adswizz.com^
-||upalytics.com^
 ||ws.ksmobile.net^
 ||www-google-analytics.l.google.com^
-||yadro.ru^
 ||ymtracking.com^
 !
 ! https://github.com/hagezi/dns-blocklists/issues/6060
@@ -7337,7 +7308,6 @@ dlsdk.appsflyer.com^
 ||intlsucus.ucweb.com^
 ||adtrack-intl.ucweb.com^
 ||mum.alibabachengdun.com^
-||localytics.com^
 ||upoll.umengcloud.com^
 ||utop.umengcloud.com^
 ! KingRoot
@@ -7653,6 +7623,7 @@ dlsdk.appsflyer.com^
 ||counter.powr.io^
 ||counter.powweb.com^
 ||counter.tldw.me^
+||counter.yadro.ru^
 ||counters.freewebs.com^
 ||cp.official-coupons.com^
 ||cp.official-deals.co.uk^
@@ -10755,6 +10726,7 @@ dlsdk.appsflyer.com^
 ||wp-worthy.de^
 ||xcounter.ch^
 ||xhit.com^
+||xplosion.de^
 ||yoochoose.net^
 ! French
 ||123compteur.com^
@@ -11881,6 +11853,7 @@ dlsdk.appsflyer.com^
 ||top.elec.ru^
 ||tracking.gpm-rtv.ru^
 ||uc.xddi.ru^
+||upstats.yadro.ru^
 ||visitor-microservice.ext.p-a.im^
 ||visor.sberbank.ru^
 ||webtrack.biz^
@@ -12804,6 +12777,7 @@ dlsdk.appsflyer.com^
 ||ad.outstream.today^
 ||ad.oyy.ru^
 ||ad.vo-media.ru^
+||ad.yadro.ru^
 ||ad1game.ru^
 ||ad2.rambler.ru^
 ||ad3.rambler.ru^
@@ -13318,6 +13292,7 @@ dlsdk.appsflyer.com^
 ||mestkom.ru^
 ||metaprofit.net^
 ||mezima.com^
+||mg.yadro.ru^
 ||mglsk.com^
 ||micro-win.com^
 ||minidoc.ru^
@@ -15705,7 +15680,9 @@ dlsdk.appsflyer.com^
 ||dinapengar.compricer.se^
 ||dinbilgaranti.se^
 ||dmp.adform.net^
+||dmp.theadex.com^
 ||doktor-se.onelink.me^
+||dpm.demdex.net^
 ||driftt.com^
 ||dspk.kindredplc.com^
 ||eas.mediekompaniet.com^
@@ -15766,6 +15743,7 @@ dlsdk.appsflyer.com^
 ||iba.feedblitz.com^
 ||ib.adnxs-simple.com^
 ||iconosquare.com^
+||id.crwdcntrl.net^
 ||images.passendo.com^
 ||images-ads.aland.com^
 ||img.ascontentcloud.com^
@@ -15854,6 +15832,7 @@ dlsdk.appsflyer.com^
 ||nichehuset.dk^
 ||nitroscripts.com^
 ||norranstats.azurewebsites.net^
+||npario-inc.net^
 ||ntrfr.expekt.se^
 ||ntrfr.leovegas.com^
 ||omni-ad-blocket.herokuapp.com^
@@ -15864,6 +15843,7 @@ dlsdk.appsflyer.com^
 ||optnmnstr.com^
 ||otc-cdn.relevant-digital.com^
 ||owa.agriprim.se^
+||p.lp4.io^
 ||pa.rxthdr.com^
 ||partners.mcontigo.com^
 ||pcf.tdscd.com^
@@ -15872,12 +15852,14 @@ dlsdk.appsflyer.com^
 ||pixel.adsafeprotected.com^
 ||pixel.glimr.io^
 ||pixel.ipinfo.io^
+||pixel.mathtag.com^
 ||pixel-profile-cloud.eniro.com^
 ||platform-api.sharethis.com^
 ||plausible.webfokus.no^
 ||plus.sharedcount.com^
 ||pm.azerioncircle.com^
 ||portalhc.com^
+||pp.lp4.io^
 ||premium.analys.cloud^
 ||protagcdn.com^
 ||proxyas.com^
@@ -15951,6 +15933,7 @@ dlsdk.appsflyer.com^
 ||seo.compado.com^
 ||seoab.io^
 ||seonify.com^
+||servedby.flashtalking.com^
 ||servedby.studads.com^
 ||servedby.aqua-adserver.com^
 ||servedby.revive-adserver.net^
@@ -15982,6 +15965,7 @@ dlsdk.appsflyer.com^
 ||stat03.stat.cliche.se^
 ||statcounter.va-endpoint.com^
 ||static.chartbeat.com^
+||static.getclicky.com^
 ||static.hotjar.com^
 ||static.matchads.net^
 ||static.step.dk^
@@ -16031,6 +16015,7 @@ dlsdk.appsflyer.com^
 ||tagging-service.fotbollskanalen.se^
 ||tagging-service.tv4play.se^
 ||tagging-service.tv4.se^
+||tags.crwdcntrl.net^
 ||tags.smilewanted.com^
 ||telemetry.bambuser.io^
 ||telemetry.seenthis.io^
@@ -27424,9 +27409,11 @@ analytics-*.aasaam.com
 ||wtg-ads.com^
 ||shoppingcall.me^
 ||bidr.io^
+||bidswitch.net^
 ||pubmatic.com^
 ||3lift.com^
 ||casalemedia.com^
+||33across.com^
 ||openx.net^
 ||smartadserver.com^
 ||lijit.com^
@@ -27713,6 +27700,7 @@ analytics-*.aasaam.com
 ||analytics.femalefirst.co.uk^
 ||analytics.go.com^
 ||analytics.jabong.com^
+||analytics.localytics.com^
 ||analytics.newsinc.com^
 ||analytics.services.distractify.com^
 ||analytics.thetab.com^
