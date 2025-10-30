@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-30T18:03:49.021Z
+! Last modified: 2025-10-30T20:04:01.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8977,6 +8977,7 @@ dlsdk.appsflyer.com^
 ||cubchannel.com^
 ||cubepins.com^
 ||cuddlycake.com^
+||cuddlylab.com^
 ||cuddlylunchroom.com^
 ||culturedcamera.com^
 ||culturedfeather.com^
@@ -9569,6 +9570,7 @@ dlsdk.appsflyer.com^
 ||melodiousharmony.com^
 ||melodioussymphony.com^
 ||meltmilk.com^
+||memeorigin.com^
 ||memolight.com^
 ||memopilot.com^
 ||memorizematch.com^
@@ -9686,6 +9688,7 @@ dlsdk.appsflyer.com^
 ||operationchicken.com^
 ||operationnail.com^
 ||optimallimit.com^
+||optionsnomad.com^
 ||opulentsylvan.com^
 ||orangebirdie.com^
 ||orientedargument.com^
@@ -10221,6 +10224,7 @@ dlsdk.appsflyer.com^
 ||subseasecurity.com^
 ||subsequentstew.com^
 ||substantialgrade.com^
+||successbuffet.com^
 ||successfuelevents.com^
 ||suddensoda.com^
 ||suggestionbridge.com^
