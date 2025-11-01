@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-01T04:03:50.096Z
+! Last modified: 2025-11-01T06:04:06.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8178,6 +8178,7 @@ dlsdk.appsflyer.com^
 ||t.commandbar.com^
 ||t.dgm-au.com^
 ||t.enuygun.com^
+||t.fastcmp.com^
 ||t.fullres.net^
 ||t.ghostboard.io^
 ||t.greenbids.ai^
@@ -16017,7 +16018,6 @@ dlsdk.appsflyer.com^
 ||t.atmng.io^
 ||t.contentinsights.com^
 ||t.elasticsuite.io^
-||t.fastcmp.com^
 ||t.fml.rip^
 ||t.gatorleads.co.uk^
 ||t0.extreme-dm.com^
@@ -22064,6 +22064,8 @@ dlsdk.appsflyer.com^
 ||9gau3j8x7.com^
 ||srfo.cn^
 ||zngvqwp.icu^
+||01anf08rf.com^
+||zdh11011lo.com^
 ||m17d1e83q.com^
 ||pzq7ilwvv.com^
 ||specialty75.com^
@@ -22111,10 +22113,10 @@ dlsdk.appsflyer.com^
 ||ttnjhlhys.icu^
 ||rsoz.cn^
 ||tkdjrsee.icu^
-||jxal.cn^
-||rstdfyerm.icu^
 ||0xzxwnkqdu.com^
+||jxal.cn^
 ||3sqvexc60y.com^
+||rstdfyerm.icu^
 ||zdh10281lo.com^
 ||twfovierbz.com^
 ||9l4i9edu.top^
