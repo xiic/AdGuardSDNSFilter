@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-02T00:13:47.242Z
+! Last modified: 2025-11-02T02:34:13.130Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2113,6 +2113,7 @@ vkcdnservice.appspot.com^
 ||asg.aphex.me^
 ||asg.bhabhiporn.pro^
 ||asg.irontube.net^
+||asg.moviesex.org^
 ||asg.pornvids.fr^
 ||asg.sdtraff.com^
 ||av.sharktube.net^
@@ -22068,6 +22069,11 @@ dlsdk.appsflyer.com^
 ||reflection67.top^
 ||caitlinagathami.com^
 ||uzurliev.com^
+||bcjhlhuhq.icu^
+||zdh11020lo.com^
+||vpvq.cn^
+||obiknmm.icu^
+||m69tvg6wqd.com^
 ||5h3wnuhr8.com^
 ||dz3tfc2m9.com^
 ||meituancdn.cc^
