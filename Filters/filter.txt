@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-09T12:05:01.405Z
+! Last modified: 2025-11-09T14:03:24.465Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14326,6 +14326,7 @@ dlsdk.appsflyer.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||js.miyuki-web.net^
 ||girls-escort.tokyo^
 ||ad.zetacx.net^
 ||widget-api.dmm.co.jp^
@@ -14342,7 +14343,6 @@ dlsdk.appsflyer.com^
 ||paradise1972.com^
 ||line-jp.live^
 ||assessoriagmv.com^
-||brightskillsacademy.com^
 ||japans-offers.com^
 ||ibento-yahoo.com^
 ||adlookmanager.com^
@@ -14417,7 +14417,6 @@ dlsdk.appsflyer.com^
 ||js.medi-8.net^
 ||presco.ai^
 ||affiliate.casino-wonder.com^
-||affiliate.miracle-miracle.com^
 ||samuraiclick.com^
 ||sexpixbox.com^
 ||ads.contents.fc2.com^
@@ -14493,7 +14492,6 @@ dlsdk.appsflyer.com^
 ||devo.jp^
 ||ad.ddo.jp^
 ||ad-nex.com^
-||js.winc-ad.com^
 ||reemo-ad.jp^
 ||cdn.alistcloud.com^
 ||candy-network.com^
