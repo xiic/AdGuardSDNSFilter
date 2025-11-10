@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-10T14:04:15.055Z
+! Last modified: 2025-11-10T16:04:22.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2474,6 +2474,8 @@ vkcdnservice.appspot.com^
 ! Yandex ads in apps
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+!
+||bstgms4y.com^
 ||reward-api.csjplatform.com^
 ||tbiwtech.com^
 ||impbid.com^
@@ -2830,9 +2832,7 @@ vkcdnservice.appspot.com^
 ||thind-gke-euw.prd.data.corp.unity3d.com^
 ||unityads.unity3d.com^
 ||nkis.nikkei.com^
-||gameanalysis.appcpi.net^
 ||ads.bulldogcpi.com^
-||other.appcpi.net^
 ||d19xf4taj229i8.cloudfront.net^
 ||cafe-latte.myshoplus.com^
 ||luckyforworlds.com^
@@ -3303,6 +3303,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||webpushstat-sgp.engagelab.com^
 ||analytics.simpler.so^
 ||bizlog-gateway.myrealtrip.com^
 ||api-ktm.kkday.com^
@@ -6505,6 +6506,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||appcpi.net^
 ||event.aimailhome.io^
 ||mon.capcutapi.us^
 ||mssdk.capcutapi.us
@@ -7081,7 +7083,6 @@ dlsdk.appsflyer.com^
 ||log-collector.shopee.
 ||seller-log-collector.shopee.
 ||telemetry.voxeet.com^
-||usertrack.appcpi.net^
 ||api*.amplitude.com^
 ||conversions.appsflyer.com^
 ||collect.serious.li^
@@ -7154,9 +7155,6 @@ dlsdk.appsflyer.com^
 ||stats-a.maxthon.com^
 ||pgapi.ksmobile.com^
 ||gcm.ksmobile.net^
-||adsaccount.appcpi.net^
-||adtrack.appcpi.net^
-||remain.appcpi.net^
 ||appmetr.com^
 ||stats.abbi.io^
 ||tracking.aatkit.com^
@@ -22121,6 +22119,9 @@ dlsdk.appsflyer.com^
 ||wbea.cn^
 ||fxab9iuprt.com^
 ||lls11101ko.com^
+||5qjspf2c.xyz^
+||o8u3n4q7fe.com^
+||rlavvoeo.com^
 ||hc1kycrud.com^
 ||lls11090ko.com^
 ||vocabulary83.com^
