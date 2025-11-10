@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-10T02:34:19.080Z
+! Last modified: 2025-11-10T04:07:50.059Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16477,8 +16477,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Nov 2025 15:59 UTC+7
-! Version: 2511051559
+! Last modified: 10 Nov 2025 10:27 UTC+7
+! Version: 2511101027
 ! Blocked: 889 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17351,9 +17351,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Nov 2025 15:59 UTC+7
-! Version: 2511051559
-! Blocked: 4.780 rules
+! Last modified: 10 Nov 2025 10:27 UTC+7
+! Version: 2511101027
+! Blocked: 4.782 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17445,6 +17445,7 @@ dlsdk.appsflyer.com^
 ||abfishop.com^
 ||abfishop.org^
 ||abutparker.com^
+||abxvr.ndkp.tech^
 ||acb.vn-c.xyz^
 ||acb.vn-ol.top^
 ||acbbank.xyz^
@@ -17496,6 +17497,7 @@ dlsdk.appsflyer.com^
 ||ahoravideo-schnellvpn.xyz^
 ||ahthegha.cfd^
 ||aiagjgqz.njasu.de^
+||aikguairn.osmt.link^
 ||airst.giize.com^
 ||aivaylaco.com^
 ||alibabavip.xyz^
