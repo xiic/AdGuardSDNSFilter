@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-15T02:31:07.779Z
+! Last modified: 2025-11-15T04:03:42.906Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7541,6 +7541,7 @@ dlsdk.appsflyer.com^
 ||applets.ebxcdn.com^
 ||apps-pbd.ctraffic.io^
 ||argos.citruserve.com^
+||assets.9gtb.com^
 ||async-px.dynamicyield.com^
 ||attributiontrackingga.googlecode.com^
 ||audience.newscgp.com^
@@ -7609,6 +7610,7 @@ dlsdk.appsflyer.com^
 ||cdn.ravm.tv^
 ||cdns.brsrvr.com^
 ||cf-pixelfront-analytics.widencdn.net^
+||cf.api.instant.one^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.puretec.de^
@@ -7773,6 +7775,7 @@ dlsdk.appsflyer.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.chatlead.com^
 ||events-endpoint.pointandplace.com^
+||events-ocu.zipify.com^
 ||events-proxy.mintlify.com
 ||events.air.tv^
 ||events.api.secureserver.net^
@@ -8033,6 +8036,7 @@ dlsdk.appsflyer.com^
 ||pixel.sprinklr.com^
 ||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
+||pixel.wetracked.io^
 ||pixel.yola.com^
 ||pixels.afcdn.com^
 ||pixels.zalify.com^
@@ -8250,6 +8254,7 @@ dlsdk.appsflyer.com^
 ||t.smile.eu^
 ||t.spbx.app^
 ||t.spot.im^
+||t.vibe.co^
 ||t2.t2b.click^
 ||taboola.com^
 ||taboolasyndication.com^
@@ -22159,6 +22164,8 @@ dlsdk.appsflyer.com^
 ||classroomlf.com^
 ||lmtruueagl.com^
 ||vnyqemhir.com^
+||asy76rvai.com^
+||obgk.cn^
 ||o9qdqbu6nu.com^
 ||yxwg21lyyn.com^
 ||judicial4.com^
