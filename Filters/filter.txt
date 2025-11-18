@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-18T12:05:43.475Z
+! Last modified: 2025-11-18T14:03:52.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3308,6 +3308,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.adjust.io^
 ||jitsu.ixbt.site^
 ||sgtm.ixbt.site^
 ||sp.aviasales.ru^
@@ -6521,6 +6522,14 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||logcollection.ronghub.com^
+||stats.*.rongnav.com^
+||log.wigoliv.work^
+||tracking.affattr.com^
+||log.suddenclean.com^
+||infinario.com^
+||log.phonefreshfix.live^
+||log-mediation.easemobi.net^
 ||trkapi.impact.com^
 ||lw-c-log.lastwarapp.com^
 ||bi-tracker-global.rivergame.net^
@@ -12219,6 +12228,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||innovation-lab.ru^
 ||paintejuke.com^
 ||agl007.site^
 ||6i7y3i.ru^
