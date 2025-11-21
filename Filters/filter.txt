@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-21T12:05:26.518Z
+! Last modified: 2025-11-21T14:03:50.362Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15538,8 +15538,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-11-05 04:09:03 CET
-# entries:        1152
+# last updated:   2025-11-21 14:10:31 CET
+# entries:        1154
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.omappapi.com^
@@ -15659,7 +15659,6 @@ dlsdk.appsflyer.com^
 ||app.truconversion.com^
 ||app.yieldify.com^
 ||apps.shareaholic.com^
-||apps-cdn.relevant-digital.com^
 ||app.visitor-analytics.io^
 ||apsislead.com^
 ||aquaplatform.com^
@@ -15778,7 +15777,6 @@ dlsdk.appsflyer.com^
 ||cdn.id5-sync.com^
 ||cdn.lrkt-in.com^
 ||cdn.pushmaster-cdn.xyz^
-||cdn.relevant-digital.com^
 ||cdn.vip-hd-movies.xyz^
 ||cdn.zx-adnet.com^
 ||cdp-eu.customer.io^
@@ -15848,7 +15846,6 @@ dlsdk.appsflyer.com^
 ||embed.bannerboo.com^
 ||embi-media.com^
 ||emea.hhkld.com^
-||eniro-cdn.relevant-digital.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
 ||eum.instana.io^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
@@ -15971,7 +15968,6 @@ dlsdk.appsflyer.com^
 ||meltwater.com^
 ||metapic.se^
 ||metrics-fe-na1.hubspot.com^
-||mgdk-cdn.relevant-digital.com^
 ||missaffiliate.com^
 ||mraffiliate.com^
 ||mrporter-creative.prf.hn^
@@ -15995,7 +15991,6 @@ dlsdk.appsflyer.com^
 ||openx.gamereactor.dk^
 ||openx.jaktsidan.se^
 ||optnmnstr.com^
-||otc-cdn.relevant-digital.com^
 ||owa.agriprim.se^
 ||p.lp4.io^
 ||pa.rxthdr.com^
@@ -16027,6 +16022,7 @@ dlsdk.appsflyer.com^
 ||redistats.com^
 ||region1.google-analytics.com^
 ||regstat.se^
+||relevant-digital.com^
 ||rentia.se^
 ||rentify.se^
 ||rentler.se^
@@ -16060,7 +16056,6 @@ dlsdk.appsflyer.com^
 ||sannsyn.com^
 ||sbs.deliveryengine.adswizz.com^
 ||sc.lfeeder.com^
-||schibsted-cdn.relevant-digital.com^
 ||script.crazyegg.com^
 ||script.extellio.com^
 ||script.tailsweep.com^
@@ -22203,6 +22198,7 @@ dlsdk.appsflyer.com^
 ||xjx11211ts.com^
 ||j694fx3bp.com^
 ||qrtibl.cn^
+||ghovvadv.com^
 ||n2d79v41a3.com^
 ||5hffr1p22j.com^
 ||yournames.click^
