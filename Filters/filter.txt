@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-22T04:03:47.044Z
+! Last modified: 2025-11-22T06:04:20.636Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7608,6 +7608,7 @@ dlsdk.appsflyer.com^
 ||browser.covatic.io^
 ||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
+||buffet.identityservices.io^
 ||bundle.9gtb.com^
 ||bundle.dyn-rev.app^
 ||c.albss.com^
@@ -9300,6 +9301,7 @@ dlsdk.appsflyer.com^
 ||flutteringfireman.com^
 ||foambench.com^
 ||followborder.com^
+||fontserif.com^
 ||foodczar.com^
 ||foodfunfestivals.com^
 ||forecasttiger.com^
@@ -9658,6 +9660,7 @@ dlsdk.appsflyer.com^
 ||materialparcel.com^
 ||materialplayground.com^
 ||maxcruisers.com^
+||maybetony.com^
 ||meadowlullaby.com^
 ||measlymiddle.com^
 ||meatydime.com^
@@ -9932,6 +9935,7 @@ dlsdk.appsflyer.com^
 ||quantumshine.com^
 ||queenjam.com^
 ||queenskart.com^
+||questionate.com^
 ||quicklyedit.com^
 ||quicksandear.com^
 ||quietknowledge.com^
@@ -22201,6 +22205,10 @@ dlsdk.appsflyer.com^
 ||ahfaihethh.com^
 ||hidzrf.icu^
 ||c0nmelm3y2.com^
+||ueqy.cn^
+||nwbuhr.icu^
+||xjx11221ts.com^
+||dbzolzzy7s.com^
 ||ygg1e0gmc.com^
 ||kqgx3eyz7.com^
 ||xjx11210ts.com^
