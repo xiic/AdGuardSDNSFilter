@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-23T02:39:58.402Z
+! Last modified: 2025-11-23T04:13:08.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3285,6 +3285,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||web.analytics.metrobyt-mobile.com^
 ||conversionsapigateway.com^
 ||ebm.lfmall.co.kr^
 ||analytics.adjust.io^
@@ -7552,6 +7553,7 @@ dlsdk.appsflyer.com^
 ||analytics.ziftsolutions.com^
 ||analytics1.vdo.ai^
 ||analyticsehnwe.servicebus.windows.net^
+||analyticsplusdev.clientify.net^
 ||analyticssec.overwolf.com^
 ||ao-freegeoip.herokuapp.com^
 ||api-analytics-prd.pelcro.com^
@@ -8292,6 +8294,7 @@ dlsdk.appsflyer.com^
 ||tag.digops.sincro.io^
 ||tag.elevaate.io^
 ||tag.flagship.io^
+||tag.getamigo.io^
 ||tag.imagino.com^
 ||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
@@ -10151,6 +10154,7 @@ dlsdk.appsflyer.com^
 ||shockinggrass.com^
 ||shockingship.com^
 ||showsteel.com^
+||shredform.com^
 ||shredquiz.com^
 ||shrewsburyshow.com^
 ||shrillspoon.com^
