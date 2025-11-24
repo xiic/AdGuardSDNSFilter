@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-24T00:14:11.898Z
+! Last modified: 2025-11-24T02:36:20.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -412,6 +412,7 @@ vkcdnservice.appspot.com^
 ||ad01.tmgrup.com.tr^
 ||adblock2.static-cloudflare.workers.dev^
 ||adblock3.static-cloudflare.workers.dev^
+||adblock4.static-cloudflare.workers.dev^
 ||adblockeromega.com^
 ||adcheck.about.co.kr^
 ||addefenderplus.info^
@@ -9356,6 +9357,7 @@ dlsdk.appsflyer.com^
 ||gaudyairplane.com^
 ||gearbubbles.com^
 ||geekbackyard.com^
+||gemorganic.com^
 ||generalprose.com^
 ||generateoffice.com^
 ||getbendyyoga.com^
@@ -22204,6 +22206,14 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||xyf21yawkj.com^
+||1mb71rr5oo.com^
+||xjx11240ts.com^
+||naivety48.com^
+||ugox.cn^
+||lbvmnh.icu^
+||braagniddp.com^
+||yhcca8h69o.com^
 ||fl0hg5wlr.com^
 ||xjx11230ts.com^
 ||9pzoz6taf.com^
