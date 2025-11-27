@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-26T22:03:50.581Z
+! Last modified: 2025-11-27T00:12:49.160Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9469,6 +9469,7 @@ dlsdk.appsflyer.com^
 ||hellounbox.com^
 ||helpcollar.com^
 ||helpflame.com^
+||helpingbits.com^
 ||hertechlife.com^
 ||hfc195b.com^
 ||highfalutinbox.com^
@@ -9909,6 +9910,7 @@ dlsdk.appsflyer.com^
 ||precisear.com^
 ||predictplate.com^
 ||prepareplanes.com^
+||prepaymint.net^
 ||presetrabbits.com^
 ||presscoder.com^
 ||prettyeasycafe.com^
@@ -22216,6 +22218,12 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||jwf8lxo7b.com^
+||pkpmhr2gw.com^
+||generation456.com^
+||archetype32.top^
+||nxjuvt.icu^
+||ltiekurv.com^
 ||klljo2cp63.com^
 ||jqz8z7gqxw.com^
 ||xjx11260ts.com^
