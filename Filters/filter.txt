@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-02T08:04:30.662Z
+! Last modified: 2025-12-02T10:04:22.714Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2224,6 +2224,7 @@ vkcdnservice.appspot.com^
 ||tm-banners.gamingadult.com^
 ||tm-offers.gamingadult.com^
 ||tools.bongacams.com^
+||track.cam4tracking.com^
 ||track.xtrasize.nl^
 ||unpin.hothomefuck.com^
 ||vfreecams.com^
@@ -2242,14 +2243,11 @@ vkcdnservice.appspot.com^
 ||1lzz.com^
 ||1ts11.top^
 ||access-the-website.com^
-||adultadworld.com^
 ||banners.cams.com^
 ||c4tracking01.com^
-||cam4tracking.com^
 ||chokertraffic.com^
 ||cityofsin3d.com^
 ||ckrf1.com^
-||connexionsafe.com^
 ||cooch.tv^
 ||crdefault2.com^
 ||crentexgate.com^
@@ -2264,7 +2262,6 @@ vkcdnservice.appspot.com^
 ||dirty-tinder.com^
 ||ero-advertising.com^
 ||eroge.com^
-||ertya.com^
 ||flagads.net^
 ||fpctraffic2.com^
 ||freecamsexposed.com^
@@ -2272,7 +2269,6 @@ vkcdnservice.appspot.com^
 ||friendfinder.com^
 ||frtyi.com^
 ||funkydaters.com^
-||gambol.link^
 ||get-partner.life^
 ||girls.xyz^
 ||global-trk.com^
@@ -2281,10 +2277,8 @@ vkcdnservice.appspot.com^
 ||hpyrdr.com^
 ||hrtya.com^
 ||indianfriendfinder.com^
-||irtye.com^
 ||jizzy.org^
 ||jsmjmp.com^
-||kaizentraffic.com^
 ||mptentry.com^
 ||needlive.com^
 ||notimoti.com^
@@ -2303,15 +2297,12 @@ vkcdnservice.appspot.com^
 ||sexflirtbook.com^
 ||sexintheuk.com^
 ||sexmotors.com^
-||sexpennyauctions.com^
-||slut2fuck.net^
 ||socialsex.biz^
 ||socialsex.com^
 ||trackvoluum.com^
 ||traffic.club^
 ||trafficbroker.com^
 ||trkbc.com^
-||watchmygf.com^
 ||xdtraffic.com^
 ||xmatch.com^
 ||xpeeps.com^
@@ -3019,6 +3010,7 @@ vkcdnservice.appspot.com^
 ||adtech.de^
 ||adtilt.com^
 ||adtrack.king.com^
+||adultadworld.com^
 ||adv.mxmcdn.net^
 ||adversal.com^
 ||adverticum.net^
@@ -7875,6 +7867,7 @@ dlsdk.appsflyer.com^
 ||galileotelemetry.tencent.com^
 ||gateway.foresee.com^
 ||geo.bdg.com^
+||geo.ertya.com^
 ||geo.gorillanation.com^
 ||geo.mezr.com^
 ||geo.thehindu.com^
