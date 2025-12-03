@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-03T16:05:03.373Z
+! Last modified: 2025-12-03T18:04:48.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -405,6 +405,7 @@ vkcdnservice.appspot.com^
 ||ad.about.co.kr^
 ||ad.bitmedia.io^
 ||ad.edugram.com^
+||ad.mediamixer.co.kr^
 ||ad.netmedia.hu^
 ||ad.tpmn.co.kr^
 ||ad.video-mech.ru^
@@ -2417,6 +2418,8 @@ vkcdnservice.appspot.com^
 ! For DNS filtering
 /^(a|c)\.[0-9a-f]{56}\.com$/
 !
+||static.terratraf.com^
+||cdn-rtb.sape.ru^
 ||aatkit.com^
 ||gallerieshub.com^
 ||pic-stash.com^
@@ -2601,7 +2604,6 @@ vkcdnservice.appspot.com^
 ||mob*.novanewsapp.com^
 ||ad-*.amazonaws.com^
 ||ads-sdk.nianticlabs.com^
-||ad.mediamixer.co.kr^
 ||adfork.co.kr^
 ||ads*-normal-lq.zijieapi.com^
 ||ad.zijieapi.com^
@@ -13164,7 +13166,6 @@ dlsdk.appsflyer.com^
 ||camadmin.ru^
 ||capliman.com^
 ||cbbvi.com^
-||cdn-rtb.sape.ru^
 ||cdn7.network^
 ||cdn7.rocks^
 ||cellbux.com^
