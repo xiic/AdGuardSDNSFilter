@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-03T08:04:29.813Z
+! Last modified: 2025-12-03T10:04:18.866Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16598,8 +16598,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Nov 2025 10:43 UTC+7
-! Version: 2511271043
+! Last modified: 03 Dec 2025 16:47 UTC+7
+! Version: 2512031647
 ! Blocked: 889 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17472,9 +17472,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 21 Nov 2025 15:27 UTC+7
-! Version: 2511211527
-! Blocked: 4.784 rules
+! Last modified: 03 Dec 2025 16:46 UTC+7
+! Version: 2512031646
+! Blocked: 4.786 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17756,6 +17756,7 @@ dlsdk.appsflyer.com^
 ||beoneviet.com^
 ||bestbitbank.co^
 ||bestbitcoinbank.net^
+||bgkjn.tygpzq.bid^
 ||bgtib222.com^
 ||bhxh.co^
 ||bideo-blog.com^
@@ -17907,6 +17908,7 @@ dlsdk.appsflyer.com^
 ||click-eu-v4.mainexpclkdir.com^
 ||click-v4.mainexpclkdir.com^
 ||click.mainexpclkdir.com^
+||clickpro.live^
 ||cliphott.io.vn^
 ||clmm.me^
 ||clmm.nl^
@@ -22244,6 +22246,7 @@ dlsdk.appsflyer.com^
 ||dtrinzael.com^
 ||4wbvq8yl2.com^
 ||niuk12031gi.com^
+||umqigvethe.com^
 ||vbgyniffuy.com^
 ||j4s12kfavg.com^
 ||niuk12020gi.com^
