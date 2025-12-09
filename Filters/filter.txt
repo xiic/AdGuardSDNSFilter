@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-07T14:03:24.366Z
+! Last modified: 2025-12-09T10:23:26.626Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3284,6 +3284,10 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.blender.org^
+||d.nordprotect.com^
+||async-px-eu.dynamicyield.com^
+||pm.redbull.com^
 ||tracking-live.kr3m.com^
 ||gx-target-experiments-frontend-api.gx.nvidia.com^
 ||events.gfe.nvidia.com^
@@ -7435,6 +7439,7 @@ dlsdk.appsflyer.com^
 ||a.hcaptcha.com^
 ||a.vturb.net^
 ||aan.amazon.com^
+||ab.dns-finder.com^
 ||activity-flow.vtex.com^
 ||activity.wisepops.com^
 ||ad.aloodo.com^
@@ -14690,7 +14695,6 @@ dlsdk.appsflyer.com^
 ||spreadlink.net^
 ||seedapp-creative.s3.amazonaws.com^
 ||admane.jp^
-||smaad.net^
 ||app.monetrack.com^
 ||bn.dxlive.com^
 ||mobee2.jp^
@@ -15998,6 +16002,7 @@ dlsdk.appsflyer.com^
 ||leue.stape.net^
 ||levaochbo.compricer.se^
 ||lifeofsvea.mainroll.com^
+||litix.io^
 ||live.demand.supply^
 ||load.a.receptskatt.se^
 ||loadbalancer.visitor-analytics.io^
@@ -16608,16 +16613,32 @@ dlsdk.appsflyer.com^
 ||trafficfactory.biz^
 !
 ! Source name: AdblockID adservers
-! Source: https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
+! Source: https://cdn.jsdelivr.net/gh/realodix/AdBlockID@master/dist/adblockid.adfl.txt
 !
+-ad123-
+-banner-ads.
+-banner-iklan-
+-banner728x90.
+-iklan-gif-
+-iklan1.
+-iklan2.
+-iklan789-
+-ikln.
+-720x90-
+-728x90a.
+.1080.x.90.
+@@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
+||ads.gmbr.pro^
+-bandarkiu.
+-tototix.gif
 !
 ! Source name: hostsVN ad servers
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Dec 2025 14:36 UTC+7
-! Version: 2512051436
+! Last modified: 08 Dec 2025 16:40 UTC+7
+! Version: 2512081640
 ! Blocked: 889 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17490,8 +17511,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Dec 2025 14:36 UTC+7
-! Version: 2512051436
+! Last modified: 08 Dec 2025 16:40 UTC+7
+! Version: 2512081640
 ! Blocked: 4.787 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -22255,6 +22276,28 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||position66.top^
+||5dycay3rr.com^
+||8052qydk7.com^
+||hawfeniku.com^
+||vid12090hl.com^
+||microscope9.com^
+||mjji.cn^
+||4d9f09z8c.com^
+||k0jw6qzyh.com^
+||vid12091hl.com^
+||megaihargi.com^
+||fp2nn4zxlp.com^
+||ceremony79.com^
+||m43ocq1uoj.com^
+||vid12080hl.com^
+||charger44.com^
+||hingidnaa.com^
+||2nvd5j7iv0.com^
+||vid12081hl.com^
+||lfew.cn^
+||i97wqa881u.com^
+||tezeoddo.com^
 ||c3q6l5oeq.com^
 ||lamtc2wny.com^
 ||institution2.com^
@@ -28090,6 +28133,15 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/1984
+@@||www.datadoghq-browser-agent.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1985
+@@||itoya.ec-optimizer.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1976
+@@||go.redirectingat.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/215941
+! Blocked by CNAME servedbyadbutler.com
+@@||ref.rbauction.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/215116
 @@||puzzles-games-api.gp-prod.conde.digital^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/212351

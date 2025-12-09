@@ -1,3 +1,12 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/1984
+@@||www.datadoghq-browser-agent.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1985
+@@||itoya.ec-optimizer.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1976
+@@||go.redirectingat.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/215941
+! Blocked by CNAME servedbyadbutler.com
+@@||ref.rbauction.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/215116
 @@||puzzles-games-api.gp-prod.conde.digital^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/212351
