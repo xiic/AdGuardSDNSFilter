@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-10T08:04:26.791Z
+! Last modified: 2025-12-10T10:04:22.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16637,8 +16637,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Dec 2025 16:40 UTC+7
-! Version: 2512081640
+! Last modified: 10 Dec 2025 16:40 UTC+7
+! Version: 2512101640
 ! Blocked: 889 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17511,9 +17511,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 08 Dec 2025 16:40 UTC+7
-! Version: 2512081640
-! Blocked: 4.787 rules
+! Last modified: 10 Dec 2025 16:39 UTC+7
+! Version: 2512101639
+! Blocked: 4.788 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17638,6 +17638,7 @@ dlsdk.appsflyer.com^
 ||aets88.com^
 ||aets99.com^
 ||agjevez.ztraks.de^
+||agpchrgue.mrhw.de^
 ||agrib-vn.com^
 ||agribank.dangkyungtuyen.com^
 ||agribank.info^
@@ -22284,6 +22285,9 @@ dlsdk.appsflyer.com^
 ||lo42y56tmy.com^
 ||qemh16ihyw.com^
 ||vid12101hl.com^
+||wjxc92bc.xyz^
+||hbfpml.cn^
+||rhiolf.cn^
 ||position66.top^
 ||5dycay3rr.com^
 ||8052qydk7.com^
