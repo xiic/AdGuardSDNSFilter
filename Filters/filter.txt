@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-11T08:04:40.297Z
+! Last modified: 2025-12-11T10:04:16.595Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16641,9 +16641,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Dec 2025 16:40 UTC+7
-! Version: 2512101640
-! Blocked: 889 rules
+! Last modified: 11 Dec 2025 16:21 UTC+7
+! Version: 2512111621
+! Blocked: 890 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17140,6 +17140,7 @@ dlsdk.appsflyer.com^
 ||analytics.mobiedu.vn^
 ||analytics.nhattao.com^
 ||analytics.ntlc.com.vn^
+||analytics.onflix.vip^
 ||analytics.pancake.vn^
 ||analytics.rever.vn^
 ||analytics.sohatv.vn^
@@ -17515,9 +17516,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Dec 2025 16:39 UTC+7
-! Version: 2512101639
-! Blocked: 4.788 rules
+! Last modified: 11 Dec 2025 16:21 UTC+7
+! Version: 2512111621
+! Blocked: 4.795 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -18557,6 +18558,8 @@ dlsdk.appsflyer.com^
 ||gl0a7loeki02do.com^
 ||globalsellingads.com^
 ||globalshopping.website^
+||gmshopping.shop^
+||go-livanova.cyou^
 ||go888.me^
 ||go88vn.shop^
 ||goalonapp.com^
@@ -18655,6 +18658,7 @@ dlsdk.appsflyer.com^
 ||hethongtikicareers24h.com^
 ||hethongvaynhanh247.com^
 ||hethongviet99.com^
+||hfjxmall.com^
 ||hgff11.com^
 ||hhwd68.com^
 ||hi-go.shop^
@@ -19770,6 +19774,7 @@ dlsdk.appsflyer.com^
 ||org.govqp.com^
 ||oughtme.cfd^
 ||oundandk.cfd^
+||oydiwf.yokayseiy.com^
 ||oylg7.com^
 ||p63899vn.com^
 ||pagelazada.com^
@@ -19777,7 +19782,9 @@ dlsdk.appsflyer.com^
 ||paylienquan.club^
 ||payon-rutienmat5.com^
 ||payon-ruttiennhanh5.com^
+||paypquan.vip^
 ||payroll.mywire.org^
+||personals-pc-app.com^
 ||petrovietnam.pro^
 ||petrovietnam.top^
 ||pgbank.info^
@@ -21196,6 +21203,7 @@ dlsdk.appsflyer.com^
 ||twshopeee.top^
 ||tx55.vip^
 ||txclmomo.club^
+||u-ai.vip^
 ||ucesreferre.club^
 ||udavsofi.dvfrz.de^
 ||ugvietnam.net^
