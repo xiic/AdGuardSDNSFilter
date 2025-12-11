@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-11T02:36:31.769Z
+! Last modified: 2025-12-11T04:13:40.339Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8842,6 +8842,7 @@ dlsdk.appsflyer.com^
 ||bewilderedblade.com^
 ||bhcumsc.com^
 ||bidpapers.com^
+||bigfishapparel.com^
 ||bigworldfashion.com^
 ||bikepaws.com^
 ||bikesboard.com^
@@ -8865,6 +8866,7 @@ dlsdk.appsflyer.com^
 ||blitzcampaigns.com^
 ||blockdial.com^
 ||blueeyedblow.com^
+||bluenest.net^
 ||bluevinebooks.com^
 ||blushingbeast.com^
 ||blushingbread.com^
@@ -16619,7 +16621,6 @@ dlsdk.appsflyer.com^
 !
 -ad123-
 -banner-ads.
--banner-iklan-
 -banner728x90.
 -iklan-gif-
 -iklan1.
