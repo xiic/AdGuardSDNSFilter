@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-13T00:13:38.386Z
+! Last modified: 2025-12-13T02:33:31.810Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7473,6 +7473,7 @@ dlsdk.appsflyer.com^
 ||affiliates.minglematch.com^
 ||akatracking.esearchvision.com^
 ||alexandria.marfeelcdn.com^
+||alib.nine.com.au^
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
 ||analytic-client.adult-chess.com^
@@ -9233,6 +9234,7 @@ dlsdk.appsflyer.com^
 ||effulgentnook.com^
 ||effulgenttempest.com^
 ||eightgreens.com^
+||eighthlayer.net^
 ||elasticchange.com^
 ||elderlybean.com^
 ||elderlytown.com^
@@ -9556,6 +9558,7 @@ dlsdk.appsflyer.com^
 ||hypnoticwound.com^
 ||hystericalcloth.com^
 ||hystericalfinger.com^
+||icywinter.com^
 ||idlecollect.com^
 ||idyllicjazz.com^
 ||illinvention.com^
@@ -10667,6 +10670,7 @@ dlsdk.appsflyer.com^
 ||whisperingquasar.com^
 ||whisperingsummit.com^
 ||whispermeeting.com^
+||wholepagecache.com^
 ||whoogled.com^
 ||whymaze.com^
 ||wikiwhatwhere.com^
@@ -22314,6 +22318,7 @@ dlsdk.appsflyer.com^
 ||vrrm.cn^
 ||insurance55.top^
 ||yarcokme.com^
+||fsmnmorgb.com^
 ||3nopvvhju5.com^
 ||veuf2obzc8.com^
 ||travel44.top^
