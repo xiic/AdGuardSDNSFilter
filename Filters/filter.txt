@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-15T08:05:38.603Z
+! Last modified: 2025-12-15T10:04:58.335Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2141,6 +2141,7 @@ vkcdnservice.appspot.com^
 ||c3s.bionestraff.pro^
 ||ca.fapnow.xxx^
 ||ca.lesbianbliss.com^
+||camonster.io^
 ||cams.enjoy.be^
 ||cash.femjoy.com^
 ||cdn.007moms.com^
@@ -2276,6 +2277,7 @@ vkcdnservice.appspot.com^
 ||get-partner.life^
 ||girls.xyz^
 ||global-trk.com^
+||go.nsfwlivechat.com^
 ||grtyv.com^
 ||hkl4h1trk.com^
 ||hpyrdr.com^
@@ -12345,6 +12347,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||contemo.ru^
 ||5dhnv8.ru^
 ||sinehut.com^
 ||kputjp.com^
@@ -22338,6 +22341,8 @@ dlsdk.appsflyer.com^
 ||nqwgvk.cn^
 ||kls24qtvc.com^
 ||tkll12151nb.com^
+||afrlodurf.com^
+||ixog.cn^
 ||harmful26.top^
 ||tasgxk4ia6.com^
 ||0tc1bdbgsm.com^
