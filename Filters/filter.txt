@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-16T08:05:01.510Z
+! Last modified: 2025-12-16T10:04:19.724Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14963,7 +14963,9 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
-!
+||shieryuefajkix.com^
+||shisanmaozser.com^
+||txhywh.cn^
 ||onemob.mobi^
 ||tp.suppercacheimages.top^
 ||9867.org^
@@ -16689,8 +16691,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Dec 2025 16:21 UTC+7
-! Version: 2512111621
+! Last modified: 16 Dec 2025 16:23 UTC+7
+! Version: 2512161623
 ! Blocked: 890 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17564,9 +17566,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 11 Dec 2025 16:21 UTC+7
-! Version: 2512111621
-! Blocked: 4.795 rules
+! Last modified: 16 Dec 2025 16:23 UTC+7
+! Version: 2512161623
+! Blocked: 4.828 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17628,6 +17630,7 @@ dlsdk.appsflyer.com^
 ||76996.co^
 ||79wing.com^
 ||84mua.com^
+||8866-ctgl.cc^
 ||887vn.com^
 ||888b.biz^
 ||888lotte.com^
@@ -17637,6 +17640,7 @@ dlsdk.appsflyer.com^
 ||8dt0a8.cyou^
 ||8kbetviet.com^
 ||8zse5d.cyou^
+||9595-aogl.cc^
 ||975.vn^
 ||999lotte.com^
 ||99lotte.com^
@@ -17712,6 +17716,7 @@ dlsdk.appsflyer.com^
 ||ahthegha.cfd^
 ||aiagjgqz.njasu.de^
 ||aikguairn.osmt.link^
+||airoboteth.vip^
 ||airst.giize.com^
 ||aivaylaco.com^
 ||alibabavip.xyz^
@@ -17756,6 +17761,7 @@ dlsdk.appsflyer.com^
 ||andelect.cfd^
 ||android-system-virus-detect.web.app^
 ||andslideasco.cfd^
+||angminer.net^
 ||ani453las.cfd^
 ||ans7tv.net^
 ||ansfrxyr.tmska.de^
@@ -17890,6 +17896,7 @@ dlsdk.appsflyer.com^
 ||biticonsbank.com^
 ||bitrueexchange.com^
 ||bitsbankuk.com^
+||bkm-mallorca.com^
 ||bloodleian.club^
 ||bluvenie.com^
 ||bm1717.com^
@@ -17899,6 +17906,7 @@ dlsdk.appsflyer.com^
 ||bsanvietnam.online^
 ||bschuyenkhoamat.biz^
 ||bsoabpxfs.njasu.de^
+||btcsender.cloud^
 ||buontien247.fun^
 ||businesseventskp.top^
 ||businessvideonews.com^
@@ -18264,6 +18272,7 @@ dlsdk.appsflyer.com^
 ||donghothongminh-mienphiship.online^
 ||donhangkiemtra.com^
 ||dorsitan.shop^
+||dotreliable.com^
 ||dpsmhx.zxte.bid^
 ||dragoncapitalmoney.com^
 ||dragoncapitalvay.com^
@@ -18320,6 +18329,7 @@ dlsdk.appsflyer.com^
 ||entbymo.cfd^
 ||eqav33.com^
 ||eqav77.com^
+||equinor-vn.com^
 ||ergyfrommo.cfd^
 ||escortlarbul.com^
 ||eserbank.com^
@@ -18334,6 +18344,7 @@ dlsdk.appsflyer.com^
 ||eventlienquanvn.com^
 ||eventlqvn.com^
 ||eventriansieusao.com^
+||evit.im^
 ||evnbankcredit.info^
 ||evncredit.online^
 ||evnnpcs.com^
@@ -18425,6 +18436,7 @@ dlsdk.appsflyer.com^
 ||fhdd8431.com^
 ||fhef11.com^
 ||ficonexchange.com^
+||fiinvesok.vip^
 ||filavietnamve.com^
 ||file-store2.xyz^
 ||file-store4.xyz^
@@ -18656,6 +18668,7 @@ dlsdk.appsflyer.com^
 ||hanghaiqt.com^
 ||hanmucvn.com^
 ||happykitcr.com^
+||hashtechlimited.com^
 ||hbpnnz.cyou^
 ||hdbankcareer.com^
 ||hdbankfinancc.digital^
@@ -18829,6 +18842,7 @@ dlsdk.appsflyer.com^
 ||ilsacombank.com^
 ||images.emldn.com^
 ||imageshells.com^
+||imperial-oil.ca^
 ||important-notices.com^
 ||indush.cfd^
 ||inet-ebank.com^
@@ -18890,6 +18904,7 @@ dlsdk.appsflyer.com^
 ||jo9p72.cyou^
 ||jomashopsa.com^
 ||jpalertcert.com^
+||jsivqe.aramco8.com^
 ||jtkjixnmj.org^
 ||jtqqzvqrd.net^
 ||junoshop.online^
@@ -19168,6 +19183,7 @@ dlsdk.appsflyer.com^
 ||low-lyingwh.cfd^
 ||lsacomban.com^
 ||lstmoney.xyz^
+||lulu-shop.vip^
 ||luuvanquang.com^
 ||lvietcombank.com^
 ||lzd2024.com^
@@ -19241,6 +19257,7 @@ dlsdk.appsflyer.com^
 ||mcredit.vaynhanh-bankcredits.com^
 ||me-fb.site^
 ||meetamate.site^
+||meilemall.com^
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
 ||member-lienquan-garena.com^
@@ -19278,6 +19295,7 @@ dlsdk.appsflyer.com^
 ||meokiemtien.online^
 ||mershadclo.cfd^
 ||message.ooguy.com^
+||metacritic.lol^
 ||metcoin-exchange.com^
 ||metvay.com^
 ||mfacebok.com^
@@ -19287,6 +19305,7 @@ dlsdk.appsflyer.com^
 ||micronsofte-online.com^
 ||mildwave.com^
 ||miles-card-vpbank.com^
+||mineon.xin^
 ||miner-linkperfectmoney.com^
 ||minhchinhmega.com^
 ||minhngocc789.com^
@@ -19307,6 +19326,7 @@ dlsdk.appsflyer.com^
 ||mmomo.me^
 ||mmovietnam.info^
 ||mobaviet.shop^
+||mobil177.com^
 ||mobile-facebook.com.vn^
 ||mobile-ibankingshopee.vn^
 ||mobilebanking-shopee.vn^
@@ -19422,6 +19442,7 @@ dlsdk.appsflyer.com^
 ||mrquayhu.com^
 ||msb.msbbsm.com^
 ||msbfhd.com^
+||msqpom.sail-away-investments.com^
 ||muaacccf.com^
 ||muaaccfifa.com^
 ||muabanhanh.io^
@@ -19816,6 +19837,7 @@ dlsdk.appsflyer.com^
 ||onstraints.store^
 ||onzeage.cfd^
 ||oojoictf.iqerm.link^
+||opencirculation.com^
 ||optimagroupthuongphuong.net^
 ||ordsexecutiv.cfd^
 ||org-secured.com^
@@ -19878,6 +19900,7 @@ dlsdk.appsflyer.com^
 ||pi81.shop^
 ||piratespc.net^
 ||pjunnest.cyou^
+||pkajdo.yokayseiy.com^
 ||pkkti888.com^
 ||platinum-ruttientindung247.com^
 ||play.appgoogle.cc^
@@ -20027,6 +20050,7 @@ dlsdk.appsflyer.com^
 ||regis2tarsgroup.click^
 ||regis2tarsinc.click^
 ||reglienquan.online^
+||relxmining.net^
 ||repingz.com^
 ||resonherse.cfd^
 ||rest.redirectme.net^
@@ -20609,6 +20633,7 @@ dlsdk.appsflyer.com^
 ||sjfku88.com^
 ||skhf11.com^
 ||skhf66.com^
+||smart-mining.net^
 ||smilitygorb.club^
 ||smrtbbdv.com^
 ||smrtbbidv.com^
@@ -20750,6 +20775,7 @@ dlsdk.appsflyer.com^
 ||sukienvuongquocrong.com^
 ||sukienzingspeed.com^
 ||suncitykhuyenmai.click^
+||sunfarm.net^
 ||sunmomo.me^
 ||sunmomo88.com^
 ||sup7podthee.cfd^
@@ -21266,11 +21292,13 @@ dlsdk.appsflyer.com^
 ||unlimitedteacup.com^
 ||unlockdienthoai.zyrosite.com^
 ||upceshop.cn^
+||upliftrenewables.cc^
 ||upmiles-vpbank.com^
 ||upta16theu.cfd^
 ||uptomscan.cfd^
 ||upupdate.ooguy.com^
 ||upushjxglaroiqnii.org^
+||usdtrating.top^
 ||uslimsofbr.cfd^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
 ||uudaikhachhang-chamsocthetructuyen.com.vn^
@@ -22027,6 +22055,7 @@ dlsdk.appsflyer.com^
 ||vpbban.com^
 ||vpbbank.com^
 ||vpbsvn.com^
+||vproptrader.com^
 ||vps8449vn.com^
 ||vqelhmqyuphr.info^
 ||vrichshop.com^
@@ -22116,6 +22145,7 @@ dlsdk.appsflyer.com^
 ||westernunionbankvn.wixsite.com^
 ||westernunions6886z.weebly.com^
 ||westgarybank.com^
+||wetrayn.top^
 ||wietcombank.com^
 ||wikidoithuong.com^
 ||wildrive.com^
@@ -22175,10 +22205,12 @@ dlsdk.appsflyer.com^
 ||xiaoe.com^
 ||xiaomivietnam.xyz^
 ||xiaosdg.top^
+||xigua.bet^
 ||xjpakmdcfuqe.biz^
 ||xjpakmdcfuqe.com^
 ||xjpakmdcfuqe.in^
 ||xjpakmdcfuqe.ru^
+||xjrprd.yokayseiy.com^
 ||xn--momovints1-o8a64b3904adea8q.weebly.com^
 ||xn--napth-351b.vn^
 ||xn--nhantienonline1k87s1-6hf.weebly.com^
@@ -22205,6 +22237,8 @@ dlsdk.appsflyer.com^
 ||ynefefyopqvu.com^
 ||yobuqokipnfaxkeor.net^
 ||yonmewon.com^
+||youku.vc^
+||youkuvideo.net^
 ||youtuber-cash.buzz^
 ||yunduofei.xyz^
 ||yxjsibeugmmj.com^
@@ -22223,6 +22257,7 @@ dlsdk.appsflyer.com^
 ||zmomo.cc^
 ||znavidsde.cfd^
 ||zoneshewa.net^
+||zuanqia.com^
 ||zutube.pro^
 ||zvay.online^
 ||zvc.cc^
@@ -22347,6 +22382,8 @@ dlsdk.appsflyer.com^
 ||3245duu17z.com^
 ||tkll12161nb.com^
 ||88r6s1hecp.com^
+||7b6c81b4c2.com^
+||your-name.click^
 ||grateful03.com^
 ||877mcpiom.com^
 ||p99c3kwxg.com^
