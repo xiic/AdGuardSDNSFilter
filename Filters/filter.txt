@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-16T22:03:54.121Z
+! Last modified: 2025-12-17T00:12:59.672Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8551,6 +8551,7 @@ dlsdk.appsflyer.com^
 ||vercel-vitals.axiom.co^
 ||video-analytics-api.cloudinary.com^
 ||video-intel.pixels.ai^
+||vitals.flyingpress.com^
 ||vortex.data.microsoft.com^
 ||vplayeranalytics.vidgyor.com^
 ||vst.sibnet.ru^
@@ -16447,7 +16448,6 @@ dlsdk.appsflyer.com^
 ||viamtvse.112.2o7.net^
 ||video.unrulymedia.com^
 ||visitanalytics.userreport.com^
-||vitals.flyingpress.com^
 ||vitals.vercel-insights.com^
 ||w.sharethis.com^
 ||w.usabilla.com^
@@ -22372,6 +22372,14 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||basically97.top^
+||990ir3zfu.com^
+||l6906qxga.com^
+||06evyxnibl.com^
+||mgfikuktpi.com^
+||tkll12170nb.com^
+||roj7ah16d.com^
+||discount63.top^
 ||6fm4dcpj31.com^
 ||cautious60.com^
 ||aybikaemg.com^
