@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-19T06:05:07.936Z
+! Last modified: 2025-12-19T08:04:28.533Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8196,6 +8196,7 @@ dlsdk.appsflyer.com^
 ||rtc.multiscreensite.com^
 ||rtxpx-a.akamaihd.net^
 ||rudder-tracking.rudderstack.com^
+||rum-collector.leaderint.workers.dev^
 ||rum.azion.com^
 ||rum.azioncdn.net^
 ||rum.corewebvitals.io^
@@ -8573,6 +8574,7 @@ dlsdk.appsflyer.com^
 ||wds.weqs.me^
 ||web-beacon.starii-rover.com^
 ||web-tracker.smsbump.com^
+||web-vitals-script.leaderint.workers.dev^
 ||web1.51.la^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
@@ -22407,6 +22409,10 @@ dlsdk.appsflyer.com^
 ||qrzwjfq.xyz^
 ||xn--54q23ckxiyx0e.com^
 ||qwsbegovo.top^
+||jo9q3dhqf.com^
+||n2ivsbik2.com^
+||ggai12191cp.com^
+||unqvaof.xyz^
 ||hriy.cn^
 ||extremely58.top^
 ||pb1b7cqwvs.com^
