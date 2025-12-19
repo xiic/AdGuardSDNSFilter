@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-19T00:14:08.139Z
+! Last modified: 2025-12-19T02:35:48.686Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9104,6 +9104,7 @@ dlsdk.appsflyer.com^
 ||controlswim.com^
 ||convertbatch.com^
 ||cooingcoal.com^
+||cookiestorybook.com^
 ||coolestcatcare.com^
 ||coolguesthouse.com^
 ||coordinatedcoat.com^
@@ -9111,6 +9112,7 @@ dlsdk.appsflyer.com^
 ||copycarpenter.com^
 ||copyfranchise.com^
 ||copyrightaccesscontrols.com^
+||copytweaks.com^
 ||copyvibes.com^
 ||coralcranes.com^
 ||coralreverie.com^
@@ -22393,6 +22395,17 @@ dlsdk.appsflyer.com^
 ||spellbind33.com^
 ||0wpfe0duo.com^
 ||el2m3qr7v.com^
+||ggai12190cp.com^
+||6o719vq4x.com^
+||eyiyoxz.xyz^
+||wftihvn.xyz^
+||bvraciedl.com^
+||zvou.cn^
+||junior48.com^
+||kvdxvqw.xyz^
+||qrzwjfq.xyz^
+||xn--54q23ckxiyx0e.com^
+||qwsbegovo.top^
 ||hriy.cn^
 ||extremely58.top^
 ||pb1b7cqwvs.com^
