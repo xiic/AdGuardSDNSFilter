@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-20T20:03:39.037Z
+! Last modified: 2025-12-20T22:03:25.833Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2463,6 +2463,9 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||openglass.tv^
+||wurl.com^
+||octillion.tv^
 ||ctv-ads.api.leiniao.com^
 ||sonicsads.com^
 ||nextacdn.top^
@@ -3290,6 +3293,11 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||android-tv-beacons.xumo.com^
+||ams-beacons.xumo.com^
+||rtb-trk4.linkedin.com^
+||rtb-us-east.linkedin.com^
+||adservices.brandcdn.com^
 ||telemetry.microsoft.us^
 ||stats.urban-vpn.com^
 ||analytics.urban-vpn.com^
@@ -14467,6 +14475,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||filmreklam.livebahispartners.com^
 ||adsmanagement.atamedyagrubu.com^
 ||diziwatchpreroll.pages.dev^
 ||bitcasino365.b-cdn.net^
