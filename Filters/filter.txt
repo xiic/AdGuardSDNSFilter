@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-24T12:05:35.528Z
+! Last modified: 2025-12-24T14:03:42.855Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2673,7 +2673,6 @@ vkcdnservice.appspot.com^
 ||prebid-cache*.ifunny.co^
 ||tk0x1.com^
 ||displayio.cloud^
-||external-api.impression-neo.naver.com^
 ||mobiadvert*.livesportmedia.eu^
 ||sdkv2.imaginationunwired.com^
 ||api-ad-adapter.wps.com^
@@ -3296,6 +3295,9 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||unif-id.ssp.inmobi.com^
+||telemetry.sdk.inmobi.com^
+||external-api.impression-neo.naver.com^
 ||uxlog-api.danawa.com^
 ||matomo-prod.cgorod.pw^
 ||a.tampermonkey.net^
@@ -6570,7 +6572,6 @@ dlsdk.appsflyer.com^
 ! NOTE: Regular rules
 !
 ||use-trk.monetune.com^
-||telemetry.sdk.inmobi.com^
 ||collector-*.perimeterx.net^
 ||unisdk.proxima.nie.easebar.com^
 ||ingest.m2catalyst.com^
@@ -22449,6 +22450,7 @@ dlsdk.appsflyer.com^
 ||ggai12241cp.com^
 ||wb7i614qen.com^
 ||mo0lqi51s1.com^
+||ytralvbmto.com^
 ||burette34.com^
 ||8uuxq3tvn.com^
 ||4wym8gups.com^
