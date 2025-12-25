@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-25T00:13:49.500Z
+! Last modified: 2025-12-25T02:37:39.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3295,6 +3295,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||apistats.rg.ru^
 ||analytics.t-mobile.com^
 ||raw.vidyard.com^
 ||pushd-android-logs.s3.amazonaws.com^
@@ -14150,14 +14151,6 @@ dlsdk.appsflyer.com^
 ! Source name: AdGuard common Cyrillic filters ad servers first-party
 ! Source: https://adguardteam.github.io/AdguardFilters/CyrillicFilters/common-sections/adservers_firstparty.txt
 !
-!
-! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
-! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
-!
-! Good: ||ad.doubleclick.net^
-! Bad: /banner.jpg (should be in general_url.txt)
-! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
-!
 ||ad.cub.red^
 ||exad.smi2.ru^
 ||tgb.hsmedia.ru^
@@ -22452,6 +22445,7 @@ dlsdk.appsflyer.com^
 ||edethrelhf.com^
 ||xfdlfj.icu^
 ||bjnyfav.xyz^
+||1s8hpetv3.com^
 ||u39q45jzoj.com^
 ||4zm6p17ppr.com^
 ||pipette22.top^
