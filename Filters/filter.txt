@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-28T08:04:12.248Z
+! Last modified: 2025-12-28T10:03:51.657Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7737,6 +7737,7 @@ dlsdk.appsflyer.com^
 ||caspionlog.appspot.com^
 ||castify-trk.playitviral.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
+||cdn.9gtb.com^
 ||cdn.debugbear.com^
 ||cdn.polarbyte.com^
 ||cdn.ravm.tv^
@@ -8112,6 +8113,7 @@ dlsdk.appsflyer.com^
 ||nwr.static.mmcdn.com^
 ||o.momently.info^
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^
+||obs.branderblender.com^
 ||obs.du89buildings.com^
 ||obs.esnlocco.com^
 ||obs.jollyoutdoorjogger.com^
@@ -8619,10 +8621,12 @@ dlsdk.appsflyer.com^
 ||webtrack.savoysystems.co.uk^
 ||webtracker.apicasystem.com^
 ||wf.typesquare.com^
+||wgs.wgs-static.com^
 ||widget.educationdynamics.com^
 ||win.staticstuff.net^
 ||wl-pixel.index.digital^
 ||wordmonetize.com^
+||work.selecdoo.com^
 ||ws.audioeye.com^
 ||wsmcdn.audioeye.com^
 ||wstats.ageverif.com^
@@ -11800,6 +11804,7 @@ dlsdk.appsflyer.com^
 ||t.etraveli.com^
 ||tagm.tchibo.de^
 ||tms.danzz.ch^
+||tr.metaflow.de^
 ||track2.cliplister.com^
 ||track2.dulingo.com^
 ||track2.mycliplister.com^
@@ -16764,8 +16769,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Dec 2025 23:04 UTC+7
-! Version: 2512252304
+! Last modified: 28 Dec 2025 16:22 UTC+7
+! Version: 2512281622
 ! Blocked: 890 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -17639,8 +17644,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 25 Dec 2025 23:04 UTC+7
-! Version: 2512252304
+! Last modified: 28 Dec 2025 16:22 UTC+7
+! Version: 2512281622
 ! Blocked: 4.830 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
