@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-29T16:03:54.426Z
+! Last modified: 2025-12-29T18:04:36.677Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2158,6 +2158,7 @@ vkcdnservice.appspot.com^
 ||creative.favy.cam^
 ||creative.javhdporn.live^
 ||creative.live.javdock.com^
+||creative.mavrtracktor.com^
 ||creative.nudelive.store^
 ||creative.ohmycams.com^
 ||creative.strip.chat^
@@ -8175,6 +8176,7 @@ dlsdk.appsflyer.com^
 ||pixel.sprinklr.com^
 ||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
+||pixel.visitiq.io^
 ||pixel.wetracked.io^
 ||pixel.yola.com^
 ||pixels.afcdn.com^
