@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-03T00:13:35.321Z
+! Last modified: 2026-01-03T02:34:35.053Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -324,7 +324,6 @@
 .1.1.1.l80.js^
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
-!
 ||109.123.233.251^
 ||gulf.moneroocean.stream^
 ||pool.supportxmr.com^
@@ -2236,6 +2235,7 @@ vkcdnservice.appspot.com^
 ||track.cam4tracking.com^
 ||track.xtrasize.nl^
 ||unpin.hothomefuck.com^
+||up.nextfunup.com^
 ||vfreecams.com^
 ||wecvhi.ekftei2weudt.info^
 ||widget.faphouse.com^
@@ -3296,6 +3296,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||use.hetzner.com^
+||t.jasper.ai^
 ||a.streamed.pk^
 ||corfu.blogvault.net^
 ||analytics.inquirernetwork.net^
@@ -22483,6 +22485,11 @@ dlsdk.appsflyer.com^
 ||g12tm6xl3.com^
 ||taiverturena.com^
 ||ainb01030zh.com^
+||cgcg01030ht.com^
+||swaw.cn^
+||cancellation58.top^
+||hluraiwoy.com^
+||ppxqhx.icu^
 ||0hagal2csg.com^
 ||5hu7hee0pt.com^
 ||ainb01020zh.com^
