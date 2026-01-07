@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-07T00:12:57.829Z
+! Last modified: 2026-01-07T02:39:29.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22522,6 +22522,8 @@ dlsdk.appsflyer.com^
 ||tringrod.com^
 ||electrode28.com^
 ||oratorio77.com^
+||xnm4x0ali.com^
+||ltrb.cn^
 ||oot59rxrwm.com^
 ||kduwvaq3dt.com^
 ||vpx4fmj4z6.com^
@@ -22904,7 +22906,6 @@ dlsdk.appsflyer.com^
 ||3245duu17z.com^
 ||tkll12161nb.com^
 ||88r6s1hecp.com^
-||7b6c81b4c2.com^
 ||your-name.click^
 ||qtevriko.com^
 ||086123.xyz^
@@ -24104,7 +24105,6 @@ dlsdk.appsflyer.com^
 ||fqoybwos7f.com^
 ||joi09101pt.com^
 ||nio09101lt.com^
-||eyqbpifffccdc.net^
 ||mtmvrulutr.com^
 ||rxoi.cn^
 ||kkbnzz.cn^
@@ -25053,7 +25053,6 @@ dlsdk.appsflyer.com^
 ||yui06140shga.com^
 ||teue.cn^
 ||0x7iufg8hy.com^
-||mikka.app^
 ||bqdhrr.top^
 ||einothepz.com^
 ||dtqs84i8bq.com^
