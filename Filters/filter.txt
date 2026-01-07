@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-07T02:39:29.369Z
+! Last modified: 2026-01-07T04:17:37.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3299,6 +3299,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tk.jtbc.co.kr^
 ||eventcom.api.np.km.playstation.net^
 ||pixel-conversion.apps.seabroadnet.com^
 ||analytics.apps.seabroadnet.com^
@@ -16827,9 +16828,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Dec 2025 16:22 UTC+7
-! Version: 2512281622
-! Blocked: 890 rules
+! Last modified: 07 Jan 2026 10:52 UTC+7
+! Version: 2601071052
+! Blocked: 892 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -16893,6 +16894,7 @@ dlsdk.appsflyer.com^
 ||anthill.vn^
 ||anymind360-com.cdn.ampproject.org^
 ||anymind360.com^
+||api.moneyoyo.org^
 ||api.nas.nct.vn^
 ||api.subiz.com.vn^
 ||api.subiz.net^
@@ -16954,6 +16956,7 @@ dlsdk.appsflyer.com^
 ||ezca.asia^
 ||facebook-ads.hara.vn^
 ||facebookinbox-omni-onapp.haravan.com^
+||feed.moneyoyo.org^
 ||ff.imacdn.com^
 ||fly-ads.net^
 ||flygame.io^
@@ -17078,6 +17081,7 @@ dlsdk.appsflyer.com^
 ||s-logperf.vnexpress.net^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
+||sdk.moneyoyo.com^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
 ||service.adlinknetwork.vn^
@@ -17343,7 +17347,6 @@ dlsdk.appsflyer.com^
 ||analytics.zim.vn^
 ||api-logdev.sohatv.vn^
 ||api.boclinkads.com^
-||api.moneyoyo.org^
 ||api2.boclinkads.com^
 ||apia.headlines.pw^
 ||apiv2.tiin.vn^
@@ -17383,6 +17386,7 @@ dlsdk.appsflyer.com^
 ||cpx.vnecdn.com^
 ||crocopop.com^
 ||csmads.gameclick.vn^
+||delivery.congthuong.vn^
 ||delivery.doisongphapluat.com.vn^
 ||delivery.lsvn.vn^
 ||delivery.senvangvn.com^
@@ -17564,7 +17568,6 @@ dlsdk.appsflyer.com^
 ||s1.zzz.vn^
 ||s6.textlink.vn^
 ||sbbanner.com^
-||sdk.moneyoyo.com^
 ||sentry.mediacdn.vn^
 ||seo.cloud.edu.vn^
 ||server.zmedia.vn^
@@ -17702,9 +17705,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 28 Dec 2025 16:22 UTC+7
-! Version: 2512281622
-! Blocked: 4.830 rules
+! Last modified: 07 Jan 2026 10:34 UTC+7
+! Version: 2601071034
+! Blocked: 4.831 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -18295,6 +18298,7 @@ dlsdk.appsflyer.com^
 ||deepprostore.com^
 ||defi.hsfdefi.com^
 ||dendrito.name^
+||depandirect.be^
 ||dev-checkmoneypayment-mpos.com^
 ||dfeenxea.tidc.bid^
 ||dfsshop66.com^
@@ -26986,7 +26990,6 @@ dlsdk.appsflyer.com^
 ||atm.youku.com^
 ||ax.*.ifeng.com^
 ||ax.ifeng.com^
-||badding.oss-ap-southeast-1.aliyuncs.com^
 ||baifen.music.baidu.com^
 ||besc.baidustatic.com^
 ||biz.gexing.com^
