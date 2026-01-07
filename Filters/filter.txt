@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-07T14:04:47.636Z
+! Last modified: 2026-01-07T16:05:23.058Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3300,6 +3300,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||prd-collect-llm.xverse.cn^
 ||securemetrics.apple.com^
 ||graffiti-tags.apple.com^
 ||fem.gprod.postmedia.digital^
@@ -6600,6 +6601,12 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||sensorsdata-datasink.stardust-tv.com^
+||event-api-cs.stardust-tv.com^
+||logreport-global-dual.cool*cloud.com^
+||wslog-global-dual.cool*cloud.com^
+||weblogger-wss.cool*cloud.com^
+||mebed.dm-event.net^
 ||bstream.kzhi.tech^
 ||lklfwu-inapps.appsflyersdk.com^
 ||mob2.welltastic-app.com^
@@ -12496,6 +12503,13 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||unoadsrv.com^
+||ads.kingads.digital^
+||viewdeos.com^
+||sghb.hbmp.ops.co^
+||sync.spotim.market^
+||sync.ads.oveeo.com^
+||sync.platform.lightad.com^
 ||selfgems.com^
 ||showsclicka.com^
 ||2xclock.com^
@@ -16645,6 +16659,7 @@ dlsdk.appsflyer.com^
 ||adplay.it^
 ||adspro.it^
 ||affiliation.software^
+||affilroi.com^
 ||bannerbuy.it^
 ||break-even.it^
 ||broadbandy.net^
@@ -22541,6 +22556,7 @@ dlsdk.appsflyer.com^
 ||ulgroiklf.com^
 ||wbmbr16tt.com^
 ||bugs01071ko.com^
+||w58ce6.cc^
 ||oot59rxrwm.com^
 ||kduwvaq3dt.com^
 ||vpx4fmj4z6.com^
