@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-07T22:03:56.444Z
+! Last modified: 2026-01-08T00:14:36.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10061,6 +10061,7 @@ dlsdk.appsflyer.com^
 ||pailcrime.com^
 ||pailpatch.com^
 ||painstakingpickle.com^
+||paintmogul.com^
 ||paintpear.com^
 ||paleleaf.com^
 ||palmytree.com^
@@ -10084,6 +10085,7 @@ dlsdk.appsflyer.com^
 ||perceivequarter.com^
 ||perfectfetch.com^
 ||perkyjade.com^
+||petitechili.com^
 ||phonecup.com^
 ||phoneresult.com^
 ||photohints.com^
@@ -22532,6 +22534,15 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||egvhd2ggc1.com^
+||cj99fbulb4.com^
+||5lz3u8s5uq.com^
+||bugs01080ko.com^
+||pantomime32.top^
+||register04.top^
+||cgcg01080ht.com^
+||nenlnl.icu^
+||uiakvibuzy.com^
 ||o40d17vln.com^
 ||wrlhhgeyh.com^
 ||1hmklj60i.com^
