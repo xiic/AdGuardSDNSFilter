@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-12T14:06:07.699Z
+! Last modified: 2026-01-12T16:05:26.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1338,6 +1338,7 @@ vkcdnservice.appspot.com^
 ||7uf9rqubcm6ho65wo6onu7x8m.rest^
 ||7wc9vt13qizxvhtze6o4t4u.cyou^
 ||7wuoy9ijxj53p3rl7xf6mkz.cfd^
+||7yuic9uyoi1l2uzlxtlnb24.cfd^
 ||7zvhi46y.xyz^
 ||80055404.vtt^
 ||808ba9fe3d.com^
@@ -13558,6 +13559,7 @@ vkcdnservice.appspot.com^
 ||feaseshognose.qpon^
 ||feasibledecisiveasserted.com^
 ||feastgiddybleeding.com^
+||featuregangster.com^
 ||featurelockout.com^
 ||febads.shop^
 ||februarybogus.com^
@@ -14209,6 +14211,7 @@ vkcdnservice.appspot.com^
 ||fnigkyiktjikgmw.com^
 ||fnkbfrqhwmjzj.xyz^
 ||fnkejfbxhvkox.website^
+||fnnjtxrvfi.com^
 ||fnnlaacqhxdqo.website^
 ||fnnoemdymhpso.store^
 ||fnobmuvwhvmna.store^
@@ -14487,6 +14490,7 @@ vkcdnservice.appspot.com^
 ||fquyv.one^
 ||fqvwalkffipfi.site^
 ||fqxqdeobcusbj.website^
+||fqzjprfzxplwo.website^
 ||fqzouodvgiqub.website^
 ||fqzxecinpjuws.space^
 ||fracaspleopod.cfd^
@@ -14965,6 +14969,7 @@ vkcdnservice.appspot.com^
 ||fyobdrnyarrmu.site^
 ||fyohoehwhsfax.online^
 ||fyojkxpgpsqll.space^
+||fyovqgkrvoiyo.website^
 ||fypxwlxhvwgok.website^
 ||fyqtpfmzmvmgz.website^
 ||fyqvlsvraskhk.online^
@@ -15682,6 +15687,7 @@ vkcdnservice.appspot.com^
 ||gkbbiahqabipz.online^
 ||gkbpmrtixkzui.one^
 ||gkdiuobyd.com^
+||gkednkdbtcb.com^
 ||gkhkmodocwnzu.site^
 ||gkihrlitlfndl.space^
 ||gkijdvpfpcjy.xyz^
@@ -16986,6 +16992,7 @@ vkcdnservice.appspot.com^
 ||hard-midnight.com^
 ||hardaiwhoo.net^
 ||hardcoretrayversion.com^
+||hardenmildewyyang.cyou^
 ||hardexpendstrategy.com^
 ||hardfinbanana.com^
 ||hardiereuglena.help^
@@ -20316,6 +20323,7 @@ vkcdnservice.appspot.com^
 ||jmebwpbpvofcx.online^
 ||jmeoyypc.net^
 ||jmfvvgbmaeklk.online^
+||jmhgstmycd.com^
 ||jmhrmhgjkdgvd.store^
 ||jmicdumecufvo.site^
 ||jmjdifcw.com^
@@ -21839,6 +21847,7 @@ vkcdnservice.appspot.com^
 ||kwfvcxbiqglkm.online^
 ||kwgccbiqhrxqg.online^
 ||kwgirhueuhcua.site^
+||kwhpllmraltfm.website^
 ||kwieeycycccpv.website^
 ||kwituobm.xyz^
 ||kwmbgyoruvsaa.store^
@@ -25400,6 +25409,7 @@ vkcdnservice.appspot.com^
 ||mxglfjjyjkir.xyz^
 ||mxhmhgiiqsxjq.online^
 ||mxhplnujqwmoj.website^
+||mxhybnnilsini.site^
 ||mxizhhtvliooa.website^
 ||mxjitbllqcxli.store^
 ||mxjwznfcryxli.life^
@@ -35031,6 +35041,7 @@ vkcdnservice.appspot.com^
 ||sigmoidmneme.shop^
 ||signaladsdirect.top^
 ||signamentswithd.com^
+||signaturewoundedgraduation.com^
 ||signcalamity.com^
 ||signedquick.com^
 ||significanceoutmatch.com^
@@ -35348,6 +35359,7 @@ vkcdnservice.appspot.com^
 ||slowbeetle.cfd^
 ||slowbrother.pro^
 ||slowdn.net^
+||slowdrama.pro^
 ||slowerdelinquentaccuse.com^
 ||slowfulfoujdar.help^
 ||slowlyfocuseddose.com^
@@ -36761,6 +36773,7 @@ vkcdnservice.appspot.com^
 ||suzukisistrum.shop^
 ||svanazido.qpon^
 ||svbakoarswdvw.site^
+||svelte-move.pro^
 ||sveltebabiism.qpon^
 ||svgmirkagtgcz.space^
 ||svgvlmegeeysc.space^
@@ -36842,6 +36855,7 @@ vkcdnservice.appspot.com^
 ||switch1266.fun^
 ||swiveiba.qpon^
 ||swixrosccrgyf.online^
+||swjcyvgpspslncd.xyz^
 ||swjefkfuavnwt.site^
 ||swjglvhacucvi.space^
 ||swjobsvvucure.website^
@@ -50050,7 +50064,7 @@ prd.api.bleacherreport.com^
 ||stats.bunkr.ru^
 ||logs.netflix.com^
 ||mst.rnd.de^
-||cza.crazygames.com^
+||cza*.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
 ||prod.event.mwm-asset-manager.mwmwebapis.com^
 ||api.amplitudeexperiment.com^
@@ -50300,7 +50314,6 @@ prd.api.bleacherreport.com^
 ||zion-telemetry-nonprod.api.cnn.io^
 ||realtimeanalytics.yext.com^
 ||stats.indianpornempire.com^
-||lp.spac.me^
 ||analytics.verfacto.com^
 ||log.dzen.ru^
 ||flask.us.nextdoor.com^
@@ -52682,6 +52695,8 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||track.applicaster.com^
+||hb-mob2.optiword.com^
 ||tracking.geo.*.amazonaws.com^
 ||telemetry.doxo.com^
 ||sensorsdata-datasink.stardust-tv.com^
