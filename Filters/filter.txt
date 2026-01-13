@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-13T14:05:52.840Z
+! Last modified: 2026-01-13T16:06:04.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -520,6 +520,7 @@ vkcdnservice.appspot.com^
 ||18df009b06.com^
 ||18e6f131f9.com^
 ||18e86316dc.com^
+||18exei5x6j5l179nb.cfd^
 ||18tlm4jee.de^
 ||19515bia.de^
 ||197c4632ea.com^
@@ -11032,6 +11033,7 @@ vkcdnservice.appspot.com^
 ||dosaingreeks.cfd^
 ||dosqhkgk.net^
 ||dosqmgoyayxyo.site^
+||dossingxina.com^
 ||dotburlily.qpon^
 ||dotednitter.help^
 ||doteskugel.cfd^
@@ -14160,6 +14162,7 @@ vkcdnservice.appspot.com^
 ||fllmnnjbyvylf.website^
 ||flmpufjijzyua.store^
 ||flnavbflub.com^
+||flneureditcliack.cyou^
 ||floatingpresentedshopping.com^
 ||flocfusxiquiz.store^
 ||floerainbow.cyou^
@@ -19783,6 +19786,7 @@ vkcdnservice.appspot.com^
 ||iwbiwzzlztbcv.website^
 ||iwbwthllmdfqw.space^
 ||iwdstbdbjevqp.online^
+||iwefwiiryyifb.xyz^
 ||iwffukdtesgpu.online^
 ||iwgmgnwbgbfs.xyz^
 ||iwhaurouzy.net^
@@ -23538,6 +23542,7 @@ vkcdnservice.appspot.com^
 ||lvsvzwagckrai.website^
 ||lvualvjfekioz.space^
 ||lvubwrnhxktlo.online^
+||lvvbqeakmrjvy.top^
 ||lvvbqeaqvrmvy.top^
 ||lvwaexhfmlgvl.website^
 ||lvwojmlajvcub.site^
@@ -26952,6 +26957,7 @@ vkcdnservice.appspot.com^
 ||nybrvnteugnpr.site^
 ||nycteaflota.com^
 ||nydcwypbglbjb.online^
+||nydnmmoahkrs.com^
 ||nyelzufaejwgn.online^
 ||nyetm2mkch.com^
 ||nyftieeoryant.space^
@@ -27599,6 +27605,7 @@ vkcdnservice.appspot.com^
 ||olayomad.com^
 ||olbeeqbqgumdt.website^
 ||olbmcpmktchpe.site^
+||olcathwdvetlaj.com^
 ||olcrdqatcewmf.online^
 ||old-chicken.pro^
 ||olderdisciplinary.com^
@@ -28699,6 +28706,7 @@ vkcdnservice.appspot.com^
 ||pamperwoody.com^
 ||panaservers.com^
 ||pandavapricks.cfd^
+||panelhexagyn.qpon^
 ||pangaeainfima.com^
 ||pangake.club^
 ||pangarawatfiv.cyou^
@@ -30015,6 +30023,7 @@ vkcdnservice.appspot.com^
 ||poorlyadjustvisual.com^
 ||poorlytanrubbing.com^
 ||poorlytwitter.com^
+||pooveheptinelote.cfd^
 ||poowanoalee.net^
 ||pop.dojo.cc^
 ||pop5sjhspear.com^
@@ -36449,6 +36458,7 @@ vkcdnservice.appspot.com^
 ||sthevoyager.org^
 ||stibiumalcosol.cyou^
 ||stickingallot.com^
+||sticky-bid.pro^
 ||sticky-luck.pro^
 ||sticky-resolution.com^
 ||stickyadstv.com^
@@ -37613,6 +37623,7 @@ vkcdnservice.appspot.com^
 ||tflurbzcqgpii.website^
 ||tfomxpkyvdzyi.space^
 ||tfosrv.com^
+||tfpvxnjcwcilu.website^
 ||tfqrifustrybg.store^
 ||tfrgpwbssxyjb.space^
 ||tfrkbyualptil.online^
@@ -38675,6 +38686,7 @@ vkcdnservice.appspot.com^
 ||trudgeaskeses.qpon^
 ||trudgerexcused.com^
 ||trudgessmook.help^
+||true-power.pro^
 ||true-sweets-dreampartner.com^
 ||trueconsist.pro^
 ||truelivewell.com^
@@ -41024,6 +41036,7 @@ vkcdnservice.appspot.com^
 ||vnfptydtktoio.online^
 ||vnhmdeyzvmgho.love^
 ||vnhmwqviy.com^
+||vnpcqiazqmzeq.online^
 ||vnrbjvbwbqfob.click^
 ||vnrqehggyydf.xyz^
 ||vntsm.com^
@@ -42422,6 +42435,7 @@ vkcdnservice.appspot.com^
 ||wnmejreldlzcu.online^
 ||wnnatyfziksqt.website^
 ||wnndiuhirl.net^
+||wnoeyhmmzfmlt.online^
 ||wnouncrrippleshiswa.org^
 ||wnp.com^
 ||wnsteuadptaly.space^
@@ -43457,6 +43471,7 @@ vkcdnservice.appspot.com^
 ||xuajhybskerxo.space^
 ||xubbublumamr.com^
 ||xubdamrbymyqft.com^
+||xubjwrbzpapoc.website^
 ||xucylxthpajss.site^
 ||xudpnwjiprcmy.site^
 ||xudxxwbljkt.com^
@@ -44837,6 +44852,7 @@ vkcdnservice.appspot.com^
 ||zopumirerfahv.website^
 ||zoqvjyoojmyow.top^
 ||zorango.com^
+||zordoabsolsooph.net^
 ||zotnkataxyscx.online^
 ||zottjlemsnnrj.website^
 ||zoubpogaessse.website^
@@ -49631,6 +49647,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||logs.collector.*.cloud.solarwinds.com^
 ||doppler.hulu.com^
 ||events.insiad.com^
 ||agatha-log-service-*.a.run.app^
@@ -51813,7 +51830,6 @@ prd.api.bleacherreport.com^
 ||log.ecgh.dk^
 ||log.enuri.com^
 ||log.g-enews.com^
-||log.go.com^
 ||log.iyunmai.com^
 ||log.krs-ix.ru^
 ||log.mappy.net^
@@ -54400,6 +54416,7 @@ dlsdk.appsflyer.com^
 ||log-*.previewnetworks.com^
 ||log-pq.shopfully.cloud^
 ||log.aimtell.com^
+||log.go.com^
 ||log.nordot.jp^
 ||log.seekda.com^
 ||logging.je-apps.com^
