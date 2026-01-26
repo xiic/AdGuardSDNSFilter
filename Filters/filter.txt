@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-26T14:07:31.197Z
+! Last modified: 2026-01-26T16:06:26.056Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||hbx.media.net^
 ||paa-reporting-advertising.amazon^
 ||v.tampermonkey.net^
 ||u.tampermonkey.net^
@@ -1495,6 +1496,7 @@ vkcdnservice.appspot.com^
 ||8sfdladng.xyz^
 ||8tip5whk.xyz^
 ||8tx5c29r928kyt.cfd^
+||8u341rglwjlyt68ro4hwbigmt3.cfd^
 ||8ufnem9bhxbfzqpz9n7.cfd^
 ||8v21z8kly1z4h514u2qp.cfd^
 ||8y83euwehq669vq9.cfd^
@@ -3168,6 +3170,7 @@ vkcdnservice.appspot.com^
 ||alchemymatchesconnections.com^
 ||alchemysocial.com^
 ||alcidaefecials.cyou^
+||alclebcom.xyz^
 ||alcoholcheckoccur.com^
 ||alcoholclavialpalaung.cfd^
 ||alcondevarella.cfd^
@@ -13504,6 +13507,7 @@ vkcdnservice.appspot.com^
 ||eriverwasquitefu.com^
 ||eriverwasquitefullo.com^
 ||erjmzyibsksrq.space^
+||erkmgkjqofkacw.com^
 ||erlfaabweilwi.website^
 ||erlxvtdjaotvqii.com^
 ||ermitcleaves.cfd^
@@ -14944,6 +14948,7 @@ vkcdnservice.appspot.com^
 ||flaw.cloud^
 ||flawerosion.com^
 ||flawgrandparentsmysterious.com^
+||flawlesscrack.pro^
 ||flawslightestvariability.com^
 ||flawyapio.help^
 ||flaxdescale.com^
@@ -21360,6 +21365,7 @@ vkcdnservice.appspot.com^
 ||jcqwudfidmevr.online^
 ||jcsbdfpddlahn.online^
 ||jcsjeisnswjmp.site^
+||jctgvlyyleexy.com^
 ||jcuaehwyrflch.online^
 ||jcudgbsxoamtt.website^
 ||jcvtdoqmifyzt.site^
@@ -30152,6 +30158,7 @@ vkcdnservice.appspot.com^
 ||oucouksirt.com^
 ||oucpambrmtexm.online^
 ||oudjmuimzsshw.space^
+||oudreedsix.com^
 ||oudsoordonouz.net^
 ||oueubcwstzemc.online^
 ||oufnltqwfhoea.space^
@@ -37752,6 +37759,7 @@ vkcdnservice.appspot.com^
 ||sinecartes.qpon^
 ||sinewyrotates.qpon^
 ||sinful-bad.pro^
+||singedwispierschmoos.cfd^
 ||singingprior.com^
 ||singledatetime.com^
 ||singledrunk.com^
@@ -43045,6 +43053,7 @@ vkcdnservice.appspot.com^
 ||uvtwcxrwiibvy.online^
 ||uvuawvcjpiyzt.online^
 ||uvulacoil.qpon^
+||uvw4n55ynik7z8q7qtjhk8nrj97.rest^
 ||uvwoqkhusxlhqjo.xyz^
 ||uwabrjujpsw.com^
 ||uwahagoyvuccd.website^
@@ -71884,6 +71893,10 @@ dlsdk.appsflyer.com^
 ||o0rnzwzst5.com^
 ||gsk801261hh.com^
 ||3dle4u60y7.com^
+||sqmn4wncty.com^
+||ulny.cn^
+||tluutoido.com^
+||pugzutzi.com^
 ||7ryx7ph5y.com^
 ||acqephvfx.com^
 ||m5uiy5gd1.com^
