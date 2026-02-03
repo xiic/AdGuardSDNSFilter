@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-03T18:17:43.411Z
+! Last modified: 2026-02-03T20:09:20.432Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8297,6 +8297,7 @@ vkcdnservice.appspot.com^
 ||cjtxlfpkisctv.site^
 ||cjutqvopetliy.space^
 ||cjvdfw.com^
+||cjvplwnfacl.com^
 ||cjxlogsfysftr.space^
 ||cjxomyilmv.com^
 ||cjyhipxaviajp.website^
@@ -9462,6 +9463,7 @@ vkcdnservice.appspot.com^
 ||croe1h838m72i4rcvfyhytglj.rest^
 ||crogctnujttuy.site^
 ||croiikcrom.cfd^
+||cromerelaine.com^
 ||cronaica.net^
 ||croneljacktan.help^
 ||cronetpalermo.cyou^
@@ -13253,6 +13255,7 @@ vkcdnservice.appspot.com^
 ||equipmentselfemployed.com^
 ||equirekeither.xyz^
 ||equiremukentsi.org^
+||equisonhomodox.com^
 ||equitxhquqcqw.online^
 ||equitymaybird.cyou^
 ||equivalentcudgeltriumphant.com^
@@ -15274,6 +15277,7 @@ vkcdnservice.appspot.com^
 ||freeconverter.io^
 ||freecounter.ovh^
 ||freecounterstat.ovh^
+||freedcatch.com^
 ||freedomalburn.com^
 ||freefrog.site^
 ||freefromads.com^
@@ -26259,6 +26263,7 @@ vkcdnservice.appspot.com^
 ||molecbolicchard.cyou^
 ||moleconcern.com^
 ||molecularrather.com^
+||moleshederinchekan.qpon^
 ||molesthyrst.cyou^
 ||moleya.click^
 ||molikrebaumt.xyz^
@@ -26654,6 +26659,7 @@ vkcdnservice.appspot.com^
 ||mtdmvmzxctwtk.site^
 ||mteitdoivvxjy.site^
 ||mtertvucdbkzv.online^
+||mtgclgyj.xyz^
 ||mtghwlbfmpuii.online^
 ||mthcplolzrszh.online^
 ||mtklngjjpzpwq.space^
@@ -35467,6 +35473,7 @@ vkcdnservice.appspot.com^
 ||rouwhapt.com^
 ||rouzauglaizo.net^
 ||roveearnesttablets.com^
+||rovepedage.com^
 ||rovingllanero.com^
 ||rovno.xyz^
 ||rovomghrtungt.online^
@@ -38785,6 +38792,7 @@ vkcdnservice.appspot.com^
 ||subduedexamination.pro^
 ||subduedfilthloot.com^
 ||subericfibsfusing.cfd^
+||subgitpyrexicsmelled.qpon^
 ||subgumsabe.cfd^
 ||subiqquokjziy.store^
 ||subitopreface.qpon^
@@ -43881,6 +43889,7 @@ vkcdnservice.appspot.com^
 ||w1c18m45pb2vm95u3e1my6irc2.cfd^
 ||w1h3kktj6hf8e2h.cfd^
 ||w1pbv565c15ecvm5i4z955p11xrl.cfd^
+||w1r7r3fl4q4n2qkbc.rest^
 ||w2czcne5ogpzmerhg5.cfd^
 ||w2le1o66k351rkzm8.cfd^
 ||w4.com^
@@ -45937,6 +45946,7 @@ vkcdnservice.appspot.com^
 ||xqwrdegbmdfrv.top^
 ||xqwxnepeckidj.space^
 ||xqxgcdhfkccgg.site^
+||xqxplqzqywvcj.website^
 ||xrivkyaczbat.com^
 ||xrjarnsprttuu.site^
 ||xrjkkmsjofyef.website^
@@ -46242,6 +46252,7 @@ vkcdnservice.appspot.com^
 ||yatukdakwfhhp.online^
 ||yatvyagcarfax.cyou^
 ||yatytentioniau.org^
+||yatyxvizgwyvd.space^
 ||yatzdnbs.com^
 ||yaukggyktvseg.space^
 ||yaupaibcfqfvh.online^
@@ -46749,6 +46760,7 @@ vkcdnservice.appspot.com^
 ||yprmiumi.xyz^
 ||yprzvrve2vmbxqy9gnk.cfd^
 ||ypulmrwnpxwkz.space^
+||ypuupdvjvsvrm.website^
 ||ypvibqgydnejr.space^
 ||ypwcttlciuuzu.online^
 ||ypwhtnnghvhmr.space^
@@ -47786,6 +47798,7 @@ vkcdnservice.appspot.com^
 ||zzveirrwywhgc.store^
 ||zzvozljdjszqi.site^
 ||zzvuvnvgfamfy.online^
+||zzwbjmkgxwsqs.website^
 ||zzxrrcacgcsjf.site^
 ||zzxvxomlkpvcl.website^
 ||zzyxhvqjjtgxj.online^
