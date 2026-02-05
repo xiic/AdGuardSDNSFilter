@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-05T18:16:27.881Z
+! Last modified: 2026-02-05T20:07:42.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1154,6 +1154,7 @@ vkcdnservice.appspot.com^
 ||5r6lux3rrlqte1r5.cfd^
 ||5t1jqutv8lj8364uoe11ki1uh.cfd^
 ||5toft8or7on8tt.com^
+||5uguf1jgvz1ft9.cfd^
 ||5uzevbgn3ufcgg14v8ze89no7r9.cfd^
 ||5vbs96dea.com^
 ||5vpbnbkiey24.com^
@@ -2485,7 +2486,6 @@ vkcdnservice.appspot.com^
 ||advfeeds.com^
 ||advice-ads.s3.amazonaws.com^
 ||adviceglossaryeminence.com^
-||advise.co^
 ||advisedlycourier.com^
 ||advisedwhenever.com^
 ||adviseshakethrilled.com^
@@ -3871,6 +3871,7 @@ vkcdnservice.appspot.com^
 ||arbitresausage.qpon^
 ||arblastbhunder.cfd^
 ||arblastbrined.cyou^
+||arboredchazansevernia.qpon^
 ||arbourrenewal.com^
 ||arbutterfreer.com^
 ||arbwumnjiacwg.space^
@@ -8140,6 +8141,7 @@ vkcdnservice.appspot.com^
 ||chocolateluciusfight.com^
 ||choconart.com^
 ||choirssniper.qpon^
+||chokersmalicho.com^
 ||chokingsnigs.qpon^
 ||cholatetapalos.com^
 ||choleicvends.help^
@@ -20269,6 +20271,7 @@ vkcdnservice.appspot.com^
 ||incloseinterest.com^
 ||includeceaslesshannah.com^
 ||includemodal.com^
+||incomethurst.qpon^
 ||incomparable-day.pro^
 ||incomparable-moment.pro^
 ||incomparable-pair.com^
@@ -25564,6 +25567,7 @@ vkcdnservice.appspot.com^
 ||mauvineinez.cyou^
 ||mavamuwwnkksn.store^
 ||maviesbenmost.cfd^
+||maviestroudsartless.cfd^
 ||mavq.net^
 ||mavrtracktor.com^
 ||mawlaybob.com^
@@ -31047,6 +31051,7 @@ vkcdnservice.appspot.com^
 ||performanceonclick.com^
 ||performancetrustednetwork.com^
 ||performcottars.cyou^
+||performhouseholduneasy.com^
 ||performit.club^
 ||performverifyonward.com^
 ||perfumebonusspectacle.com^
@@ -32878,6 +32883,7 @@ vkcdnservice.appspot.com^
 ||ptiweersoowhaih.net^
 ||ptjosupqmhv.net^
 ||ptkbfiewzo.com^
+||ptkhuimeeqelb.com^
 ||ptkmuqscgtakv.site^
 ||ptlucrangwlvs.website^
 ||ptlufbanslsse.website^
@@ -33273,6 +33279,7 @@ vkcdnservice.appspot.com^
 ||pyerwcvjxnmmrgb.xyz^
 ||pyghwgyjuuaht.space^
 ||pygirfcitczab.store^
+||pyicbcxvs.com^
 ||pyivcufyswzms.online^
 ||pyjamasteaspiment.cfd^
 ||pyjamasweated.com^
@@ -40486,6 +40493,7 @@ vkcdnservice.appspot.com^
 ||tidy-idea.com^
 ||tidy-winter.pro^
 ||tidydoubt.pro^
+||tie3lkyzw8c4hb599h8.rest^
 ||tiectkogarecs.space^
 ||tiedexceed.com^
 ||tiedhamadjoin.com^
@@ -41717,6 +41725,7 @@ vkcdnservice.appspot.com^
 ||txzbejxkynpvk.online^
 ||txzylleycallj.site^
 ||tyaxztldkgmmv.website^
+||tybaugcwhunpu.com^
 ||tybffeppxwzmm.website^
 ||tyburnpenalty.com^
 ||tychon.bid^
@@ -46382,6 +46391,7 @@ vkcdnservice.appspot.com^
 ||xptzbpajealib.website^
 ||xpvewpanmkzis.site^
 ||xpvv0rkn.fun^
+||xpwibrhrnralop.xyz^
 ||xpwpkuexwpakf.store^
 ||xpxhflmlgqujl.website^
 ||xpxqagsqezhgk.website^
@@ -48108,6 +48118,7 @@ vkcdnservice.appspot.com^
 ||zstcyektvaoug.online^
 ||zsumkfrrmrjpj.site^
 ||zsvxmtfteoymp.space^
+||zswbtbskjnqq.com^
 ||ztavitwkredoe.website^
 ||ztbuhwcovpgus.space^
 ||ztctourupmhin.today^
@@ -64571,7 +64582,6 @@ dlsdk.appsflyer.com^
 ||a.zdg.de^
 ||afl-static-cdn.newbiz-prod.stroeerws.de^
 ||embed.contentverticals.de^
-||ablyft.com^
 ||tikibihu.com^
 ||partners2.das-onlinespiel.de^
 ||intextlinks.idg.zone^
