@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-05T22:05:52.919Z
+! Last modified: 2026-02-06T00:16:01.823Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1663,6 +1663,7 @@ vkcdnservice.appspot.com^
 ||aahpvdkakpska.online^
 ||aaislmjkjcxov.site^
 ||aajhkzdwbmloi.today^
+||aajlyaybulgyw.com^
 ||aalhjtdrhzqgu.site^
 ||aalpxgscssjnt.website^
 ||aalsclem.cyou^
@@ -7869,6 +7870,7 @@ vkcdnservice.appspot.com^
 ||cgpjpvvcadzrp.store^
 ||cgpnhjatakwqnjd.xyz^
 ||cgsaxsvjvswcu.space^
+||cgt114u5chbwknvxfz.cfd^
 ||cgthnxnovsmml.xyz^
 ||cgtkclfydnqhp.site^
 ||cgtwccqrpbota.global^
@@ -12513,8 +12515,10 @@ vkcdnservice.appspot.com^
 ||edwrrlvzlqgzk.site^
 ||edxilaprgjxqt.site^
 ||edxmsybbrm.com^
+||edzktnhleokdlo.com^
 ||edzusegqavqik.store^
 ||ee2b93a3a4.com^
+||ee30f51e20.com^
 ||eeaeghdfwnjnz.site^
 ||eeawcdhxtjmkb.site^
 ||eeberoasfqxwg.global^
@@ -17959,6 +17963,7 @@ vkcdnservice.appspot.com^
 ||hakvzygpdpnbx.online^
 ||halakictsp.help^
 ||halduspays.help^
+||haleahmet.qpon^
 ||halelymopsy.help^
 ||halfbakedhaul.com^
 ||halfdemocratic.com^
@@ -20038,6 +20043,7 @@ vkcdnservice.appspot.com^
 ||ilissuspuranas.qpon^
 ||ilistensavu.com^
 ||iljcnkfiowzqw.site^
+||illblame.pro^
 ||illertecoma.cyou^
 ||illfaredrench.com^
 ||illfated-eat.com^
@@ -20220,6 +20226,7 @@ vkcdnservice.appspot.com^
 ||impugkpbilveh.website^
 ||impugnspapio.qpon^
 ||impukwweipyin.website^
+||impuneawnless.cfd^
 ||impure-disk.pro^
 ||impureleg.com^
 ||impurepath.com^
@@ -20246,6 +20253,7 @@ vkcdnservice.appspot.com^
 ||inactionaccompanyingstress.com^
 ||inadequatebuoythin.com^
 ||inadequateconsolation.com^
+||inadmissibleeyewitness.com^
 ||inadnetwork.xyz^
 ||inanebinding.com^
 ||inanelychanduy.cfd^
@@ -20445,6 +20453,7 @@ vkcdnservice.appspot.com^
 ||inkvm.com^
 ||inlacesmilchig.help^
 ||inlakedosage.qpon^
+||inlar.xyz^
 ||inlwhyhdnpjxk.website^
 ||inmgdkgdfhdg.com^
 ||inmshvrtfawjo.online^
@@ -24142,6 +24151,7 @@ vkcdnservice.appspot.com^
 ||liegelygosport.com^
 ||liejowler.com^
 ||liepotikons.com^
+||lievestarnicasbogymen.qpon^
 ||lievestcrasser.com^
 ||lif4wtefrkzho1.cfd^
 ||lifeboatlegalalleviate.com^
@@ -30239,6 +30249,7 @@ vkcdnservice.appspot.com^
 ||ovhtuompscqaq.website^
 ||ovillussclimb.cfd^
 ||oviratoush.net^
+||ovistwlxhqynmtl.com^
 ||ovkyjqwvvqosx.space^
 ||ovlwpnkiaxmdd.website^
 ||ovnaltaygkwmm.space^
@@ -33038,6 +33049,7 @@ vkcdnservice.appspot.com^
 ||pumaqmqix.com^
 ||pumeloricing.com^
 ||pummicelapwork.cfd^
+||pumovfoqzapz.com^
 ||pumovimfxrfsy.net^
 ||pumpbead.com^
 ||pumpmenrestage.rest^
@@ -34286,6 +34298,7 @@ vkcdnservice.appspot.com^
 ||raggedstriking.com^
 ||ragglestripody.cfd^
 ||raglassofrum.cc^
+||ragolnnkeo.com^
 ||ragrolromairsou.net^
 ||rahjolly.shop^
 ||rahrcumhbyxrm.space^
@@ -37115,6 +37128,7 @@ vkcdnservice.appspot.com^
 ||serverbid.com^
 ||serverhumidity.com^
 ||servershearyourselves.com^
+||serveryunmildmna.qpon^
 ||servesummerhumbug.com^
 ||servetag.com^
 ||servetean.site^
@@ -41887,6 +41901,7 @@ vkcdnservice.appspot.com^
 ||ucgpgzquuhwey.space^
 ||uchadmiredindeedeis.org^
 ||uchataugouzaiy.net^
+||uchjcosvyues.com^
 ||uchwgynkggjca.online^
 ||uciockqdyzlim.site^
 ||ucjcjpdnyzkkt.space^
