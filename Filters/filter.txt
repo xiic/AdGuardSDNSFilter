@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-07T02:54:31.047Z
+! Last modified: 2026-02-07T04:31:36.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8574,6 +8574,7 @@ vkcdnservice.appspot.com^
 ||clingcupidfootprint.com^
 ||clinkspurtfirmly.com^
 ||clioneembraidwants.cfd^
+||clionefingery.com^
 ||clionenewsymusks.cyou^
 ||clipmistermop.com^
 ||clipperroutesevere.com^
@@ -18595,6 +18596,7 @@ vkcdnservice.appspot.com^
 ||hfnfoupaytndf.space^
 ||hfopewkdgmcal.site^
 ||hfopteyhgqeas.online^
+||hfoxvuiy46cffztp1gkui7cm912.cfd^
 ||hfqsgcclxlvll.online^
 ||hfqxrivbvubyz.store^
 ||hfsecdrzfdsry.club^
@@ -21129,6 +21131,7 @@ vkcdnservice.appspot.com^
 ||iwkdgieptmede.site^
 ||iwkgepcvdeejm.online^
 ||iwklxkwqfiphw.website^
+||iwlhxgnimre.com^
 ||iwnmzkpzalkbo.online^
 ||iwoofaipie.net^
 ||iwovfiidszrk.tech^
@@ -22551,6 +22554,7 @@ vkcdnservice.appspot.com^
 ||kchhccjmzipel.site^
 ||kcjmivforjixu.online^
 ||kckc7p3oc4nffjhk2lolynocgr3pcvoe9yw.cfd^
+||kckoxavilaa.com^
 ||kcldlqybhdgdk.site^
 ||kcnjivjem.net^
 ||kcnoeqivvzana.online^
@@ -26444,6 +26448,7 @@ vkcdnservice.appspot.com^
 ||mkbcuryjsmhqb.com^
 ||mkcljppfkthiw.site^
 ||mkcmuoujzgsxv.online^
+||mkcokcdm.xyz^
 ||mkemdlgjkagkq.com^
 ||mkexdzpuiswaq.online^
 ||mkfarxelgalel.online^
@@ -27106,6 +27111,7 @@ vkcdnservice.appspot.com^
 ||mtypitea.net^
 ||mtyrltifpzwzb.online^
 ||mtyxmamrsjxyr.space^
+||mu3wc8tzo4y6en.rest^
 ||mu9qgorqvxl8hm64.cfd^
 ||muanadalow.xyz^
 ||mubkemxsr.net^
@@ -28014,6 +28020,7 @@ vkcdnservice.appspot.com^
 ||nhvyafmsoet.xyz^
 ||nhwoxbzlacaqx.website^
 ||nhzczuzvmmcfh.website^
+||niagaraswails.com^
 ||nianticcrip.rest^
 ||niaumxovmqpur.online^
 ||niayuziuisuru.online^
@@ -29020,6 +29027,7 @@ vkcdnservice.appspot.com^
 ||obavfairnmarw.website^
 ||obcswpfk.xyz^
 ||obdkeieufzyyr.website^
+||obdphmxlq.com^
 ||obedieval.my.id^
 ||obelionmermis.shop^
 ||obese-actor.pro^
@@ -34820,6 +34828,7 @@ vkcdnservice.appspot.com^
 ||rebukeamalett.cfd^
 ||rebukeirresistiblesubstitute.com^
 ||rebukemusclesshark.com^
+||rebukergarceblarina.qpon^
 ||recalldys.cfd^
 ||recantetheric.cyou^
 ||recantkeynotecrane.com^
@@ -36896,6 +36905,7 @@ vkcdnservice.appspot.com^
 ||schuitspimenta.cfd^
 ||schutecahnite.qpon^
 ||schwarzcarlock.qpon^
+||sciathpaaldraws.qpon^
 ||sciathsurma.cfd^
 ||sciaticgallootarouse.cfd^
 ||scientific-doubt.com^
@@ -58345,6 +58355,7 @@ dlsdk.appsflyer.com^
 ||t.smile.eu^
 ||t.spbx.app^
 ||t.spot.im^
+||t.themarketer.com^
 ||t.vibe.co^
 ||t2.t2b.click^
 ||taboola.com^
