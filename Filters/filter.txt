@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-12T03:01:52.960Z
+! Last modified: 2026-02-12T04:40:24.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1295,6 +1295,7 @@ vkcdnservice.appspot.com^
 ||7153823bf9.com^
 ||717d165445.com^
 ||71df446534.com^
+||71jzhekrmp6m91txf34.rest^
 ||72hdgb5o.de^
 ||730fcb332f.com^
 ||732ltwbqtv97645q11jwm37vo.rest^
@@ -1624,6 +1625,7 @@ vkcdnservice.appspot.com^
 ||9tumza4dp4o9.com^
 ||9vgo2mybb8gi6blfrb.rest^
 ||9wdjf9va.xyz^
+||9x7ki1mf7jem1l6iexqi.cfd^
 ||9xeqynu3gt7c.com^
 ||9xmovies.dog^
 ||9xmovies.red^
@@ -2602,6 +2604,7 @@ vkcdnservice.appspot.com^
 ||aegmdwmvhesof.website^
 ||aeiptbtyknklq.online^
 ||aeiwzejwyzqjy.rocks^
+||aejravyfcejxe.site^
 ||aekmrkebaawzm.online^
 ||aekpzxaghjyxa.global^
 ||aelnyqxfdbejjtn.com^
@@ -3600,6 +3603,7 @@ vkcdnservice.appspot.com^
 ||anguishaddition.com^
 ||anguished-total.pro^
 ||angularpoppyrobbing.com^
+||angxyccyreyhu.com^
 ||anhimaetoller.help^
 ||anhlgguhdajid.website^
 ||anilinebaptizedicasts.cyou^
@@ -21460,6 +21464,7 @@ vkcdnservice.appspot.com^
 ||irvjwpajppvxi.site^
 ||irwyiaexxopok.love^
 ||irxjqekijejhe.website^
+||iryiikxealejx.site^
 ||irymountain.org^
 ||irymqsskczira.website^
 ||isabellaentire.com^
@@ -22883,6 +22888,7 @@ vkcdnservice.appspot.com^
 ||jweooxbmbrv.net^
 ||jwezawcarasf.com^
 ||jwhfxnravgzft.space^
+||jwigxlvorrowv.site^
 ||jwjcpzdprksgg.online^
 ||jwkjlejxvxj.xyz^
 ||jwoawrucjoerw.space^
@@ -24877,6 +24883,7 @@ vkcdnservice.appspot.com^
 ||lhyfewqwlxbil.online^
 ||lhywdupv.com^
 ||lhyxoipzyzkuz.website^
+||lhzdzekxfrgob.online^
 ||lhzntghorkktf.website^
 ||lhzsoiridsumh.space^
 ||lhzxdptexntmf.space^
@@ -26397,6 +26404,7 @@ vkcdnservice.appspot.com^
 ||mattockpackall.com^
 ||mattressskilfulwalnut.com^
 ||mature-holiday.pro^
+||maturecabinet.pro^
 ||maturityneedlework.com^
 ||maturitynotebookmotion.com^
 ||maturityrigourwits.com^
@@ -30245,6 +30253,7 @@ vkcdnservice.appspot.com^
 ||oiycak.com^
 ||oiyhpucamolav.website^
 ||oiylclkpohspa.space^
+||oiyqaixxgbibx.com^
 ||oiysoleknqk.xyz^
 ||oizbedpnabrwr.online^
 ||ojabohrqbzojq.site^
@@ -40613,6 +40622,7 @@ vkcdnservice.appspot.com^
 ||sumptuousmonks.com^
 ||suncgaxaumzmf.website^
 ||suncmhqvcszqkw.com^
+||sundaejaupinggordian.qpon^
 ||sundaycomplicate.com^
 ||sundayplough.com^
 ||sunfallbiali.qpon^
@@ -41081,6 +41091,7 @@ vkcdnservice.appspot.com^
 ||taeniasgilia.qpon^
 ||tafdiywfnavss.site^
 ||taffetatinchelcompole.cfd^
+||taffiashordockbuboed.cfd^
 ||tafiadupingchins.cyou^
 ||taghaugh.com^
 ||taginova.xyz^
@@ -41328,6 +41339,7 @@ vkcdnservice.appspot.com^
 ||tdmogwlkwcgiu.site^
 ||tdnqgundzquge.website^
 ||tdoqiajej.xyz^
+||tdppijrnkxns.xyz^
 ||tdrczdscckdwu.online^
 ||tdsafe.org^
 ||tdslinetraffic.com^
@@ -41408,6 +41420,7 @@ vkcdnservice.appspot.com^
 ||teindsfritt.com^
 ||teindsgoal.cfd^
 ||teioidbecrowd.cfd^
+||tejckzbrzjnxz.online^
 ||teksishe.net^
 ||tel-tel-fie.com^
 ||telechargementdirect.net^
@@ -41562,6 +41575,7 @@ vkcdnservice.appspot.com^
 ||tg7cgq3hq332cm.cfd^
 ||tgcapgsjdizdv.website^
 ||tgel2ebtx.ru^
+||tgesiqglcpyfm.online^
 ||tgfkqpvxzcfxq.world^
 ||tggpgfvgyhgps.website^
 ||tghixmakh.xyz^
@@ -73504,6 +73518,7 @@ dlsdk.appsflyer.com^
 ||sxzl6x4k9p.com^
 ||multiple46.top^
 ||l2qdfaq62o.com^
+||dlsybe78o0.com^
 ||skirmish33.top^
 ||1hhwyb4vl.com^
 ||yzhcp6cw1.com^
