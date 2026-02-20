@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-20T08:11:51.807Z
+! Last modified: 2026-02-20T10:11:44.991Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1646,6 +1646,7 @@ vkcdnservice.appspot.com^
 ||9fnq2zhkkolqlzl.cyou^
 ||9gmnfzth6vmplp1.cfd^
 ||9icmqwtv67ir3r1qz.cfd^
+||9ii2tbqzn1lvll.rest^
 ||9iw6l5qyp6tbikq.cfd^
 ||9j5zktyt7m29i378j.cfd^
 ||9japride.com^
@@ -5828,6 +5829,7 @@ vkcdnservice.appspot.com^
 ||betideyapp.shop^
 ||betimbur.com^
 ||betimelineny.cyou^
+||betingelampong.cyou^
 ||betkr.cc^
 ||betmasquerainchan.com^
 ||betmenaff.com^
@@ -7099,6 +7101,7 @@ vkcdnservice.appspot.com^
 ||broworkers5s.com^
 ||browse-boost.com^
 ||browsecoherentunrefined.com^
+||browsedcold.qpon^
 ||browserr.top^
 ||browsers.support^
 ||browsfried.com^
@@ -12133,6 +12136,7 @@ vkcdnservice.appspot.com^
 ||dle-news.xyz^
 ||dlerwfqexgfoh.space^
 ||dletviqckubbb.space^
+||dlglvsxadvloc.online^
 ||dlhdcawqeawfb.space^
 ||dlhqrggbpfblrop.com^
 ||dlhwyaetguynl.space^
@@ -15377,6 +15381,7 @@ vkcdnservice.appspot.com^
 ||fdxouczcmbwti.store^
 ||fe17ba9b40.com^
 ||fe7qygqi2p2h.com^
+||fe7zwypypmfogo.cfd^
 ||fe8171c761.com^
 ||feableandworld.com^
 ||feadrope.net^
@@ -15938,6 +15943,7 @@ vkcdnservice.appspot.com^
 ||flankyyowler.help^
 ||flansactidaced.com^
 ||flappittard.cfd^
+||flaprotatewedge.com^
 ||flapsoonerpester.com^
 ||flarby.com^
 ||flaredishwater.com^
@@ -16171,6 +16177,7 @@ vkcdnservice.appspot.com^
 ||fnoxmhkwrkhxv.space^
 ||fnoz8tgk8owfg6mpe.cfd^
 ||fnpftjzykrbbg.store^
+||fnpnbsfrm.com^
 ||fnqbituexyaxm.online^
 ||fnqhgazwgznjq.site^
 ||fnrmxmfphbdjy.online^
@@ -19289,6 +19296,7 @@ vkcdnservice.appspot.com^
 ||hallanjerbil.com^
 ||halloosclog.help^
 ||hallowsplovers.help^
+||hallucinatecognizance.com^
 ||hallwaysuspendbade.com^
 ||haloedelwood.cfd^
 ||haloedessed.top^
@@ -19466,6 +19474,7 @@ vkcdnservice.appspot.com^
 ||haunchfossil.com^
 ||haunigre.net^
 ||hauntedoverride.com^
+||hauntequatorsent.com^
 ||haunting-host.pro^
 ||haunting-spare.com^
 ||hauntingopening.pro^
@@ -24043,6 +24052,7 @@ vkcdnservice.appspot.com^
 ||kanatbour.help^
 ||kandoqbnlbqzo.site^
 ||kangaroointentions.com^
+||kanmmixmchpys.space^
 ||kannenhexagynnervule.cfd^
 ||kanoodle.com^
 ||kantoulvnw.xyz^
@@ -26956,6 +26966,7 @@ vkcdnservice.appspot.com^
 ||luuming.com^
 ||luuspdbnxvyjs.site^
 ||luvianyao.cfd^
+||luwfaczcdafjb.online^
 ||luwt.cloud^
 ||luwumpgolmbra.xyz^
 ||luxadv.com^
@@ -30612,6 +30623,7 @@ vkcdnservice.appspot.com^
 ||npzahkooxkyps.website^
 ||npzztwnartfjy.website^
 ||nqbukatzrtcve.site^
+||nqbzajlueedt.com^
 ||nqcqmwhf2fr7346m6fzychln.cfd^
 ||nqdgrzcyyeiul.online^
 ||nqdpqbfihaids.store^
@@ -31123,6 +31135,7 @@ vkcdnservice.appspot.com^
 ||oawkaajvnfkcu.site^
 ||oawosoulsouso.net^
 ||oaxcyzqojnyxy.online^
+||oaxmrjcmawocm.website^
 ||oazogrumou.net^
 ||obaerrs.cfd^
 ||obakkaqbwcnlh.global^
@@ -32904,6 +32917,7 @@ vkcdnservice.appspot.com^
 ||pagkitahn.com^
 ||pagrusswangy.cyou^
 ||pagumariffed.shop^
+||pahftqiaxdjxt.space^
 ||paht.tech^
 ||pahtdz.tech^
 ||pahtef.tech^
@@ -35678,6 +35692,7 @@ vkcdnservice.appspot.com^
 ||purposelyhandful.com^
 ||purposeopinion.com^
 ||purposesmy.com^
+||purredunmossy.shop^
 ||purrrrrrrr.net^
 ||pursedgheraorubbish.qpon^
 ||pursleygriffon.cfd^
@@ -36349,6 +36364,7 @@ vkcdnservice.appspot.com^
 ||qlstwuvnfjpry.website^
 ||qltnuvieimllz.website^
 ||qlvbmnesodbob.space^
+||qlwttuys.xyz^
 ||qlxiuxmzib.com^
 ||qlyfefacjijda.site^
 ||qlymjkshghifu.space^
@@ -40850,6 +40866,7 @@ vkcdnservice.appspot.com^
 ||slimalternative.pro^
 ||slimdein.icu^
 ||slimespell.com^
+||slimplumbernotable.com^
 ||slinglyricsimperturbable.com^
 ||slinkhub.com^
 ||slipcotton.com^
@@ -42930,6 +42947,7 @@ vkcdnservice.appspot.com^
 ||takeallsoft.ru^
 ||takecareproduct.com^
 ||takelnk.com^
+||takemanagerfluffy.com^
 ||takeoutbeflumsemmit.cfd^
 ||takeoverpact.com^
 ||takeoverrings.com^
@@ -45992,6 +46010,7 @@ vkcdnservice.appspot.com^
 ||unused-roll.com^
 ||unusedframe.com^
 ||unusedgarbage.pro^
+||unusual-spot.com^
 ||unusual-trouble.com^
 ||unusualfettle.cfd^
 ||unusuallypilgrim.com^
@@ -46441,6 +46460,7 @@ vkcdnservice.appspot.com^
 ||uwbqwgzobxpqi.site^
 ||uwdqokjwmnfxu.site^
 ||uwemasfpdgnrj.site^
+||uwfdngfnpiovxt.com^
 ||uwfsrubjqlibq.store^
 ||uwhdtqwdubvdf.website^
 ||uwhevailoo.net^
@@ -52212,6 +52232,7 @@ vkcdnservice.appspot.com^
 ||zxttvkshqbded.space^
 ||zxuknfffkemse.space^
 ||zxvhxdpyordan.store^
+||zxwrgwncljanq.site^
 ||zxzbjqoyojpza.site^
 ||zyavhhgzkdjfu.space^
 ||zybdgyliyrhum.website^
@@ -52231,6 +52252,7 @@ vkcdnservice.appspot.com^
 ||zyhzzxcwgqwtx.online^
 ||zyiaxyfrbehub.space^
 ||zyiis.net^
+||zyjcuzdaazwcj.website^
 ||zyjxtawnlvntu.site^
 ||zykkjyamlooeq.top^
 ||zykkjyaokkjyb.top^
@@ -75851,6 +75873,7 @@ dlsdk.appsflyer.com^
 ||zqy0jcfipu.com^
 ||y40milgijh.com^
 ||rio9s1zdpd.com^
+||fwvzx907rr.com^
 ||ov3zaa6w0.com^
 ||xhr7cqlob.com^
 ||p4dc8ve6i.com^
