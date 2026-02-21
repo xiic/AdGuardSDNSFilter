@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-21T18:05:59.152Z
+! Last modified: 2026-02-21T20:03:56.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -5041,6 +5041,7 @@ vkcdnservice.appspot.com^
 ||b1aa0634bb.com^
 ||b1xuekes.xyz^
 ||b240ea4ef8.com^
+||b24hm68w3i19wn29mq8.cfd^
 ||b27d2d191d.com^
 ||b28lbtwrylk24o.cfd^
 ||b29b70e3ca.com^
@@ -8136,6 +8137,7 @@ vkcdnservice.appspot.com^
 ||ccpdaindrmyyx.online^
 ||ccppiuwqqlkmu.online^
 ||ccpvyfutedboz.site^
+||ccrsbdxgwiblm.site^
 ||ccsyidkuaxqtr.website^
 ||cctpyneuuiuwn.site^
 ||ccttoocxmymh.net^
@@ -11241,6 +11243,7 @@ vkcdnservice.appspot.com^
 ||decencytopmost.com^
 ||decenerevivedangary.cyou^
 ||decenerpasser.help^
+||decent-radio.pro^
 ||decentconcept.pro^
 ||decianspicstuller.cfd^
 ||decide.dev^
@@ -14689,6 +14692,7 @@ vkcdnservice.appspot.com^
 ||eussownwpyxdw.online^
 ||eutecnimzptot.space^
 ||euvj22p2e4ttvo.rest^
+||euvjyahxjdbgt.site^
 ||euwaqndyjyp.xyz^
 ||euwdsqkrxwhwu.online^
 ||euxwrrtbbo.xyz^
@@ -15710,6 +15714,7 @@ vkcdnservice.appspot.com^
 ||fhpsuesupqexi.store^
 ||fhpvfgbstmral.space^
 ||fhpxjbryxqwoak.com^
+||fhqjqafqjfhwv.website^
 ||fhqoiuoceycun.space^
 ||fhrhakpangapt.space^
 ||fhsgntrgjtioc.online^
@@ -17313,6 +17318,7 @@ vkcdnservice.appspot.com^
 ||gambirsshi.cyou^
 ||gambogeeche.cyou^
 ||gameads.io^
+||gameirlpfeioxcp.com^
 ||gamelinpulsingconster.cyou^
 ||gamersad.com^
 ||gamersshield.com^
@@ -17521,6 +17527,7 @@ vkcdnservice.appspot.com^
 ||gdeigri.com^
 ||gdfkbvbifnncj.online^
 ||gdg4yih5.xyz^
+||gdhgxfxmvejqil.com^
 ||gdiwiabguodgh.site^
 ||gdkduruiukwyn.website^
 ||gdkduwopaseic.online^
@@ -19802,6 +19809,7 @@ vkcdnservice.appspot.com^
 ||heebachoor.net^
 ||heeboalupauweem.net^
 ||heecoagaum.net^
+||heedinginducer.shop^
 ||heeloven.com^
 ||heepopinion.cyou^
 ||heercuffs.qpon^
@@ -21102,6 +21110,7 @@ vkcdnservice.appspot.com^
 ||hylidaestourie.shop^
 ||hyllusanodize.shop^
 ||hyloistramploreulytin.cfd^
+||hylonpkcbfjoh.website^
 ||hylrncjzgdtgi.site^
 ||hymenalmatinee.help^
 ||hymenicjobbing.qpon^
@@ -28468,6 +28477,7 @@ vkcdnservice.appspot.com^
 ||miuo.cloud^
 ||miwbiqzoluioi.website^
 ||mixahrccmldjb.store^
+||mixc9pez3r3511yb3uey83y922vk1pru765.rest^
 ||mixed-bother.pro^
 ||mixedissue.pro^
 ||mixedpoem.pro^
@@ -31804,6 +31814,7 @@ vkcdnservice.appspot.com^
 ||ojonvpuqbtqul.site^
 ||ojprlvavhknyk.site^
 ||ojpvwrudzpojr.site^
+||ojqlwdywcgntc.space^
 ||ojqpnmnatg.com^
 ||ojrkqzpuntzxg.online^
 ||ojscanbrogi.com^
@@ -45461,6 +45472,7 @@ vkcdnservice.appspot.com^
 ||ubplqxnckyxsz.space^
 ||ubssxfunnecbf.website^
 ||ubtjzypcluqvj.online^
+||ubtttllhhcguetu.xyz^
 ||ubupomtuwwoyf.online^
 ||ubvjcdskxosze.site^
 ||ubxdnqoim.net^
@@ -47265,6 +47277,7 @@ vkcdnservice.appspot.com^
 ||veusvuswbkfjd.online^
 ||vewpxodougmmt.site^
 ||vexbxzxtwefrb.site^
+||vexcivite.cfd^
 ||vexesunpay.help^
 ||vexevutus.com^
 ||vexmfjoc.com^
@@ -52053,6 +52066,7 @@ vkcdnservice.appspot.com^
 ||zijqohihvozks.space^
 ||zikgtahaiepkj.space^
 ||zikpwr.com^
+||zikqbfbgczdnl.online^
 ||zikroarg.com^
 ||zilcssdsdldgy.online^
 ||zilemtusighi.net^
