@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-23T14:19:18.347Z
+! Last modified: 2026-02-23T16:17:55.936Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1326,6 +1326,7 @@ vkcdnservice.appspot.com^
 ||6w95ohfpjjvcg35pvpgj851tku.rest^
 ||6x8rvifv7ehfhoe1qrphxeyh8wk4hkt.cfd^
 ||6yfquhelmrprxfv5.cfd^
+||6yxkumnz5c7t69jft6mw.rest^
 ||6zy9yqe1ew.com^
 ||7-7-7-partner.com^
 ||7003128946.com^
@@ -8188,6 +8189,7 @@ vkcdnservice.appspot.com^
 ||ccpdaindrmyyx.online^
 ||ccppiuwqqlkmu.online^
 ||ccpvyfutedboz.site^
+||ccrjgfkrpeifj.space^
 ||ccrsbdxgwiblm.site^
 ||ccsyidkuaxqtr.website^
 ||cctpyneuuiuwn.site^
@@ -11427,6 +11429,7 @@ vkcdnservice.appspot.com^
 ||definitial.com^
 ||definitive-morning.pro^
 ||definitive-priority.com^
+||definitiveaccess.pro^
 ||definitivelove.pro^
 ||defnbvzwdlurt.online^
 ||defnvmhficbsd.space^
@@ -13091,6 +13094,7 @@ vkcdnservice.appspot.com^
 ||dvxrxm-cxo.top^
 ||dvymkekwkkgdi.space^
 ||dvypar.com^
+||dvywlnnovzffq.site^
 ||dvzycytrxbxav.space^
 ||dwaahxilojujo.website^
 ||dwaiblecobberappert.cfd^
@@ -13215,6 +13219,7 @@ vkcdnservice.appspot.com^
 ||dzphmsyyaxoaa.website^
 ||dzpoejczjsmkk.store^
 ||dzripxtbkhvug.site^
+||dzspbmbzdnijs.online^
 ||dzthdolznengm.space^
 ||dztvugxbghvdo.space^
 ||dzubavstal.com^
@@ -16967,6 +16972,7 @@ vkcdnservice.appspot.com^
 ||ftncmdyous.qpon^
 ||ftnjjleuhculu.site^
 ||ftnqjmzmboydf.online^
+||ftnzvbktudjbj.online^
 ||ftoedvbwbdgca.website^
 ||ftoihsukifuqw.website^
 ||ftoosiewnjofl.space^
@@ -17227,6 +17233,7 @@ vkcdnservice.appspot.com^
 ||fxbprfogjabel.online^
 ||fxcdcfisfrccjx.com^
 ||fxcrqncvfqqhxj.xyz^
+||fxcubrpjadqrg.website^
 ||fxddxjbctnvce.site^
 ||fxdepo.com^
 ||fxdmnmsna.space^
@@ -19658,6 +19665,7 @@ vkcdnservice.appspot.com^
 ||harpingzimarra.qpon^
 ||harpstorney.qpon^
 ||harrenmedianetwork.com^
+||harridaphizog.com^
 ||harriergollandtreasr.cyou^
 ||harrowliquid.com^
 ||harrowsratine.cyou^
@@ -21428,6 +21436,7 @@ vkcdnservice.appspot.com^
 ||ibuxsbgcbkbcx.site^
 ||ibvbljkpgfjke.online^
 ||ibvfzddfxqwqg.love^
+||ibvrruekneixz.site^
 ||ibwafsicmoozc.online^
 ||ibwiibttivhkme.com^
 ||ibwpxisbiauqe.online^
@@ -22651,6 +22660,7 @@ vkcdnservice.appspot.com^
 ||isboost.co.jp^
 ||ischarct.shop^
 ||ischurysannups.cfd^
+||isdfsxyjt.com^
 ||iseawave.com^
 ||isedacknew.cyou^
 ||isfoykwznkiqd.site^
@@ -24469,6 +24479,7 @@ vkcdnservice.appspot.com^
 ||kcpwdcbwkmrvsy.net^
 ||kcqbrwygxixdh.site^
 ||kcwcohcmsotlsyn.com^
+||kcwvpyfupizsy.space^
 ||kcxljicqwzjfd.space^
 ||kcxumzypnrqwr.store^
 ||kcxuzkmizd.com^
@@ -25240,6 +25251,7 @@ vkcdnservice.appspot.com^
 ||kqmmlqbuwmksm.store^
 ||kqmrvtdwnnitd.online^
 ||kqntarwfonstf.online^
+||kqobgodaqdhog.space^
 ||kqocukonqkabm.com^
 ||kqqqdsdsneptw.space^
 ||kqsebncdjeuuj.site^
@@ -27402,6 +27414,7 @@ vkcdnservice.appspot.com^
 ||lwymacojhcdjrn.com^
 ||lwzzgwonlrvgr.site^
 ||lx2rv.com^
+||lxbjcfm7vn7bymf3lq88tqbkrw15hxx.cfd^
 ||lxblnhztwihca.online^
 ||lxccwjpibmevz.site^
 ||lxeamwnhcxb.net^
@@ -27426,6 +27439,7 @@ vkcdnservice.appspot.com^
 ||lxubgzvxrcejl.site^
 ||lxvhtzvjzgejr.space^
 ||lxvsjdmjygqcc.space^
+||lxwijvnykeje.xyz^
 ||lxxaskrpsfsti.online^
 ||lxxuvtseoloapqk.com^
 ||lxylxwxvhffvm.vip^
@@ -29241,6 +29255,7 @@ vkcdnservice.appspot.com^
 ||mpbrz.com^
 ||mpctyogbxwezj.space^
 ||mpdkfhyvpvttt.site^
+||mpebncqjoepwq.space^
 ||mpeowvqnbeoah.online^
 ||mpfaxwfzaesxu.online^
 ||mpfuaookisdkh.site^
@@ -48251,6 +48266,7 @@ vkcdnservice.appspot.com^
 ||vptxmdgwwqotz.store^
 ||vpu988celmpu1w.cfd^
 ||vpuonpcwtjgwe.online^
+||vpvbqvsnhjevgf.com^
 ||vpxwtwxoeuxtc.space^
 ||vpxzunvaldxcp.world^
 ||vpzdnfciapiux.online^
