@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-23T04:41:10.791Z
+! Last modified: 2026-02-23T06:23:26.682Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -630,6 +630,7 @@ vkcdnservice.appspot.com^
 ||1ul6b1692e993bxyc3bzhx7.cyou^
 ||1vpuev9xcwniqw.cfd^
 ||1web.me^
+||1wxpzr9hr95qgm3.cfd^
 ||1zfocgbctug6kuol46c7n.cfd^
 ||1zphutb1bjbc9qebct.cfd^
 ||2-05.com^
@@ -8477,6 +8478,7 @@ vkcdnservice.appspot.com^
 ||cgnosvsqrqy.xyz^
 ||cgpjpvvcadzrp.store^
 ||cgpnhjatakwqnjd.xyz^
+||cgrsihmgjmzfb.space^
 ||cgsaxsvjvswcu.space^
 ||cgt114u5chbwknvxfz.cfd^
 ||cgthnxnovsmml.xyz^
@@ -12184,6 +12186,7 @@ vkcdnservice.appspot.com^
 ||dj-updates.com^
 ||dj2550.com^
 ||djauseotqdgnmf.com^
+||djcovfrdohvjp.website^
 ||djcrfxlwwntoi.website^
 ||djdyogkfkexna.space^
 ||djersaongaro.qpon^
@@ -12237,6 +12240,7 @@ vkcdnservice.appspot.com^
 ||dkqmltboagmona.xyz^
 ||dkrbus.com^
 ||dkrpcxhlibkhw.site^
+||dksbmewqhxdmxlj.com^
 ||dkskrnjwbxofs.website^
 ||dkswshap-3.online^
 ||dktclumdglhds.site^
@@ -13070,6 +13074,7 @@ vkcdnservice.appspot.com^
 ||dvsssktlkvmkv.site^
 ||dvulz.org^
 ||dvuonsjkeeief.website^
+||dvvhjsyxfngvj.online^
 ||dvvndprgsjdni.store^
 ||dvwedvktkcsvw.vip^
 ||dvxeqsgyabyvr.online^
@@ -14327,6 +14332,7 @@ vkcdnservice.appspot.com^
 ||enwombssighing.com^
 ||enwovenlengestgoddess.cfd^
 ||enyzcglevwwkc.space^
+||eo94gkpnrncw1eh7.rest^
 ||eoaemmvtasnsi.online^
 ||eoaextrglkylg.site^
 ||eoaqwuczekozu.space^
@@ -14511,6 +14517,7 @@ vkcdnservice.appspot.com^
 ||erepsinslavian.shop^
 ||erermarched.click^
 ||erestature.com^
+||ereswpwkgjmff.website^
 ||erethiceducand.qpon^
 ||erewsgferdkwj.site^
 ||ereyoumate.org^
@@ -16089,6 +16096,7 @@ vkcdnservice.appspot.com^
 ||fl5lq6m6meo8n2erxgqk.cfd^
 ||flabrumlaurae.help^
 ||flagads.net^
+||flagcontes.qpon^
 ||flaggercarolyn.cfd^
 ||flaggynasi.com^
 ||flagletmurder.cyou^
@@ -16518,6 +16526,7 @@ vkcdnservice.appspot.com^
 ||forgivengirlie.com^
 ||forgivenrepresent.com^
 ||forgotgnatpalsy.com^
+||forhooylaulau.qpon^
 ||forintcrin.qpon^
 ||forkconnectinghead.com^
 ||forkedclient.pro^
@@ -17180,6 +17189,7 @@ vkcdnservice.appspot.com^
 ||fwfoucgirdhku.website^
 ||fwhiutrfvker4njnc4qyul.cfd^
 ||fwhiygzlhmklt.website^
+||fwjnxjylkmpgr.space^
 ||fwkepcew38t7m2.cfd^
 ||fwllilmwhfjfm.online^
 ||fwmknvveyfahw.site^
@@ -17262,6 +17272,7 @@ vkcdnservice.appspot.com^
 ||fympiumlrnotc.space^
 ||fynil.site^
 ||fynox.xyz^
+||fynvxtfilqhmt.space^
 ||fyobdrnyarrmu.site^
 ||fyohoehwhsfax.online^
 ||fyojkxpgpsqll.space^
@@ -19713,6 +19724,7 @@ vkcdnservice.appspot.com^
 ||havingartistictastesn.org^
 ||havstpqgejqbw.site^
 ||hawadcatnn.com^
+||hawaiiwinless.qpon^
 ||haweddetat.qpon^
 ||hawingour.qpon^
 ||hawjrrjshnqyc.com^
@@ -23047,6 +23059,7 @@ vkcdnservice.appspot.com^
 ||jampacked-cream.com^
 ||jampacked-depth.pro^
 ||jampackedemphasis.com^
+||jampackedquestion.com^
 ||jampredestination.com^
 ||jamsboules.cfd^
 ||jamsiwhauksoa.net^
@@ -23331,6 +23344,7 @@ vkcdnservice.appspot.com^
 ||jfvxpmxf.xyz^
 ||jfwaqjrsvshtl.online^
 ||jfwcflhysjjiq.space^
+||jfwhrqovxxura.site^
 ||jfwrongznqxwh.site^
 ||jfxlhcyermwdq.site^
 ||jfyjowocrokkt.online^
@@ -32849,6 +32863,7 @@ vkcdnservice.appspot.com^
 ||ouszazqstwlex.space^
 ||outagepaction.help^
 ||outarcaninean.com^
+||outatebinits.com^
 ||outbawlkiddy.help^
 ||outbidplacardshowman.com^
 ||outbowemparl.cfd^
@@ -43318,6 +43333,7 @@ vkcdnservice.appspot.com^
 ||syriactv.cyou^
 ||syringeoniondeluge.com^
 ||syrmaeapictun.cyou^
+||syrphushalva.cfd^
 ||syrticrivell.click^
 ||syrupimmediate.com^
 ||syrupplod.com^
@@ -45808,6 +45824,7 @@ vkcdnservice.appspot.com^
 ||ueaxkddhsrqvc.space^
 ||uecjwfybsisjhfa.com^
 ||uedrrztkxmplx.xyz^
+||ueeljrxucdwrr.com^
 ||uefalxvvvunye.website^
 ||uefgoulcwiqal.space^
 ||uefhucspqzoza.space^
@@ -45927,6 +45944,7 @@ vkcdnservice.appspot.com^
 ||uhmfsydtgnaph.site^
 ||uhmxgpphpro.com^
 ||uhnrcmlqloxij.site^
+||uhnrnjwey.xyz^
 ||uhodsplo.com^
 ||uhogleksob.net^
 ||uhopdhvsatlvf.store^
