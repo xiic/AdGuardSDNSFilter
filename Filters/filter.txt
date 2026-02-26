@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-26T18:14:57.059Z
+! Last modified: 2026-02-26T20:09:59.990Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1329,6 +1329,7 @@ vkcdnservice.appspot.com^
 ||6r6fkyv9f2fturp5movgfl53.cfd^
 ||6rfj9x3gw57vnnom8.rest^
 ||6rfn9l2zn95rchmu8em1wkzt6z1kqil.cfd^
+||6rxmj9mltvgc9lcu3lvn43.rest^
 ||6t4e4qf538r4pt.cfd^
 ||6t6pz5z45y8w564fw.rest^
 ||6tnpqnytyolllykq.cfd^
@@ -7109,6 +7110,7 @@ vkcdnservice.appspot.com^
 ||braylosings.qpon^
 ||brazenwholly.com^
 ||braziersynop.cfd^
+||brbtybjwochjb.com^
 ||brcjvwooqneol.online^
 ||brdbwayjkebb.xyz^
 ||brdhbizupevpj.online^
@@ -11292,6 +11294,7 @@ vkcdnservice.appspot.com^
 ||dbphsukrgudhq.website^
 ||dbpjegtrlbmzp.space^
 ||dbqepyut.com^
+||dbqfqbvzsvwgu.site^
 ||dbqydfhgvpekv.space^
 ||dbqyjjgeseptz.space^
 ||dbr9gtaf8.com^
@@ -11737,6 +11740,7 @@ vkcdnservice.appspot.com^
 ||derelictbookstorebilly.com^
 ||derfsyhdcskpm.website^
 ||derfulstatuehel.com^
+||deridenightingalepartial.com^
 ||derideskid.com^
 ||dernergrampus.shop^
 ||dertralycosa.qpon^
@@ -12589,6 +12593,7 @@ vkcdnservice.appspot.com^
 ||dokkvnqunhiwt.website^
 ||dokondigit.quest^
 ||dokrithauw.net^
+||doksvqsc.com^
 ||dolcedrol.cyou^
 ||dolcianjaypie.shop^
 ||dolekaraokeoversleep.com^
@@ -13438,6 +13443,7 @@ vkcdnservice.appspot.com^
 ||eaglewarfareconclusions.com^
 ||eagrassdenat.help^
 ||eahpujutchkzn.online^
+||eainbkjxvwppi.website^
 ||eakpspoytvnti.store^
 ||eakualybesflq.website^
 ||ealeo.com^
@@ -14722,6 +14728,7 @@ vkcdnservice.appspot.com^
 ||ermrvglbpovnn.website^
 ||ermyxlvcd.xyz^
 ||ernementseconom.org^
+||ernhtsjidhakk.xyz^
 ||erniphiq.com^
 ||ernuuotosmatb.online^
 ||ernwzlhjf24vt79nix4f7h.cfd^
@@ -25077,6 +25084,7 @@ vkcdnservice.appspot.com^
 ||kindleunfocusedunpaired.com^
 ||kindly-equivalent.com^
 ||kindlyoutsellunderling.com^
+||kindlytelephone.pro^
 ||kindnessmarshalping.com^
 ||kineckekyu.com^
 ||king3rsc7ol9e3ge.com^
@@ -29636,6 +29644,7 @@ vkcdnservice.appspot.com^
 ||mprsxxhbdhewe.online^
 ||mpsajeuafqofa.website^
 ||mpsfwrurozogw.space^
+||mpskvvhbcleut.space^
 ||mpsuadv.ru^
 ||mpsxqpeqnfjck.site^
 ||mptentry.com^
@@ -31705,6 +31714,7 @@ vkcdnservice.appspot.com^
 ||nwmnd.com^
 ||nwnncnbipamso.website^
 ||nwntsabmagdqn.xyz^
+||nwoiaivycgyjh.space^
 ||nwpwfyhnvqmxd.website^
 ||nwpxuyrumutlj.store^
 ||nwpzxhaoieiuc.site^
@@ -31899,6 +31909,7 @@ vkcdnservice.appspot.com^
 ||oamsedsaiph.net^
 ||oamsoasoonsump.net^
 ||oamsursumsauz.net^
+||oamwrbrhcftgp.site^
 ||oangewha.net^
 ||oanimsen.net^
 ||oansadsolr.net^
@@ -39277,6 +39288,7 @@ vkcdnservice.appspot.com^
 ||rkcuxnnaoscefxq.xyz^
 ||rkdpzcdehop.fun^
 ||rkdswkcwbsp.com^
+||rkfcpvofbdlod.site^
 ||rkfhmcdvprsbz.website^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
@@ -45440,6 +45452,7 @@ vkcdnservice.appspot.com^
 ||tqcppxvxhbzgi.site^
 ||tqctbjddb.xyz^
 ||tqdxwboexwawx.site^
+||tqevahjkdhapc.com^
 ||tqgayhnwphgxn.site^
 ||tqgdovbcivlfu.space^
 ||tqggbkdanotht.space^
@@ -52119,6 +52132,7 @@ vkcdnservice.appspot.com^
 ||yghhkouwxpvew.site^
 ||ygimeqcpvbtci.rocks^
 ||ygiuraqcxqgfmej.com^
+||ygkhbpnqycyog.site^
 ||ygkswbscgvukj.space^
 ||ygncvlnvzvsco.website^
 ||ygolbhqmlvhkz.online^
@@ -52519,6 +52533,7 @@ vkcdnservice.appspot.com^
 ||yrduojmxtuhqs.space^
 ||yrfitmobjkskj.space^
 ||yrflgsqpywsmh.website^
+||yrguvdtxvcgrs.site^
 ||yrhnw7h63.com^
 ||yrhxicouoe.com^
 ||yrhzytcrqnbtj.site^
