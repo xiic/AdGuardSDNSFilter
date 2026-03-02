@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-02T10:16:02.629Z
+! Last modified: 2026-03-02T12:09:45.978Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1602,6 +1602,7 @@ vkcdnservice.appspot.com^
 ||8y83euwehq669vq9.cfd^
 ||8yqqgn5g.xyz^
 ||8yrkmox3hiwq375v.rest^
+||8ytg68z2f8mivc.rest^
 ||8ytm3vnjc3fhw7nypxuhwuczfbf.cfd^
 ||8z7u9hp771g4copqel.cfd^
 ||8z7wm6jwp29mvyzypp7oyok4obpw9k.cfd^
@@ -6264,6 +6265,7 @@ vkcdnservice.appspot.com^
 ||bigsdbmcpgvyq.website^
 ||bigstoreminigames.space^
 ||bihunekus.com^
+||biijuhrwhfhu.com^
 ||biijyuaeuzssw.online^
 ||bikechokedattic.com^
 ||bikespeed.shop^
@@ -18052,6 +18054,7 @@ vkcdnservice.appspot.com^
 ||gausswitchen.help^
 ||gauvaiho.net^
 ||gauzeexterminatesupervise.com^
+||gavaspdhhy.com^
 ||gaveastound.com^
 ||gavedeliverknee.com^
 ||gavotkoko.cfd^
@@ -19140,6 +19143,7 @@ vkcdnservice.appspot.com^
 ||gorlinfourrag.cfd^
 ||gormedwalks.shop^
 ||gorsierkippage.cfd^
+||gorstcubdom.qpon^
 ||goshbiopsy.com^
 ||gositego.live^
 ||gosjumpy.com^
@@ -20347,6 +20351,7 @@ vkcdnservice.appspot.com^
 ||hbgfotantkwpv.site^
 ||hbgtcfzuizxjf.site^
 ||hbgtfiaswkdam.site^
+||hbguncyexzxfj.website^
 ||hbhgvhgc.cfd^
 ||hbhood.com^
 ||hbhpjolxaizkz.online^
@@ -24176,6 +24181,7 @@ vkcdnservice.appspot.com^
 ||jiprgfzcpdjmp.online^
 ||jiptcrzamhujz.space^
 ||jipvtxdxtrnsh.website^
+||jiqpagarc.in^
 ||jiquezkmdgqny.website^
 ||jiquicryindexed.qpon^
 ||jiraisansezap.net^
@@ -24311,6 +24317,7 @@ vkcdnservice.appspot.com^
 ||jmdreenduebqz.site^
 ||jmdvcukmrwmmy.website^
 ||jmebwpbpvofcx.online^
+||jmefzqeqwlsiy.online^
 ||jmeoyypc.net^
 ||jmesedksrohxp.site^
 ||jmfvvgbmaeklk.online^
@@ -25643,6 +25650,7 @@ vkcdnservice.appspot.com^
 ||kkrnhplrsaxgb.site^
 ||kksbhdknogzya.website^
 ||kktbjcdqpalow.space^
+||kkuichcu.com^
 ||kkukhiduvdpln.site^
 ||kkvfbdabrhmpb.website^
 ||kkvkefbspmsiu.website^
@@ -26154,6 +26162,7 @@ vkcdnservice.appspot.com^
 ||kultingecauyuksehink.com^
 ||kumkuminfang.help^
 ||kumpulblogger.com^
+||kunavzhtngwwqa.com^
 ||kunsartatsu.com^
 ||kunvertads.com^
 ||kunwplqhsgodx.space^
@@ -28846,6 +28855,7 @@ vkcdnservice.appspot.com^
 ||mbdippex.com^
 ||mbdjoadtly.com^
 ||mbdswyvxjqupq.online^
+||mbduodoleetzq.website^
 ||mbenxfvimvcmf.site^
 ||mbfmgrkpaaiqs.space^
 ||mbidadm.com^
@@ -31933,6 +31943,7 @@ vkcdnservice.appspot.com^
 ||npdeizwvizoeh.space^
 ||npdlubqluhonw.space^
 ||npecialukizeiasnin.com^
+||npfnnmbcuotel.website^
 ||npfvkkds.com^
 ||nphtobtduorrz.website^
 ||npiwgxfpugdsc.site^
@@ -33206,6 +33217,7 @@ vkcdnservice.appspot.com^
 ||omzwmjdqihtxs.website^
 ||omzylhvhwp.com^
 ||on1nzbp3.com^
+||on1qztq51qor8btwbf.cfd^
 ||onacmacaighuth.net^
 ||onad.eu^
 ||onagerssey.cyou^
@@ -43970,6 +43982,7 @@ vkcdnservice.appspot.com^
 ||strangelywindowsadmission.com^
 ||strangeremerged.com^
 ||strangineersa.com^
+||strangleattendeddeed.com^
 ||strangleentice.com^
 ||strangleslogan.com^
 ||stratasflexors.qpon^
@@ -44460,6 +44473,7 @@ vkcdnservice.appspot.com^
 ||svtcdmfln.com^
 ||svtefnjwxtoto.site^
 ||svuidtjijit.com^
+||svuitjmujpqua.website^
 ||svvjhxlwfxpsy.website^
 ||svvpoynorhdec.website^
 ||svxsadbrobogk.website^
@@ -48823,6 +48837,7 @@ vkcdnservice.appspot.com^
 ||vcbdqakfcstrs.space^
 ||vccskdlrblqqn.store^
 ||vcdc.com^
+||vcdllyirycblb.online^
 ||vcenygfcoyias.site^
 ||vcewrtskehziz.website^
 ||vcfangvfkvenv.website^
@@ -53504,6 +53519,7 @@ vkcdnservice.appspot.com^
 ||yslsymovnkkjl.site^
 ||yslyulaumwaaoq.xyz^
 ||ysnlkyfjswepg.online^
+||ysoarfptqslwc.website^
 ||yspucqtbyotyp.site^
 ||ysqqilvpla.com^
 ||yssdtazevgzqe.online^
@@ -53621,6 +53637,7 @@ vkcdnservice.appspot.com^
 ||yvqmxqzkurpim.website^
 ||yvrszirkgpbns.site^
 ||yvshjwqvannfc.space^
+||yvswssaxvxhpq.website^
 ||yvysxocknufvp.online^
 ||yvywmoezamcsk.space^
 ||yvzgazds6d.com^
@@ -71083,6 +71100,16 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||2345.com^
+||fancyapi.com^
+||fancydsp.com^
+||puata.info^
+||xcultur.com^
+||api.shanghailingye.cn^
+||hubcloud.com.cn^
+||omes-sec.heytapmobi.com^
+||c.etoolads.cn^
+||beizi.biz^
 ||tvqmgheb.com^
 ||hs.178yc.com^
 ||aa67678156.com^
@@ -82983,7 +83010,6 @@ dlsdk.appsflyer.com^
 ||gg.uuu9.com^
 ||gg86.pinggu.org^
 ||gg88.bj.bcebos.com^
-||ggcode.2345.com^
 ||ggs.myzaker.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
 ||ggw.gusuwang.com^
@@ -83353,7 +83379,6 @@ dlsdk.appsflyer.com^
 ||bchina-1.xsfaya.com^
 ||bd-china-1.appmobile.cn^
 ||bd-js.duote.com^
-||bd-js1.2345.com^
 ||bd-s.baixing.net^
 ||bd.ahsrst.cn^
 ||bd.beimap.com^
@@ -83384,7 +83409,6 @@ dlsdk.appsflyer.com^
 ||bdasd.chinabig.com.cn^
 ||bdasd.wmxa.cn^
 ||bdcm.kandianla.com^
-||bdcode.2345.com^
 ||bdcode.35d1.com^
 ||bdcode.qinglue.com^
 ||bdcode.youke.com^
