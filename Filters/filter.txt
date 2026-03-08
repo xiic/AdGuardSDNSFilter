@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-07T22:03:52.531Z
+! Last modified: 2026-03-08T00:17:07.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1096,6 +1096,7 @@ vkcdnservice.appspot.com^
 ||4rabettraff.com^
 ||4rnqoqt1b17w4qy.cfd^
 ||4uchu1k1birwz14.rest^
+||4ucwg8mu4txq5jr5n19.rest^
 ||4uipybjyqp6xe4lkr.cfd^
 ||4umuuxmnnj5y3tlo.cfd^
 ||4uol7t4f8cb8cu4yxhwex438kbi6gq.cfd^
@@ -1561,6 +1562,7 @@ vkcdnservice.appspot.com^
 ||8ufnem9bhxbfzqpz9n7.cfd^
 ||8v21z8kly1z4h514u2qp.cfd^
 ||8vk2bofou2hifnp9.rest^
+||8wzk7c6ynrgvmy.cfd^
 ||8y83euwehq669vq9.cfd^
 ||8yqqgn5g.xyz^
 ||8ytg68z2f8mivc.rest^
@@ -3429,6 +3431,7 @@ vkcdnservice.appspot.com^
 ||aluminumoutageprovince.com^
 ||alumniheadfirstshamrock.com^
 ||alunitemuroid.shop^
+||alusfsrudcz.com^
 ||aluvhyxwjnqyo.site^
 ||alvhucvmzbrmx.com^
 ||alwaysdomain01.online^
@@ -3843,6 +3846,7 @@ vkcdnservice.appspot.com^
 ||apexneedful.com^
 ||apfjzhkkbguoc.site^
 ||apglinks.net^
+||apgnpaojkzre.in^
 ||aphagiastarve.qpon^
 ||aphanesupwound.com^
 ||aphealxgt.net^
@@ -7687,6 +7691,7 @@ vkcdnservice.appspot.com^
 ||cantelgrueler.qpon^
 ||canterkenmark.qpon^
 ||cantoritch.qpon^
+||cantorparcels.com^
 ||cantorsblares.cfd^
 ||cantredliles.cyou^
 ||canuckstamnoipipping.cyou^
@@ -8035,6 +8040,7 @@ vkcdnservice.appspot.com^
 ||cdnativ.com^
 ||cdnbanleksagq.online^
 ||cdnbit.com^
+||cdndot.fans^
 ||cdnfimgs.com^
 ||cdnflex.me^
 ||cdnfreemalva.com^
@@ -10523,6 +10529,7 @@ vkcdnservice.appspot.com^
 ||cyl9l3yfzj5kjpl92.cfd^
 ||cylfakyhloppf.space^
 ||cylindrical-good.pro^
+||cylindrical-suggestion.com^
 ||cylindrical-wave.com^
 ||cylosczapchgk.space^
 ||cylpowwowsreloan.cfd^
@@ -12938,6 +12945,7 @@ vkcdnservice.appspot.com^
 ||e3ba2130e2.com^
 ||e3hn1ghc27jl2l2tcu9y1.cfd^
 ||e3vxbwxvl1485boqutxwj.cfd^
+||e452be28aa.com^
 ||e4577d6fef.com^
 ||e487a41ae0.com^
 ||e4d190f9dd.com^
@@ -15006,6 +15014,7 @@ vkcdnservice.appspot.com^
 ||false-memory.pro^
 ||falsenight.com^
 ||falserlictor.cfd^
+||falsestbumwood.shop^
 ||falsifyprobable.com^
 ||faltchefeoffee.cfd^
 ||faltertshirt.com^
@@ -17011,6 +17020,7 @@ vkcdnservice.appspot.com^
 ||gaciwhemsaz.net^
 ||gaddmozoudjmo.space^
 ||gadgetfortunatelysunny.com^
+||gadrjhvqbxuyd.site^
 ||gadsabs.com^
 ||gadsatz.com^
 ||gadslimz.com^
@@ -18025,6 +18035,7 @@ vkcdnservice.appspot.com^
 ||gncpwpslcvlnb.site^
 ||gndbuyqaukkke.online^
 ||gnddthnvmzhdo.site^
+||gnfhoorp.com^
 ||gnfwcrhdmmlku.store^
 ||gnhqbfhhocjpk.online^
 ||gniporuivhjos.space^
@@ -18574,6 +18585,7 @@ vkcdnservice.appspot.com^
 ||groshirdossa.net^
 ||groshoapsock.net^
 ||grossbasket.pro^
+||grosswine.pro^
 ||grotespace.com^
 ||grotesquephilosophy.com^
 ||grottofugal.cfd^
@@ -19089,6 +19101,7 @@ vkcdnservice.appspot.com^
 ||hagnutrient.com^
 ||hagplpqxuqunw.store^
 ||hagrodesulphas.qpon^
+||hagueseenmashies.qpon^
 ||haguewavelet.qpon^
 ||haibinashust.net^
 ||haichupich.net^
@@ -19731,6 +19744,7 @@ vkcdnservice.appspot.com^
 ||hgfflsrymeivf.site^
 ||hgfosqroovvpw.website^
 ||hggcovkyhosxz.click^
+||hgghlykmbocqt.online^
 ||hghit.com^
 ||hgisekhkuhrlo.online^
 ||hgjklusxah.xyz^
@@ -23298,6 +23312,7 @@ vkcdnservice.appspot.com^
 ||joomxer.fun^
 ||jootizud.net^
 ||jootuteeloobour.net^
+||joozmfyrmspbnm.com^
 ||jopel.site^
 ||jopsoustickouva.net^
 ||jopwedhngibcd.space^
@@ -23803,6 +23818,7 @@ vkcdnservice.appspot.com^
 ||jzmelkhbyvpvv.space^
 ||jzmgtddbbkaeh.site^
 ||jzmgykztfsjwd.website^
+||jzoljnfllcwpo.website^
 ||jzqscvqlgasxh.buzz^
 ||jzrmxnvcniwmj.online^
 ||jzruvlfvoawfg.website^
@@ -24129,6 +24145,7 @@ vkcdnservice.appspot.com^
 ||kernesfierier.qpon^
 ||kerogrownup.cfd^
 ||keromjxrrtauz.site^
+||kerot.xyz^
 ||kerryfluence.com^
 ||kerseyassay.qpon^
 ||kertzmann.com^
@@ -24825,6 +24842,7 @@ vkcdnservice.appspot.com^
 ||ksjustlikeanan.com^
 ||ksknhvggsizbu.store^
 ||kslfqcxumewry.store^
+||ksmaccmo.com^
 ||ksmibacmvselii.net^
 ||ksnhwtjoaoeim.space^
 ||ksnmuxlpqxuoy.site^
@@ -25247,6 +25265,7 @@ vkcdnservice.appspot.com^
 ||lanky-bar.com^
 ||lankyliving.pro^
 ||lankyteaching.com^
+||lankywash.pro^
 ||lanopoon.net^
 ||lanougeelralrit.net^
 ||lantakatift.cyou^
@@ -27832,6 +27851,7 @@ vkcdnservice.appspot.com^
 ||meultomhbkptq.store^
 ||meuxdcfzpyipb.space^
 ||mewardboaedontripal.cyou^
+||mewcdn.online^
 ||mewgzllnsp.com^
 ||mewiththeb.com^
 ||mewlersbash.cfd^
@@ -29605,6 +29625,7 @@ vkcdnservice.appspot.com^
 ||ndentofinau.org^
 ||nderfulstatuehelooksj.org^
 ||ndfaafrrjgjei.website^
+||ndfkrdti.com^
 ||ndfmqmpmcxkxf.website^
 ||ndfpghgjyxvrq.space^
 ||ndha4sding6gf.com^
@@ -30625,6 +30646,7 @@ vkcdnservice.appspot.com^
 ||nudesgirlsx.com^
 ||nudgedjoss.qpon^
 ||nudgeflutterrechain.cyou^
+||nudismsmomishmalmier.cyou^
 ||nudistrefuged.help^
 ||nudsoalrumtoops.net^
 ||nudumgangers.cyou^
@@ -32848,6 +32870,7 @@ vkcdnservice.appspot.com^
 ||pangsoundpayback.com^
 ||pangzz.xyz^
 ||paniolouluhi.cyou^
+||panionkulah.com^
 ||paniscafrancs.cfd^
 ||panishestimate.pro^
 ||paniskcoblescurves.qpon^
@@ -36078,6 +36101,7 @@ vkcdnservice.appspot.com^
 ||qindartitano.qpon^
 ||qingolor.com^
 ||qinvaris.com^
+||qipnihruwwc.in^
 ||qiprhlxtkiomv.site^
 ||qipwttthoqvzw.online^
 ||qiqmyoriizxtj.site^
@@ -40458,6 +40482,7 @@ vkcdnservice.appspot.com^
 ||sjadkbbvcmdfd.website^
 ||sjbnwzwwmcubf.site^
 ||sjbtqzptourxf.online^
+||sjdscbmgdke.com^
 ||sjecucnyk.com^
 ||sjeiqeuhroksi.site^
 ||sjfyupmvpazsj.store^
@@ -40721,6 +40746,7 @@ vkcdnservice.appspot.com^
 ||slowfulfoujdar.help^
 ||slowlyfocuseddose.com^
 ||slowlyrearmslawgive.cyou^
+||sloydskiddish.qpon^
 ||slqhoitusidsr.site^
 ||slslkeszupdwl.space^
 ||slthavjtoxjoi.site^
@@ -42758,6 +42784,7 @@ vkcdnservice.appspot.com^
 ||tamaraobree.help^
 ||tambukipeag.cyou^
 ||tamdmavu.com^
+||tamecnrjnyudm.site^
 ||tameti.com^
 ||tamiasahimsas.help^
 ||tammieionism.qpon^
@@ -43032,6 +43059,7 @@ vkcdnservice.appspot.com^
 ||teiaoz.xyz^
 ||teicdn.com^
 ||teicosrwgizx.com^
+||teihtestartor.shop^
 ||teimyesrhvruc.space^
 ||teindsfritt.com^
 ||teindsgoal.cfd^
@@ -43067,6 +43095,7 @@ vkcdnservice.appspot.com^
 ||temperxylidin.cfd^
 ||templekasha.cyou^
 ||temporallumbertextmessage.com^
+||temporalsewingsphere.com^
 ||temporarilycomprehensivehedwig.com^
 ||temporaryallusion.com^
 ||temprowboat.cyou^
@@ -45650,6 +45679,7 @@ vkcdnservice.appspot.com^
 ||unntvrpwfzluf.store^
 ||unoblotto.net^
 ||unoiledturgors.qpon^
+||unoilyspanglereifies.cyou^
 ||unoldswirls.cfd^
 ||unoptedtapuyan.cfd^
 ||unorderstress.shop^
@@ -46284,6 +46314,7 @@ vkcdnservice.appspot.com^
 ||uypbyopkhpoas.store^
 ||uyppognvxjytz.space^
 ||uyprwkmrammol.space^
+||uypxstulrm.xyz^
 ||uyqwpnspgadkq.site^
 ||uyriroadwtdwu.space^
 ||uyrolbvqcbrot.site^
@@ -47815,6 +47846,7 @@ vkcdnservice.appspot.com^
 ||wangfenxi.com^
 ||wangheebehav.com^
 ||wangheegomavel.cyou^
+||waniandprescan.cyou^
 ||wanlyavower.com^
 ||wanmuqxfueokx.online^
 ||wanoaxeert.net^
@@ -48333,6 +48365,7 @@ vkcdnservice.appspot.com^
 ||whaiftoohie.net^
 ||whaijoawaiftee.net^
 ||whaleads.com^
+||whaledeviser.qpon^
 ||whaledobbins.qpon^
 ||whankdeedeed.com^
 ||whapsbausond.help^
