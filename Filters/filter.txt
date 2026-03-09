@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-09T18:15:31.584Z
+! Last modified: 2026-03-09T20:06:58.671Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16550,6 +16550,7 @@ vkcdnservice.appspot.com^
 ||frap.site^
 ||fraplepintano.cfd^
 ||fraudcapable.com^
+||fraudulentquarter.com^
 ||frautkgibbbwj.space^
 ||frayed-coat.pro^
 ||frayhalfyear.com^
@@ -21340,6 +21341,7 @@ vkcdnservice.appspot.com^
 ||iezxmddndn.com^
 ||ifacusijrhiaj.space^
 ||ifadnfhgaozlo.store^
+||ifahkwpycvdr.com^
 ||ifaifterdudseey.net^
 ||ifaqirpgjntoc.site^
 ||ifcartbwtzzwb.online^
@@ -24917,6 +24919,7 @@ vkcdnservice.appspot.com^
 ||korexo.com^
 ||korgiejoinyou.com^
 ||korinbokhara.shop^
+||korinrucheselfing.qpon^
 ||korrelate.net^
 ||korunasrhumba.help^
 ||koryakyjpoprw.space^
@@ -36519,6 +36522,7 @@ vkcdnservice.appspot.com^
 ||qkxwhdgnpczur.space^
 ||qkxwtytuaybam.space^
 ||qkyefoursktbj.website^
+||qkywopumttfgd.com^
 ||qkzpgqcmohyky.site^
 ||qkzrybopigalg.site^
 ||ql181i9foz886x4.cfd^
@@ -49113,6 +49117,7 @@ vkcdnservice.appspot.com^
 ||wildmatch.com^
 ||wildxxxparties.com^
 ||wilkicja.in^
+||willing-lawyer.pro^
 ||willingcloud.pro^
 ||willinglybasketball.com^
 ||willinglybytedelusion.com^
@@ -52048,6 +52053,7 @@ vkcdnservice.appspot.com^
 ||zfdcjsheuhlxp.site^
 ||zfdwjrxmtatjc.online^
 ||zfectyowjgk.com^
+||zfedutamj.in^
 ||zfeekfndznsru.site^
 ||zfenhpijjexpd.online^
 ||zferral.com^
