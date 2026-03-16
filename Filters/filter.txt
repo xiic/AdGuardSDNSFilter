@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-16T03:03:24.146Z
+! Last modified: 2026-03-16T04:52:33.612Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1297,6 +1297,7 @@ vkcdnservice.appspot.com^
 ||64236b1b40.com^
 ||64fe1cbf9e.com^
 ||64mtfgp6hc83zmf34nnexl5z46n.cfd^
+||64orfojiicolollj842rmc.cfd^
 ||65a16dd098.com^
 ||65ae01603e.com^
 ||65pyu4xzuck1mbu.cfd^
@@ -1351,6 +1352,7 @@ vkcdnservice.appspot.com^
 ||6g0sggey.xyz^
 ||6glece4homah8dweracea.com^
 ||6h23gvxwkkwix22xrtoi9zy.cfd^
+||6h5n3f6kwifel7kti3rl.rest^
 ||6im8ffz8ii5h4hqrh3u9q1pj.cfd^
 ||6imnqf4cj5im8gpqwyk.cfd^
 ||6imymbh25v1jy5wig.cfd^
@@ -8844,6 +8846,7 @@ vkcdnservice.appspot.com^
 ||chiveducaton.cfd^
 ||chiveraccede.com^
 ||chiverblinger.cyou^
+||chiveymoolahs.com^
 ||chiviedperronbalu.cfd^
 ||chivnrrupntrz.online^
 ||chjesusdgbfgl.website^
@@ -16940,6 +16943,7 @@ vkcdnservice.appspot.com^
 ||fpbpgoqubikzw.space^
 ||fpbpqgnoeyxjb.website^
 ||fpcbltqovzjwg.website^
+||fpcjdmgsvsqud.website^
 ||fpcrnsgskjtfm.website^
 ||fpcshgzlewmef.online^
 ||fpdqwjttlkucf.space^
@@ -21979,6 +21983,7 @@ vkcdnservice.appspot.com^
 ||iesqbiyuiiccz.online^
 ||ietarchtn.xyz^
 ||ietwzcakupkfs.store^
+||ieucnfzhxeedn.website^
 ||ieuuihjhggttw.site^
 ||iewixvvsbfkwd.world^
 ||iewjctcinxthi.space^
@@ -23699,6 +23704,7 @@ vkcdnservice.appspot.com^
 ||jdcwuqcwgcqqa.space^
 ||jdecansbndbbg.website^
 ||jdeekqk-bjqt.fun^
+||jdewvyxxyuv.com^
 ||jdfrqcqxzkjlr.space^
 ||jdfxtlykcmrly.online^
 ||jdghsqvxmcrzi.space^
@@ -23845,6 +23851,7 @@ vkcdnservice.appspot.com^
 ||jfrtopxglnetf.online^
 ||jfrxmlujqkdwj.space^
 ||jfuxevakslazy.site^
+||jfvcvxdljdqxw.website^
 ||jfverzoeowotc.store^
 ||jfvxpmxf.xyz^
 ||jfwaqjrsvshtl.online^
@@ -24166,6 +24173,7 @@ vkcdnservice.appspot.com^
 ||jnuwyofegytmm.xyz^
 ||jnvgvhkfkrgvp.site^
 ||jnvwjvpquelgr.website^
+||jnwpcellgwqbz.space^
 ||jnxm2.com^
 ||jnyyjfdayvbek.space^
 ||jnzzzlzqqetzm.website^
@@ -25478,6 +25486,7 @@ vkcdnservice.appspot.com^
 ||kmaagycbjbnwf.site^
 ||kmcmfreydeoou.site^
 ||kmcsqxlrwvxyh.space^
+||kmcvqfdtlauqx.space^
 ||kmdcqcvn.xyz^
 ||kmeomhssuzekc.online^
 ||kmevidfaffu.com^
@@ -27541,6 +27550,7 @@ vkcdnservice.appspot.com^
 ||loulouly.net^
 ||loululant.cfd^
 ||loulxkgdovnri.space^
+||loungedcabrie.com^
 ||lounjeysqslqm.site^
 ||lounupmove.cfd^
 ||louptousautoo.net^
@@ -37790,6 +37800,7 @@ vkcdnservice.appspot.com^
 ||qpweyjmudecjc.online^
 ||qpwvhsxxzwgft.global^
 ||qpwvok0l.xyz^
+||qqblawfheamext.com^
 ||qqdbyguxsdlvq.site^
 ||qqeadugfccgya.space^
 ||qqeamubuikcai.site^
@@ -40650,6 +40661,7 @@ vkcdnservice.appspot.com^
 ||sabergood.com^
 ||saberstglevying.qpon^
 ||sabikschnook.qpon^
+||sabinekishonsquawky.cfd^
 ||sabonakapona.com^
 ||sabotagesophisticatedfragile.com^
 ||sabotedlinkup.cyou^
@@ -40763,6 +40775,7 @@ vkcdnservice.appspot.com^
 ||salterpothole.com^
 ||saltersmuscule.cfd^
 ||saltsleaseholder.com^
+||saltyjunkerma.qpon^
 ||salungclatsop.cfd^
 ||salutationlie.com^
 ||salutationwantedaccustom.com^
@@ -44460,6 +44473,7 @@ vkcdnservice.appspot.com^
 ||tabloidincapable.com^
 ||tabooedatellandensus.cfd^
 ||tabooedmong.qpon^
+||taboredgoops.com^
 ||taborhexeris.cyou^
 ||tabourswirled.cyou^
 ||tabstruancyclarina.cyou^
@@ -45203,6 +45217,7 @@ vkcdnservice.appspot.com^
 ||thjxvlrjnbqbs.store^
 ||thkaymbdioyil.site^
 ||thlaspilunulaepolar.cfd^
+||thnbexpkdif.com^
 ||thngtmlcwxkbh.site^
 ||thnwxvghrnfst.website^
 ||thnxqaryvtcbx.space^
@@ -45396,6 +45411,7 @@ vkcdnservice.appspot.com^
 ||tinemanduring.cfd^
 ||tingefifortwaukth.org^
 ||tingledthraws.qpon^
+||tinifygzkncqu.website^
 ||tinkerwidth.com^
 ||tinnilybagdi.cfd^
 ||tinningbilk.cfd^
@@ -46962,6 +46978,7 @@ vkcdnservice.appspot.com^
 ||ueqjychtgl.net^
 ||ueqkrtmgiokeg.site^
 ||ueuee.com^
+||ueujvfjkukeqf.website^
 ||uewe4x2e4nmqgcz6.cfd^
 ||uewhrvljpnkrw.site^
 ||uewueeezeasmp.online^
@@ -58945,6 +58962,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||a.n11.com^
+||h.n11.com^
 ||pulse.perfmetrics.netflix.com^
 ||analytics.shutterstock.com^
 ||stats.gastronom.ru^
@@ -78057,6 +78076,8 @@ dlsdk.appsflyer.com^
 ||nsxrfh.icu^
 ||curogmc.com^
 ||dtrurqeq.com^
+||ste000u5mk.com^
+||a2pfs5k90i.com^
 ||1nevsf92q.com^
 ||h57vpulpu.com^
 ||jotedd.icu^
