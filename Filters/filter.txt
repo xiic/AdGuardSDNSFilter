@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-19T10:13:55.552Z
+! Last modified: 2026-03-19T12:10:49.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4357,6 +4357,7 @@ vkcdnservice.appspot.com^
 ||artoomanyrelati.com^
 ||artshelf.xyz^
 ||artsyharicot.com^
+||artvzqshpnx.com^
 ||artwareshambu.com^
 ||arubdaraqigxc.site^
 ||aruranmbqiyus.store^
@@ -9154,6 +9155,7 @@ vkcdnservice.appspot.com^
 ||ciqvaiywqpkpk.club^
 ||ciqwkqfapdq.com^
 ||cirbxyidgqvtw.online^
+||circarooms.cyou^
 ||circlejavgg124.fun^
 ||circlesassailslopy.qpon^
 ||circularcarry.com^
@@ -13402,6 +13404,7 @@ vkcdnservice.appspot.com^
 ||duringcereal.com^
 ||durocwagtail.cfd^
 ||durriebooing.com^
+||durrsbutenyl.qpon^
 ||duryloutdoor.shop^
 ||dusfolzrshwgf.online^
 ||dust-0001.delorazahnow.workers.dev^
@@ -13559,6 +13562,7 @@ vkcdnservice.appspot.com^
 ||dynamicdrawler.qpon^
 ||dynamisbelated.cyou^
 ||dynamitedata.com^
+||dyneqmata.com^
 ||dynpaa.com^
 ||dynspt.com^
 ||dynsrvtbg.com^
@@ -22777,6 +22781,7 @@ vkcdnservice.appspot.com^
 ||inchesray.com^
 ||inchesrecognize.com^
 ||inchestannule.qpon^
+||inchinggamelanjingall.cyou^
 ||incidentallyhorace.com^
 ||incidenttrumpremittance.com^
 ||incisaloutsin.cfd^
@@ -29521,6 +29526,7 @@ vkcdnservice.appspot.com^
 ||middaymishapnotice.com^
 ||middensunrra.com^
 ||middledcoerce.cfd^
+||middlejargon.com^
 ||middlewarestorm.net^
 ||midejabots.qpon^
 ||midetaffety.qpon^
@@ -31970,6 +31976,7 @@ vkcdnservice.appspot.com^
 ||noisy-anger.com^
 ||noisyfather.pro^
 ||nojjpugwlpwns.online^
+||nojtkmi5iux1o49.cfd^
 ||nojzmdvcnawjt.space^
 ||nokakjaulkrgi.site^
 ||nokymhnsljner.space^
@@ -41523,6 +41530,7 @@ vkcdnservice.appspot.com^
 ||savinmaggie.cyou^
 ||saviourcrimpycrimpyhem.com^
 ||savitriratio.help^
+||savorbolmbt.in^
 ||savourbiggergait.com^
 ||savoursweeptuck.com^
 ||savouryluxury.com^
@@ -53111,6 +53119,7 @@ vkcdnservice.appspot.com^
 ||xwxmasihzkjoj.online^
 ||xwxtztqyihcrk.space^
 ||xwyhflmdwpxfg.site^
+||xwykabmuzx.in^
 ||xwzbpkku-i.site^
 ||xwzsskvlvohwl.top^
 ||xxbbcme5z2epkrqvrvuctb7hx8cp87nm.rest^
