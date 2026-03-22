@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-22T03:01:59.036Z
+! Last modified: 2026-03-22T04:37:42.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -800,6 +800,7 @@ vkcdnservice.appspot.com^
 ||2f6dc696ee.com^
 ||2f7f58d605.com^
 ||2fb8or7ai.de^
+||2fcefgtgu4bv6p.rest^
 ||2ff08844f2.com^
 ||2fgrrc9t0.de^
 ||2fnptjci.de^
@@ -5767,6 +5768,7 @@ vkcdnservice.appspot.com^
 ||bebopgid.cfd^
 ||bebraveamyrol.cyou^
 ||bebravejazyges.cfd^
+||bebviuirm.com^
 ||becameempaper.help^
 ||becketcoffee.com^
 ||becklisps.qpon^
@@ -17953,6 +17955,7 @@ vkcdnservice.appspot.com^
 ||fwsehxlfpopsa.site^
 ||fwshrqbwcqafj.site^
 ||fwsigpacfqznc.site^
+||fwtlvkgbmqqme.space^
 ||fwtrck.com^
 ||fwubdubhtzsmz.online^
 ||fwuecimiadhvk.website^
@@ -22552,6 +22555,7 @@ vkcdnservice.appspot.com^
 ||ifigent.com^
 ||ifinbjyvqxytr.world^
 ||ifiosnsxqmlnt.online^
+||ifjlqjaur.com^
 ||iflfnermnmnhj.space^
 ||iflzhipfmnxns.online^
 ||ifmxhabbjpjrm.website^
@@ -23584,6 +23588,7 @@ vkcdnservice.appspot.com^
 ||iqrpmnofrcapi.online^
 ||iqtest365.online^
 ||iqtvvevbydoat.online^
+||iquvb25bv2e3rzle7yx7boe.cfd^
 ||iqvojbqacilzm.website^
 ||iqwkkpchugfbk.space^
 ||iqxljdbfhcfpqe.com^
@@ -25283,6 +25288,7 @@ vkcdnservice.appspot.com^
 ||jwcpgnlnwbukt.xyz^
 ||jwdyjlafpkxkf.space^
 ||jweooxbmbrv.net^
+||jwfaregtarvql.space^
 ||jwhfxnravgzft.space^
 ||jwigxlvorrowv.site^
 ||jwjcpzdprksgg.online^
@@ -26342,6 +26348,7 @@ vkcdnservice.appspot.com^
 ||kosher-yesterday.pro^
 ||kossowhunse.net^
 ||kostprice.com^
+||koszyxwufcqro.site^
 ||kotokot.com^
 ||kotostream.online^
 ||kotrkcvklmdnz.website^
@@ -28827,6 +28834,7 @@ vkcdnservice.appspot.com^
 ||lznvjcoceddyi.online^
 ||lzpiozkcngklw.site^
 ||lzresfdeddzap.online^
+||lzudmwytadqrg.site^
 ||lzulehztkwopr.website^
 ||lzuvmwzgztvrr.site^
 ||lzvrotofovlfn.website^
@@ -35357,6 +35365,7 @@ vkcdnservice.appspot.com^
 ||pblinq.com^
 ||pbludyuznkhk.com^
 ||pblxcavqmuuh.xyz^
+||pbmdmucwvxmrb.space^
 ||pbmfeqqytolng.online^
 ||pbmipgoqdlgnv.site^
 ||pbmjjozyvyegz.store^
@@ -37214,6 +37223,7 @@ vkcdnservice.appspot.com^
 ||prioritylotantagonize.com^
 ||priortreasonpositive.com^
 ||prisspongid.qpon^
+||prissyupland.qpon^
 ||pristine-creative.com^
 ||pristineswing.pro^
 ||pritesol.com^
@@ -38694,6 +38704,7 @@ vkcdnservice.appspot.com^
 ||qodfcavjucjyj.website^
 ||qodfnqtwzdqzd.space^
 ||qoduruwkddheq.site^
+||qoebdgzpnonpu.online^
 ||qofzpsdexjmbw.site^
 ||qogcteumntijn.site^
 ||qogtdnpdsapeg.site^
@@ -40842,6 +40853,7 @@ vkcdnservice.appspot.com^
 ||rnmreusbdsmyc.space^
 ||rnmygqopcphoq.site^
 ||rnobijyojinek.website^
+||rnoliuuhsrqjc.site^
 ||rnotraff.com^
 ||rnpbmhmjxwmgs.website^
 ||rnqcztbdtxoup.site^
@@ -41487,6 +41499,7 @@ vkcdnservice.appspot.com^
 ||rvanquuezropi.website^
 ||rvbmvjzymhmai.website^
 ||rvddgeuqhxfvu.website^
+||rvemexwmttrcs.website^
 ||rvericwazosuy.website^
 ||rvetreyu.net^
 ||rvgeptxytttwg.site^
@@ -44010,6 +44023,7 @@ vkcdnservice.appspot.com^
 ||spadelack.com^
 ||spaderonium.com^
 ||spadsync.com^
+||spaesennervetrigo.cyou^
 ||spaheeswhomps.help^
 ||spallshelty.cfd^
 ||spamimpunity.com^
@@ -49576,6 +49590,7 @@ vkcdnservice.appspot.com^
 ||vacuumpalsy.cfd^
 ||vacwrite.com^
 ||vadswhzcwrrbc.space^
+||vafbpeqennikp.website^
 ||vaflumaukhzjc.website^
 ||vagalguilds.qpon^
 ||vagantretaker.cfd^
@@ -50535,6 +50550,7 @@ vkcdnservice.appspot.com^
 ||vnkzpvmaximaz.website^
 ||vnlhedlhjyzrs.site^
 ||vnncpccdpfupq.site^
+||vnnvrstpewqyb.site^
 ||vnourljxqtsxz.site^
 ||vnpcqiazqmzeq.online^
 ||vnrbjvbwbqfob.click^
@@ -79478,6 +79494,9 @@ dlsdk.appsflyer.com^
 ||tempest22.top^
 ||lwrmft.icu^
 ||cqoqpcc.icu^
+||6jtqdplfz7.com^
+||1n4vrzxdms.com^
+||hhba03221kdh.com^
 ||7s8z7w24u.com^
 ||d2c1htpgj.com^
 ||hhba03210kdh.com^
