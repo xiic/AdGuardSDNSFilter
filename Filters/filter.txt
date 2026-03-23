@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-23T10:21:07.508Z
+! Last modified: 2026-03-23T12:14:37.425Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1313,6 +1313,7 @@ vkcdnservice.appspot.com^
 ||aaaconnect.info^
 ||aabggksolpoyt.space^
 ||aabjyjjphdwmb.site^
+||aabsgiofdhywj.site^
 ||aada35c15f.com^
 ||aafcwvjpryevi.online^
 ||aafdcq.com^
@@ -1325,10 +1326,12 @@ vkcdnservice.appspot.com^
 ||aaliissceptre.shop^
 ||aanyslvgdtooh.website^
 ||aaponlzrawuzk.site^
+||aaqzukbomsdpt.site^
 ||aarzgcsyztgrs.site^
 ||aasssaa.com^
 ||aauedwmoofyox.buzz^
 ||aaurpibxdpjju.site^
+||aauvdpyzffajh.site^
 ||aavnnupfepbgp.space^
 ||aawdlgngyyfhn.online^
 ||aawdlvr.com^
@@ -1430,6 +1433,7 @@ vkcdnservice.appspot.com^
 ||abruptplentifulcoalition.com^
 ||abruptusers.com^
 ||abscissolycook.qpon^
+||absgraqtbqapz.online^
 ||absolute-anywhere.pro^
 ||absolutedesk.pro^
 ||absolutelycaptivityboutique.com^
@@ -1473,6 +1477,7 @@ vkcdnservice.appspot.com^
 ||acarariwarnothhostry.cfd^
 ||acaribleep.com^
 ||acbogaffmdurj.site^
+||acbyweuyglhls.website^
 ||accbleaky.qpon^
 ||accecmtrk.com^
 ||acceleratetomb.com^
@@ -1527,6 +1532,7 @@ vkcdnservice.appspot.com^
 ||acdojsqocgvoj.online^
 ||ace-adserver.com^
 ||acecrocodilelick.com^
+||acehsufvbdmvb.space^
 ||aceporntube.com^
 ||acerbercalfret.qpon^
 ||acerecipientevenings.com^
@@ -1545,6 +1551,7 @@ vkcdnservice.appspot.com^
 ||achycompassionate.com^
 ||acictsjxqbsob.website^
 ||aciesdockman.shop^
+||acjkovckjufpz.space^
 ||ackcdn.net^
 ||acknowledgecalculated.com^
 ||acknowledgedlatest.com^
@@ -1563,6 +1570,7 @@ vkcdnservice.appspot.com^
 ||acquirethem.com^
 ||acquisitioncarefully.com^
 ||acquisitionhonestlybough.com^
+||acqwyqfecrlsh.online^
 ||acrazeclaretsdegage.cfd^
 ||acrdfrcfapzvn.site^
 ||acredo.space^
@@ -1601,6 +1609,8 @@ vkcdnservice.appspot.com^
 ||acumocceemuqj.space^
 ||acuteleukemie.info^
 ||acuteprone.com^
+||acvxskfeohrzi.online^
+||acwyolvrihywf.site^
 ||acxcfztcvheoa.space^
 ||acyxssqjdvfaj.space^
 ||aczqghbgetaef.store^
@@ -10797,6 +10807,7 @@ vkcdnservice.appspot.com^
 ||e86ee537fe.com^
 ||e8853962d1.com^
 ||e89d45b16370ee7e43daeaf6ce8d9547.com^
+||e8wrrv6zh542cq6y17fryjlm.rest^
 ||e910e94be7.com^
 ||e92c130c8b.com^
 ||e958252147.com^
@@ -11530,6 +11541,7 @@ vkcdnservice.appspot.com^
 ||ellipticaltrack.com^
 ||elmmmgfvzerqt.space^
 ||elmolkyqhjfwn.online^
+||elnjtvesr.com^
 ||eloflrawmrrfa.online^
 ||elogiado.info^
 ||elogymayda.shop^
@@ -26808,6 +26820,7 @@ vkcdnservice.appspot.com^
 ||mewardboaedontripal.cyou^
 ||mewgzllnsp.com^
 ||mewiththeb.com^
+||mewlergushercrinate.qpon^
 ||mewlersbash.cfd^
 ||mewoaglaump.net^
 ||mexicajotted.cyou^
@@ -28679,6 +28692,7 @@ vkcdnservice.appspot.com^
 ||nbyviwvbndajq.site^
 ||nbyzrdjsondlh.space^
 ||ncb6i6mbeiig3xq19c.cfd^
+||ncbvfmyonigkhh.com^
 ||nccxucybvgh.com^
 ||nceneverdreamsofc.org^
 ||ncetdrzpalozq.space^
@@ -29839,6 +29853,7 @@ vkcdnservice.appspot.com^
 ||nudsoalrumtoops.net^
 ||nudumgangers.cyou^
 ||nueyowipxyuok.store^
+||nufafsrupf.in^
 ||nufajfnntuyot.site^
 ||nufvedbbqxxiy.site^
 ||nugeeksothomu.net^
@@ -30238,6 +30253,7 @@ vkcdnservice.appspot.com^
 ||objectionsbeaten.com^
 ||objective-wright-961fed.netlify.com^
 ||objectlesslatterdissolved.com^
+||objscancoollyfarci.cfd^
 ||objuaeudnkycr.online^
 ||obkotollchnkz.space^
 ||obkrwyfmsoajc.space^
@@ -51185,6 +51201,7 @@ vkcdnservice.appspot.com^
 ||yaxsvnoftgzuj.website^
 ||yaylgwxilnrio.website^
 ||yb23b.com^
+||yb9op4ftqh8xwqrob5qg8k.cfd^
 ||ybasuhujdlpiw.site^
 ||ybaxoeamknxlt.space^
 ||ybdigfjtqjcnu.site^
