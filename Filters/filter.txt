@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-29T03:02:55.096Z
+! Last modified: 2026-03-29T04:49:34.346Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1071,6 +1071,7 @@ vkcdnservice.appspot.com^
 ||6ir8zn9ec4ubov9ftkr.cfd^
 ||6j296m8k.de^
 ||6mbc18yufuulgv6ov4ko1v23gecb36l8k.rest^
+||6n826tunbch234.rest^
 ||6ngypwhbwqh9c3nk.rest^
 ||6ntgi1f48lqzzv.rest^
 ||6opo.com^
@@ -1303,6 +1304,7 @@ vkcdnservice.appspot.com^
 ||9l5ss9l.de^
 ||9lwl6rsk.xyz^
 ||9mjkg4uqmcpxe7.cfd^
+||9nizbbyf774vm14cp4e797zk.cfd^
 ||9oic2m9no7jn7i.cfd^
 ||9pub.io^
 ||9s4l9nik.de^
@@ -5314,6 +5316,7 @@ vkcdnservice.appspot.com^
 ||bsmvroohwwakx.site^
 ||bsnwicychhpjy.website^
 ||bspnfgvmxrqhj.site^
+||bsrsqfvvawjns.site^
 ||bsrvnidujicrk.com^
 ||bssgnowkrcjpm.online^
 ||bssoyxhfjzcgz.space^
@@ -11202,6 +11205,7 @@ vkcdnservice.appspot.com^
 ||dxqbrjwlmyyph.online^
 ||dxqqoctjgddts.space^
 ||dxqvjzovgicms.website^
+||dxryhxywkcsrobh.com^
 ||dxsbkcsximcja.space^
 ||dxsvyhdrnpsom.online^
 ||dxtekvvuwgjsg.site^
@@ -11636,6 +11640,7 @@ vkcdnservice.appspot.com^
 ||edvipubjekzec.xyz^
 ||edwardspeedingchat.com^
 ||edwmpt.com^
+||edwqewjxztjwy.website^
 ||edwrrlvzlqgzk.site^
 ||edxilaprgjxqt.site^
 ||edxposbuqbzly.space^
@@ -15234,6 +15239,7 @@ vkcdnservice.appspot.com^
 ||frighteningship.com^
 ||frightfulvisitorimportant.com^
 ||frigidhour.pro^
+||frilly-celebration.pro^
 ||frillyearth.com^
 ||frillystyle.pro^
 ||frimrecluse.qpon^
@@ -47653,6 +47659,7 @@ vkcdnservice.appspot.com^
 ||universityroadsidecircumstantial.com^
 ||universityslap.com^
 ||univiedshlocks.cyou^
+||unjdrgqjbvgaf.online^
 ||unjoinesprit.help^
 ||unjtzpdbpwmkv.website^
 ||unjustsubmerge.com^
@@ -49421,6 +49428,7 @@ vkcdnservice.appspot.com^
 ||vkwbbhmnjiidd.space^
 ||vkwkvxtecxayaaa.com^
 ||vkwrhqulqcxtl.site^
+||vkwwwpvuxgipy.site^
 ||vkxxhhwhdctod.online^
 ||vkynuspzupokz.website^
 ||vkzkmfqcediaf.site^
@@ -52214,6 +52222,7 @@ vkcdnservice.appspot.com^
 ||xflnjtnmywule.website^
 ||xfmybdtedhzel.website^
 ||xfoufvuefktoo.space^
+||xfphgxikbuflw.com^
 ||xfpjhwejhicwc.website^
 ||xfpvodyci.com^
 ||xfqiwwdxryuvo.website^
@@ -52512,6 +52521,7 @@ vkcdnservice.appspot.com^
 ||xo9pntz67l19k6fo7ryugfvp5n5mwvch2.cfd^
 ||xoalt.com^
 ||xoanitznjnxqa.website^
+||xocivltwemkxn.site^
 ||xoeqwhxayzsqh.space^
 ||xogpashkeftic.net^
 ||xoilactv123.gdn^
@@ -78752,6 +78762,9 @@ dlsdk.appsflyer.com^
 ||meander29.top^
 ||aybhalkar.com^
 ||wliiymn.icu^
+||cv5gezvaj.com^
+||d84iw5qqf.com^
+||n01t94i6g.com^
 ||b8o9c4s42l.com^
 ||diouidlf98.com^
 ||j6gi9jgjpb.com^
