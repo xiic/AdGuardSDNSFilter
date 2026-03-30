@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-30T03:03:08.979Z
+! Last modified: 2026-03-30T04:56:28.776Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -838,6 +838,7 @@ vkcdnservice.appspot.com^
 ||3j8c56p9.de^
 ||3lift.com^
 ||3mads.com^
+||3mpyzm6w5fi5yln76ng5kw.cfd^
 ||3myad.com^
 ||3nbf4.com^
 ||3ng6p6m0.de^
@@ -987,6 +988,7 @@ vkcdnservice.appspot.com^
 ||5f242f7db1.com^
 ||5f6dmzflgqso.com^
 ||5fet4fni.de^
+||5fm56kktrr63hz5qexez.rest^
 ||5ghymyiqz6pqrv8.rest^
 ||5gvci.com^
 ||5gvo3yfyncz4x1jgic3pcqyfz.rest^
@@ -8353,6 +8355,7 @@ vkcdnservice.appspot.com^
 ||ctsdwm.com^
 ||ctthreip.cyou^
 ||cttidjdivuexl.website^
+||cttnmjpplccxm.website^
 ||ctubhxbaew.com^
 ||ctvtzeqqgenre.online^
 ||ctvynhvrkocak.website^
@@ -8707,6 +8710,7 @@ vkcdnservice.appspot.com^
 ||cyl9l3yfzj5kjpl92.cfd^
 ||cylfakyhloppf.space^
 ||cylindrical-good.pro^
+||cylindrical-inevitable.pro^
 ||cylindrical-occasion.com^
 ||cylindrical-style.pro^
 ||cylindrical-suggestion.com^
@@ -11086,6 +11090,7 @@ vkcdnservice.appspot.com^
 ||duidoaghteqgs.website^
 ||duilegalsbunuelo.cyou^
 ||duiunmaigiqiy.space^
+||dujyhrtceg.com^
 ||dukerationpecial.com^
 ||dukmcubsuhawh.site^
 ||dulatkinic.cfd^
@@ -13124,6 +13129,7 @@ vkcdnservice.appspot.com^
 ||euuckvubfrktg.space^
 ||euvgwxynqwb.com^
 ||euvjyahxjdbgt.site^
+||euvzpxozrlhtmt.com^
 ||euwaqndyjyp.xyz^
 ||euwdsqkrxwhwu.online^
 ||euwwoleald.com^
@@ -13174,6 +13180,7 @@ vkcdnservice.appspot.com^
 ||evestarnema.qpon^
 ||evetideparodos.com^
 ||evewhipvdvbnt.site^
+||evfnzynxs.com^
 ||evgaxoeak.com^
 ||evggxogpkw.com^
 ||evhccqmunl.com^
@@ -15474,6 +15481,7 @@ vkcdnservice.appspot.com^
 ||ftacbwmrfphxa.online^
 ||ftbedtikmzqvb.online^
 ||ftblltrck.com^
+||ftckvcencoooi.online^
 ||ftd.agency^
 ||ftdtocbdkvlvj.space^
 ||ftejmlwjghjdp.space^
@@ -18503,6 +18511,7 @@ vkcdnservice.appspot.com^
 ||hauzugrauwha.net^
 ||haveameet.com^
 ||havenclick.com^
+||havenerbastionfrailly.cyou^
 ||havenwrite.com^
 ||havessnoozy.cfd^
 ||havetestifyharriet.com^
@@ -20615,6 +20624,7 @@ vkcdnservice.appspot.com^
 ||igszvdjpvxqdt.online^
 ||igtbkmkznjthx.club^
 ||igtgpwlqldnqn.site^
+||igtjqemgdlibm.site^
 ||iguananuncius.qpon^
 ||igvkixoxvsvih.space^
 ||igvnifgscilia.space^
@@ -21762,6 +21772,7 @@ vkcdnservice.appspot.com^
 ||isotroncokeney.qpon^
 ||isotrondumbedwithtee.cfd^
 ||isoualkcjushz.website^
+||isovwtytofnzy.website^
 ||isozvtdtzqefl.website^
 ||isqpyocm.com^
 ||isquitehappymut.org^
@@ -23025,6 +23036,7 @@ vkcdnservice.appspot.com^
 ||jpoeeexklntxcv.xyz^
 ||jpojrkwzofpxn.space^
 ||jpoqotqyjhqqz.space^
+||jppcfcfoxodgy.site^
 ||jpqlqtnvbtvhx.space^
 ||jpqnvgjnxyjdt.site^
 ||jpqqpuglphfvt.space^
@@ -24011,6 +24023,7 @@ vkcdnservice.appspot.com^
 ||khocclzjcykbk.site^
 ||khojares.cyou^
 ||khovdiminated.org^
+||khowarrainycapsid.cyou^
 ||khqjazypcaqmk.space^
 ||khqnsoskqmqlr.site^
 ||khranpveecwtk.site^
@@ -29218,6 +29231,7 @@ vkcdnservice.appspot.com^
 ||mtburn.com^
 ||mtddzanzcserh.space^
 ||mtdmvmzxctwtk.site^
+||mtdutavlkpzzz.site^
 ||mteitdoivvxjy.site^
 ||mtertvucdbkzv.online^
 ||mtfrdfxhbtsgd.space^
@@ -49987,6 +50001,7 @@ vkcdnservice.appspot.com^
 ||vrcjgvxwjmepr.website^
 ||vrcvbtdmxhcgb.site^
 ||vrfdcwhyaodng.store^
+||vrftribpxdzcs.online^
 ||vrfuznaicvxaj.life^
 ||vrgbaevvadiwn.site^
 ||vrhbjtileufmv.website^
@@ -53199,6 +53214,7 @@ vkcdnservice.appspot.com^
 ||xyntwwaomkvtl.online^
 ||xypfboanhelbs.space^
 ||xypmbdsisnrqe.site^
+||xyrnvufrgnzhn.site^
 ||xyroxqxhjcjzd.store^
 ||xysbvkskxvsyj.online^
 ||xystculdee.qpon^
@@ -53873,6 +53889,7 @@ vkcdnservice.appspot.com^
 ||yorzhyzthdwgt.website^
 ||yorztipdkeksq.site^
 ||yoshatia.com^
+||yoshdeum.com^
 ||yosoofpjzhigr.space^
 ||youaixx.xyz^
 ||yougetwhatyoupayfor.net^
@@ -73428,8 +73445,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Mar 2026 10:25 UTC+7
-! Version: 2603171025
+! Last modified: 30 Mar 2026 11:14 UTC+7
+! Version: 2603301114
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -74237,8 +74254,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 17 Mar 2026 10:25 UTC+7
-! Version: 2603171025
+! Last modified: 30 Mar 2026 11:14 UTC+7
+! Version: 2603301114
 ! Blocked: 4.832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -79055,6 +79072,8 @@ dlsdk.appsflyer.com^
 ||immunity44.com^
 ||udghekzitv.com^
 ||usoxsak.icu^
+||5bayjqsrgd.com^
+||xr40kfkxeo.com^
 ||tfhpxv.icu^
 ||ooqvye17t.com^
 ||vtc3rlbjj.com^
