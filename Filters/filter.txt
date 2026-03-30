@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-30T10:28:48.467Z
+! Last modified: 2026-03-30T12:17:30.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2551,6 +2551,7 @@ vkcdnservice.appspot.com^
 ||akalfmasxatei.website^
 ||akanalmain.cfd^
 ||akanexterna.com^
+||akbqatlacasb.in^
 ||akdbr.com^
 ||akdnhszqeqasz.store^
 ||akdrclfipxvkj.store^
@@ -14305,6 +14306,7 @@ vkcdnservice.appspot.com^
 ||fhxgezqysdmtg.online^
 ||fhxwwswjsgsul.space^
 ||fhxyofvlnthdu.site^
+||fhyovqstoa.in^
 ||fhyvoxnilpjvm.space^
 ||fiafydmfzzsul.space^
 ||fiancebefop.cyou^
@@ -16239,6 +16241,7 @@ vkcdnservice.appspot.com^
 ||gcfubeywqiffq.website^
 ||gcgrabxewyxwe.website^
 ||gchopgjoerxua.space^
+||gcj4q7j5u25hqb23xwruyku6cbmqt4.cfd^
 ||gckonsiykuejp.site^
 ||gcktvzojxuguq.website^
 ||gcmimpuckrbhn.site^
@@ -20091,6 +20094,7 @@ vkcdnservice.appspot.com^
 ||hvywllhiwgbjj.icu^
 ||hvyzobgbeoqgg.website^
 ||hw2umknokjpc5eiwe8353f.cfd^
+||hw6i5jh5efhor5c6.rest^
 ||hwbccksvyjdto.website^
 ||hwbwkedldkcoq.site^
 ||hwbyspodhwjsf.online^
@@ -20870,6 +20874,7 @@ vkcdnservice.appspot.com^
 ||im36o2keohmwq3c.cfd^
 ||im9rymw51hi4x2g7b8vty928.cfd^
 ||imageadvantage.net^
+||imagedcashew.shop^
 ||imagenest.site^
 ||imagiflex.com^
 ||imaginablestickydepartments.com^
@@ -21437,6 +21442,7 @@ vkcdnservice.appspot.com^
 ||intentionsaspirin.com^
 ||intentionscommitsubtle.com^
 ||intentionscommunity.com^
+||intentlyuncover.com^
 ||intentwhishes.cyou^
 ||interbasepicturespostman.com^
 ||interbasewhirlwindwalrus.com^
@@ -22311,6 +22317,7 @@ vkcdnservice.appspot.com^
 ||jayqbgfkdypmw.website^
 ||jaznthphugfwz.online^
 ||jaztjvsdxqxsu.website^
+||jazuoujihigip.site^
 ||jazzestyrosyl.cfd^
 ||jazzistagallop.com^
 ||jbalnemwgxsbp.space^
@@ -22401,6 +22408,7 @@ vkcdnservice.appspot.com^
 ||jdhxvjrildzjt.site^
 ||jdisbyzitokgt.website^
 ||jdiwtetxazxkd.space^
+||jdjiuhwooalvp.website^
 ||jdkdzhvgqnecz.online^
 ||jdlqivqfhiyjz.site^
 ||jdlqrcmbvrzit.space^
@@ -30862,6 +30870,7 @@ vkcdnservice.appspot.com^
 ||noostoogrest.net^
 ||nootesting.qpon^
 ||noothoonaiglou.net^
+||nopahaes.com^
 ||nope.xn--mgbkt9eckr.net^
 ||nope.xn--ygba1c.wtf^
 ||noqpgamv.net^
@@ -31280,6 +31289,7 @@ vkcdnservice.appspot.com^
 ||nutritionpenguinbiopsy.com^
 ||nutritiousrush.com^
 ||nutsag.com^
+||nutty-break.com^
 ||nuttylog.com^
 ||nuumddlnirhxp.site^
 ||nuvglkyipfles.website^
@@ -32501,6 +32511,7 @@ vkcdnservice.appspot.com^
 ||oofkiouotayrk.space^
 ||ooftatholy.net^
 ||oogdrtkrenaoh.website^
+||oogkvtvfjovt.com^
 ||oogloeafifties.help^
 ||ooglostongoob.net^
 ||oognaxoudroogru.net^
@@ -32919,6 +32930,7 @@ vkcdnservice.appspot.com^
 ||ostentatiousimplement.com^
 ||osteomatumli.shop^
 ||ostgcawizznse.online^
+||ostialyauppattie.qpon^
 ||osticsabin.qpon^
 ||ostilllookinga.cc^
 ||ostlon.com^
@@ -37424,6 +37436,7 @@ vkcdnservice.appspot.com^
 ||qnzkkbshdriki.site^
 ||qoaaa.com^
 ||qoaoelcjmvxvr.site^
+||qobfocmmyhbaw.space^
 ||qobpxugcqtsk.com^
 ||qoclick.com^
 ||qodfcavjucjyj.website^
@@ -43840,6 +43853,7 @@ vkcdnservice.appspot.com^
 ||strict-drink.com^
 ||strict-duty.pro^
 ||strictease.com^
+||strictrummersinmeats.qpon^
 ||striddire.com^
 ||stridemuzzleportal.com^
 ||strident-buddy.pro^
@@ -46413,6 +46427,7 @@ vkcdnservice.appspot.com^
 ||trck.wargaming.net^
 ||trckswrm.com^
 ||trcktr.com^
+||trdezwtminfdy.space^
 ||treadhospitality.com^
 ||treasonfinding.com^
 ||treasonmason.com^
@@ -50957,6 +50972,7 @@ vkcdnservice.appspot.com^
 ||wemlessapnoeas.cyou^
 ||wemplemukente.com^
 ||wemtagoowhoohiz.net^
+||wenazgwspojzi.online^
 ||wenchedpolios.qpon^
 ||wenchespandect.cfd^
 ||wendelstein-1b.com^
@@ -51057,6 +51073,7 @@ vkcdnservice.appspot.com^
 ||wgcjpruezksws.online^
 ||wgdgwlczbjaks.space^
 ||wgdmxncvikpcc.fun^
+||wgdotbbdbfktr.space^
 ||wgeavrbe.com^
 ||wgerhfypjlycg.site^
 ||wgexsktozbmrx.online^
@@ -51215,6 +51232,7 @@ vkcdnservice.appspot.com^
 ||whisperedgolf.com^
 ||whisperofisaak.com^
 ||whistledadjoining.com^
+||whistledam.com^
 ||whistleeagerconvene.com^
 ||whistlegown.com^
 ||whistlingcrimson.com^
@@ -51927,6 +51945,7 @@ vkcdnservice.appspot.com^
 ||wpvvlvzpneobl.website^
 ||wpwdwbunjutwd.online^
 ||wpwnejtixioio.website^
+||wpyirxebjtvdh.site^
 ||wpyqtdqwvchml.site^
 ||wq8byp9yonql951fq56gkhj9v4z1tmk.cfd^
 ||wqageeadtitps.online^
