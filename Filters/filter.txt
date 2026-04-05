@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-05T03:02:39.249Z
+! Last modified: 2026-04-05T04:49:42.559Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1028,6 +1028,7 @@ vkcdnservice.appspot.com^
 ||5nt1gx7o57.com^
 ||5o8aj5nt.de^
 ||5oivh1efuxjcpwpz.rest^
+||5olcvqmqp71qqy.rest^
 ||5pi13h3q.de^
 ||5pjiv72jrumgml.rest^
 ||5qgclqb1eqljql.rest^
@@ -10830,6 +10831,7 @@ vkcdnservice.appspot.com^
 ||eostvofsqqsvi.site^
 ||eoveukrnme.org^
 ||eoxmqlvcylamr.online^
+||eoxpdkvkxkyaib.com^
 ||eoymwwdawroxg.website^
 ||epacash.com^
 ||epajsxijrpzbh.online^
@@ -15943,6 +15945,7 @@ vkcdnservice.appspot.com^
 ||gripspigyard.com^
 ||grisardgallfly.cyou^
 ||griskinsauls.com^
+||grissetplainskiekie.cfd^
 ||gritchfytnrsl.space^
 ||griwourtadoothe.net^
 ||grizzled-doctor.pro^
@@ -28923,6 +28926,7 @@ vkcdnservice.appspot.com^
 ||nfpxrhlnxtbpx.space^
 ||nfqlihferbg.com^
 ||nfrdibffgpxoy.website^
+||nfrluoaxmt.com^
 ||nfs8nsaf.xyz^
 ||nftqcoenbehqu.online^
 ||nfvetkycvdkaw.life^
@@ -47796,6 +47800,7 @@ vkcdnservice.appspot.com^
 ||uwxvfjcaoo.com^
 ||uwzmopxbdtrnj.site^
 ||ux2y7ue3hhueyt6h.cfd^
+||ux3g1wivcklvno.cfd^
 ||uxahhowennlqf.website^
 ||uxazhgibyblus.store^
 ||uxbn3li3zzl7b32u.rest^
@@ -50372,6 +50377,7 @@ vkcdnservice.appspot.com^
 ||whitenshektare.qpon^
 ||whitepark9.com^
 ||whitepinaforesho.org^
+||whiterlakersyamamai.cfd^
 ||whittawbobs.cyou^
 ||whizzerrapiner.com^
 ||whizzertattie.cyou^
