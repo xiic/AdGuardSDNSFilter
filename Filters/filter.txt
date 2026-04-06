@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-06T10:24:09.824Z
+! Last modified: 2026-04-06T12:16:25.751Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1095,6 +1095,7 @@ vkcdnservice.appspot.com^
 ||6d1e5b5068.com^
 ||6drq9rfn.xyz^
 ||6e1lrctyjjne7nrvy25zwfbigoqw5c4.rest^
+||6e4hoe355t17yt2vm2uxlwbrxyrr.cfd^
 ||6e64d84de7.com^
 ||6e67e233a2.com^
 ||6e76b83826.com^
@@ -3264,6 +3265,7 @@ vkcdnservice.appspot.com^
 ||aqtetrwhcthre.website^
 ||aqtfdkdczwtvs.online^
 ||aquentlytujim.com^
+||aqxtxxve.com^
 ||aqyjxxdpmllqs.online^
 ||aqylkpualqlgr.website^
 ||arabainvsleer.qpon^
@@ -8395,6 +8397,7 @@ vkcdnservice.appspot.com^
 ||darninggease.qpon^
 ||darnobedienceupscale.com^
 ||darrgleetediniomi.qpon^
+||dartoidfummleattic.qpon^
 ||darwinpoliticslonger.com^
 ||dasensiblem.org^
 ||dasesiumwor.org^
@@ -19432,6 +19435,7 @@ vkcdnservice.appspot.com^
 ||imperiimajo.help^
 ||impersonalsix.com^
 ||impertinencefiddledeplore.com^
+||imperturbable-affair.pro^
 ||imperturbable-article.pro^
 ||impetretangosuncool.cfd^
 ||impetuousseatspeck.com^
@@ -21181,6 +21185,7 @@ vkcdnservice.appspot.com^
 ||jinjapromiss.cyou^
 ||jinjililotah.cyou^
 ||jinklecarted.help^
+||jinkmonip.in^
 ||jinneenunnify.com^
 ||jinniespottagy.com^
 ||jinupfolds.cfd^
@@ -24728,6 +24733,7 @@ vkcdnservice.appspot.com^
 ||liwmwijpufa.com^
 ||lixstownrusisedpriv.org^
 ||liyzeqeyezorg.online^
+||lizardvibrateencumbrance.com^
 ||lizebruisiaculture.com^
 ||ljayfabggjyvc.website^
 ||ljbiynvyhfteq.rocks^
@@ -25791,6 +25797,7 @@ vkcdnservice.appspot.com^
 ||lywuyxazjxmbt.site^
 ||lyxhtclsusbiv.online^
 ||lyxmggmkoksgc.website^
+||lyxx864xku5j69nn7zirehv8mvqg.rest^
 ||lyxyfqyodqi.com^
 ||lyyyrqwnlyedjp.xyz^
 ||lyyyupftoqfoz.site^
@@ -33986,6 +33993,7 @@ vkcdnservice.appspot.com^
 ||pluvianuruguay.com^
 ||pluxpdzouwubj.space^
 ||plxduievuehvu.website^
+||plxfiacmbklhsk.com^
 ||plxibyjobzgfn.site^
 ||plxpubyxarcjl.space^
 ||plxrafpdsvxyu.website^
@@ -43190,6 +43198,7 @@ vkcdnservice.appspot.com^
 ||suinglyvinas.cyou^
 ||suionestalcher.help^
 ||suipqsqihrccz.online^
+||suistoopsstummed.cyou^
 ||suistsejero.qpon^
 ||suitablecondemntin.com^
 ||suitedeatercrutch.com^
@@ -51322,6 +51331,7 @@ vkcdnservice.appspot.com^
 ||wqjregsni.net^
 ||wqkjeoqjzmmyo.online^
 ||wqkptgmrlkkel.online^
+||wqmkcrtdavghe.com^
 ||wqmnbjmb.com^
 ||wqmnhaxnmdvdu.space^
 ||wqmnnnsigesgf.online^
@@ -62874,6 +62884,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||log.qrscanner.live^
 ||stats.sdk.banuba.net^
 ||report.duetapp.net^
 ||logretrieve.duetapp.net^
