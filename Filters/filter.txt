@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-06T03:03:32.049Z
+! Last modified: 2026-04-06T04:56:12.414Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1204,6 +1204,7 @@ vkcdnservice.appspot.com^
 ||7pe59uixcyqevun3f73i8f5.rest^
 ||7tg9vr9pjloq5nl.rest^
 ||7v6gvx5b5ywlu289zh.cfd^
+||7vf2llmkf59tl38o4ongf1c7.rest^
 ||7yormczmtp3owb3lf6lkk8y5ewovl4387i.rest^
 ||7zvhi46y.xyz^
 ||800482112b.com^
@@ -6201,6 +6202,7 @@ vkcdnservice.appspot.com^
 ||caxxkemip.in^
 ||cayargyllscajoles.cyou^
 ||cayugashuntley.cyou^
+||cb3a316b81.com^
 ||cba-fed-igh.com^
 ||cbbhhuscjxgph.site^
 ||cbce918a9d.com^
@@ -10373,6 +10375,7 @@ vkcdnservice.appspot.com^
 ||ehmgtreajjlof.site^
 ||ehmnmovcnwkyb.website^
 ||ehottpiwno.com^
+||ehpsyxxb.com^
 ||ehrydnmdoe.com^
 ||ehtkfjhrozkeu.website^
 ||ehuhefrrpqjgp.website^
@@ -13167,6 +13170,7 @@ vkcdnservice.appspot.com^
 ||fofauctddfpfo.website^
 ||foflf.com^
 ||foflib.org^
+||foforoce.com^
 ||fogeyssinopieofflet.cyou^
 ||foggageskaff.com^
 ||foggiergriper.cyou^
@@ -21724,6 +21728,7 @@ vkcdnservice.appspot.com^
 ||jtoowfdiszpo.in^
 ||jtopudllmvejj.website^
 ||jtq11p728xo57jqf9e.cfd^
+||jtrcfvko.com^
 ||jtren.site^
 ||jtrmkaiggvcjg.website^
 ||jtsdwxfoxeyhk.space^
@@ -22565,6 +22570,7 @@ vkcdnservice.appspot.com^
 ||khaxcgvusdd.com^
 ||khaxjxevsnigs.space^
 ||khazarardeliorewards.cyou^
+||khazensmurksrevives.qpon^
 ||khbgpgyoneegd.website^
 ||khcenayroisqp.store^
 ||khdiamondcdn.space^
@@ -36808,6 +36814,7 @@ vkcdnservice.appspot.com^
 ||qxbkmxojrqwkb.online^
 ||qxbnwjowhzlwz.online^
 ||qxbvqxqqo5rkhh.cfd^
+||qxc4ftk638jznzliyxb6offlh.cfd^
 ||qxcbylbesbwll.xyz^
 ||qxdownload.com^
 ||qxewl7bmn9pup6135hzqmlb3w7hvey1o35g.cfd^
@@ -41830,6 +41837,7 @@ vkcdnservice.appspot.com^
 ||solarcyclonesky.com^
 ||solariacorycia.qpon^
 ||solarmosa.com^
+||solatedhummusdingee.cyou^
 ||solddewrot.cyou^
 ||soldotensing.cyou^
 ||solelyskirtniche.com^
@@ -44355,6 +44363,7 @@ vkcdnservice.appspot.com^
 ||tfla.xyz^
 ||tflurbzcqgpii.website^
 ||tfmrnyntq.com^
+||tfnbbnmx.com^
 ||tfnvuckb.pro^
 ||tfomxpkyvdzyi.space^
 ||tfosrv.com^
@@ -59422,6 +59431,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||static-rmr.reworldmediafactory.com^
+||cca-lite.coinbase.com^
 ||roas-service.store-services-prod.remarkable.com^
 ||umami.syg.ma^
 ||event.dxmdp.com^
@@ -68964,6 +68975,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||roomgome.com^
 ||gjv7fg.ru^
 ||veyszc.com^
 ||spdcdnmpg.com^
@@ -71423,7 +71435,6 @@ dlsdk.appsflyer.com^
 ||shilongnianlopa.com^
 ||fsuooh.cc^
 ||hsehk.cn^
-||upload.xchina.io^
 ||fancyapi.com^
 ||fancydsp.com^
 ||puata.info^
