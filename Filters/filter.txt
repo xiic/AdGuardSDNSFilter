@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-06T22:09:31.620Z
+! Last modified: 2026-04-07T00:22:33.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -776,6 +776,7 @@ vkcdnservice.appspot.com^
 ||303marketplace.com^
 ||307i6i7do.de^
 ||30986g8ab.de^
+||30c774812d.com^
 ||30d5shnjq.de^
 ||30dcf.com^
 ||30hccor10.de^
@@ -1423,6 +1424,7 @@ vkcdnservice.appspot.com^
 ||aabjyjjphdwmb.site^
 ||aabsgiofdhywj.site^
 ||aada35c15f.com^
+||aaepxuhskufsii.com^
 ||aafcwvjpryevi.online^
 ||aafdcq.com^
 ||aagldlagh.com^
@@ -3045,6 +3047,7 @@ vkcdnservice.appspot.com^
 ||anotoenprmmen.space^
 ||anottocranks.cyou^
 ||anouryarak.cyou^
+||anqzpoxzaaqg.in^
 ||anrfvqiycrybr.store^
 ||ansionscor.com^
 ||ansnxnkxsagnp.website^
@@ -3326,6 +3329,7 @@ vkcdnservice.appspot.com^
 ||argyriapensil.qpon^
 ||argyricraiser.cyou^
 ||aribhndocwhwn.website^
+||aribo.xyz^
 ||aricinohia.qpon^
 ||arid-management.pro^
 ||arid-smell.pro^
@@ -7591,6 +7595,7 @@ vkcdnservice.appspot.com^
 ||corruptionburlylawsuit.com^
 ||corsakbenami.qpon^
 ||corseclerk.com^
+||corucotarnalcuca.cfd^
 ||corulerkedgekerning.cyou^
 ||coryphthrifty.qpon^
 ||cosetengarb.com^
@@ -14042,6 +14047,7 @@ vkcdnservice.appspot.com^
 ||fuzilsstorage.cyou^
 ||fuzzingfarding.shop^
 ||fuzzy-witness.pro^
+||fv4jzgvhzj5wgt6xnn4.rest^
 ||fvahbwnlcqvaf.site^
 ||fvainjetmzyqi.online^
 ||fvaslplblqgzc.online^
@@ -22768,6 +22774,7 @@ vkcdnservice.appspot.com^
 ||kivnebwejssep.site^
 ||kiwaidoubt.cyou^
 ||kiweegraulree.net^
+||kiwfewsgypewbp.com^
 ||kiwhopoardeg.net^
 ||kixestalsie.net^
 ||kiyala.uno^
@@ -22995,6 +23002,7 @@ vkcdnservice.appspot.com^
 ||knifepierce.com^
 ||knifingundight.cyou^
 ||knishquirtedgumweed.cfd^
+||knishtwinnedtoyless.qpon^
 ||knitsaicehalerz.cyou^
 ||knitsaphakia.cyou^
 ||knitsclaretrugger.cyou^
@@ -28797,6 +28805,7 @@ vkcdnservice.appspot.com^
 ||ncpxxeqcnifnur.com^
 ||ncqfppkwczjal.site^
 ||ncqhgmxnpywal.website^
+||ncqtxzmuffxiwk.cfd^
 ||ncqzyyjhjjoak.site^
 ||ncszswtpaguzr.online^
 ||nctskfaizblyq.space^
@@ -36619,6 +36628,7 @@ vkcdnservice.appspot.com^
 ||qtrkqylpsmkat.online^
 ||qttktsllqbnpx.online^
 ||qttkyxopotgkk.site^
+||qtunfmawyv.com^
 ||qtutulebptizh.website^
 ||qtvimspxpee.com^
 ||qtvjpisthvezx.website^
@@ -40424,6 +40434,7 @@ vkcdnservice.appspot.com^
 ||segreencolumn.com^
 ||segyahsnruois.website^
 ||segyygsxsvbrt.space^
+||sehdunhkrcdmnuh.com^
 ||sehjwenicsjrc.site^
 ||sehklykanvscl.site^
 ||sehlicegxy.com^
@@ -78758,6 +78769,13 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||gkryjuqq3.com^
+||biuisz9ss.com^
+||kd5anwumy.com^
+||vsjalz.icu^
+||tigfvdr.com^
+||pebfvv.icu^
+||solicitor44.com^
 ||xnemz1rc5j.com^
 ||aeonoizq67.com^
 ||gchk5bcnaz.com^
