@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-09T03:02:45.238Z
+! Last modified: 2026-04-09T04:46:56.700Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2509,6 +2509,7 @@ vkcdnservice.appspot.com^
 ||agroofleister.shop^
 ||agtdrohiboc.com^
 ||aguishcoecal.cyou^
+||aguishsleechybronzen.cyou^
 ||agurgeed.net^
 ||agwagnfaqtc.in^
 ||agwqcitclxjjk.online^
@@ -4286,6 +4287,7 @@ vkcdnservice.appspot.com^
 ||bawosdwu.com^
 ||bawqpynu.com^
 ||bawrelunbold.qpon^
+||bawtiediwatavalour.cfd^
 ||bayamostem.qpon^
 ||bayardagleafgallons.cyou^
 ||baycuruik.com^
@@ -4898,6 +4900,7 @@ vkcdnservice.appspot.com^
 ||bjdgzffnutlqs.site^
 ||bjdsmnjybmjdl.site^
 ||bjgjunljwykym.space^
+||bjifvwduqly.com^
 ||bjjky.cfd^
 ||bjlsvzikxpjxq.space^
 ||bjosagrorlhga.space^
@@ -12156,6 +12159,7 @@ vkcdnservice.appspot.com^
 ||fhbkmbrcnejqrar.com^
 ||fhgdtphvguxll.website^
 ||fhgh9sd.com^
+||fhgxbfys.com^
 ||fhhteiaunxbvp.online^
 ||fhiulnbk.cam^
 ||fhjhcrmwbgvkz.website^
@@ -14974,6 +14978,7 @@ vkcdnservice.appspot.com^
 ||hdeapukntskyp.online^
 ||hdepvpjxbnqnr.space^
 ||hdfnsoytorpam.click^
+||hdgcxtfiqsiqo.com^
 ||hdggrhgzgptxg.site^
 ||hdkokhzvalbxn.tech^
 ||hdmxutcrtereb.online^
@@ -25994,6 +25999,7 @@ vkcdnservice.appspot.com^
 ||mtypitea.net^
 ||mtyrltifpzwzb.online^
 ||mtyxmamrsjxyr.space^
+||mu5bfngkp9lwjtnxyvirk5.cfd^
 ||mu9qgorqvxl8hm64.cfd^
 ||muanadalow.xyz^
 ||mubkemxsr.net^
@@ -27204,6 +27210,7 @@ vkcdnservice.appspot.com^
 ||niizcmfjrykzm.space^
 ||nijanghwya.com^
 ||nijaultuweftie.net^
+||nijb9qx6bhq3e8kq87fg4n5.rest^
 ||nijduoiqnmguq.space^
 ||nijlqrhkarnbq.online^
 ||nijpglvmuzmkl.space^
@@ -49332,6 +49339,7 @@ vkcdnservice.appspot.com^
 ||wonderblockoffer.com^
 ||wonderful-sector.pro^
 ||wonderfulborder.com^
+||wonderfulsafety.pro^
 ||wonderingtipmortify.com^
 ||wonderingtraverse.com^
 ||wongararebs.help^
@@ -56713,6 +56721,7 @@ vkcdnservice.appspot.com^
 ||my.007moms.com^
 ||n.clips4sale.com^
 ||n2.clips4sale.com^
+||nakedly.ai^
 ||new.plus-eromanga.com^
 ||partner.loveplanet.ru^
 ||pcash.imlive.com^
