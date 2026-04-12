@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-12T06:31:28.857Z
+! Last modified: 2026-04-12T08:16:43.526Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4514,6 +4514,7 @@ vkcdnservice.appspot.com^
 ||befhphijjpvng.space^
 ||befhzmscrrrjr.website^
 ||befirstcdn.com^
+||beflearappergobbets.cyou^
 ||beflumreown.qpon^
 ||befriendapproveflannel.com^
 ||befuinonmjfpe.online^
@@ -22349,6 +22350,7 @@ vkcdnservice.appspot.com^
 ||lbrceeuashhas.net^
 ||lbrfowmhjnosf.site^
 ||lbriuwxypjr.com^
+||lbsdxpyiuukooy.com^
 ||lbszsbzuupnoe.online^
 ||lbumpethohbsp.online^
 ||lbwdyjxdrzmia.online^
@@ -25268,6 +25270,7 @@ vkcdnservice.appspot.com^
 ||mgucbdhsjjnni.site^
 ||mgujumljajzgt.store^
 ||mguxmveyfwdyo.space^
+||mgvfsxykybhze.site^
 ||mgwawoyupykxh.online^
 ||mgwxgxnpmzcqa.website^
 ||mgx7befpnqvwhtzlgk.cfd^
@@ -37130,6 +37133,7 @@ vkcdnservice.appspot.com^
 ||ringeddrama.com^
 ||ringersidewaysapiece.com^
 ||ringtonepartner.com^
+||rinmasrfyq.in^
 ||rinqgwqhyxozh.website^
 ||rinryesopertyva.org^
 ||rinsersdooket.cfd^
@@ -37158,6 +37162,7 @@ vkcdnservice.appspot.com^
 ||rirrydpcnfxvj.website^
 ||rirteelraibsou.net^
 ||risemiddleagedmart.com^
+||risertaigleliangle.qpon^
 ||risingestrange.com^
 ||risingexileshuavean.cfd^
 ||risingshadewhite.com^
@@ -38259,6 +38264,7 @@ vkcdnservice.appspot.com^
 ||ryujsqssracyc.space^
 ||ryuxgxjnojxwi.space^
 ||rywlnwjqyurzo.site^
+||rywxjwoialii.com^
 ||ryyfqjjvctknm.site^
 ||ryztztusmngvy.site^
 ||ryzxjxtttxpfr.com^
@@ -40501,6 +40507,7 @@ vkcdnservice.appspot.com^
 ||snackimmovabletrinity.com^
 ||snackteepatron.com^
 ||snackyriving.cyou^
+||snaeyjnavvojo.online^
 ||snafuufos.com^
 ||snaglighter.com^
 ||snailammoniabees.com^
@@ -41238,6 +41245,7 @@ vkcdnservice.appspot.com^
 ||sqlcbvoesbeut.online^
 ||sqlhmunt.com^
 ||sqlick.com^
+||sqlpstudbu.com^
 ||sqmflktsfxqvf.site^
 ||sqowxfenvwht.com^
 ||sqpcjfvdgnemlhf.net^
@@ -45211,6 +45219,7 @@ vkcdnservice.appspot.com^
 ||txgpgszrhedyl.online^
 ||txgtadnmmwwte.space^
 ||txgupjxzbxvsx.online^
+||txjgnbljkekft.space^
 ||txjjuoxttdlhl.store^
 ||txljgipkkispw.space^
 ||txmzgt912ujx47rkqu2g352h1.cfd^
@@ -45320,6 +45329,7 @@ vkcdnservice.appspot.com^
 ||tzpwmpvsjzikk.online^
 ||tzpyzqycmyoev.space^
 ||tzqdeqmlxhinp.site^
+||tzqgwxfgruelq.website^
 ||tzr7llm7w7z5z95b.rest^
 ||tzremprgecyje.website^
 ||tzsxqxxjvzfeq.one^
@@ -47821,6 +47831,7 @@ vkcdnservice.appspot.com^
 ||viglaumeedaivou.net^
 ||vigorous-average.com^
 ||vigorous-rush.com^
+||vigswobchob.com^
 ||viguuhkxiyqpl.website^
 ||vihdpafpumfo.in^
 ||vihouxoacexoorg.net^
@@ -48340,6 +48351,7 @@ vkcdnservice.appspot.com^
 ||vpnonly.site^
 ||vpolcpapvcsvv.space^
 ||vppohexv.net^
+||vpptotruslsot.space^
 ||vpqppkcoszupa.site^
 ||vprecdcggkrtz.site^
 ||vprtrfc.com^
@@ -48355,6 +48367,7 @@ vkcdnservice.appspot.com^
 ||vpvyiarljvpbu.space^
 ||vpxwtwxoeuxtc.space^
 ||vpxzunvaldxcp.world^
+||vpyahznkwoqjm.space^
 ||vpzdnfciapiux.online^
 ||vpzefxpnlekyq.online^
 ||vq252c839uqn3lg4feijqry.rest^
@@ -52124,6 +52137,7 @@ vkcdnservice.appspot.com^
 ||yeygjuirsbzhz.online^
 ||yeyrfezafeycj.online^
 ||yeyswxtehnave.site^
+||yezcqtumbsklw.website^
 ||yf6c7kngfclolqzrkk8.cfd^
 ||yf9pkk1q.com^
 ||yfaagzkhqcjxm.site^
@@ -52406,6 +52420,7 @@ vkcdnservice.appspot.com^
 ||ymandardaircl.com^
 ||ymazkrkieaujq.online^
 ||ymcflloytltvc.online^
+||ymcyedebhrdxy.online^
 ||ymdqjgiecsdds.website^
 ||ymehnthakutyfor.com^
 ||ymesagmvlgiuo.website^
