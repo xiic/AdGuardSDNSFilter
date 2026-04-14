@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-14T14:34:32.737Z
+! Last modified: 2026-04-14T16:24:46.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -865,6 +865,7 @@ vkcdnservice.appspot.com^
 ||3g25ko2.de^
 ||3gbqdci2.de^
 ||3h4kbg94rje5kc9i6h3lo9nmfrqg8k.rest^
+||3i1fubo4rk1woglryxk4.rest^
 ||3ibqrcbuimvxm7buqzq3m5vnob.rest^
 ||3iynb949cfrurtvhvm6gf59.cfd^
 ||3izfyv59y313j6x83elfgy9zu16.rest^
@@ -4201,6 +4202,7 @@ vkcdnservice.appspot.com^
 ||baeizhplymdyc.site^
 ||baetuliwarpers.cyou^
 ||baf3838b31.com^
+||bafkhkxbdsdwe.space^
 ||bafyiwdcpkbkk.online^
 ||baggageconservationcaught.com^
 ||baggagedresden.qpon^
@@ -5051,6 +5053,7 @@ vkcdnservice.appspot.com^
 ||bkgljnppwxjat.icu^
 ||bkgzynoggdslv.website^
 ||bkijujawkswpp.online^
+||bkiyiuvgmdjsl.space^
 ||bkjblyuukoavf.site^
 ||bkjcspqtrlafh.online^
 ||bkjgqyasbalgk.website^
@@ -7003,6 +7006,7 @@ vkcdnservice.appspot.com^
 ||chzhqwirsxmad.online^
 ||chzowqzedjocl.space^
 ||ciaankzzhmcrz.click^
+||cibctjgdc.com^
 ||cibhmyowgsmpa.store^
 ||cibolarenable.shop^
 ||cicamica.xyz^
@@ -7501,6 +7505,7 @@ vkcdnservice.appspot.com^
 ||coilapprobationbyword.com^
 ||coinad.media^
 ||coinadster.com^
+||coinerstenailchekhov.qpon^
 ||coinverti.com^
 ||cojoinfinless.qpon^
 ||colanbalkily.com^
@@ -15474,6 +15479,7 @@ vkcdnservice.appspot.com^
 ||hclcvthefqyac.space^
 ||hclmnarlsmleo.site^
 ||hcntfxihubqde.website^
+||hcrhbcthoefdk.online^
 ||hcrnnaiugczae.website^
 ||hcsbbnilecce.com^
 ||hcsxzwdtmqpip.website^
@@ -19694,6 +19700,7 @@ vkcdnservice.appspot.com^
 ||jiczbxbmtefhk.store^
 ||jidftzbqrjaqr.site^
 ||jiehsiazrrkql.site^
+||jiezxihovoczs.website^
 ||jifflebreasts.com^
 ||jiggetysoapery.help^
 ||jigglerweeper.shop^
@@ -20353,6 +20360,7 @@ vkcdnservice.appspot.com^
 ||judicialimpatientgenerator.com^
 ||judicialphilosophical.com^
 ||judicialreaphealth.com^
+||judicious-analyst.pro^
 ||judiciousbarnacle.com^
 ||judsaiftool.net^
 ||judvl.org^
@@ -23027,6 +23035,7 @@ vkcdnservice.appspot.com^
 ||lgglnedyuhmgk.site^
 ||lghgaxoegjywd.website^
 ||lghjjjwnxrpjq.space^
+||lgidoqcabrwia.website^
 ||lgiwoxapambgm.site^
 ||lgiwpeqvbksng.website^
 ||lgjdmglqloopu.space^
@@ -26762,6 +26771,7 @@ vkcdnservice.appspot.com^
 ||mttxsoxkkmowj.online^
 ||mtuqqwbromboy.today^
 ||mtuvgvllqorbu.online^
+||mtuwwgqawhbtj.online^
 ||mtuyddahzbvcr.online^
 ||mtvatglepglbz.site^
 ||mtwjnfdyvtdan.site^
@@ -31636,6 +31646,7 @@ vkcdnservice.appspot.com^
 ||patacajabia.com^
 ||patakaendymal.top^
 ||patapatankhweevers.qpon^
+||patartnitchbuccal.cfd^
 ||patcans.club^
 ||patchportlyparking.com^
 ||patelemeutes.qpon^
@@ -31829,6 +31840,7 @@ vkcdnservice.appspot.com^
 ||pdhkjnndwzwys.site^
 ||pdhsturqsejda.space^
 ||pdhwgryymgvyr.website^
+||pdhwtpkczpbmq.space^
 ||pdiiclqzeglig.site^
 ||pditfcqewnobw.site^
 ||pdjbkuevogfks.online^
@@ -34828,6 +34840,7 @@ vkcdnservice.appspot.com^
 ||pzwzitvbdhpiw.website^
 ||pzxehtylqhcit.site^
 ||pzxjjwbdvxxbi.store^
+||pzxtecnivibhe.site^
 ||pzyoijuqnkyol.site^
 ||pzyqjzxenxjop.website^
 ||q1bq3hh8yi5zw98p73ejqr.cfd^
@@ -52561,6 +52574,7 @@ vkcdnservice.appspot.com^
 ||ybtevzivkqolm.website^
 ||ybtyvbzvxpvex.store^
 ||ybvcxmqpgtdyd.store^
+||ybvjmvgytdfgbef.com^
 ||ybxcriupsagoz.online^
 ||ybycgilqhqyib.website^
 ||ybyjbuzjanfdd.space^
@@ -54499,6 +54513,7 @@ vkcdnservice.appspot.com^
 ||zvypqoedujvod.website^
 ||zvzmzrawlvryj.top^
 ||zvzpzkqquxasw.store^
+||zw4b72rev9452znmtl4p9.cfd^
 ||zw7kvifj268tmhfgp6.cfd^
 ||zwaar.net^
 ||zwcmwvklhkfhh.website^
@@ -58478,6 +58493,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||bidder.a11.vega.aurion11.io^
 ||adapi*.boomplaymusic.com^
 ||ad-api.revoaidapp.com^
 ||mmp-api.itpub.cloud^
@@ -62665,6 +62681,9 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||rakam-api.aptoide.com^
+||diagnostics.rakam.io^
+||tracker.a11.vega.aurion11.io^
 ||aptoide-rtb.aptoide.com^
 ||qbk1.com^
 ||log*.boomplaymusic.com^
@@ -64735,6 +64754,7 @@ dlsdk.appsflyer.com^
 ||tracker.jkstremum.xyz^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
+||tracker.metricool.com^
 ||tracker.mrpfd.com^
 ||tracker.myyschool.xyz^
 ||tracker.nocodelytics.com^
@@ -72497,7 +72517,6 @@ dlsdk.appsflyer.com^
 ||track.postkodlotteriet.se^
 ||track.uniqodo.com^
 ||track.yetric.net^
-||tracker.metricool.com^
 ||tracker.kollega.open-analytics.se^
 ||tracker.kulturradet.open-analytics.se^
 ||tracker.lakemedelsverket.open-analytics.se^
