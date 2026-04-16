@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-16T03:03:47.530Z
+! Last modified: 2026-04-16T05:00:28.340Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4177,6 +4177,7 @@ vkcdnservice.appspot.com^
 ||b681514051.com^
 ||b69b92742d.com^
 ||b6c9c4cf28.com^
+||b6p953l3ziizb9wu86.rest^
 ||b70a8e5392.com^
 ||b7360c81c8.com^
 ||b7510.com^
@@ -4690,6 +4691,7 @@ vkcdnservice.appspot.com^
 ||beneficial-airport.pro^
 ||beneficial-shape.com^
 ||benevolencecompromisefaint.com^
+||benhfayzmltdk.website^
 ||benignvaunter.cfd^
 ||beniluuxen.com^
 ||benjoinshipt.cfd^
@@ -5914,6 +5916,7 @@ vkcdnservice.appspot.com^
 ||btnspihedggvk.website^
 ||btoetwervetat.space^
 ||btowerexkphfu.site^
+||btpopoogrnqvj.site^
 ||btprmnav.com^
 ||btqigbjmutmyw.website^
 ||btrlvukwtlqyc.site^
@@ -7287,6 +7290,7 @@ vkcdnservice.appspot.com^
 ||clerrrep.com^
 ||cleukruddiedcoles.cfd^
 ||clevernt.com^
+||cleverunjuicysolein.cyou^
 ||cleverwebserver.com^
 ||clhxzrqdatxqm.store^
 ||clicadu.com^
@@ -8832,6 +8836,7 @@ vkcdnservice.appspot.com^
 ||dajlkipw.in^
 ||dajwaqcwyov.in^
 ||dakafxgnqcpmm.website^
+||dakmrvrmffvtq.com^
 ||dakoitsredlegsfrankly.cyou^
 ||dalbfocvqrmnn.space^
 ||dalecta.com^
@@ -8966,6 +8971,7 @@ vkcdnservice.appspot.com^
 ||daughtersvariedfalse.com^
 ||dauntskaty.cyou^
 ||daupddqkowvr.com^
+||davsvyxvhsled.online^
 ||dawac.com^
 ||daweantsy.shop^
 ||dawedmdnt.com^
@@ -17445,6 +17451,7 @@ vkcdnservice.appspot.com^
 ||ibidemkorari.com^
 ||ibikini.cyou^
 ||ibirzxqcljqxw.site^
+||ibjcwqwfbgtmt.space^
 ||ibkdhfyogesgc.online^
 ||ibktikewqhktw.site^
 ||iblcsjmyygfmc.website^
@@ -21775,6 +21782,7 @@ vkcdnservice.appspot.com^
 ||kneelspunkahpelt.cyou^
 ||kneesstrictforthcoming.com^
 ||kneestolerableadulthood.com^
+||kneexbabmm.com^
 ||knellspinrail.cyou^
 ||kneoumuxotvax.online^
 ||kneovsyrwrcub.online^
@@ -27852,6 +27860,7 @@ vkcdnservice.appspot.com^
 ||ndxuqzagvfxda.space^
 ||ndysegyffoixr.com^
 ||ndzorzxbsmyld.website^
+||ne13bqiggect4n8u6.cfd^
 ||neads.delivery^
 ||neareststokergrating.com^
 ||nearestworkagitation.com^
@@ -29949,6 +29958,7 @@ vkcdnservice.appspot.com^
 ||ogpnpauyoknvc.online^
 ||ogpoutful.cyou^
 ||ogpriuleifns.com^
+||ogpzwntwkuwyr.space^
 ||ogqbkcfyvycna.space^
 ||ogqmnxvsimiol.online^
 ||ogrepsougie.net^
@@ -43810,6 +43820,7 @@ vkcdnservice.appspot.com^
 ||tcwgmjsjgtsrm.space^
 ||tcxjkoekoqvkj.website^
 ||tcxoatcplzqai.website^
+||tczivdxelrnjk.site^
 ||td5xffxsx4.com^
 ||tdbcctiulenif.site^
 ||tdbvqojmutjqt.website^
@@ -44173,6 +44184,7 @@ vkcdnservice.appspot.com^
 ||tgtbehoofbald.cyou^
 ||tgtontbctdvfx.site^
 ||tguyxzkrxgzqt.online^
+||tgvhuszjhgpdz.space^
 ||tgvotkmiszagu.site^
 ||tgwcft3t2cyjw8q.cfd^
 ||tgwjtefhjqj.com^
@@ -45478,6 +45490,7 @@ vkcdnservice.appspot.com^
 ||tripl3a.com^
 ||tripledeliveryinstance.com^
 ||triplerbeulah.cyou^
+||tripletmiasevery.qpon^
 ||triplumpolymny.com^
 ||tripodyeyne.qpon^
 ||tripoliviolin.qpon^
@@ -49298,6 +49311,7 @@ vkcdnservice.appspot.com^
 ||vpuonpcwtjgwe.online^
 ||vpvbqvsnhjevgf.com^
 ||vpvyiarljvpbu.space^
+||vpxfmraxtbgsea.com^
 ||vpxwtwxoeuxtc.space^
 ||vpxzunvaldxcp.world^
 ||vpyahznkwoqjm.space^
@@ -52275,6 +52289,7 @@ vkcdnservice.appspot.com^
 ||xlrvkqeasdijx.space^
 ||xlsfswiaqcrxc.xyz^
 ||xltdqkwaamxgg.website^
+||xltpomtlmps.com^
 ||xlujbmaahnwxj.space^
 ||xlvhafsuujcmu.online^
 ||xlviiirdr.com^
@@ -78973,6 +78988,11 @@ dlsdk.appsflyer.com^
 ||6zc7gvmavf.com^
 ||49o4m4a5eo.com^
 ||tmkfjbitxzlhijfcenxe.top^
+||vsbdvf.icu^
+||bgjylr.icu^
+||ewekeoqn.com^
+||rlduhmakdm.com^
+||cjb6nr5csu.com^
 ||mip37c9nf.com^
 ||yehrrtjop.com^
 ||nly9u12pi.com^
