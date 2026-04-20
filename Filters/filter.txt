@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-20T03:03:38.596Z
+! Last modified: 2026-04-20T05:02:31.126Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||advertising.civitai.
 ||iwad.cachefly.net^
 ||ad-server.linkvertise.com^
 ||cdn.advertiser.linkvertise.com^
@@ -1221,6 +1222,7 @@ vkcdnservice.appspot.com^
 ||77faf458f4.com^
 ||77whjt76yzzplf76yewc.cfd^
 ||782c161d89.com^
+||7837n19n54j8p6iv.rest^
 ||784d1dcf4a.com^
 ||788eaddaac.com^
 ||78bk5iji.de^
@@ -1307,6 +1309,7 @@ vkcdnservice.appspot.com^
 ||86a988b20f.com^
 ||86fef27c8b.com^
 ||86gx67fyk372pl9.rest^
+||86hhiuu88n3rpqmhlolf2bzu.cfd^
 ||86hi9r4f.xyz^
 ||86pjokx7vklxqp5iug2o.cfd^
 ||876i7innill48m.rest^
@@ -5301,6 +5304,7 @@ vkcdnservice.appspot.com^
 ||blhqhjahywdj.com^
 ||bliautscarps.com^
 ||blicatedlitytleme.org^
+||blickywharveswaregga.cyou^
 ||bliesthogmane.com^
 ||blind-trip.pro^
 ||blindpass.pro^
@@ -15481,6 +15485,7 @@ vkcdnservice.appspot.com^
 ||gtajkaabrfk.in^
 ||gtaraqwumdw.in^
 ||gtbbgjo.art^
+||gtbcldmurdkue.space^
 ||gtbdhr.com^
 ||gtbvzopahlyts.website^
 ||gtckpcojjuogp.space^
@@ -16454,6 +16459,7 @@ vkcdnservice.appspot.com^
 ||hjtpbyachgtvu.online^
 ||hjuapkyglczhp.site^
 ||hjuoayhvraknxds.com^
+||hjvrvnkvxkvpj.com^
 ||hjwqvivxoymvw.site^
 ||hjxajf.com^
 ||hjyxogxnulppy.site^
@@ -17491,6 +17497,7 @@ vkcdnservice.appspot.com^
 ||ijmrqatwfuemc.website^
 ||ijoresinning.cfd^
 ||ijowtoqajiabi.site^
+||ijphbqheznclp.online^
 ||ijrwnraxzimhg.online^
 ||ijry3teb9u2pmcx2gfp4oq.rest^
 ||ijucmzrifdaba.online^
@@ -20493,6 +20500,7 @@ vkcdnservice.appspot.com^
 ||kzoixqlmnwtjg.space^
 ||kzouzvisztpxs.site^
 ||kzqjctpvdjmwc.store^
+||kzrbvjxvulnho.website^
 ||kzslzfuvnrmxz.online^
 ||kzt2afc1rp52.com^
 ||kzu2lzp3ylel51it.rest^
@@ -21006,6 +21014,7 @@ vkcdnservice.appspot.com^
 ||lgllejevhxigd.website^
 ||lglvpblubkfgd.site^
 ||lglxxxadsjocm.website^
+||lgoaagbsnpbqw.website^
 ||lgojugcksyjer.website^
 ||lgotesxv.com^
 ||lgqidmkpriiix.online^
@@ -23185,6 +23194,7 @@ vkcdnservice.appspot.com^
 ||moist-mood.pro^
 ||moistenmanoc.com^
 ||moistlandscape.pro^
+||moistpinch.com^
 ||moisturelibellous.com^
 ||moistureretrievalnorm.com^
 ||moistword.com^
@@ -24874,6 +24884,7 @@ vkcdnservice.appspot.com^
 ||nrqveiycgotkw.online^
 ||nrrofvqgzprnb.space^
 ||nrs6ffl9w.com^
+||nrwxvgpgjwbvk.site^
 ||nrxmbbhpevxji.site^
 ||nryfifdmpeotb.site^
 ||nrynlpardmwnm.space^
@@ -29970,6 +29981,7 @@ vkcdnservice.appspot.com^
 ||pursuedcovering.com^
 ||pursuingconjunction.com^
 ||pursuitsheaved.help^
+||purtygoudy.com^
 ||purukanjis.cyou^
 ||purviewrubbisy.cfd^
 ||puseqbbpfngaf.site^
@@ -31456,6 +31468,7 @@ vkcdnservice.appspot.com^
 ||qyxlypmuckbsw.online^
 ||qyxnhaaeykhte.site^
 ||qyxqrwpxdvtzy.space^
+||qyyktnaecjsey.online^
 ||qz-hjgrdqih.fun^
 ||qz496amxfh87mst.com^
 ||qzaijhdclqlfg.site^
@@ -38903,6 +38916,7 @@ vkcdnservice.appspot.com^
 ||tapistleech.cfd^
 ||tapitmandaterull.qpon^
 ||tapjoyads.com^
+||tapoabal.com^
 ||taposaupbend.com^
 ||tapounskags.cyou^
 ||tapulgospoda.com^
@@ -45590,6 +45604,7 @@ vkcdnservice.appspot.com^
 ||wedgehastily.com^
 ||wedgeneutralitymiss.com^
 ||wedgierbirsit.com^
+||wedgiesbeersnoils.cyou^
 ||wedsetdonkey.cyou^
 ||wee-dare.pro^
 ||wee-stretch.pro^
@@ -47833,6 +47848,7 @@ vkcdnservice.appspot.com^
 ||xoxnetwork.com^
 ||xoxqofisgrgnp.online^
 ||xoxyxaxtgkryj.club^
+||xoykhtrcgop.com^
 ||xoymkdgsafcdh.site^
 ||xp6tkyyyyevu7zlucycujjrztni2.rest^
 ||xp6wsv4c.xyz^
@@ -55196,6 +55212,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||hls-beacons-us.xumo.com^
 ||stats.zincdrive.com^
 ||nid.the-sun.com^
 ||log.api-maps.yandex.
@@ -64586,6 +64603,7 @@ dlsdk.appsflyer.com^
 ||g-stats.openhost.es^
 ||madrid.report.botm.transparentedge.io^
 ||marker.konograma.com^
+||met.seriesapi.co^
 ||mtm.qdqmedia.com
 ||pub.servidoresge.com^
 ||rt.cdnmedia.tv^
