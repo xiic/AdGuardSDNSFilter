@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-21T18:22:04.111Z
+! Last modified: 2026-04-21T20:17:51.969Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1534,6 +1534,7 @@ vkcdnservice.appspot.com^
 ||aahcnrijhuwhq.space^
 ||aahpvdkakpska.online^
 ||aaiazzhkbztbs.space^
+||aainwekolbdzo.site^
 ||aaislmjkjcxov.site^
 ||aajhkzdwbmloi.today^
 ||aakvewesiefbx.website^
@@ -4048,6 +4049,7 @@ vkcdnservice.appspot.com^
 ||avkauywgzdxlx.online^
 ||avlmy.com^
 ||avmmsekplixsk.space^
+||avoarcldaan.com^
 ||avogramtetricbusine.qpon^
 ||avohgtghfsery.space^
 ||avouchuramil.com^
@@ -9945,6 +9947,7 @@ vkcdnservice.appspot.com^
 ||directtrck.com^
 ||direeyesightstray.com^
 ||direfulamenta.cyou^
+||dirkkenemaconable.cyou^
 ||dirtharvestnickel.com^
 ||dirtinessbeastpotatoes.com^
 ||dirty.games^
@@ -16531,6 +16534,7 @@ vkcdnservice.appspot.com^
 ||hirdiakamutive.qpon^
 ||hirebaning.shop^
 ||hirersalung.cyou^
+||hirvkfqgoevye.website^
 ||hisfwbkl.com^
 ||hisisathlle.com^
 ||hispidtux.com^
@@ -18638,6 +18642,7 @@ vkcdnservice.appspot.com^
 ||ixdxyerfgeljb.online^
 ||ixehvtycykhik.store^
 ||ixflv6oin5853xul.rest^
+||ixgommzgtesvq.online^
 ||ixgyezjgpsnob.store^
 ||ixjqbrjolgrmf.store^
 ||ixjqjoscayasz.website^
@@ -18979,6 +18984,7 @@ vkcdnservice.appspot.com^
 ||jetsoctroyblusht.cyou^
 ||jettedmitch.cfd^
 ||jettonpeeredodalman.cyou^
+||jevmcmyyokaza.space^
 ||jevvfcpopjvhc.com^
 ||jevybnmrhousp.site^
 ||jewacgufesztu.space^
@@ -27181,6 +27187,7 @@ vkcdnservice.appspot.com^
 ||particularbearingmemorable.com^
 ||particularlypoisonous.com^
 ||partiemanacle.qpon^
+||partimcoranceknez.cyou^
 ||partingamply.cfd^
 ||partion-ricism.xyz^
 ||partleyshut.cyou^
@@ -28341,6 +28348,7 @@ vkcdnservice.appspot.com^
 ||pjoqdgncunzlk.online^
 ||pjpojoftgmz.com^
 ||pjpp1x5gvy88l429z9ne4b.cfd^
+||pjppiuojn.com^
 ||pjpworowzxmci.space^
 ||pjqchcfwtw.com^
 ||pjraeywycyxej.space^
@@ -30851,6 +30859,7 @@ vkcdnservice.appspot.com^
 ||qhdrmniqdbqa.com^
 ||qhffqlklvclza.website^
 ||qhfjqdbtrvvdj.online^
+||qhgbxmuytmnpb.website^
 ||qhgimdvyvqtyl.site^
 ||qhgryaocaxulj.online^
 ||qhhebqciwgxju.space^
@@ -34856,6 +34865,7 @@ vkcdnservice.appspot.com^
 ||sarrowgrivois.com^
 ||sarsarsdegerms.cfd^
 ||sarsencogs.help^
+||sarsnetcoaster.cfd^
 ||sarwiqwjkwbgd.space^
 ||sascirrtoxxfibs.com^
 ||sashtrizone.com^
@@ -48392,6 +48402,7 @@ vkcdnservice.appspot.com^
 ||xtewwhvhyrazi.site^
 ||xtftkmthhfjpy.website^
 ||xtgrhgnbvwehy.website^
+||xtgrsenjpmvwm.online^
 ||xtidentinhp.net^
 ||xtidentinhp.xyz^
 ||xtirtlpvihklp.site^
@@ -50235,6 +50246,7 @@ vkcdnservice.appspot.com^
 ||zibgvyxttkjtc.online^
 ||ziblo.cloud^
 ||ziccxwyfkathr.website^
+||ziclejamruqdw.space^
 ||zicthrpyqzrtt.website^
 ||ziczacunshawl.shop^
 ||zidaunsoud.net^
