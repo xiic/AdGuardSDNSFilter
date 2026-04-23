@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-23T03:03:23.374Z
+! Last modified: 2026-04-23T04:59:49.635Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1286,6 +1286,7 @@ vkcdnservice.appspot.com^
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||7nt9p4d4.de^
 ||7nujijkfh5xfbehzetp.rest^
+||7okxlh16y7rj5rcnflvhwup99y.rest^
 ||7on4m4c4b1ej1yrp.cfd^
 ||7oo2r9vfgw2k22kwrzobtv7.rest^
 ||7pe59uixcyqevun3f73i8f5.rest^
@@ -5720,6 +5721,7 @@ vkcdnservice.appspot.com^
 ||botchkaclk.cfd^
 ||bothererune.com^
 ||botherlaying.com^
+||bothyyuncagrulla.cfd^
 ||botpynlmmizsr.click^
 ||botsemends.cyou^
 ||botsxlhhjdvnp.online^
@@ -8464,6 +8466,7 @@ vkcdnservice.appspot.com^
 ||cqrvwq.com^
 ||cqsiekqkitsty.online^
 ||cqstbvkcpbqut.one^
+||cqsxerghecq.com^
 ||cqtmotizjuvwe.online^
 ||cqtpnmishybab.site^
 ||cquozcdrrbcua.online^
@@ -9335,6 +9338,7 @@ vkcdnservice.appspot.com^
 ||dbaforialygmw.website^
 ||dbazcftxukqxs.online^
 ||dbb6251066.com^
+||dbdhnavwbvhep.website^
 ||dbellraiqclun.website^
 ||dberthformttete.com^
 ||dbgjsblkeulmq.online^
@@ -11013,6 +11017,7 @@ vkcdnservice.appspot.com^
 ||dzotykkzcbgbs.online^
 ||dzpoejczjsmkk.store^
 ||dzqbnamcqanak.website^
+||dzrifgpbvyiar.site^
 ||dzripxtbkhvug.site^
 ||dzthdolznengm.space^
 ||dztvugxbghvdo.space^
@@ -11399,6 +11404,7 @@ vkcdnservice.appspot.com^
 ||eggjddjlsefmm.website^
 ||eggplantgapmatter.com^
 ||eggsdart.com^
+||eghup6z33nqt238gez2qlnhm616zkj.cfd^
 ||egighbqdtgyen.rocks^
 ||egitqmdbccuih.space^
 ||egjdmonarrdqj.site^
@@ -11418,6 +11424,7 @@ vkcdnservice.appspot.com^
 ||eh3pix0b.xyz^
 ||ehasnoconversat.org^
 ||ehclkqpxnvfqd.website^
+||ehcqubscjotaa.space^
 ||ehdmckprfptyg.store^
 ||ehdmskoumgzcv.online^
 ||ehegoajxjinwc.online^
@@ -11438,6 +11445,7 @@ vkcdnservice.appspot.com^
 ||ehqufypefcfkx.site^
 ||ehrqmyfqcpmcy.space^
 ||ehrydnmdoe.com^
+||ehszycpcxrskg.website^
 ||ehtkfjhrozkeu.website^
 ||ehuhefrrpqjgp.website^
 ||ehungroundt.org^
@@ -11502,6 +11510,7 @@ vkcdnservice.appspot.com^
 ||ejrzeehyqboza.website^
 ||ejsxzsisfbvfm.online^
 ||ejtvokuajnakj.space^
+||ejtyujxigvnwu.site^
 ||ejuacikpcxjyk.online^
 ||ejufwpkpikrgy.space^
 ||ejvpnryktslwp.website^
@@ -12153,6 +12162,7 @@ vkcdnservice.appspot.com^
 ||erxnqfhkkjkzz.site^
 ||eryfdehgvexfv.online^
 ||erymuchadmirl.org^
+||erypnmwayaibe.space^
 ||eryqgqkrcgpiv.online^
 ||erysilenitmanb.com^
 ||esaidndamafraid.com^
@@ -14113,6 +14123,7 @@ vkcdnservice.appspot.com^
 ||fsmozsiqsdapq.store^
 ||fsnkdjtnifxze.site^
 ||fsqgocmhgaikr.site^
+||fsrqhkcwfsrlc.online^
 ||fsryridxuakhy.site^
 ||fstmshtlaurzt.store^
 ||fstsrv9.com^
@@ -14225,6 +14236,7 @@ vkcdnservice.appspot.com^
 ||furansclaikbullom.cyou^
 ||furcaltonic.com^
 ||furgppujqwmwh.online^
+||furiosoflippedotium.cfd^
 ||furiousexpansion.com^
 ||furjoyfdoumka.site^
 ||furnishridiest.qpon^
@@ -28689,6 +28701,7 @@ vkcdnservice.appspot.com^
 ||playvideodirect.com^
 ||plcjonyujoudf.online^
 ||plcmsdajsliinl.xyz^
+||plcxocydjdfhe.space^
 ||plcxwtxuojnnh.website^
 ||pleachwonnot.qpon^
 ||pleasant-commercial.pro^
@@ -32075,6 +32088,7 @@ vkcdnservice.appspot.com^
 ||raggedtwinheadmaster.com^
 ||ragglestripody.cfd^
 ||raglassofrum.cc^
+||ragodafaykbsr.site^
 ||ragolnnkeo.com^
 ||ragrolromairsou.net^
 ||ragwogidrznow.online^
@@ -34409,6 +34423,7 @@ vkcdnservice.appspot.com^
 ||ruckleyawping.help^
 ||rucstpoymfnpp.site^
 ||ruddiedvolar.qpon^
+||ruddishwakon.com^
 ||ruddlecoagulaeeriest.qpon^
 ||ruddsiolite.com^
 ||ruddy-bite.pro^
@@ -35681,6 +35696,7 @@ vkcdnservice.appspot.com^
 ||seizureblade.com^
 ||sejantsiliclewindled.cfd^
 ||sekeglossaudoun.net^
+||sekerdrubbed.com^
 ||sekindo.com^
 ||sekorsoucku.net^
 ||sel-sel-fie.com^
@@ -39813,6 +39829,7 @@ vkcdnservice.appspot.com^
 ||tellsorganfederal.com^
 ||tellsvastpuff.com^
 ||tellvisual.com^
+||telomewispier.com^
 ||telosstopen.help^
 ||telreegnoacougn.net^
 ||teltdnnvbbmxq.online^
@@ -48314,6 +48331,7 @@ vkcdnservice.appspot.com^
 ||xkopvesrnertg.site^
 ||xkpbcd.com^
 ||xkqaydgrsedwp.space^
+||xkrihxceguhfe.site^
 ||xkrjuicspjipi.store^
 ||xkronawgqyuia.site^
 ||xksinmebhlqgb.online^
@@ -57144,6 +57162,7 @@ prd.api.bleacherreport.com^
 ||rtnl.bxcl.de^
 ||analytics.api.justeattakeaway.com^
 ||analytics.eip.telegraph.co.uk^
+||analytics-v*.eip.telegraph.co.uk^
 ||metrics.geekwire.com^
 ||click-performance.assets.rndtech.de^
 ||track.linksynergy.com^
