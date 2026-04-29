@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-29T14:45:08.379Z
+! Last modified: 2026-04-29T16:33:03.961Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2966,6 +2966,7 @@ vkcdnservice.appspot.com^
 ||albifyalltud.cfd^
 ||albileucentum.qpon^
 ||albinicakasa.cfd^
+||albiningroup.qpon^
 ||albonsa.com^
 ||albumshornito.qpon^
 ||alcaicsgoblet.qpon^
@@ -3964,6 +3965,7 @@ vkcdnservice.appspot.com^
 ||atala-apw.com^
 ||atamarvtcznxj.website^
 ||atampharosom.com^
+||atavismbesoul.cyou^
 ||ataxywash.cyou^
 ||ataykgrzwrplt.site^
 ||atbdvpyfcedrz.website^
@@ -7009,6 +7011,7 @@ vkcdnservice.appspot.com^
 ||casserolerehabilitationgradual.com^
 ||cassiesaudisobelia.cyou^
 ||castfilly.com^
+||castledregraftayah.cyou^
 ||castledzephyry.cyou^
 ||castsbylinerdistyle.cyou^
 ||casual-flirt-hub1.com^
@@ -13133,6 +13136,7 @@ vkcdnservice.appspot.com^
 ||f9vyl764bcp82zuige.cfd^
 ||fa85cadfb0.com^
 ||faaghupwithrd.space^
+||faajmsrnw.com^
 ||faaof.com^
 ||faapoise.com^
 ||fabiantyphula.shop^
@@ -15373,6 +15377,7 @@ vkcdnservice.appspot.com^
 ||giarrahuddles.cyou^
 ||giaythethaonuhcm.com^
 ||gibbalsleonite.qpon^
+||gibbolheterosdiking.qpon^
 ||gibedarcing.qpon^
 ||giberedaub.cyou^
 ||gibliabusingsithes.qpon^
@@ -24181,6 +24186,7 @@ vkcdnservice.appspot.com^
 ||mivugyezcnuqs.website^
 ||mixablepiu.qpon^
 ||mixahrccmldjb.store^
+||mixdgcqhfil.com^
 ||mixed-bother.pro^
 ||mixedissue.pro^
 ||mixhillvedism.com^
@@ -50308,6 +50314,7 @@ vkcdnservice.appspot.com^
 ||xubarcastn.in^
 ||xubjwrbzpapoc.website^
 ||xubrjsixewwues.xyz^
+||xuc3ggt2oxre762b6nfp2vone91ct4rezef.rest^
 ||xucylxthpajss.site^
 ||xudhsoctwc.com^
 ||xudpitdpaa.com^
@@ -51515,6 +51522,7 @@ vkcdnservice.appspot.com^
 ||ytcbdbcgjgjbg.online^
 ||ytccvtdtsfocf.online^
 ||ytdut.online^
+||yte287lwbwp18priio.cfd^
 ||yteinseetlxto.website^
 ||ytekaafvvgkji.online^
 ||yterxv.com^
@@ -67213,6 +67221,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||trorqeok.com^
 ||merilrise.com^
 ||elonreptiloid.pw^
 ||roomgome.com^
