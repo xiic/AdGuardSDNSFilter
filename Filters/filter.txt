@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-29T00:31:30.145Z
+! Last modified: 2026-04-29T03:04:20.527Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -873,6 +873,7 @@ vkcdnservice.appspot.com^
 ||38a6848c49.com^
 ||38ds89f8.de^
 ||38zho9oz9zpfrclr8pbkpl57vj9fy56.cfd^
+||392f4e9ce8.com^
 ||3999f86b91.com^
 ||39e6p9p7.de^
 ||3ae7054c01.com^
@@ -1555,6 +1556,7 @@ vkcdnservice.appspot.com^
 ||a11ybar.com^
 ||a14net.com^
 ||a2255d1d36.com^
+||a26e7bb99f.com^
 ||a273656d15.com^
 ||a29f24b2a6.com^
 ||a2tw6yoodsag.com^
@@ -3194,6 +3196,7 @@ vkcdnservice.appspot.com^
 ||amoraimaraceae.cyou^
 ||amoralforsteppe.com^
 ||amoralstern.com^
+||amorphasalable.cfd^
 ||amorphousankle.com^
 ||amorphouscomprise.com^
 ||amountdonutproxy.com^
@@ -7774,6 +7777,7 @@ vkcdnservice.appspot.com^
 ||claudionumaclaelia.cyou^
 ||clavuviupsit.cyou^
 ||clawpermute.cyou^
+||clayeytogated.cyou^
 ||clbaf.com^
 ||clbjmp.com^
 ||clcktrck.com^
@@ -10578,6 +10582,7 @@ vkcdnservice.appspot.com^
 ||dkqpcbuliyx.com^
 ||dkrbus.com^
 ||dkrnlccknrlqz.online^
+||dkswdqbuvzykl.site^
 ||dkswshap-3.online^
 ||dkupbrast.cyou^
 ||dkwtrzrrejqls.club^
@@ -10786,6 +10791,7 @@ vkcdnservice.appspot.com^
 ||dorsalatake.com^
 ||dorsalaworrymaroons.qpon^
 ||dorsulachiplet.com^
+||dortermarchen.qpon^
 ||dortmark.net^
 ||doruckmangedreamed.cyou^
 ||dosachen.com^
@@ -10888,6 +10894,7 @@ vkcdnservice.appspot.com^
 ||dpuxtqqajzwam.store^
 ||dpvowksnrdhxv.site^
 ||dpvztnqfkmlbs.store^
+||dpxxlhhkhjepl.space^
 ||dqciuftqqizon.website^
 ||dqcsvolbwaxxq.online^
 ||dqdsnemauijvc.online^
@@ -12293,6 +12300,7 @@ vkcdnservice.appspot.com^
 ||entterto.com^
 ||entwithoughtsu.com^
 ||enueduringhere.info^
+||enurnvnfhzisy.website^
 ||enuwulwgsbicx.website^
 ||envczfherlnzg.website^
 ||enviertheave.cyou^
@@ -13506,6 +13514,7 @@ vkcdnservice.appspot.com^
 ||fesecrxmwowzq.site^
 ||fespnfwrcdgpv.website^
 ||fessedforgrow.qpon^
+||fesselylimbate.cyou^
 ||fessoovy.com^
 ||festersstimy.qpon^
 ||festivalcasketfrench.com^
@@ -20492,6 +20501,7 @@ vkcdnservice.appspot.com^
 ||jyvkwqjremqkz.top^
 ||jyvruyixdhich.space^
 ||jywrfgctqgjyx.online^
+||jyxjgrod.com^
 ||jyxzaikrzaprd.site^
 ||jyzhpgkhoovfy.website^
 ||jyzkut.com^
@@ -23693,6 +23703,7 @@ vkcdnservice.appspot.com^
 ||mejlwlzjcbkjn.space^
 ||melancholylucidity.com^
 ||melanicsellgangava.qpon^
+||melgeminid.cfd^
 ||mellitesting.shop^
 ||mellodur.net^
 ||melodic-mess.com^
@@ -24300,6 +24311,7 @@ vkcdnservice.appspot.com^
 ||mobifobi.com^
 ||mobileoffers-dld-download.com^
 ||mobilesbrawlerinvars.cyou^
+||mobilescag.shop^
 ||mobilessequinsonicolo.cfd^
 ||mobiletracking.ru^
 ||mobipromote.com^
@@ -27810,6 +27822,7 @@ vkcdnservice.appspot.com^
 ||owzwnawuyzmif.com^
 ||ox133qqrz8v9oj.cfd^
 ||ox6qoeg36fut1vlfooyq2vvtxhgcl.cfd^
+||oxacidunfiend.shop^
 ||oxado.com^
 ||oxauxgbuzyyae.online^
 ||oxbbzxqfnv.com^
@@ -32108,6 +32121,7 @@ vkcdnservice.appspot.com^
 ||qhkcbwfvobqma.space^
 ||qhkcnqnvjjl.net^
 ||qhkflvounmbrq.site^
+||qhkyoclyenren.com^
 ||qhnadjmytpdcr.xyz^
 ||qhnbqrpobwplq.online^
 ||qhnojvbyxfgcf.click^
@@ -32241,6 +32255,7 @@ vkcdnservice.appspot.com^
 ||qksyzbngksiwtj.com^
 ||qksz.net^
 ||qkuddzkexfiez.site^
+||qkuwfhstvjagy.com^
 ||qkvfnjfhdparr.store^
 ||qkwzfobrsku.com^
 ||qkxfqleua.com^
@@ -33712,6 +33727,7 @@ vkcdnservice.appspot.com^
 ||redeemcontagiontransmitted.com^
 ||redeemspaciousdevice.com^
 ||redeyetakt.help^
+||redfishtottingtintie.cyou^
 ||rediatruancy.qpon^
 ||redipsopaquer.com^
 ||rediptmanse.cfd^
@@ -35088,6 +35104,7 @@ vkcdnservice.appspot.com^
 ||rooloacooboad.net^
 ||roomagetilpah.qpon^
 ||roomeetaugouthe.net^
+||roomerspits.cfd^
 ||roomfulleif.help^
 ||roomierhisis.com^
 ||roommateskinner.com^
@@ -39285,6 +39302,7 @@ vkcdnservice.appspot.com^
 ||starmeetonline.com^
 ||starmobmedia.com^
 ||starnhomy.cfd^
+||starrresidsstreak.cyou^
 ||starry-abroad.pro^
 ||starry-block.pro^
 ||starry-galaxy.com^
@@ -42905,6 +42923,7 @@ vkcdnservice.appspot.com^
 ||ttnendqczfpcn.site^
 ||ttnjzfmlupknf.site^
 ||ttoc8ok.com^
+||ttoejmxwlecin.site^
 ||ttonyfiiyajkh.space^
 ||ttowpvjpfrwyos.com^
 ||ttoyfmexbpwhj.online^
