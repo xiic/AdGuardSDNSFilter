@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-30T05:06:51.988Z
+! Last modified: 2026-04-30T06:51:23.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1239,6 +1239,7 @@ vkcdnservice.appspot.com^
 ||6yfjlm4lcmvrxkrlux1p.rest^
 ||6yzfub9hhkgq2v.rest^
 ||6znvp3ntipfwknn4r.cfd^
+||6zr116wrcjmcy3g86.cfd^
 ||6zy9yqe1ew.com^
 ||7-7-7-partner.com^
 ||7003128946.com^
@@ -3372,6 +3373,7 @@ vkcdnservice.appspot.com^
 ||anomerlongest.cyou^
 ||anomiavagancyvexilla.cfd^
 ||anomicfusulamambas.cyou^
+||anonangbiotics.cfd^
 ||anonymousads.com^
 ||anopportunitytost.com^
 ||anoraksyeans.shop^
@@ -8136,6 +8138,7 @@ vkcdnservice.appspot.com^
 ||codillehyphen.cyou^
 ||codwormtallied.com^
 ||coedmediagroup.com^
+||coehornsenile.cyou^
 ||coelarcrypto.qpon^
 ||coeliabumpee.com^
 ||coelomspeccary.qpon^
@@ -14558,6 +14561,7 @@ vkcdnservice.appspot.com^
 ||frogcontrivance.com^
 ||froglegturio.qpon^
 ||frogletbit.cfd^
+||frogletcoccoiddiners.cyou^
 ||frogletutopism.com^
 ||frogmenewerernuchale.cyou^
 ||frohddwovyjno.online^
@@ -17827,6 +17831,7 @@ vkcdnservice.appspot.com^
 ||hughocalbaceastulty.qpon^
 ||hugit.xyz^
 ||hugophysicallyairline.com^
+||hugoxwvp.in^
 ||hugyoilwaybulgier.cfd^
 ||hugysoral.digital^
 ||huhwryctykitp.space^
@@ -19065,6 +19070,7 @@ vkcdnservice.appspot.com^
 ||intimacyreduce.com^
 ||intimacysupervisor.com^
 ||intimidatingsideway.com^
+||intombspyralis.qpon^
 ||intorterraon.com^
 ||intothespirits.com^
 ||intoxicateregulation.com^
@@ -19906,6 +19912,7 @@ vkcdnservice.appspot.com^
 ||jgwlomfinvizq.site^
 ||jgybofeaubrxy.space^
 ||jgzupyezcdxfg.online^
+||jh374occk4ucnu.rest^
 ||jhakpumzwwstp.online^
 ||jhbjkqqykibyt.buzz^
 ||jhbzbiomaieex.store^
@@ -20177,6 +20184,7 @@ vkcdnservice.appspot.com^
 ||joshuaam.qpon^
 ||jostledsibsmalmed.cfd^
 ||josulhtyxgarv.space^
+||joubarbspurlet.shop^
 ||joudauhee.com^
 ||jouksster.cyou^
 ||journalismfranticallypsychic.com^
@@ -20305,6 +20313,7 @@ vkcdnservice.appspot.com^
 ||jrqmkykli.com^
 ||jrqqxelauuqhm.site^
 ||jrqzmiipckcvm.website^
+||jrrqgiblbj.com^
 ||jrrygibhwcmwb.space^
 ||jruczsajvawgi.website^
 ||jrunkpbdiqiuu.site^
@@ -21736,6 +21745,7 @@ vkcdnservice.appspot.com^
 ||lamiidsagaie.cfd^
 ||lamiidunspan.shop^
 ||lammasbananas.com^
+||lampasliegesbogles.cyou^
 ||lampernaortismamamau.cfd^
 ||lampfuldrawerslavish.cyou^
 ||lamplitsorrels.cfd^
@@ -22644,6 +22654,7 @@ vkcdnservice.appspot.com^
 ||lobbecalm.com^
 ||lobby-x.eu^
 ||loboclick.com^
+||lobparde.qpon^
 ||lobspqdzvfvrp.space^
 ||lobstermonitortower.com^
 ||localaffectrecipe.com^
@@ -29838,6 +29849,7 @@ vkcdnservice.appspot.com^
 ||pliantdummyexasperation.com^
 ||pliantethanyowing.qpon^
 ||pliblc.com^
+||pliedhyper.cfd^
 ||pliescaelusinsuree.cyou^
 ||pliing.com^
 ||plinkedlindens.cfd^
@@ -37264,6 +37276,7 @@ vkcdnservice.appspot.com^
 ||sfblgasgohxzz.online^
 ||sfbxznczzueqz.website^
 ||sfcnprnmkvdlh.space^
+||sfemzosta.in^
 ||sfewgzxnxvroe.space^
 ||sffsdvc.com^
 ||sfgbobrkfliph.website^
@@ -47422,6 +47435,7 @@ vkcdnservice.appspot.com^
 ||wandlbbeuwauj.store^
 ||wandleumlaut.cfd^
 ||wandstjaele.qpon^
+||wangaracampe.cyou^
 ||wangerstabile.com^
 ||wangfenxi.com^
 ||wangheebehav.com^
