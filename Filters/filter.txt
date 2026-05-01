@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-01T05:16:18.582Z
+! Last modified: 2026-05-01T06:54:01.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14566,6 +14566,7 @@ vkcdnservice.appspot.com^
 ||freshesunwarp.com^
 ||freshforestroad.com^
 ||freshideasflow.com^
+||freshlymaunge.cfd^
 ||fresserthough.com^
 ||frhaelmqfuudc.website^
 ||frhcqkaqcqldu.space^
@@ -19913,6 +19914,7 @@ vkcdnservice.appspot.com^
 ||jeeteesnotter.qpon^
 ||jeetyetmedia.com^
 ||jeeubfbkqenvr.online^
+||jeftndczbkmwb.site^
 ||jegrbkenarvan.website^
 ||jehovahcoptis.qpon^
 ||jehxfphxnbeze.online^
@@ -20076,6 +20078,7 @@ vkcdnservice.appspot.com^
 ||jiwire.com^
 ||jiwvudruhkag.in^
 ||jixdwtlveqhrl.online^
+||jixh85hyliryo6mot2r.rest^
 ||jizzarchives.com^
 ||jjcatgejvemyu.click^
 ||jjcaydbubdvlt.space^
@@ -22064,6 +22067,7 @@ vkcdnservice.appspot.com^
 ||leaacnhutcosv.store^
 ||leadadvert.info^
 ||leadgainz.com^
+||leading-back.com^
 ||leading-cook.pro^
 ||leadmediapartners.com^
 ||leadnote.me^
@@ -27254,6 +27258,7 @@ vkcdnservice.appspot.com^
 ||omcgqahejstuo.global^
 ||omckeksvvawxv.com^
 ||omcrobata.com^
+||omcusrmpkvi.com^
 ||omefukmendationfo.com^
 ||omegaadblock.net^
 ||omegatrak.com^
@@ -38115,6 +38120,7 @@ vkcdnservice.appspot.com^
 ||sjtqduaggooyp.website^
 ||sjucxifhymhdr.space^
 ||sjugcenvkcfms.website^
+||sjumygfiahihq.site^
 ||sjvftcjneqmal.site^
 ||sjvkiuvwo.net^
 ||sjxctpzzjoxdw.website^
@@ -40220,6 +40226,7 @@ vkcdnservice.appspot.com^
 ||suibolo.cfd^
 ||suicidalruse.com^
 ||suicismunscent.shop^
+||suiformupdrink.cyou^
 ||suilineslashes.cfd^
 ||suinahuck.cfd^
 ||suinglyvinas.cyou^
@@ -40460,6 +40467,7 @@ vkcdnservice.appspot.com^
 ||suzanne.pro^
 ||suzzfekhuwz.in^
 ||svanazido.qpon^
+||svarajpavises.shop^
 ||svarajssummand.cyou^
 ||svarajwennish.qpon^
 ||svbakoarswdvw.site^
@@ -42088,6 +42096,7 @@ vkcdnservice.appspot.com^
 ||tirveintrap.qpon^
 ||tirwitrelents.cfd^
 ||tisaneata.com^
+||tisaneelogium.shop^
 ||tissoukrookrag.net^
 ||tissuesuaverecite.cyou^
 ||titanads1.com^
@@ -46734,6 +46743,7 @@ vkcdnservice.appspot.com^
 ||vkzkmfqcediaf.site^
 ||vl1917fzxlfwm66.cfd^
 ||vl3c2qbmpforqyl.cfd^
+||vl3kzllozqmpiljg9kqegwj1jkfv.cfd^
 ||vl84t3v72l6o3ji3xrb4lijjjf72ckkhci.cfd^
 ||vlabddfdsgein.space^
 ||vlauqfbnfigdk.site^
@@ -50538,6 +50548,7 @@ vkcdnservice.appspot.com^
 ||xtgrsenjpmvwm.online^
 ||xtidentinhp.net^
 ||xtidentinhp.xyz^
+||xtifpqvs.com^
 ||xtirtlpvihklp.site^
 ||xtitjpiaoedam.space^
 ||xtmhzidqppsit.online^
@@ -50798,6 +50809,7 @@ vkcdnservice.appspot.com^
 ||xzbyhyxkzfbpa.space^
 ||xzdagpywxkozq.online^
 ||xzdnwmalfssno.website^
+||xzerawgcia.in^
 ||xzfdjphnyubhk.online^
 ||xzfnpjjvenexj.website^
 ||xzfsmnjotique.online^
@@ -52721,6 +52733,7 @@ vkcdnservice.appspot.com^
 ||znrakwmcjsvtm.online^
 ||znsebkpnpczim.website^
 ||znsfdyanrbgnc.site^
+||znsmiddumtulchin.cfd^
 ||zntyosjbsivry.site^
 ||znxifrpxsmuak.space^
 ||znycxdjoyexaj.website^
@@ -63853,6 +63866,7 @@ dlsdk.appsflyer.com^
 ||bigfishapparel.com^
 ||biggerbling.com^
 ||bigworldfashion.com^
+||bikeexerciser.com^
 ||bikepaws.com^
 ||bikesboard.com^
 ||bikinginspire.com^
@@ -63863,6 +63877,7 @@ dlsdk.appsflyer.com^
 ||binarycrest.com^
 ||binarykite.com^
 ||binspiredtees.com^
+||biologylog.com^
 ||birthdaybelief.com^
 ||blackbelted.com^
 ||blackbrake.com^
@@ -70657,8 +70672,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-04-20 07:14:53 CEST
-# entries:        1154
+# last updated:   2026-05-01 08:06:05 CEST
+# entries:        1152
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.omappapi.com^
@@ -70950,7 +70965,6 @@ dlsdk.appsflyer.com^
 ||ingest.analytics.nation.dev^
 ||insight.nikkasystems.com^
 ||interactions.sesamy.com^
-||investerarbrevet.se^
 ||inviso.rampanel.com^
 ||ion.btcswe.com^
 ||ip.holid.io^
