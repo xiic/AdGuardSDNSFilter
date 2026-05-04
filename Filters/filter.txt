@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-04T07:00:54.289Z
+! Last modified: 2026-05-04T08:49:23.449Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4367,6 +4367,7 @@ vkcdnservice.appspot.com^
 ||awnexus.com^
 ||awnypearch.com^
 ||awolbitt.cyou^
+||awozdcvzjgbnh.online^
 ||awpcrpu.com^
 ||awprt.com^
 ||awptjmp.com^
@@ -4553,6 +4554,7 @@ vkcdnservice.appspot.com^
 ||ba61261c39.com^
 ||ba6174e1cd.com^
 ||ba69a24a2a.com^
+||baalathsodstechnol.qpon^
 ||baalistcornel.qpon^
 ||baatarveduteous.cyou^
 ||baauefhlsruga.online^
@@ -6015,6 +6017,7 @@ vkcdnservice.appspot.com^
 ||bothererune.com^
 ||botherlaying.com^
 ||bothyyuncagrulla.cfd^
+||botkdllphxivv.space^
 ||botpynlmmizsr.click^
 ||botsemends.cyou^
 ||botsxlhhjdvnp.online^
@@ -11106,6 +11109,7 @@ vkcdnservice.appspot.com^
 ||dozepokinganthem.com^
 ||dozubatan.com^
 ||dpagxmzhm.com^
+||dpanosjvcveona.com^
 ||dpehzyosanbhl.website^
 ||dpfccivdvttx.com^
 ||dpfhmglkprqrrqk.com^
@@ -25333,6 +25337,7 @@ vkcdnservice.appspot.com^
 ||mtfrljmoeyssz.website^
 ||mthcplolzrszh.online^
 ||mtjglumdezujo.website^
+||mtkhbxksjjom.com^
 ||mtklngjjpzpwq.space^
 ||mtmqdcgzgduhb.website^
 ||mtnklans.cyou^
@@ -28301,6 +28306,7 @@ vkcdnservice.appspot.com^
 ||outnameprairie.qpon^
 ||outoctillerytor.com^
 ||outonebraxate.com^
+||outpacegeulah.cyou^
 ||outplotthamus.com^
 ||outponyglorious.com^
 ||outpopantre.qpon^
@@ -33087,6 +33093,7 @@ vkcdnservice.appspot.com^
 ||qmwonwowmytqf.store^
 ||qmxvcjravsxyu.online^
 ||qmyonfatxab.in^
+||qmyytcdhtvvcy.website^
 ||qmyzawzrqryjj.top^
 ||qmzikvkk.business^
 ||qn-5.com^
@@ -35552,6 +35559,7 @@ vkcdnservice.appspot.com^
 ||rjw4obbw.com^
 ||rjxczvecqiipf.site^
 ||rjykjiitsaoyw.space^
+||rjyqgtlazaijq.site^
 ||rjzbvmbybvokw.top^
 ||rjzkulworyqil.space^
 ||rkby4boiqwkigetk5yxg8q41koiqokl.cfd^
@@ -36257,6 +36265,7 @@ vkcdnservice.appspot.com^
 ||rtceeemh.com^
 ||rtdgdfdfehzrv.space^
 ||rtdpfwzxfajfl.online^
+||rtessfxxrqjbd.space^
 ||rtfsmrrvcmsoswm.com^
 ||rtfwbwstodqyj.site^
 ||rtgio.co^
@@ -37131,6 +37140,7 @@ vkcdnservice.appspot.com^
 ||sawspignus.qpon^
 ||sayalunlaw.com^
 ||sayingbunked.qpon^
+||saykafiyqytue.website^
 ||saykezhabdbyk.online^
 ||saynayegoizer.qpon^
 ||saynayfinfoot.cfd^
@@ -43156,6 +43166,7 @@ vkcdnservice.appspot.com^
 ||toshimtairteex.net^
 ||tosksprmwpkzf.site^
 ||tossedkryptol.cyou^
+||tossfaceboother.cyou^
 ||tossilyclosets.cyou^
 ||tossingtankage.cyou^
 ||tossingvivid.com^
@@ -43277,6 +43288,7 @@ vkcdnservice.appspot.com^
 ||tqcppxvxhbzgi.site^
 ||tqctbjddb.xyz^
 ||tqdxwboexwawx.site^
+||tqecglnxyhqsnbp.com^
 ||tqevahjkdhapc.com^
 ||tqgayhnwphgxn.site^
 ||tqgdovbcivlfu.space^
@@ -51602,6 +51614,7 @@ vkcdnservice.appspot.com^
 ||yawperssovkhoz.help^
 ||yawuyibzriuzn.space^
 ||yawytfr.cfd^
+||yaxiobbe.com^
 ||yaxsvnoftgzuj.website^
 ||yaylgwxilnrio.website^
 ||yb23b.com^
@@ -58582,6 +58595,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics-proxy-501188673100.us-central1.run.app^
 ||analytics.studiodesignapp.com^
 ||stats.cinevibe.asia^
 ||alib.nine.com.au^
@@ -77906,6 +77920,13 @@ dlsdk.appsflyer.com^
 ||5xdz5pz072.com^
 ||okq2b5zjft.com^
 ||kve026cks7.com^
+||jhhv22erzs.com^
+||whlwcahw1x.com^
+||bwzett.icu^
+||64sfltdfd9.com^
+||pediatrist53.com^
+||nhgbdjs.com^
+||tcmxmlu.com^
 ||7g761j2nc.com^
 ||ght2bvin1.com^
 ||lkpseyc3d.com^
