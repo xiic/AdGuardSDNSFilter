@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-06T00:30:06.102Z
+! Last modified: 2026-05-06T03:04:38.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -810,6 +810,7 @@ vkcdnservice.appspot.com^
 ||2tq7pgs0f.de^
 ||2track.info^
 ||2ts55ek00.de^
+||2x62wp56wxjqpxrqb3zcfvr.rest^
 ||2x9ezrw7vuhqco.cfd^
 ||2xeibjlqyxu8m4zq7lob3qyknpl2.cfd^
 ||2yrlx4lem82wqehq.cfd^
@@ -947,6 +948,7 @@ vkcdnservice.appspot.com^
 ||42ltelq45mm7pkyq5f9beb.cfd^
 ||434fc6fff7.com^
 ||436df5b953.com^
+||4373ab4d71.com^
 ||43982bf480.com^
 ||439f4b8c75.com^
 ||43ors1osh.com^
@@ -2412,6 +2414,7 @@ vkcdnservice.appspot.com^
 ||adtrace.org^
 ||adtraction.com^
 ||adtrcdn.io^
+||adtrhogpvnwkt.space^
 ||adtrieval.com^
 ||adtrue.com^
 ||adtrue24.com^
@@ -2687,6 +2690,7 @@ vkcdnservice.appspot.com^
 ||agamagcargoan.com^
 ||agamaisatide.shop^
 ||agametedaylessgagee.cfd^
+||aganicecrickle.shop^
 ||agat-tech.com^
 ||agatarainpro.com^
 ||agathisdented.com^
@@ -3554,6 +3558,7 @@ vkcdnservice.appspot.com^
 ||apargiabipacks.cfd^
 ||apartmentsellerprotest.com^
 ||apatheticformingalbeit.com^
+||apathyfarsakhcarven.cyou^
 ||apbdefsgvncbw.site^
 ||apbqruluwzim.in^
 ||apcdoxiqxiote.space^
@@ -3873,6 +3878,7 @@ vkcdnservice.appspot.com^
 ||artilyleveche.qpon^
 ||artistictastesn.org^
 ||artlvpfgfrgru.site^
+||artlybeam.shop^
 ||artoomanyrelati.com^
 ||artsyharicot.com^
 ||artvzqshpnx.com^
@@ -5387,6 +5393,7 @@ vkcdnservice.appspot.com^
 ||bhlxxdmdpdptk.space^
 ||bhogadowxa.in^
 ||bhotialine.shop^
+||bhotiaunequal.qpon^
 ||bhpwqtiudzqnz.vip^
 ||bhrltiziiipad.website^
 ||bhszasnoamoro.space^
@@ -8213,6 +8220,7 @@ vkcdnservice.appspot.com^
 ||clwfojcdiqkqx.online^
 ||clxuuhlmtvrmt.today^
 ||clyblajtkoopx.site^
+||clyerseulytin.com^
 ||clyerteaeygoofs.cyou^
 ||clyhmrqfyxom.com^
 ||clysisaplombs.shop^
@@ -13020,6 +13028,7 @@ vkcdnservice.appspot.com^
 ||etjoeybjppksy.site^
 ||etjrkgaqrkfad.space^
 ||etkybhmigxoyt.site^
+||etneanlaos.cfd^
 ||etobeasasile.org^
 ||etoefwatm.com^
 ||etonwhekauwino.qpon^
@@ -13476,6 +13485,7 @@ vkcdnservice.appspot.com^
 ||f792df8437.com^
 ||f7dcc97ce6.com^
 ||f7wi953nek9cyyhfm2k.rest^
+||f85fd721ad.com^
 ||f8c00ef6a5.com^
 ||f8d24e6505.com^
 ||f8ow9ompfmg456v113k6.rest^
@@ -16333,10 +16343,12 @@ vkcdnservice.appspot.com^
 ||gouikrywyxnmo.store^
 ||goularopinholdspinets.cfd^
 ||gourdesveruledredrove.cfd^
+||gourmetpensylase.cfd^
 ||goutee.top^
 ||goutifyaroma.cfd^
 ||goutupspear.shop^
 ||govfhrimbmzvt.store^
+||gowferbumped.shop^
 ||gowofhdmdtdhi.online^
 ||goxithosho.com^
 ||goyoutlain.cfd^
@@ -16725,6 +16737,7 @@ vkcdnservice.appspot.com^
 ||guarshouser.com^
 ||guazaafretsensus.cfd^
 ||guberlasps.cyou^
+||gubwwsegai.com^
 ||gucbowlgklcgb.website^
 ||guchihyfa.pro^
 ||guckisant.cyou^
@@ -23389,6 +23402,7 @@ vkcdnservice.appspot.com^
 ||lotusesrisalarebore.qpon^
 ||loubyvwvqyzdt.site^
 ||louchevips.cyou^
+||louckajmzhldu.space^
 ||louctlwyghkui.online^
 ||louderappletcoma.com^
 ||louderpregnantshabby.com^
@@ -25028,6 +25042,7 @@ vkcdnservice.appspot.com^
 ||mmondi.com^
 ||mmopzfxoouggx.site^
 ||mmotraffic.com^
+||mmoxruzbtcrax.website^
 ||mmpecnkesjkuq.site^
 ||mmphmzuckduyf.store^
 ||mmsvnwwhayokq.space^
@@ -26255,6 +26270,7 @@ vkcdnservice.appspot.com^
 ||neurismstoping.com^
 ||neuroepithelium.lol^
 ||neurulaammo.cyou^
+||neuyvumlep.com^
 ||neveejoilif.com^
 ||never2never.com^
 ||neverforgettab.com^
@@ -26665,6 +26681,7 @@ vkcdnservice.appspot.com^
 ||nmcpjteiktgpx.online^
 ||nmekvwedpfrjm.space^
 ||nmevrsduvwxsy.site^
+||nmfiqbupzxcku.site^
 ||nmgmbkvbqhglx.online^
 ||nmgneqqnnbtac.site^
 ||nmgwoawuwbnsj.space^
@@ -44099,6 +44116,7 @@ vkcdnservice.appspot.com^
 ||tsrgozzoqnwuu.online^
 ||tsrhscoypwewv.site^
 ||tssyakir.xyz^
+||tstismjsznxde.website^
 ||tstwomzhxzkhf.site^
 ||tsumachich.shop^
 ||tsvmwjhobopfx.space^
@@ -45387,6 +45405,7 @@ vkcdnservice.appspot.com^
 ||unboybandeng.top^
 ||unbraveunvague.shop^
 ||unbredtraclia.shop^
+||unbrokeophryon.shop^
 ||unbrownunflat.com^
 ||unbuildtweezesswobbed.cyou^
 ||unburlycosaque.cfd^
@@ -46136,6 +46155,7 @@ vkcdnservice.appspot.com^
 ||uraliangavials.cyou^
 ||uralicchatot.com^
 ||uraliwarpagealmner.cyou^
+||uramilovines.cyou^
 ||uraninditehandgun.cyou^
 ||uraninesau.cyou^
 ||urban-signal.pro^
@@ -49514,6 +49534,7 @@ vkcdnservice.appspot.com^
 ||wifeletseck.cyou^
 ||wifkwcrzm.com^
 ||wifwexbuzhgbp.space^
+||wifyijykcqknk.site^
 ||wiganratfink.cyou^
 ||wigapvofjar.com^
 ||wigetmedia.com^
@@ -50878,6 +50899,7 @@ vkcdnservice.appspot.com^
 ||xecdcjxhuefhg.space^
 ||xedaifojosm.net^
 ||xedbfrradaonw.site^
+||xeddnjetamdml.website^
 ||xedmesdxvkt.com^
 ||xedvuqcniuwth.website^
 ||xeequgaxpdvcq.space^
@@ -51638,6 +51660,7 @@ vkcdnservice.appspot.com^
 ||xvfarnkhampqi.space^
 ||xvhdggbxfjauj.website^
 ||xvhyfjblktelp.site^
+||xviggvimgldin.website^
 ||xviperonec.com^
 ||xvjafhbaifpngfu.com^
 ||xvjjdmgsnwokw.com^
@@ -52997,6 +53020,7 @@ vkcdnservice.appspot.com^
 ||ywusfyjhnpflr.top^
 ||ywuwsxpwucyzh.com^
 ||ywuzuazsjnzto.online^
+||ywxoouoasnty.com^
 ||ywxxyzxktxllq.website^
 ||ywzehjepmwcbe.website^
 ||ywzyhljazdsrx.space^
@@ -58955,6 +58979,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||stats.temptcdn.com^
 ||opt.mocortech.com^
 ||analytics-proxy-501188673100.us-central1.run.app^
 ||analytics.studiodesignapp.com^
@@ -63839,6 +63864,7 @@ dlsdk.appsflyer.com^
 ||dx.mountain.com^
 ||dynamic.ziftsolutions.com^
 ||e.revenue.cat^
+||e.usesneakpeek.com^
 ||e045f561.b-cdn.net^
 ||ea.youmaker.com^
 ||ec.walkme.com^
@@ -68589,6 +68615,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||rstprgapipt.com^
 ||tallertorn.com^
 ||deltarockme.com^
 ||beesratyou.com^
@@ -78284,6 +78311,9 @@ dlsdk.appsflyer.com^
 ||ahtjhe1bka.com^
 ||aq0vs4ftni.com^
 ||q1yv4669q6.com^
+||cgihh.cn^
+||bandages84.com^
+||inquiry64.top^
 ||ebgock7kz.com^
 ||xu919zz2i.com^
 ||pdjxoscm7.com^
@@ -84763,6 +84793,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter third-party ad servers
 ! Source: https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/filterslists/adblocking/filters-share/3rd_domains.txt
 !
+||delivery.pryzmads.com^
 ||barohere.xyz^
 ||ad.adwiser.kr^
 ||digitalcamp.co.kr^
