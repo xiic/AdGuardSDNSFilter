@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-07T03:04:50.937Z
+! Last modified: 2026-05-07T05:07:58.239Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6591,6 +6591,7 @@ vkcdnservice.appspot.com^
 ||bugleczmoidgxo.com^
 ||buglersoogone.cyou^
 ||buglossulexitebisons.cfd^
+||bugpuk.ru^
 ||bugrestolae.qpon^
 ||bugrtriveli.com^
 ||bugs2022.com^
@@ -33428,6 +33429,7 @@ vkcdnservice.appspot.com^
 ||qllivyfbfttlw.website^
 ||qlmbkfutbgiux.site^
 ||qlmckclcoxfpf.site^
+||qlmqdlryg.com^
 ||qlnprxncesme.com^
 ||qloekmmsuwjlq.website^
 ||qlpqyeiodksjq.online^
@@ -59162,6 +59164,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||mlm-tracking.meinestadt.de^
 ||stats.temptcdn.com^
 ||opt.mocortech.com^
 ||analytics-proxy-501188673100.us-central1.run.app^
@@ -78498,6 +78501,7 @@ dlsdk.appsflyer.com^
 ||bgverrhitahtfy.com^
 ||proceedings33.top^
 ||npunr.cn^
+||k8velr77p.com^
 ||ahtjhe1bka.com^
 ||aq0vs4ftni.com^
 ||q1yv4669q6.com^
