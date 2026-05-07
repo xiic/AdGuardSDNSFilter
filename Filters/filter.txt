@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-07T10:44:27.106Z
+! Last modified: 2026-05-07T12:36:08.621Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1480,6 +1480,7 @@ vkcdnservice.appspot.com^
 ||8tip5whk.xyz^
 ||8ttxeoz8cfk3cxbvnqf7bth.cfd^
 ||8tzh2hi3v38heojitp.cfd^
+||8ubizi41e1ryjuno.rest^
 ||8vbxc9fjroj4fmcflvpyrc9fr.rest^
 ||8vhq835pfew2qe8x5.rest^
 ||8ww4mtxh9lioib.cfd^
@@ -5492,6 +5493,7 @@ vkcdnservice.appspot.com^
 ||bii4f1bptlzcgi5kmckijh.cfd^
 ||bikechokedattic.com^
 ||bilaanpsovie.cyou^
+||bilalorasa.qpon^
 ||bilevehyppedsamaras.cyou^
 ||bilgedenlmaholi.qpon^
 ||bilkisdacelo.qpon^
@@ -16840,6 +16842,7 @@ vkcdnservice.appspot.com^
 ||guidepaparazzisurface.com^
 ||guidonsfeeing.com^
 ||guidricracs.cfd^
+||guigectgkeres.qpon^
 ||guilty-address.com^
 ||guiltygoal.com^
 ||guiltyimpediment.com^
@@ -26791,6 +26794,7 @@ vkcdnservice.appspot.com^
 ||nlmhhgvljqktf.website^
 ||nlmpgrgxcbcoo.site^
 ||nlnorvyrw.com^
+||nlsgostuanbpy.website^
 ||nlsmhyylwozop.site^
 ||nluyukqnyfjfk.space^
 ||nlvkkmososyji.website^
@@ -27963,6 +27967,7 @@ vkcdnservice.appspot.com^
 ||okjmiqaqjakm.in^
 ||oklaozkkitxoz.online^
 ||oklbhyzogmzxq.rocks^
+||oklkraatjq.in^
 ||oko.net^
 ||okoloss.com^
 ||okooiejsudbgk.space^
@@ -28084,6 +28089,7 @@ vkcdnservice.appspot.com^
 ||omshedinjaor.com^
 ||omssimialaweigh.cfd^
 ||omswwmgtqwekb.space^
+||omuoeykewy.com^
 ||omwtadxp.in^
 ||omwvapmytccsc.online^
 ||omxpiremgszzv.space^
@@ -30603,6 +30609,7 @@ vkcdnservice.appspot.com^
 ||ppslywixsqohh.space^
 ||pptfhhrohykzk.online^
 ||pptketose.cyou^
+||pptraggetykella.cfd^
 ||pptshwgmvfhie.website^
 ||pptulaljjijwq.space^
 ||ppuvyqbkphsqj.site^
@@ -31512,6 +31519,7 @@ vkcdnservice.appspot.com^
 ||pwdkxfewzpw.com^
 ||pwgwyfnthoqqf.site^
 ||pwhjumncludns.website^
+||pwhrweqahetld.online^
 ||pwhzbsikyfefn.space^
 ||pwjfuxffzbdxo.website^
 ||pwlzrgbk.com^
@@ -32371,6 +32379,7 @@ vkcdnservice.appspot.com^
 ||qxzfdeagblwys.space^
 ||qyalpbwjsmvgz.online^
 ||qybratedbxyac.online^
+||qybrsqzj.com^
 ||qyczmtalenlnc.store^
 ||qygpcxfqqvfhr.online^
 ||qyjlopimxtyq.com^
@@ -33397,6 +33406,7 @@ vkcdnservice.appspot.com^
 ||rfilmuhipsfdh.online^
 ||rfjleunftkwbm.online^
 ||rfknvbmz.com^
+||rfkyx92tr9togeknexcvnc7l28cn1ey6w23.cfd^
 ||rflfkqfkpurru.website^
 ||rfmgepktjvlfi.website^
 ||rfpbmkezjrtkf.site^
@@ -43209,6 +43219,7 @@ vkcdnservice.appspot.com^
 ||uo1yblpu9gckyuj5og9hp3ff9xmo.cfd^
 ||uoahuyvyepnv.com^
 ||uoarghkmwxcvj.website^
+||uobkhliqxpie.com^
 ||uoceijctt.net^
 ||uocnxtyrgofc.com^
 ||uocxajpuhrfyi.website^
@@ -47229,6 +47240,7 @@ vkcdnservice.appspot.com^
 ||wngegvxrgpsvm.site^
 ||wngtyiufnsuhp.online^
 ||wnguqkeiiicpt.site^
+||wnidpjdd.com^
 ||wnifhkhtpemse.space^
 ||wnigzxrllhtpi.online^
 ||wnjarqimdybp.com^
@@ -61185,6 +61197,7 @@ dlsdk.appsflyer.com^
 ||direct-events-collector.spot.im^
 ||distillery.wistia.com^
 ||dl.episerver.net^
+||dmg-libs.anm.co.uk^
 ||doh.cq0.co^
 ||doppler-client-events.cbsivideo.com^
 ||doppler-config.cbsivideo.com^
@@ -67564,6 +67577,15 @@ dlsdk.appsflyer.com^
 ! Source name: AdGuard common Cyrillic filters ad servers first-party
 ! Source: https://adguardteam.github.io/AdguardFilters/CyrillicFilters/common-sections/adservers_firstparty.txt
 !
+!
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
+||kinogo-may.vipapi.org^
 ||ad.cub.red^
 ||exad.smi2.ru^
 ||tgb.hsmedia.ru^
@@ -75651,6 +75673,7 @@ dlsdk.appsflyer.com^
 ||k8velr77p.com^
 ||oozushirp.com^
 ||zmrzis8ow.com^
+||hcjwq.cn^
 ||ahtjhe1bka.com^
 ||aq0vs4ftni.com^
 ||q1yv4669q6.com^
