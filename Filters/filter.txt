@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-08T03:03:51.345Z
+! Last modified: 2026-05-08T05:00:53.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1049,6 +1049,7 @@ vkcdnservice.appspot.com^
 ||4uzknty9cgzfitho8.rest^
 ||4vfrjbghb85rv8q7wqwyumckgu478u3p1.cfd^
 ||4vn6y527c4mmvi1t53z9n.cfd^
+||4vtnynyhmjlf5r5u7.cfd^
 ||4w3tmyk8tzll5qvjwv2qmlwv52elkmpk.rest^
 ||4wnetwork.com^
 ||4zverqcht49pqngb6fhz4bjm.rest^
@@ -3072,6 +3073,7 @@ vkcdnservice.appspot.com^
 ||aldosetenancy.cfd^
 ||aldragalgean.com^
 ||aldyrtdxccuep.space^
+||alefprimelyleskea.qpon^
 ||aleftmamsell.qpon^
 ||aleilu.com^
 ||alepinebrutish.shop^
@@ -5938,6 +5940,7 @@ vkcdnservice.appspot.com^
 ||bobabillydirect.org^
 ||bobafidges.com^
 ||bobapsoabauns.com^
+||bobbledspillet.com^
 ||bobboro.com^
 ||bobbywobby.com^
 ||bobgames-prolister.com^
@@ -8530,6 +8533,7 @@ vkcdnservice.appspot.com^
 ||comilar-efferiff.icu^
 ||comingsthous.shop^
 ||comlquina.com^
+||comltofjcmxbm.site^
 ||commandslikeable.com^
 ||commendhealthagitation.com^
 ||commentaryblame.com^
@@ -12695,6 +12699,7 @@ vkcdnservice.appspot.com^
 ||enjoyingcane.com^
 ||enjoyingclienthousing.com^
 ||enjoyingdishwashertoilet.com^
+||enkcrakxvqwbn.online^
 ||enkcyenrat.club^
 ||enlargementemergencyflank.com^
 ||enlightencareerschronicle.com^
@@ -16811,6 +16816,7 @@ vkcdnservice.appspot.com^
 ||gsbnymvxzcgku.today^
 ||gsbskecojgcwm.website^
 ||gscftqryahymh.space^
+||gsclubfhopzec.site^
 ||gscontxt.net^
 ||gsedkytitvtsp.space^
 ||gsfdbroaglwgy.website^
@@ -18569,6 +18575,7 @@ vkcdnservice.appspot.com^
 ||hvdzdrovccwom.site^
 ||hvefnbufkpxou.website^
 ||hvert.site^
+||hvfaoamqptecc.site^
 ||hvfbadvwihklc.com^
 ||hvfojfzh.com^
 ||hvgcguczoqvjr.site^
@@ -21624,6 +21631,7 @@ vkcdnservice.appspot.com^
 ||kffnjkvxbhyzl.vip^
 ||kfjhd.com^
 ||kfjwapsftuxtw.online^
+||kfkczfturilhkwl9.rest^
 ||kfkewuaghmbfm.website^
 ||kfkgfumirrdtr.space^
 ||kflosfpnwfzrc.store^
@@ -24549,6 +24557,7 @@ vkcdnservice.appspot.com^
 ||mcwtjxxpphqrs.online^
 ||mcxuorwlaqtyd.site^
 ||mcyaabdssxdlg.space^
+||mcyigpyyapjrn.website^
 ||mcymghkpdhqmk.website^
 ||mcytxdrqjmrly.fun^
 ||mczbf.com^
@@ -27243,6 +27252,7 @@ vkcdnservice.appspot.com^
 ||nrqveiycgotkw.online^
 ||nrrofvqgzprnb.space^
 ||nrs6ffl9w.com^
+||nrtshmxbrnn.com^
 ||nrwxvgpgjwbvk.site^
 ||nrxmbbhpevxji.site^
 ||nryfifdmpeotb.site^
@@ -29981,6 +29991,7 @@ vkcdnservice.appspot.com^
 ||pierisrapgae.com^
 ||piestprevot.com^
 ||pievsejhampai.online^
+||piewifezeke.com^
 ||piffledomens.shop^
 ||pifinebowssennoxally.cfd^
 ||pifowotorfwvl.online^
@@ -35480,6 +35491,7 @@ vkcdnservice.appspot.com^
 ||septohaupho.net^
 ||septuorgizzen.shop^
 ||seqmfwzsktmuj.site^
+||sequafucatesutile.qpon^
 ||sequarieversegued.qpon^
 ||sequelbusbar.cyou^
 ||sequenceclickmeasles.com^
@@ -62850,6 +62862,7 @@ dlsdk.appsflyer.com^
 ||dollarthrill.com^
 ||domaincolumn.com^
 ||doomhedge.com^
+||dotshellmain.com^
 ||doubledefend.com^
 ||doubtdrawer.com^
 ||dq95d35.com^
