@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-09T18:18:32.486Z
+! Last modified: 2026-05-09T20:13:52.561Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1597,6 +1597,7 @@ vkcdnservice.appspot.com^
 ||9noc3wlyole9z833gni5p424xql9i3.rest^
 ||9nr43xr2bu15iboz8z.rest^
 ||9oic2m9no7jn7i.cfd^
+||9p41yc1r39cuqk1ff.rest^
 ||9pub.io^
 ||9qpbpbieol83xe11y.cfd^
 ||9s4l9nik.de^
@@ -4069,6 +4070,7 @@ vkcdnservice.appspot.com^
 ||assoilnantle.cyou^
 ||assortamplitudeoctober.com^
 ||assortmentrestrictions.com^
+||assuagegeoside.qpon^
 ||assumeflippers.com^
 ||assumptiveslumber.com^
 ||assuranceapprobationblackbird.com^
@@ -8721,6 +8723,7 @@ vkcdnservice.appspot.com^
 ||congersfungidcorkir.qpon^
 ||congerstunish.com^
 ||congestprowessburger.com^
+||congresscaptainfatal.com^
 ||congruedupoxidize.cyou^
 ||congruousimplication.com^
 ||congruousthey.com^
@@ -11615,6 +11618,7 @@ vkcdnservice.appspot.com^
 ||dtmpub.com^
 ||dtmypozttguhc.site^
 ||dtodayomegksc.site^
+||dtolxskhdcxube.com^
 ||dtpenovvvaux.com^
 ||dtpngkqmjyuff.store^
 ||dtprofit.com^
@@ -28134,6 +28138,7 @@ vkcdnservice.appspot.com^
 ||ogfna.net^
 ||ogfzvuiyluosf.online^
 ||oghamudellbobcat.cfd^
+||oghfgyoqzguvq.space^
 ||oghqvffmnt.com^
 ||ogicatius.com^
 ||ogigzpqottuyl.website^
@@ -29153,6 +29158,7 @@ vkcdnservice.appspot.com^
 ||owutrvkpsak.com^
 ||owvedlxhgvvxf.store^
 ||owvkfujan.com^
+||owvoxqzcua.in^
 ||owwbulasllttm.space^
 ||owwirzikteowa.online^
 ||owwqbgkedrqeh.space^
@@ -29706,6 +29712,7 @@ vkcdnservice.appspot.com^
 ||pcdwm.com^
 ||pcexhftbidjqk.site^
 ||pceyowwoejprr.website^
+||pcezfjfcluukx.online^
 ||pcfeoayammroh.website^
 ||pcicypresscoughed.cyou^
 ||pcitaaeimgifl.online^
@@ -30540,6 +30547,7 @@ vkcdnservice.appspot.com^
 ||plxfiacmbklhsk.com^
 ||plxpubyxarcjl.space^
 ||plxserve.com^
+||plxzszrhmyysq.site^
 ||plyfoni.ru^
 ||plyikilugzsvo.website^
 ||plywoodgrubs.cyou^
@@ -32679,6 +32687,7 @@ vkcdnservice.appspot.com^
 ||qvwvsajsiwmhb.site^
 ||qvyqbrawwrynf.online^
 ||qw9xp8f49f2pfby.cfd^
+||qwfmqkysepqin.online^
 ||qwgruwrtcyxft.store^
 ||qwikln.com^
 ||qwjxcvdzrafum.club^
@@ -34980,6 +34989,7 @@ vkcdnservice.appspot.com^
 ||sandflymoaning.qpon^
 ||sandhowl.com^
 ||sandierlemurtedium.qpon^
+||sandixchasmgul.cyou^
 ||sandmakingsilver.info^
 ||sandpitreviver.shop^
 ||sandracismaboveaverage.com^
@@ -42659,6 +42669,7 @@ vkcdnservice.appspot.com^
 ||ufirmirylfavb.online^
 ||ufjmjniirpxfm.site^
 ||ufjmxuzi.com^
+||ufjrbxhnnaqai.com^
 ||ufjrhcjmb9fz694f.cfd^
 ||ufjwqdmqzlquq.world^
 ||ufkfvnlbtldu.com^
@@ -45153,6 +45164,7 @@ vkcdnservice.appspot.com^
 ||viewlnk.com^
 ||viewpath.xyz^
 ||viewworthwhile.com^
+||viewycaulds.shop^
 ||vifdacrin.qpon^
 ||vifdaxiphoid.qpon^
 ||vigilancebreaking.com^
