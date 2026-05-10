@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-10T03:04:51.965Z
+! Last modified: 2026-05-10T05:12:20.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1155,6 +1155,7 @@ vkcdnservice.appspot.com^
 ||5lz3n3y4ztroby.cfd^
 ||5mn7cf73.xyz^
 ||5mu7l42uf9lnhlxchq.cfd^
+||5mw9hy9qr9eu8k.rest^
 ||5nfc.net^
 ||5nt1gx7o57.com^
 ||5ntikb83gxc48t.cfd^
@@ -11335,6 +11336,7 @@ vkcdnservice.appspot.com^
 ||doubterhire.cyou^
 ||doubtsuseless.com^
 ||douceurbundies.cyou^
+||douchedjezebeldunks.qpon^
 ||doucheraisiny.com^
 ||douckermoratleysing.cfd^
 ||doucswow.cfd^
@@ -11601,6 +11603,7 @@ vkcdnservice.appspot.com^
 ||dsntah.com^
 ||dsp.wtf^
 ||dsp5stero.com^
+||dspchided.com^
 ||dspultra.com^
 ||dsraozxhfuifo.site^
 ||dstha9.com^
@@ -11770,6 +11773,7 @@ vkcdnservice.appspot.com^
 ||dvymkekwkkgdi.space^
 ||dvypar.com^
 ||dvzycytrxbxav.space^
+||dwaibletetania.com^
 ||dwalhkbrywnaw.site^
 ||dwamhdnllmhwu.site^
 ||dwarfscriptsfurnished.com^
@@ -16222,6 +16226,7 @@ vkcdnservice.appspot.com^
 ||gkmjovbmwuldf.site^
 ||gkqyxuycchww.com^
 ||gkrtmc.com^
+||gkudvtagscd.com^
 ||gkuwhqgpgwlec.space^
 ||gkxixncsphfli.online^
 ||gkxqtciviedjv.com^
@@ -16778,6 +16783,7 @@ vkcdnservice.appspot.com^
 ||greaterjoke.com^
 ||greatlifebargains2024.com^
 ||greatlybaryte.qpon^
+||grecingcloners.com^
 ||grecquerated.cfd^
 ||greedy-reality.pro^
 ||greedyfire.com^
@@ -17902,6 +17908,7 @@ vkcdnservice.appspot.com^
 ||hhmako.cloud^
 ||hhmrsmghtbdln.site^
 ||hhocpbwbjlywm.website^
+||hhounvkxcdj.com^
 ||hhowyijfffxry.online^
 ||hhpqddtmkuxhd.website^
 ||hhthgsgnlrwii.website^
@@ -18609,6 +18616,7 @@ vkcdnservice.appspot.com^
 ||hue11.com^
 ||hue2b.com^
 ||hueadsxml.com^
+||huedpersonsovated.cyou^
 ||hufbefsmcvfvwlb.com^
 ||hufhqultarufi.online^
 ||hugeedate.com^
@@ -29720,6 +29728,7 @@ vkcdnservice.appspot.com^
 ||pbugzelgt7vlxm.cfd^
 ||pbvmuafmk.com^
 ||pbwrt9qkobb5jlq.cfd^
+||pbxagcahqree.com^
 ||pbxai.com^
 ||pbxphallus.qpon^
 ||pbyfqdlhzrrit.online^
@@ -31833,6 +31842,7 @@ vkcdnservice.appspot.com^
 ||putchumt.com^
 ||putdowncytodepullus.cfd^
 ||putlogguffaw.com^
+||putpnvsxxgpsg.site^
 ||putriddelay.pro^
 ||putrr16.com^
 ||putrr7.com^
@@ -31868,6 +31878,7 @@ vkcdnservice.appspot.com^
 ||pvhlrsqduzzfv.website^
 ||pvkvxdutpgtzh.online^
 ||pvlllrrqnmjyz.online^
+||pvmcjknr8nr7v9y1p3zi57l.cfd^
 ||pvmhugflwgkri.space^
 ||pvnwffnuuatayru.com^
 ||pvnwfoxrfezes.space^
@@ -34138,6 +34149,7 @@ vkcdnservice.appspot.com^
 ||rmlnxwswbvoff.space^
 ||rmodpupilgk.com^
 ||rmoolrrw.com^
+||rmpgcpimiudoi.space^
 ||rmpywaamvfwfa.store^
 ||rmqgscbitoadp.site^
 ||rmqtqrtxhwilx.store^
@@ -47852,6 +47864,7 @@ vkcdnservice.appspot.com^
 ||wonderingtipmortify.com^
 ||wonderingtraverse.com^
 ||wongararebs.help^
+||wonnotbrant.shop^
 ||wonstreron.cfd^
 ||wontliangsraff.cyou^
 ||wonyugeqyvfob.online^
@@ -76216,6 +76229,8 @@ dlsdk.appsflyer.com^
 ||l3j3glzp6g.com^
 ||ir3f1x3aet.com^
 ||stitches08.com^
+||liability48.top^
+||o28wg9kq8i.com^
 ||qiey8zrxz.com^
 ||rdgck4jo4.com^
 ||qnywphp.forum^
