@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-10T08:36:56.034Z
+! Last modified: 2026-05-10T10:26:09.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -535,6 +535,7 @@ vkcdnservice.appspot.com^
 ||18aa7dae85.com^
 ||18e86316dc.com^
 ||18tlm4jee.de^
+||18zkj1qlruj79oyq63f6w.cfd^
 ||19515bia.de^
 ||197c4632ea.com^
 ||19uugz4crqucw23qqvzwl53.cfd^
@@ -5081,6 +5082,7 @@ vkcdnservice.appspot.com^
 ||becurstpoffle.cfd^
 ||becutdubbed.shop^
 ||bedaffyamen.cfd^
+||bedamnssoaks.cyou^
 ||bedaregein.cfd^
 ||bedarksolans.cfd^
 ||bedashliegiersubset.cyou^
@@ -7602,6 +7604,7 @@ vkcdnservice.appspot.com^
 ||cepvrksx.com^
 ||ceqspqzcifqhg.online^
 ||ceqyuidnlnyib.site^
+||ceratinmaistloveful.cyou^
 ||ceremonyjogglecling.com^
 ||ceremonysystemsfried.com^
 ||cerilloinverts.com^
@@ -10758,6 +10761,7 @@ vkcdnservice.appspot.com^
 ||dikasomywnqww.website^
 ||dikcmpgwemomx.space^
 ||dikeprotectorencyclopaedia.com^
+||dikingjicara.shop^
 ||dikqudbgvloe.com^
 ||dilatedronishsau.qpon^
 ||diligenceshaped.com^
@@ -15776,6 +15780,7 @@ vkcdnservice.appspot.com^
 ||gayadpros.com^
 ||gaychdyevupfd.website^
 ||gayetypgnttrpoctroy.cfd^
+||gayhistone.cfd^
 ||gayunfixt.cyou^
 ||gazati.com^
 ||gazedatthewon.com^
@@ -26537,6 +26542,7 @@ vkcdnservice.appspot.com^
 ||nawljtngvxrgc.space^
 ||nawpush.com^
 ||naznfshwgtkyk.space^
+||nb2mc226pqzvqi.rest^
 ||nbadgnaqqqrxx.website^
 ||nbbpkflruqfsn.space^
 ||nbbpynkclbynx.online^
@@ -26981,6 +26987,7 @@ vkcdnservice.appspot.com^
 ||nikkiexxxads.com^
 ||nikkuddripple.cfd^
 ||niktmeeqgvogw.online^
+||nilgaushardockrameous.qpon^
 ||nimbedstrap.cyou^
 ||nimble-bench.com^
 ||nimble-tear.pro^
@@ -28182,6 +28189,7 @@ vkcdnservice.appspot.com^
 ||ogfhuleifmtvd.site^
 ||ogfjibazwmi.in^
 ||ogfna.net^
+||ogfxrbhcnvspnk.com^
 ||ogfzvuiyluosf.online^
 ||oghamudellbobcat.cfd^
 ||oghfgyoqzguvq.space^
@@ -28802,6 +28810,7 @@ vkcdnservice.appspot.com^
 ||orillonhaycock.cyou^
 ||orinryesope.org^
 ||oritooep.win^
+||orivljebpiflr.website^
 ||orjfun.com^
 ||orjlsopkbtieb.store^
 ||orjvjjcnlgick.space^
@@ -30169,6 +30178,7 @@ vkcdnservice.appspot.com^
 ||phoneboothsabledomesticated.com^
 ||phonecustomer.com^
 ||phonehalfmoonwild.com^
+||phonemedutra.cyou^
 ||phoneysmelvie.cfd^
 ||phonismsirex.cfd^
 ||phonydepth.com^
@@ -33412,6 +33422,7 @@ vkcdnservice.appspot.com^
 ||regardingsnappy.com^
 ||regardlived.com^
 ||reghgnyodfqoi.store^
+||regiftpercale.cyou^
 ||regimentchat.com^
 ||regimesgyrus.cfd^
 ||regionads.ru^
@@ -34204,6 +34215,7 @@ vkcdnservice.appspot.com^
 ||rnmentoftheusys.org^
 ||rnmreusbdsmyc.space^
 ||rnobijyojinek.website^
+||rnofuxgaz.com^
 ||rnoliuuhsrqjc.site^
 ||rnomkdzkunewx.space^
 ||rnotraff.com^
@@ -36758,6 +36770,7 @@ vkcdnservice.appspot.com^
 ||skinstackpeculiarity.com^
 ||skipdissatisfactionengland.com^
 ||skippaccustom.org^
+||skipperturncap.qpon^
 ||skipperx.net^
 ||skippleoilcamp.cyou^
 ||skirecruitdoorway.com^
@@ -37874,6 +37887,7 @@ vkcdnservice.appspot.com^
 ||spotsconcealedunlikely.com^
 ||spotted-alternative.com^
 ||spotted-speech.com^
+||spottlelogjams.qpon^
 ||spottt.com^
 ||spotxcdn.com^
 ||spotxchange.com^
@@ -37955,6 +37969,7 @@ vkcdnservice.appspot.com^
 ||sqdtdxefkjsgn.space^
 ||sqerqxljna.com^
 ||sqgvbkabphxzi.website^
+||sqhpswzhoxmiw.site^
 ||sqhqtvnvfzfne.store^
 ||sqipzeebqmina.online^
 ||sqisdiyvaghxd.site^
@@ -39453,6 +39468,7 @@ vkcdnservice.appspot.com^
 ||szqvbkwohszkr.space^
 ||szqxvo.com^
 ||szsduffyipdbir.com^
+||szuuavklaghmb.online^
 ||szuyezltkzrku.space^
 ||szwrfefyffnaf.space^
 ||szwtidevfrvzo.site^
@@ -45656,6 +45672,7 @@ vkcdnservice.appspot.com^
 ||vnazcqacydaqt.website^
 ||vnbbfvgbeklnf.store^
 ||vnbrcfmdndguz.life^
+||vnchlbtawhqpd.site^
 ||vncu4vvfiuyl226f1ep716czfl.rest^
 ||vndblupazzsaj.website^
 ||vndhbthmtxgzo.space^
