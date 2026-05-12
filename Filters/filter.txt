@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-12T18:35:47.007Z
+! Last modified: 2026-05-12T20:32:31.965Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4157,6 +4157,7 @@ vkcdnservice.appspot.com^
 ||asxtutrchzxpw.com^
 ||aszsfjntyvrbg.website^
 ||atableofcup.com^
+||atahtgwxv.com^
 ||ataiyalstrays.com^
 ||atajuvenal.cfd^
 ||atala-apw.com^
@@ -4970,6 +4971,7 @@ vkcdnservice.appspot.com^
 ||bayamostem.qpon^
 ||bayardagleafgallons.cyou^
 ||baycuruik.com^
+||bayetareveriebehoney.cfd^
 ||baygpuglqgzoi.store^
 ||bayingavenida.digital^
 ||bayshorline.com^
@@ -12084,6 +12086,7 @@ vkcdnservice.appspot.com^
 ||eakpuvxc.com^
 ||ealeo.com^
 ||ealiukzemydreamsa.com^
+||ealjjdpbledwq.site^
 ||eallywasnothyca.com^
 ||ealmtiqryxpox.website^
 ||eamrxyoyatwgm.website^
@@ -14609,6 +14612,7 @@ vkcdnservice.appspot.com^
 ||fizgigsbakie.shop^
 ||fizmyftiyt.com^
 ||fizzyacerbitymellow.com^
+||fjdrvuxvafmcgo.com^
 ||fjeamibbbhxuf.site^
 ||fjehdlzbqjdyb.site^
 ||fjeldlabret.qpon^
@@ -17939,6 +17943,7 @@ vkcdnservice.appspot.com^
 ||helplessdecision.pro^
 ||helvellreest.com^
 ||helvesknaw.cyou^
+||helzelgeyan.shop^
 ||hem41xm47.com^
 ||hemalanti.cyou^
 ||hemapodfubberyvoilier.cyou^
@@ -25377,6 +25382,7 @@ vkcdnservice.appspot.com^
 ||mhtgouywqxrxa.online^
 ||mhueqnxfndfhy.space^
 ||mhvcwlpg.com^
+||mhwnlmindermr.space^
 ||mhyacjinulgvu.store^
 ||mhyc3epk4h1xgq9v13w9wr1ei4uv6x34y.cfd^
 ||mhydndfvgzvwu.site^
@@ -28880,6 +28886,7 @@ vkcdnservice.appspot.com^
 ||ooijwtxpvcuvd.space^
 ||oojnpzimufgpr.online^
 ||oojujkszfgqxq.space^
+||oojwuhhcdhvwb.space^
 ||ookawfkiguyoho.com^
 ||ooktgltucmhnf.site^
 ||oolakdarwesh.cyou^
@@ -33813,6 +33820,7 @@ vkcdnservice.appspot.com^
 ||reliableguardianindifference.com^
 ||reliablemore.com^
 ||relicremote.com^
+||reliefraindues.com^
 ||relievebastafellest.qpon^
 ||relieved-conflict.pro^
 ||relieved-potential.pro^
@@ -34670,6 +34678,7 @@ vkcdnservice.appspot.com^
 ||rooseduncruel.cfd^
 ||roostedpunched.qpon^
 ||roostedunturn.cfd^
+||roostfraynesector.qpon^
 ||rootcaptawed.com^
 ||rootlehen.qpon^
 ||roots.baby^
@@ -35017,6 +35026,7 @@ vkcdnservice.appspot.com^
 ||ruminaribonic.qpon^
 ||rummagebowlingacheless.com^
 ||rummescanelle.qpon^
+||rummierencamp.qpon^
 ||rummyaffiliates.com^
 ||rumouruprising.com^
 ||rumplypeonize.cyou^
@@ -44717,6 +44727,7 @@ vkcdnservice.appspot.com^
 ||uwqtngztblbpt.site^
 ||uwrhqzftllepi.site^
 ||uwsmamsebynub.site^
+||uwsolnysivq.com^
 ||uwtybptzsqcvo.online^
 ||uwuypebetgkvr.online^
 ||uwvfubpjih.com^
@@ -57383,6 +57394,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||data-api.fenbi.com^
 ||mpecom-analyticevents-prod.boyner.com.tr^
 ||dlso-ap96.macgamingdb.app^
 ||fm-analytics.cloudbees.io^
