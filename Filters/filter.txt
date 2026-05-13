@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-13T05:17:12.494Z
+! Last modified: 2026-05-13T07:01:14.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20,6 +20,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||a.hentaiocean.com^
 ||adradar.io^
 ||ads.starzd.pro^
 ||advertising.civitai.
@@ -5016,6 +5017,7 @@ vkcdnservice.appspot.com^
 ||bbrdbr.com^
 ||bbspnbahaepje.com^
 ||bbsrelpwjryqcnd.com^
+||bbttlabyduenv.space^
 ||bbtvpnqyvdzmq.website^
 ||bbtzlrfuc.com^
 ||bbtzmolquyfhe.website^
@@ -5483,6 +5485,7 @@ vkcdnservice.appspot.com^
 ||bfraircymryuh.xyz^
 ||bfrjiwydcakxu.site^
 ||bfrrndnsbmiov.site^
+||bfssppyxypbix.website^
 ||bftrziwxumrpe.online^
 ||bftsvzccaoqba.website^
 ||bfvaadlucccjb.space^
@@ -6547,6 +6550,7 @@ vkcdnservice.appspot.com^
 ||broodbelongminiature.com^
 ||broodoppressiveuptodate.com^
 ||brookrivet.com^
+||broonvergi.qpon^
 ||brooshatchet.cfd^
 ||brosdefender.com^
 ||brothdiscoversupposed.com^
@@ -10945,6 +10949,7 @@ vkcdnservice.appspot.com^
 ||dirkingnogg.shop^
 ||dirkkenemaconable.cyou^
 ||dirtharvestnickel.com^
+||dirtiedrudy.cyou^
 ||dirtinessbeastpotatoes.com^
 ||dirty.games^
 ||disableadblock.com^
@@ -16336,6 +16341,7 @@ vkcdnservice.appspot.com^
 ||ginchoirblessed.com^
 ||gingerhydrula.cfd^
 ||ginkidojk.in^
+||ginnierlondonsnooks.cfd^
 ||ginningconant.com^
 ||ginningsteri.com^
 ||ginshavance.qpon^
@@ -20835,6 +20841,7 @@ vkcdnservice.appspot.com^
 ||jbldfugqruigf.website^
 ||jbmmqpmrdjnsn.global^
 ||jbno6u2jlcrm45gqw.rest^
+||jbogixigsf.com^
 ||jboztgcwxnvoc.website^
 ||jbqmjdbxsxlyj.site^
 ||jbqtnmomoetzz.site^
@@ -21112,6 +21119,7 @@ vkcdnservice.appspot.com^
 ||jiqpagarc.in^
 ||jiquicryindexed.qpon^
 ||jirot.xyz^
+||jisduzajwvtu.in^
 ||jisqwlqhiojhe.site^
 ||jitanvlw.com^
 ||jitgibmibpayc.online^
@@ -22563,6 +22571,7 @@ vkcdnservice.appspot.com^
 ||kotylosjambosa.cyou^
 ||koushauwhie.xyz^
 ||kowbrvtqzyqkk.space^
+||kowi675rkety6bhqrbxg6jgrwv7y.cfd^
 ||kownxhruhryeh.site^
 ||koytnkgoywyhe.site^
 ||koyyppqoesnvh.website^
@@ -32978,6 +32987,7 @@ vkcdnservice.appspot.com^
 ||qualitymortify.com^
 ||quangokebobmurally.cyou^
 ||quanta-wave.com^
+||quantatwaes.com^
 ||quantiburrel.cfd^
 ||quanticmucinyameo.qpon^
 ||quantisicily.com^
@@ -38944,6 +38954,7 @@ vkcdnservice.appspot.com^
 ||stoutjangle.com^
 ||stoutyear.com^
 ||stovecrosnes.help^
+||stoveslodgers.cyou^
 ||stowagegentil.com^
 ||stowbilateral.com^
 ||stowcemisgrew.help^
@@ -44301,6 +44312,7 @@ vkcdnservice.appspot.com^
 ||upfpaqonqddtd.website^
 ||upframemacauco.cyou^
 ||upfurlhast.cfd^
+||upg99r5plloz3j.rest^
 ||upgazeflayerspali.cyou^
 ||upgetcly.cyou^
 ||upgpiervbufvr.website^
@@ -49464,6 +49476,7 @@ vkcdnservice.appspot.com^
 ||xhaahvpleugdp.site^
 ||xhddmoowf.xyz^
 ||xhdooiqhqpinv.space^
+||xhduilwxcewlzn.com^
 ||xhfgsffm.com^
 ||xhfhavppnxent.online^
 ||xhfisaouketwr.online^
@@ -51272,6 +51285,7 @@ vkcdnservice.appspot.com^
 ||yrtonqtxjtjct.site^
 ||yrtwyzzmrcmzm.online^
 ||yruqwfriqcots.website^
+||yrvamtdweysom.site^
 ||yrviuivtxhqay.store^
 ||yrvjauoibgcoa.website^
 ||yrwyaegirefcr.site^
@@ -76847,6 +76861,7 @@ dlsdk.appsflyer.com^
 ||k98033ewp.com^
 ||lm4u6e80f.com^
 ||df33iyey8.com^
+||probing34.com^
 ||9dehzr5d2i.com^
 ||divcb7ycs5.com^
 ||zrjr81na94.com^
