@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-13T07:01:14.107Z
+! Last modified: 2026-05-13T08:59:25.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13546,6 +13546,7 @@ vkcdnservice.appspot.com^
 ||evydkddccddiw.online^
 ||evylputjibynd.website^
 ||evynujgbglxzi.space^
+||evzemrfmjazgx.space^
 ||evzhzppj5kel.com^
 ||evzrqgvsgngmg.world^
 ||ew9v84jyq9mjnqqup3.rest^
@@ -17117,6 +17118,7 @@ vkcdnservice.appspot.com^
 ||grousyfulcral.com^
 ||groutoozy.com^
 ||groutyprimas.qpon^
+||groveldenningtormina.qpon^
 ||grovelluster.shop^
 ||groweyelid.com^
 ||growledbravely.com^
@@ -18219,6 +18221,7 @@ vkcdnservice.appspot.com^
 ||hileabusers.cyou^
 ||hilerant.site^
 ||hillglamorous.com^
+||hillsudic.cfd^
 ||hilltopads.com^
 ||hiltszbirzcky.store^
 ||hilusdhurrajudas.cfd^
@@ -19529,6 +19532,7 @@ vkcdnservice.appspot.com^
 ||ikzwvkuxrymqu.space^
 ||il2foh6wfcznb75tu2zz.cfd^
 ||ilaterdeallyig.info^
+||ildr3vij.xyz^
 ||ildrenastheycam.org^
 ||ildrendreaminger.org^
 ||ilduebezyghcj.website^
@@ -23274,6 +23278,7 @@ vkcdnservice.appspot.com^
 ||leafletstoesimplicity.com^
 ||leafy-feel.com^
 ||leafy-glove.pro^
+||leafyhistorian.com^
 ||leafysession.pro^
 ||leagueinfantry.com^
 ||leaguewarskeleton.com^
@@ -32281,6 +32286,7 @@ vkcdnservice.appspot.com^
 ||pvgwfonlx.com^
 ||pvhhpwbdy.com^
 ||pvhlrsqduzzfv.website^
+||pvixgcirbpcrm.com^
 ||pvkvxdutpgtzh.online^
 ||pvlllrrqnmjyz.online^
 ||pvmcjknr8nr7v9y1p3zi57l.cfd^
@@ -39186,6 +39192,7 @@ vkcdnservice.appspot.com^
 ||subgloaners.qpon^
 ||subgumagnate.cfd^
 ||subgumsabe.cfd^
+||subhallbrowsedweepier.qpon^
 ||subiqquokjziy.store^
 ||subitopreface.qpon^
 ||subiyakilim.qpon^
@@ -46318,6 +46325,7 @@ vkcdnservice.appspot.com^
 ||votnwwhqtuohp.store^
 ||votruiiuefzwd.today^
 ||votuclnip.com^
+||votwxjyso.com^
 ||voucochepta.net^
 ||voujxarvlijpo.space^
 ||vouwouhusta.net^
@@ -66955,6 +66963,7 @@ dlsdk.appsflyer.com^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
 ||g-stats.openhost.es^
+||llmometrics.b-cdn.net^
 ||madrid.report.botm.transparentedge.io^
 ||marker.konograma.com^
 ||met.seriesapi.co^
