@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-14T20:31:06.934Z
+! Last modified: 2026-05-14T22:23:22.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1390,6 +1390,7 @@ vkcdnservice.appspot.com^
 ||7ec5e0d805.com^
 ||7ee7484ba9.com^
 ||7eit28evocng5gjuu.rest^
+||7eute29l5li2c84umb.rest^
 ||7f89d90c6f.com^
 ||7fc0966988.com^
 ||7fhginl5cekq8ykr5hc9bn26xwb.cfd^
@@ -11381,6 +11382,7 @@ vkcdnservice.appspot.com^
 ||doaltariaer.com^
 ||doankhqxgwbui.site^
 ||doatscreakyantique.cyou^
+||dobbbrfcqcnkxlc.com^
 ||dobbomqaokbpw.site^
 ||doblaslaager.shop^
 ||doblonmortals.shop^
@@ -12248,6 +12250,7 @@ vkcdnservice.appspot.com^
 ||eayfdraben.xyz^
 ||eazqiicorbzpm.site^
 ||eazyleads.com^
+||eb1flhyrpbpiiq.cfd^
 ||eb99f6e7e0.com^
 ||ebahlzecivibz.website^
 ||ebakvswalujjf.com^
@@ -18236,6 +18239,7 @@ vkcdnservice.appspot.com^
 ||hhibegwitnseix.com^
 ||hhihpgdsvtdiy.com^
 ||hhit.xyz^
+||hhjcuoyaaekut.site^
 ||hhjow.com^
 ||hhjtfambhvzax.site^
 ||hhkjridsviiwu.website^
@@ -21960,6 +21964,7 @@ vkcdnservice.appspot.com^
 ||jzwghlxfjnwks.website^
 ||jzwgjqulaccsw.site^
 ||jzxouwszeyhrq.online^
+||jzysorlfmgznf.website^
 ||jzyxymekrmauc.site^
 ||jzzcyytskiojk.life^
 ||k1w4386yec6lu28ioc9uqno9v4.rest^
@@ -26190,6 +26195,7 @@ vkcdnservice.appspot.com^
 ||monumentsmaterialeasel.com^
 ||monxserver.com^
 ||mooddivided.com^
+||moodirpandect.shop^
 ||moodirresolute.com^
 ||moodytrustworthy.com^
 ||moogratkzvmwt.online^
@@ -28269,6 +28275,7 @@ vkcdnservice.appspot.com^
 ||nyphgxjomnbne.online^
 ||nyqisqlogwnnr.online^
 ||nyquazhpvouya.website^
+||nyrrsmjenats.com^
 ||nyrtxtkgoaxad.online^
 ||nysfojqrviqoz.space^
 ||nythathaveresul.org^
@@ -30108,6 +30115,7 @@ vkcdnservice.appspot.com^
 ||parasolcrimefactory.com^
 ||parbakefreemen.qpon^
 ||parcelconsists.com^
+||parcelseaning.cyou^
 ||parched-director.pro^
 ||parched-mail.com^
 ||pardahdantist.cfd^
@@ -30428,6 +30436,7 @@ vkcdnservice.appspot.com^
 ||pectosealvia.click^
 ||pectousfossilstae.cfd^
 ||pedaloflakierchicote.cyou^
+||pedchats.cfd^
 ||pedetescleanse.com^
 ||pedetesdorize.cfd^
 ||pedjnohpdrthi.site^
@@ -31008,6 +31017,7 @@ vkcdnservice.appspot.com^
 ||placidityelite.com^
 ||placiditylever.com^
 ||pladnauqfy.com^
+||plafondloxomma.qpon^
 ||plain-plane.com^
 ||plainfeelings.com^
 ||plainlyhorizontally.com^
@@ -35211,6 +35221,7 @@ vkcdnservice.appspot.com^
 ||rtessfxxrqjbd.space^
 ||rtgio.co^
 ||rthformttet.com^
+||rthgioiiitlww.space^
 ||rthpetahceiol.space^
 ||rtibriolhapk.com^
 ||rtichevre.cfd^
@@ -35767,6 +35778,7 @@ vkcdnservice.appspot.com^
 ||sarcasticnotarycontrived.com^
 ||sarcastscriptoechevin.cyou^
 ||sarcelflues.cfd^
+||sarcinenosingsendaze.qpon^
 ||sardanaboxful.cfd^
 ||sardarsbenami.cyou^
 ||sardineabstract.com^
@@ -38981,6 +38993,7 @@ vkcdnservice.appspot.com^
 ||stdwlusgxroc.com^
 ||stdwound.cfd^
 ||steakeffort.com^
+||steakgrudgepaeon.cyou^
 ||steakordeal.com^
 ||stealavauntoutlets.cfd^
 ||steamabundanceslope.com^
@@ -43523,6 +43536,7 @@ vkcdnservice.appspot.com^
 ||ugfntiwdellss.space^
 ||ugfusydmy.net^
 ||ugfvthcny.com^
+||uggpqfwbzhbir.space^
 ||uggrcyzcgkbfr.space^
 ||uggwlgwan.com^
 ||uggwouhzwuhcb.website^
@@ -45043,6 +45057,7 @@ vkcdnservice.appspot.com^
 ||uwdqokjwmnfxu.site^
 ||uwemasfpdgnrj.site^
 ||uwfdngfnpiovxt.com^
+||uwfrrgmecphjw.com^
 ||uwfsrubjqlibq.store^
 ||uwhdtqwdubvdf.website^
 ||uwhevailoo.net^
