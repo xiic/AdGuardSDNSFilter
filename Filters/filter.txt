@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-15T03:05:32.258Z
+! Last modified: 2026-05-15T05:17:56.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6686,6 +6686,7 @@ vkcdnservice.appspot.com^
 ||bshrdr.com^
 ||bsipsynpzfzkb.online^
 ||bsjcalhgylyxe.space^
+||bsjigirhvfukb.online^
 ||bsjxodcvrvgbe.online^
 ||bskakeiotyvge.online^
 ||bskilkkuooeyy.site^
@@ -12281,6 +12282,7 @@ vkcdnservice.appspot.com^
 ||ebeca096c8caf9bd59163307d4237176.com^
 ||ebemgieytjkxb.space^
 ||ebetoni.com^
+||ebevdidgdjmhf.website^
 ||ebfclhdkkmeav.store^
 ||ebfikkllokqea.online^
 ||ebftaryatw.com^
@@ -17080,6 +17082,7 @@ vkcdnservice.appspot.com^
 ||granularcloud.com^
 ||granularconsideration.pro^
 ||granulargame.com^
+||granumchemmysiphons.cyou^
 ||grapefruitstarchbeep.com^
 ||graphicspikedisaster.com^
 ||graphsmeth.qpon^
@@ -28347,6 +28350,7 @@ vkcdnservice.appspot.com^
 ||o2c7dks4.de^
 ||o333o.com^
 ||o368sxdu.xyz^
+||o3g3yg34om876u.rest^
 ||o3r4yx8ckyltzzuu7tf61zkciu.rest^
 ||o3sxhw5ad.com^
 ||o4nofsh6.de^
@@ -44774,6 +44778,7 @@ vkcdnservice.appspot.com^
 ||uqxtyjclokxex.website^
 ||uqzoyikxsfhdr.space^
 ||uqztq34getlh17oxjz1q4hmge.rest^
+||ur446tx7t1lkneo9xerwe828bqjqmbv1.cfd^
 ||ur9grh7xbm8lw6.rest^
 ||urablqistynjk.online^
 ||uraemiapeage.cfd^
@@ -55160,6 +55165,7 @@ vkcdnservice.appspot.com^
 ||search-carousel-widget.snc-prod.aws.cinch.co.uk^
 ||secure.money.com^
 ||serving.lookverin.com^
+||servrg.com^
 ||shopmyshelf.us^
 ||sk.fapnow.xxx^
 ||smartads.statsperform.com^
@@ -77326,6 +77332,7 @@ dlsdk.appsflyer.com^
 ||ino4637d0.com^
 ||gzldas.icu^
 ||attainder41.com^
+||hdcvecyv8.com^
 ||idzdsbanio.com^
 ||u4q3l5ksmw.com^
 ||n8bpikx1mt.com^
