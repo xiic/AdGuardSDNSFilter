@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-16T05:05:16.218Z
+! Last modified: 2026-05-16T06:46:06.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1292,6 +1292,7 @@ vkcdnservice.appspot.com^
 ||6ir8zn9ec4ubov9ftkr.cfd^
 ||6j296m8k.de^
 ||6j8m7r6ngvm6obzkp1q6ewiy25.rest^
+||6jim4b7h79r3cyhz1.cfd^
 ||6mbc18yufuulgv6ov4ko1v23gecb36l8k.rest^
 ||6n31kok4l1iezhyxr9t8wr95v.rest^
 ||6n826tunbch234.rest^
@@ -6806,6 +6807,7 @@ vkcdnservice.appspot.com^
 ||buckumoore.com^
 ||buckweeklyrecording.com^
 ||buddedchaosoreodon.cyou^
+||buddlesnomial.cfd^
 ||budgeencodeunions.com^
 ||budhoes.cfd^
 ||budsminepatent.com^
@@ -6943,6 +6945,7 @@ vkcdnservice.appspot.com^
 ||burwfuhpwjlme.site^
 ||buseddisseat.cfd^
 ||busherdebates.com^
+||busherstabelbail.qpon^
 ||bushfulabiston.cfd^
 ||bushiebruta.shop^
 ||bushsurprising.com^
@@ -12716,6 +12719,7 @@ vkcdnservice.appspot.com^
 ||ejibgrotomytx.site^
 ||ejihhtgvjeglq.online^
 ||ejlqdcyrjsakh.site^
+||ejmidntfgqwfh.site^
 ||ejnhzgcgazhjl.site^
 ||ejnrlecwlkoklw.com^
 ||ejoanpaklnyrg.space^
@@ -15455,6 +15459,7 @@ vkcdnservice.appspot.com^
 ||frautkgibbbwj.space^
 ||frayed-coat.pro^
 ||frayhalfyear.com^
+||frayingfilmize.cyou^
 ||fraypglkohhdf.website^
 ||frazergraces.rest^
 ||frblernpdqkdq.space^
@@ -17597,6 +17602,7 @@ vkcdnservice.appspot.com^
 ||gxcmcnzgoxjcu.online^
 ||gxdqqpmihainvx.com^
 ||gxetowrzlnqbf.online^
+||gxfffnatvwidf.space^
 ||gxfftsdvmekwu.site^
 ||gxfrctjcgfstn.website^
 ||gxgjbfopbiiva.space^
@@ -21378,6 +21384,7 @@ vkcdnservice.appspot.com^
 ||jisqwlqhiojhe.site^
 ||jitanvlw.com^
 ||jitgibmibpayc.online^
+||jitiroundly.cyou^
 ||jitqwooztonj.in^
 ||jitsjnlwupbdh.site^
 ||jitterendeavour.com^
@@ -26372,6 +26379,7 @@ vkcdnservice.appspot.com^
 ||mopy.cloud^
 ||moqivsgwxyoqc.space^
 ||moqtnysownefx.site^
+||moralealanyl.cfd^
 ||moralgetups.qpon^
 ||morallyfitful.com^
 ||moraythurt.shop^
@@ -26813,6 +26821,7 @@ vkcdnservice.appspot.com^
 ||muuxrbdsheuhg.space^
 ||muvulebechasepotch.cfd^
 ||muxieboupdbbg.space^
+||muxozrjut.in^
 ||muxzipacympze.website^
 ||muzarabeponym.website^
 ||muzikguide.com^
@@ -29112,6 +29121,7 @@ vkcdnservice.appspot.com^
 ||omckeksvvawxv.com^
 ||omcrobata.com^
 ||omcusrmpkvi.com^
+||omcyfmoxyn.com^
 ||omefukmendationfo.com^
 ||omegaadblock.net^
 ||omegatrak.com^
@@ -29941,6 +29951,7 @@ vkcdnservice.appspot.com^
 ||owxpzlhikjoyj.store^
 ||owxsolpqxqyiy.space^
 ||owywlwjvvkcjc.site^
+||owzunvdlycrky.online^
 ||owzwnawuyzmif.com^
 ||oxacidunfiend.shop^
 ||oxado.com^
@@ -35682,6 +35693,7 @@ vkcdnservice.appspot.com^
 ||rxvyaqqvdnblc.space^
 ||rxwjetugafkwt.online^
 ||rxxnwnnpakktx.site^
+||ry3yeopgrjn3b1.rest^
 ||ryapalta.com^
 ||rybatbunce.shop^
 ||ryddiuaiixndo.site^
@@ -42586,6 +42598,7 @@ vkcdnservice.appspot.com^
 ||tresultofthepla.com^
 ||treviskharif.cfd^
 ||trewelpyxesseriola.cyou^
+||trewsscutta.qpon^
 ||trftopp.biz^
 ||trgqndztvxudg.online^
 ||trhefhiqsxizm.website^
@@ -43735,6 +43748,7 @@ vkcdnservice.appspot.com^
 ||ufmdtcyprejjm.site^
 ||ufmpwceabzzov.website^
 ||ufndmiexchjfi.online^
+||ufoopuomwplibta.com^
 ||ufouxbwn.com^
 ||ufpcdn.com^
 ||ufqbzivziskoh.website^
@@ -45710,6 +45724,7 @@ vkcdnservice.appspot.com^
 ||vazypteke.pro^
 ||vbb4r3vttftucb5kwtmq979xn.rest^
 ||vbbpuopouymio.online^
+||vbclshtzg.com^
 ||vbcojhroxkoaf.online^
 ||vbdozzrdqluca.store^
 ||vbeywdzjmxzzq.site^
@@ -50037,6 +50052,7 @@ vkcdnservice.appspot.com^
 ||xhwsvvhzozndh.website^
 ||xhxqxgxcbdpsx.website^
 ||xhxyavsrvc.com^
+||xhycijgihf.in^
 ||xhzfgibxapyta.space^
 ||xhzlgrectlvsp.website^
 ||xhzrzyxlvuzpq.online^
