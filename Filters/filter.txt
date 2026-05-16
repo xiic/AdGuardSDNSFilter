@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-16T03:04:15.585Z
+! Last modified: 2026-05-16T05:05:16.218Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -703,6 +703,7 @@ vkcdnservice.appspot.com^
 ||2495may2024.com^
 ||2497may2024.com^
 ||2499may2024.com^
+||249t4z37zij6fhv.rest^
 ||24affiliates.com^
 ||24df4bd648.com^
 ||24n8yiitjivty3vlg1rl9n2tmr.rest^
@@ -995,6 +996,7 @@ vkcdnservice.appspot.com^
 ||4446k.com^
 ||4498a6bb1e.com^
 ||44cd912290.com^
+||44d3bd20fb.com^
 ||44k57nrqbqrlgq8mgqqhrux4c3m.cfd^
 ||45151e7d7c.com^
 ||452tapgn.de^
@@ -1148,6 +1150,7 @@ vkcdnservice.appspot.com^
 ||5btekl14.de^
 ||5c384e999a.com^
 ||5c536d71ba.com^
+||5c57xmiu7zmb9857ecqgmn9qqjmbq6o6.cfd^
 ||5cb79f17b9.com^
 ||5cumlrbo9y17z6.rest^
 ||5d1c052a11.com^
@@ -4447,6 +4450,7 @@ vkcdnservice.appspot.com^
 ||aversionrestore.com^
 ||avesmutuspschent.cyou^
 ||aveuglecoaita.shop^
+||avfqnukognsfd.site^
 ||avglvolxsgfkp.site^
 ||avhbbdkhtxvxb.site^
 ||avhhcudtiqk.in^
@@ -7526,6 +7530,7 @@ vkcdnservice.appspot.com^
 ||cautommityring.com^
 ||cavallahoggs.shop^
 ||cavcorallatons.cfd^
+||cavederasionantired.cfd^
 ||cavernous-mess.com^
 ||cavernsinaite.com^
 ||cavettotethers.cyou^
@@ -20121,6 +20126,7 @@ vkcdnservice.appspot.com^
 ||indulinrayful.com^
 ||industriesincurvature.com^
 ||indyadvertising.com^
+||inedstylmxhwk.com^
 ||inefficientinherent.com^
 ||ineloduvmir.com^
 ||inertscaratescamanay.qpon^
@@ -31446,6 +31452,7 @@ vkcdnservice.appspot.com^
 ||pofookhmbkwuf.site^
 ||pofyybwevmids.online^
 ||pogothere.xyz^
+||pogromsskimmiaversute.cfd^
 ||pogwinwcsnggrv.com^
 ||pogydistant.cyou^
 ||pohalochi.qpon^
@@ -38472,6 +38479,7 @@ vkcdnservice.appspot.com^
 ||souvenirsrecognize.com^
 ||souvenirsstrew.com^
 ||souzaisegoagom.net^
+||sovbqlhzoajtw.site^
 ||sovereignlooarm.com^
 ||soviethearthfps.cfd^
 ||sovietransom.com^
@@ -42917,6 +42925,7 @@ vkcdnservice.appspot.com^
 ||ttonyfiiyajkh.space^
 ||ttowpvjpfrwyos.com^
 ||ttoyfmexbpwhj.online^
+||ttpbpjxcpdcep.website^
 ||ttqqfdfciylbv.site^
 ||ttqsviobdshlu.space^
 ||ttrk.io^
@@ -46042,6 +46051,7 @@ vkcdnservice.appspot.com^
 ||veyjefplvkdjm.online^
 ||veymqlpxnqbih.website^
 ||vezjyiawdpwjq.online^
+||vezouskvupso.com^
 ||vf49j2yzhun24gg776.cfd^
 ||vfamnpvtqmhpw.site^
 ||vfaorhgal.in^
@@ -50603,6 +50613,7 @@ vkcdnservice.appspot.com^
 ||xudhsoctwc.com^
 ||xudpitdpaa.com^
 ||xudpnwjiprcmy.site^
+||xuehjpsirhyol.space^
 ||xuenpasqvdt.net^
 ||xueobaedyoudcfe.com^
 ||xueohxfouttmn.website^
@@ -71006,8 +71017,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-05-01 08:06:05 CEST
-# entries:        1152
+# last updated:   2026-05-16 05:49:52 CEST
+# entries:        1153
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.omappapi.com^
@@ -71079,6 +71090,7 @@ dlsdk.appsflyer.com^
 ||analytics.nikkasystems.com^
 ||analytics.recept.se^
 ||analytics.residencemagazine.se^
+||analytics.samnytt.se^
 ||analytics.sjf.se^
 ||analytics.svenskdam.se^
 ||analytics.svt.se^
