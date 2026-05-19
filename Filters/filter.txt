@@ -3,9 +3,9 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-19T15:03:35.921Z
+! Last modified: 2026-05-19T16:15:24.461Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.38
+! Compiled by @adguard/hostlist-compiler v2.1.0
 !
 !
 ! Source name: AdGuard Base filter ad servers first-party
@@ -2157,6 +2157,7 @@ vkcdnservice.appspot.com^
 ||adaround.net^
 ||adarutoad.com^
 ||adasgsts.cc^
+||adbakbhknpczi.site^
 ||adbdilajvoxw.in^
 ||adbestnet.com^
 ||adbits.online^
@@ -6515,6 +6516,7 @@ vkcdnservice.appspot.com^
 ||bragkixa.in^
 ||braglychunky.qpon^
 ||brahmsoily.shop^
+||braidedermine.shop^
 ||braidercowpen.shop^
 ||braidsagria.com^
 ||brainbotfilebeatsave.com^
@@ -6977,6 +6979,7 @@ vkcdnservice.appspot.com^
 ||buoysods.qpon^
 ||bupatp.com^
 ||bupvhiasgh.in^
+||buqaofwrteyhu.space^
 ||buqkrzbrucz.com^
 ||buram.xyz^
 ||burbarkholpen.com^
@@ -18854,6 +18857,7 @@ vkcdnservice.appspot.com^
 ||hnsbsgnqcvqmn.site^
 ||hntiprpnvgsfh.site^
 ||hnvhpxetfugpx.online^
+||hnvxcbomwrqdtt.com^
 ||hnwbhkraakeyp.site^
 ||hnwifmsebxemw.site^
 ||hnwlazmnkzwxj.space^
@@ -22429,6 +22433,7 @@ vkcdnservice.appspot.com^
 ||kamoiimclmryu.space^
 ||kanaimasilency.cfd^
 ||kandjarordene.shop^
+||kandoltengstayer.cfd^
 ||kangaroointentions.com^
 ||kannenhexagynnervule.cfd^
 ||kanoodle.com^
@@ -39100,6 +39105,7 @@ vkcdnservice.appspot.com^
 ||stridentuser.com^
 ||strideovertakelargest.com^
 ||strifeschronol.cyou^
+||strigilemystrochid.cyou^
 ||strikebreaker3x.fun^
 ||strikecomparativelymillions.com^
 ||strikingcondolences.com^
@@ -39496,6 +39502,7 @@ vkcdnservice.appspot.com^
 ||sutzotlenmcem.store^
 ||suvloxmlkfier.online^
 ||suvntjrxksruf.space^
+||suvxztxz.com^
 ||suwgpealj.in^
 ||suwytid.com^
 ||suxbduziqbblv.store^
@@ -43315,6 +43322,7 @@ vkcdnservice.appspot.com^
 ||uvularstairs.shop^
 ||uvvhimqchjcvq.site^
 ||uvyccqohhzlcr.online^
+||uw23eh8kno5xkueg8lqoywqbh.rest^
 ||uwahagoyvuccd.website^
 ||uwauarphjaflw.website^
 ||uwavgfrn.com^
@@ -43904,6 +43912,7 @@ vkcdnservice.appspot.com^
 ||vgiulgnctn.com^
 ||vgjzcwkkyzldp.store^
 ||vgkaszpddsetc.online^
+||vgnniagmx.com^
 ||vgoawzppsjrff.store^
 ||vgocuftrvkizl.site^
 ||vgoimmkcgdc.com^
@@ -50718,6 +50727,7 @@ vkcdnservice.appspot.com^
 ||zumrieth.com^
 ||zumsivonaiss.net^
 ||zumycyksnllkg.website^
+||zun3e3eyw5h4fvj859.cfd^
 ||zunsoach.com^
 ||zupcrxfechrmx.store^
 ||zupee.cim^
@@ -52471,12 +52481,6 @@ vkcdnservice.appspot.com^
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
-||158.247.208.
-||23.109.82.
-||23.109.87.
-! Altice / Optimum / CableVision injects ads
-! https://github.com/ryanbr/fanboy-adblock/issues/816
-|167.206.10.148^
 !
 ! Source name: EasyList specific block
 ! Source: https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_specific_block.txt
@@ -52837,6 +52841,7 @@ vkcdnservice.appspot.com^
 ||inbound-step.heavenmedia.com^
 ||inc-rev.static-cloudflare.workers.dev^
 ||inc1-rev.static-cloudflare.workers.dev^
+||inccrev1.static-cloudflare.workers.dev^
 ||increase-rev1.static-cloudflare.workers.dev^
 ||increase-rev2.static-cloudflare.workers.dev^
 ||increase1rev.static-cloudflare.workers.dev^
@@ -66975,19 +66980,18 @@ dlsdk.appsflyer.com^
 ||206.54.181.250^
 !
 ||popvalk.com^
-193.200.65.61^
+||193.200.65.61^
 !
 ||bjiuck.com^
-62.76.25.27^
-62.76.25.28^
+||62.76.25.27^
+||62.76.25.28^
 !
 ! This IP hosts advertising domains that promote yandex.
-45.82.68.79^
+||45.82.68.79^
 !
 !
 ! Ads reinjection (For apps only)
 !
-||greencuttlefish.com^
 !
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 ||adbetnet.com^
@@ -81725,6 +81729,13 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! taboolanews.com
+@@|cdn.taboola.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/230786
+@@||unsubscribe.lhinsights.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/227852
+! Blocked by CNAME s1364398973.hs.eloqua.com
+@@||belgium.wolterskluwer.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2006
 @@||ssai.aniview.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2007
