@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-21T15:03:52.068Z
+! Last modified: 2026-05-21T16:52:49.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3082,6 +3082,7 @@ vkcdnservice.appspot.com^
 ||ajfzgzbkcvsdz.space^
 ||ajggnilcptlgz.site^
 ||ajgsadialtyzq.store^
+||ajifvfpngvdd.com^
 ||ajjac.club^
 ||ajjfmuwuxn.in^
 ||ajjlasruwwrlt.store^
@@ -4152,6 +4153,7 @@ vkcdnservice.appspot.com^
 ||asiangfsex.com^
 ||asianxhub.com^
 ||asiarchnighs.qpon^
+||asifhclod.com^
 ||asilusdeploys.cyou^
 ||asilusspirket.cfd^
 ||asinlovewiththem.org^
@@ -14267,6 +14269,7 @@ vkcdnservice.appspot.com^
 ||f270fefbd3.com^
 ||f279jmh5vqkkzpylluzx3y.rest^
 ||f2a31b0912.com^
+||f2xmkjnoke4klxw9tz833.rest^
 ||f308e80f54.com^
 ||f30fpad7.xyz^
 ||f34aabcc0e.com^
@@ -16249,6 +16252,7 @@ vkcdnservice.appspot.com^
 ||g3jzt6wknmzcxyoifb3bm.cfd^
 ||g3pfpm3ov3tz9fy3zi.cfd^
 ||g4rm818we13bj8iw4.rest^
+||g56nw839oztfqy.cfd^
 ||g6549pn731ik6h.cfd^
 ||g6topm6qt9oxgmmw3v6mek1zw6.rest^
 ||g863kn8onmtxuxtr9bxj8bmeq.cfd^
@@ -31946,6 +31950,7 @@ vkcdnservice.appspot.com^
 ||plujdydfegzxm.online^
 ||plumatepullockklans.cfd^
 ||plumbertowards.com^
+||plumbicsenhorodorous.qpon^
 ||plump-chapter.pro^
 ||plump-message.pro^
 ||plumpfile.pro^
@@ -41912,6 +41917,7 @@ vkcdnservice.appspot.com^
 ||tuckerclassesjackal.com^
 ||tuckergrass.com^
 ||tuckytalefulclauber.cyou^
+||tueborpercurmargot.cfd^
 ||tuedianclients.qpon^
 ||tueqwaij.com^
 ||tuesdayfetidlit.com^
@@ -42389,6 +42395,7 @@ vkcdnservice.appspot.com^
 ||udbaa.com^
 ||udbouwafpgo.com^
 ||udbwaqvtfvlin.space^
+||udclumpy.cfd^
 ||uddougqbgbhmg.website^
 ||udemkaeajskcq.space^
 ||udeyzbhucafcod.com^
@@ -49423,6 +49430,7 @@ vkcdnservice.appspot.com^
 ||ynvhnmjwszeuf.online^
 ||ynvtepiimtshs.store^
 ||ynvvjirmwalx.com^
+||ynxgsfiimr.com^
 ||ynykrhlltoytp.website^
 ||ynyxozjzwnclf.online^
 ||ynzxmrmozgmnd.online^
@@ -67860,7 +67868,6 @@ dlsdk.appsflyer.com^
 ||js.mulan.cloud^
 ||av-mov.com^
 ||click-count.info^
-||andhub.jp^
 ||cross-a.net^
 ||tracer.jp^
 ||addlv.smt.docomo.ne.jp^
@@ -68059,6 +68066,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||creative.5ch.fun^
 ||textad.fc2.com^
 ||jobbox-front.mamastar.jp^
 ||ad.datadeliver.net^
