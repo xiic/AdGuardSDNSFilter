@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-21T09:06:36.905Z
+! Last modified: 2026-05-21T11:04:22.523Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -817,6 +817,7 @@ vkcdnservice.appspot.com^
 ||2onq7kwbrfjbjv65.cfd^
 ||2p1kreiqg.de^
 ||2pc6q54ga.de^
+||2pqjopz8mbw9qlxv3qzkci.rest^
 ||2qj7mq3w4uxe.com^
 ||2qkh3nbvi7y9xhoy.cfd^
 ||2rb5hh5t6.de^
@@ -4088,6 +4089,7 @@ vkcdnservice.appspot.com^
 ||arwqwawwlo.com^
 ||arwriptatfwe.in^
 ||arwzkwivqjrhk.online^
+||arwzyuzkblj.com^
 ||arxkachaeuphroe.qpon^
 ||arxonmumfexiqyc.com^
 ||arzawaswarfpratt.qpon^
@@ -4908,6 +4910,7 @@ vkcdnservice.appspot.com^
 ||baklwjoyoatfv.site^
 ||bakteso.ru^
 ||balanceiodism.cfd^
+||balanicdelversnomarch.cyou^
 ||balanteparvuli.qpon^
 ||balasesersatz.com^
 ||baleareheaf.qpon^
@@ -6673,6 +6676,7 @@ vkcdnservice.appspot.com^
 ||briochetrisazo.cfd^
 ||brioletredeyes.com^
 ||brionyamanist.com^
+||brisehundi.com^
 ||brisk-cold.pro^
 ||briskchart.com^
 ||brisknessdebtordismiss.com^
@@ -9332,6 +9336,7 @@ vkcdnservice.appspot.com^
 ||corramba.lol^
 ||correalakmitecomenic.cyou^
 ||correapiddles.qpon^
+||correctdialperch.com^
 ||correctdilutetrophy.com^
 ||correlationcocktailinevitably.com^
 ||correohattiegises.cfd^
@@ -12172,6 +12177,7 @@ vkcdnservice.appspot.com^
 ||dunderchafes.qpon^
 ||duneboggart.com^
 ||dunesworkyimbues.qpon^
+||dungsfilmer.qpon^
 ||dunkashtraycolloquial.com^
 ||dunkernamers.shop^
 ||dunkersslavian.cfd^
@@ -20212,6 +20218,7 @@ vkcdnservice.appspot.com^
 ||imjl5e5brl1e3r8g2kemn16mkw.rest^
 ||imjprkvybgfdw.space^
 ||imkirh.com^
+||imllsarrrcrw.com^
 ||immaculatehighlight.com^
 ||immaterial-food.pro^
 ||immaterial-garden.pro^
@@ -21161,6 +21168,7 @@ vkcdnservice.appspot.com^
 ||ivxwdikrmtzfc.online^
 ||ivynjtsidwnqh.online^
 ||ivyprolonginstalment.com^
+||ivywortcacajao.qpon^
 ||iwalujwa.com^
 ||iwantuonly.com^
 ||iwbwthllmdfqw.space^
@@ -23771,6 +23779,7 @@ vkcdnservice.appspot.com^
 ||lapobrmuhojv.in^
 ||lappedspicier.qpon^
 ||lappetboites.cfd^
+||lappingniffer.cyou^
 ||lappseyessannus.qpon^
 ||lapqigwuzasp.com^
 ||lapserspos.qpon^
@@ -27208,6 +27217,7 @@ vkcdnservice.appspot.com^
 ||multitudefahrenheitcommiserate.com^
 ||multiwall-ads.shop^
 ||multstorage.com^
+||mulveldropvie.cfd^
 ||mumazfqir.in^
 ||mumblercameraephoebus.cyou^
 ||mummersclitic.cfd^
@@ -28458,6 +28468,7 @@ vkcdnservice.appspot.com^
 ||nonsenseaggravation.com^
 ||nonsensepreparations.com^
 ||nonsensetypicallyuncertain.com^
+||nonsinefootboy.qpon^
 ||nonstopanyoneslammed.com^
 ||nonsynchronous.yachts^
 ||nonusecutie.com^
@@ -31352,6 +31363,7 @@ vkcdnservice.appspot.com^
 ||pesgyihbyblaf.website^
 ||pesky-sandwich.pro^
 ||peskycrash.com^
+||peskyinvestment.com^
 ||pessimisticextra.com^
 ||pesteroverwork.com^
 ||pesterpolling.cyou^
@@ -35037,6 +35049,7 @@ vkcdnservice.appspot.com^
 ||repinaltho.qpon^
 ||repipequiapojibbed.cyou^
 ||replacementgoodwilljunkie.com^
+||replatesmallen.cfd^
 ||replyhawinvest.com^
 ||replytangerine.com^
 ||reporo.net^
@@ -39786,6 +39799,7 @@ vkcdnservice.appspot.com^
 ||sweetnessspeaksintimidate.com^
 ||sweetromance.life^
 ||sweetuse.pro^
+||swellysoom.shop^
 ||swelteringcatch.com^
 ||swervemunchfibber.com^
 ||swesomepop.com^
@@ -40775,6 +40789,7 @@ vkcdnservice.appspot.com^
 ||thzowqlddhevp.space^
 ||thzqzvwmpxrdm.website^
 ||tialfxfcipqnq.site^
+||tiamatols.qpon^
 ||tianguestrage.cfd^
 ||tiangzwrvnify.website^
 ||tiaoconf.qpon^
@@ -41097,6 +41112,7 @@ vkcdnservice.appspot.com^
 ||tnzlmhzidwjzq.fun^
 ||tnzttwwahtkwb.website^
 ||to4tleic45g3tm5w9x5.cfd^
+||toasterenring.qpon^
 ||toastparasolcrush.com^
 ||toastrowingthrilled.com^
 ||toatteasesgodded.cyou^
@@ -43447,6 +43463,7 @@ vkcdnservice.appspot.com^
 ||usybvizjdfyur.website^
 ||usztvnmmlukau.website^
 ||uszxsqvpukbwz.website^
+||ut5tg34rmbp7kqooh.cfd^
 ||utagyernjwdnw.website^
 ||utahansninonsconamed.cfd^
 ||utajxinmmiuhp.site^
@@ -53164,6 +53181,7 @@ vkcdnservice.appspot.com^
 ||srv.dynamicyield.com^
 ||srv.yeahwebimobi.fun^
 ||static-cloudflare.workers.dev^
+||static-resources.workers.dev^
 ||static.tradetracker.net^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
@@ -55039,6 +55057,8 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads.heytapmobi.com^
+||adsfs.heytapimage.com^
 ||shiyifacaisalzc.com^
 ||kw0xlh4wig.com^
 ||h-adashx.ut.taobao.com^
@@ -56147,7 +56167,6 @@ vkcdnservice.appspot.com^
 ||clogger.nocutnews.co.kr^
 ||reports.omegacommerce.com^
 ||pvdpix.com^
-||collector-sbanking.shb-pelib.com^
 ||uac.etnews.com^
 ||fuse.ubs.com^
 ||cdn.kmalgo.com^
@@ -59275,6 +59294,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||dc.oppomobile.com^
 ||aki-gb-sdklog.kurogames.net^
 ||log1.pwsdk.com^
 ||log2.pwsdk.com^
@@ -59851,16 +59871,12 @@ dlsdk.appsflyer.com^
 ||collect.analytics.unity3d.com^
 ||accscdn.m.taobao.com^
 ||apsrgeo.amap.com^
-||confe.dc.oppomobile.com^
-||conff.dc.oppomobile.com^
-||dragate.dc.oppomobile.com^
 ||esa-reg-eup.myoppo.com^
 ||obus-in.dc.heytapmobile.com^
 ||adx-in.ads.heytapmobile.com^
 ||dragate-in-dc.heytapmobile.com^
 ||omes-sec.heytapmobile.com^
 ||moa-upload-online.coloros.com^
-||stat-in.dc.oppomobile.com^
 ||prod-analytics.royal.drmgms.com^
 ||logservice1.hicloud.com^
 ||logservice.hicloud.com^
@@ -75334,6 +75350,8 @@ dlsdk.appsflyer.com^
 ||apricot48.com^
 ||6iejd9pk0.com^
 ||2fhn1qmca.com^
+||phr3qfcmb.com^
+||mdlidofju.com^
 ||9613gwqee.com^
 ||pl7ncaj0b.com^
 ||invalidation93.com^
