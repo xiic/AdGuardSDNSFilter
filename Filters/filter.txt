@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-22T12:47:09.614Z
+! Last modified: 2026-05-22T15:01:16.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1823,6 +1823,7 @@ vkcdnservice.appspot.com^
 ||abh.jp^
 ||abhmancnvqweb.site^
 ||abidebrokestow.com^
+||abidersawkly.cfd^
 ||abididekedshiksa.cyou^
 ||abigeilogiauru.cfd^
 ||abixvrdblyakx.website^
@@ -1943,6 +1944,7 @@ vkcdnservice.appspot.com^
 ||acajoupptn.qpon^
 ||acajouscangle.cyou^
 ||acam-2.com^
+||acanthglynbarger.cyou^
 ||acanthisymbiot.shop^
 ||acararithetic.com^
 ||acarariwarnothhostry.cfd^
@@ -4779,6 +4781,7 @@ vkcdnservice.appspot.com^
 ||azwzivzabnh.in^
 ||azxvvesjgvasz.space^
 ||azygotesonless.com^
+||azzadgasf.in^
 ||azzncoswof.com^
 ||azzpkuvm.in^
 ||b-m.xyz^
@@ -6655,6 +6658,7 @@ vkcdnservice.appspot.com^
 ||briarygimellegroom.cfd^
 ||bribebrazerbumpsy.cyou^
 ||brickedraupo.com^
+||bridelyspeel.cfd^
 ||bridge4plugins.com^
 ||bridgetrack.com^
 ||bridiefaraway.cyou^
@@ -12774,6 +12778,7 @@ vkcdnservice.appspot.com^
 ||eekvgafcsgbwx.xyz^
 ||eelamendshire.com^
 ||eeldamage.com^
+||eelpotcarices.cyou^
 ||eeltxqulgnbsf.website^
 ||eelwgpubhnjxv.website^
 ||eenyxwxaeelzx.online^
@@ -20027,6 +20032,7 @@ vkcdnservice.appspot.com^
 ||iglinptrmtzff.site^
 ||iglnnwcvnpnqbou.com^
 ||igloohq.com^
+||iglyqpdgo.com^
 ||ignateignatepredominanteatable.com^
 ||ignateignatetame.com^
 ||ignatiapaler.com^
@@ -21363,6 +21369,7 @@ vkcdnservice.appspot.com^
 ||izkivydhiqfjx.store^
 ||izlz3mewrf7xrb6kj8j52f.rest^
 ||izoga.xyz^
+||izpaxppdwtbpwo.com^
 ||izrnvo.com^
 ||izsbrnugzqrqq.online^
 ||izsiovszxzhqk.space^
@@ -23007,6 +23014,7 @@ vkcdnservice.appspot.com^
 ||kisusotxlitbve.com^
 ||kitlingamandusbobotee.cfd^
 ||kitrigthy.com^
+||kitschcorbieseloined.cfd^
 ||kittoolhogo.com^
 ||kiumqkkamhgeq.online^
 ||kiverinnest.cfd^
@@ -24271,6 +24279,7 @@ vkcdnservice.appspot.com^
 ||lgcnvjvuurw.com^
 ||lgdstolfuinmi.world^
 ||lgdsvuwxjbhwz.site^
+||lgevujkwilyeqks.com^
 ||lgfmhgvutwhjl.website^
 ||lgglnedyuhmgk.site^
 ||lghgaxoegjywd.website^
@@ -24557,6 +24566,7 @@ vkcdnservice.appspot.com^
 ||literallycircumscribetome.com^
 ||literallyflickercomplaints.com^
 ||lithateknobmelosa.cfd^
+||lithateourang.shop^
 ||lithicsulaibsings.cfd^
 ||lithiumsorghum.shop^
 ||lithoedjiffycurbs.cfd^
@@ -35196,6 +35206,7 @@ vkcdnservice.appspot.com^
 ||rerubcakejawless.cfd^
 ||rerubminyas.cyou^
 ||reryn3ce.com^
+||resacaafflux.cyou^
 ||resacaduende.com^
 ||resalag.com^
 ||resalegams.cfd^
@@ -35291,6 +35302,7 @@ vkcdnservice.appspot.com^
 ||reth45dq.de^
 ||rethanktweezer.shop^
 ||rethinkexercisesupplement.com^
+||retiaryelsin.qpon^
 ||reticencecarefully.com^
 ||reticencedecay.com^
 ||reticencestatesmanfigured.com^
@@ -41418,6 +41430,7 @@ vkcdnservice.appspot.com^
 ||torejneshwuup.site^
 ||torejogging.com^
 ||toreunde.shop^
+||toriiargyll.cfd^
 ||torioluor.com^
 ||tornactivity.pro^
 ||torngetawaycurious.com^
@@ -44725,6 +44738,7 @@ vkcdnservice.appspot.com^
 ||vnzuedcokblpx.site^
 ||vobmvcgpytk.com^
 ||vocalchillydispleased.com^
+||vocalsharnpan.cfd^
 ||vocationbunk.com^
 ||vocoidhoglikewreck.cyou^
 ||vocrojjwugeno.website^
@@ -62598,7 +62612,6 @@ dlsdk.appsflyer.com^
 ||fitnessmapper.com^
 ||fivesidedsquare.com^
 ||fixedfold.com^
-||fjordsand.com^
 ||flakyfeast.com^
 ||flameuncle.com^
 ||flashtexting.com^
