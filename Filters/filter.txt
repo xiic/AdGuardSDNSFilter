@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-22T18:35:32.493Z
+! Last modified: 2026-05-22T20:32:36.008Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -16256,6 +16256,7 @@ vkcdnservice.appspot.com^
 ||fyiygeowufqxk.site^
 ||fyjbyfyddthzq.site^
 ||fyjtalwyhble.xyz^
+||fylfotswindjamteise.qpon^
 ||fyllhdee.com^
 ||fympiumlrnotc.space^
 ||fynox.xyz^
@@ -23277,6 +23278,7 @@ vkcdnservice.appspot.com^
 ||koawfitxqieyj.site^
 ||kobanlinkier.cfd^
 ||kobdhivliptc.com^
+||kobpyeygug.com^
 ||kochnrtnmtimp.online^
 ||kodaguwhymouzah.cyou^
 ||kodbafryxemdz.website^
@@ -25132,6 +25134,7 @@ vkcdnservice.appspot.com^
 ||lswdjtngkdhbe.website^
 ||lswteiiyfccwt.site^
 ||lsxaavrrqabcg.space^
+||lsxcyggtbzyc.com^
 ||lsxhxrpnhrqoj.space^
 ||lsxymknlbwhfi.site^
 ||lsyakbbabwclbjh.com^
@@ -34652,6 +34655,7 @@ vkcdnservice.appspot.com^
 ||rblpdwvhby.com^
 ||rbnfyqwhkwffg.website^
 ||rbp-gen1.site^
+||rbpibybluolfuo.com^
 ||rbpksavddouil.store^
 ||rbqcg6g.de^
 ||rbqfprbbtwgej.online^
@@ -39049,6 +39053,7 @@ vkcdnservice.appspot.com^
 ||sqvdsoxccdrkq.site^
 ||sqxbojbkjdved.online^
 ||sqxmdxrnapvnb.website^
+||sqxydecyev.com^
 ||sqybrgc6.xyz^
 ||sqyvhmbgldutz.online^
 ||sqzoyfdzlcaoy.site^
@@ -43991,6 +43996,7 @@ vkcdnservice.appspot.com^
 ||varshaaristoi.qpon^
 ||varshacundy.com^
 ||vartoken.com^
+||varvelunwagedwair.qpon^
 ||varyingwolfsmile.com^
 ||varypollintelligent.com^
 ||varyresponsible.com^
@@ -53281,6 +53287,7 @@ vkcdnservice.appspot.com^
 ||cts.tradepub.com^
 ||customer.heartinternet.co.uk^
 ||datacluster.club^
+||dev-adblocker.workers.dev^
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^
 ||dynbanners.netlify.app^
