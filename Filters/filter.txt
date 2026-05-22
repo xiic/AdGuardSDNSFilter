@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-22T15:01:16.606Z
+! Last modified: 2026-05-22T16:44:02.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3825,6 +3825,7 @@ vkcdnservice.appspot.com^
 ||applicationsighgolden.com^
 ||applicationsstereocanoe.com^
 ||applierlignes.com^
+||applottopnetchile.cyou^
 ||applstr.com^
 ||appoineditardwide.com^
 ||appointeeivyspongy.com^
@@ -14641,6 +14642,7 @@ vkcdnservice.appspot.com^
 ||fcxbs.com^
 ||fcxxffvjrztgz.space^
 ||fcyetcher.shop^
+||fcyqtswhca.com^
 ||fd2722b11f.com^
 ||fd5237eac5.com^
 ||fdbdzwnpffxcg.space^
@@ -19688,6 +19690,7 @@ vkcdnservice.appspot.com^
 ||hyliclogy.cyou^
 ||hylrncjzgdtgi.site^
 ||hymnalsvint.com^
+||hynepoditetopsman.cfd^
 ||hynvvtkmdvjdv.website^
 ||hynycrgzzevgb.space^
 ||hypemakers.net^
@@ -23355,6 +23358,7 @@ vkcdnservice.appspot.com^
 ||kpevufluwdgsy.website^
 ||kpewndcpbox.com^
 ||kpfbksehrvell.space^
+||kpfek54wk7phehfhyub7.cfd^
 ||kphsqtglfxqim.space^
 ||kpj7no51ijc2nhc9.cfd^
 ||kpj9vo4el88o5ot8igh7cu6eg9c4xmnz89c88.rest^
@@ -23549,6 +23553,7 @@ vkcdnservice.appspot.com^
 ||kutpadog.in^
 ||kuttarbewidow.shop^
 ||kuvirixa.com^
+||kuvuwmsnjex.com^
 ||kuxibbprpctsb.website^
 ||kuzpqknxmvcai.site^
 ||kvaaa.com^
@@ -37773,6 +37778,7 @@ vkcdnservice.appspot.com^
 ||shydastidu.com^
 ||shylength.pro^
 ||shyplan.com^
+||shyspiritual.com^
 ||shyydmjcznusd.online^
 ||siavtcwmgehxp.online^
 ||sibbedgordon.cfd^
@@ -43834,6 +43840,7 @@ vkcdnservice.appspot.com^
 ||v8m2rqhrvmjg27uvyh1jhhn5.rest^
 ||v8uq327bic54hq.cfd^
 ||v9gb1bfvyzig484tk.cfd^
+||v9rh4q7i98zymxpp4e.rest^
 ||v9tq117zy2ezftc5.rest^
 ||vaatjcfcwvjsa.space^
 ||vaatmetu.net^
@@ -48064,6 +48071,7 @@ vkcdnservice.appspot.com^
 ||xjurarsoqdinb.website^
 ||xjvotbewtzmql.site^
 ||xjwcxexkllbns.space^
+||xjwgtxntpnpugk.com^
 ||xjwkmuaaleotc.space^
 ||xjwtaasbbrhyv.site^
 ||xjxizypfczpkq.space^
@@ -49616,6 +49624,7 @@ vkcdnservice.appspot.com^
 ||yokwiszkpeaxp.space^
 ||yolvyzasxyojr.space^
 ||yomeno.xyz^
+||yomthxqbu.com^
 ||yonazurilla.com^
 ||yonderformerly.com^
 ||yonelectrikeer.com^
