@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-23T18:20:01.015Z
+! Last modified: 2026-05-23T20:17:30.008Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -12205,6 +12205,7 @@ vkcdnservice.appspot.com^
 ||dtzoenoduqopn.space^
 ||dtzvavrnbzemd.space^
 ||duagwkptkce.com^
+||duauaoxi.com^
 ||dubietybialy.com^
 ||dubiousneedleaccounts.com^
 ||dubiousthrepeunworld.qpon^
@@ -12321,6 +12322,7 @@ vkcdnservice.appspot.com^
 ||dvkxhbcrrrrut.online^
 ||dvkxldhirwnp.com^
 ||dvleaaamtruzl.site^
+||dvlxljsfdlveuv.com^
 ||dvnhgkrzyxlzd.site^
 ||dvqldhfeowiyh.online^
 ||dvulz.org^
@@ -12979,6 +12981,7 @@ vkcdnservice.appspot.com^
 ||eigksrjne.com^
 ||eigrfaxpvsnqv.online^
 ||eiiknsfpyarmi.site^
+||eiiooeihjsqnz.space^
 ||eijivbeakvnpi.store^
 ||eijqgjhcmjsfm.website^
 ||eiledstevermotorie.org^
@@ -21199,6 +21202,7 @@ vkcdnservice.appspot.com^
 ||iszrrgjxekmas.website^
 ||isztpjhceyoir.site^
 ||iszvalttjohra.online^
+||itaaiomwnuqfq.online^
 ||itabelog.blog^
 ||itaiundowny.cfd^
 ||italianbeepimpediment.com^
@@ -21321,6 +21325,7 @@ vkcdnservice.appspot.com^
 ||ivsaqhgzxbcmg.website^
 ||ivstracker.net^
 ||ivsuqzosbdrir.site^
+||ivuaqimnwpvdc.space^
 ||ivuczbqiwdocn.online^
 ||ivxbrwcdafjzr.site^
 ||ivxwdikrmtzfc.online^
@@ -21805,6 +21810,7 @@ vkcdnservice.appspot.com^
 ||jfjk8j2lc642epz95vkeq3knr8qr.rest^
 ||jfjle4g5l.com^
 ||jflfgirfvthuj.website^
+||jflmhtxvgslfe.space^
 ||jfqqvtevayyfm.online^
 ||jfr88mn8btxivu265.rest^
 ||jfrthphciuxjk.website^
@@ -22690,6 +22696,7 @@ vkcdnservice.appspot.com^
 ||kaesukuleledirects.cfd^
 ||kafllipgvjtqw.site^
 ||kafsalkc.in^
+||kafupzgaopzjc.space^
 ||kagocvncavfqi.store^
 ||kagonst.com^
 ||kagoscanaut.qpon^
@@ -26693,6 +26700,7 @@ vkcdnservice.appspot.com^
 ||miyhpginqwjrx.website^
 ||miyubhvqxopdx.store^
 ||mizarcanela.cfd^
+||mizfdyhwsrqct.site^
 ||mizrachvirbius.com^
 ||mizytadpwfswa.world^
 ||mizzledkl.cyou^
@@ -27441,6 +27449,7 @@ vkcdnservice.appspot.com^
 ||mumpercodo.com^
 ||mumpersquitely.qpon^
 ||muncherkarbi.cyou^
+||muncherrepipe.qpon^
 ||munchysunilbuccin.cfd^
 ||mundane-soft.pro^
 ||mundanesilly.com^
@@ -44046,6 +44055,7 @@ vkcdnservice.appspot.com^
 ||vacscefagjky.in^
 ||vacuatearardebord.cyou^
 ||vacuistnovillokarroo.cyou^
+||vacuousgaybinetawsing.qpon^
 ||vacuuahomonid.cfd^
 ||vacuumcoconut.com^
 ||vacwrite.com^
