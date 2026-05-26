@@ -3,13 +3,22 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-26T07:10:42.157Z
+! Last modified: 2026-05-26T09:08:00.022Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
 !
 ! Source name: AdGuard Base filter ad servers first-party
 ! Source: https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers_firstparty.txt
+!
+!
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
 !
 ||dump.mewcdn.online^
 ||a.hentaiocean.com^
@@ -3473,6 +3482,7 @@ vkcdnservice.appspot.com^
 ||aminecaninus.com^
 ||amineclarinelotoses.qpon^
 ||aminizeligure.qpon^
+||aminlwzawkysc.online^
 ||aminopay.net^
 ||amitiesakela.cfd^
 ||amitlimulus.qpon^
@@ -6910,6 +6920,7 @@ vkcdnservice.appspot.com^
 ||bruteportrait.com^
 ||brutishlylifevoicing.com^
 ||brutuzzzymudq.world^
+||bruwymtyyiqpz.site^
 ||bruzzexacter.com^
 ||brvxflfhfehle.site^
 ||brxjgvho5kkjuu.cfd^
@@ -16950,6 +16961,7 @@ vkcdnservice.appspot.com^
 ||geulowupb.com^
 ||geumselevate.shop^
 ||geunlojsm.com^
+||gevruglkjxezb.site^
 ||gewfybmiljo.com^
 ||gewgawssplurt.cyou^
 ||gexdrbaeokoxr.website^
@@ -20417,6 +20429,7 @@ vkcdnservice.appspot.com^
 ||iiuzelzusndqi.website^
 ||iiwbooqgxbkig.site^
 ||iiwkyrrdmmbvw.site^
+||iiwlwqsvmrvdk.online^
 ||iiwtetyjho.com^
 ||iiyurrfshxirs.online^
 ||iiyvlebuvfdie.online^
@@ -22429,6 +22442,7 @@ vkcdnservice.appspot.com^
 ||jpackipmxsufz.online^
 ||jpadxrydoiorz.online^
 ||jpbsggqehlopl.online^
+||jpbshynt.com^
 ||jpcjzcrkrugie.online^
 ||jpdrbeyrgjaav.site^
 ||jpdvqxfqnriyn.website^
@@ -24005,6 +24019,7 @@ vkcdnservice.appspot.com^
 ||kxnuaytyunkqo.online^
 ||kxoarhydioiuf.site^
 ||kxququrfrmt.com^
+||kxrkzuhwrccpry.com^
 ||kxsqiynefxgrx.site^
 ||kxtszslwanvgl.site^
 ||kxuhtwjaxfr.com^
@@ -26734,6 +26749,7 @@ vkcdnservice.appspot.com^
 ||mhydndfvgzvwu.site^
 ||mhyzadlwy.in^
 ||mi82ltk3veb7.com^
+||miaoustousle.qpon^
 ||miasmslaunces.shop^
 ||miawmqpezgbui.website^
 ||miayarus.com^
@@ -31474,6 +31490,7 @@ vkcdnservice.appspot.com^
 ||parietwifes.com^
 ||paripartners.ru^
 ||parisjeroleinpg.com^
+||parisonmenkibsattie.cyou^
 ||parissommite.qpon^
 ||paritygauily.com^
 ||parkurl.com^
@@ -36035,6 +36052,7 @@ vkcdnservice.appspot.com^
 ||rhagiteteeing.cyou^
 ||rhamnalemeryjoshi.qpon^
 ||rhaphaedottelhumans.cfd^
+||rhatanypetty.com^
 ||rhbfdazisufvw.site^
 ||rhbgsycloyttn.website^
 ||rhbvzptpufabj.space^
@@ -43455,6 +43473,7 @@ vkcdnservice.appspot.com^
 ||ulsterscarices.com^
 ||ultaxvuxpgryi.site^
 ||ulteriorreporting.com^
+||ultimasducatoncalusa.cfd^
 ||ultimumshairds.shop^
 ||ultingecauyukse.com^
 ||ultmpeejvc.com^
@@ -43467,6 +43486,7 @@ vkcdnservice.appspot.com^
 ||ulvantamal.shop^
 ||ulvofrestbsjn.com^
 ||ulvqhajbndnty.website^
+||ulvyzngblcpfrj.com^
 ||ulwexxyucrdsm.online^
 ||ulwfzxqtmzsfm.space^
 ||ulwsfvkfwrjyw.xyz^
@@ -48799,6 +48819,7 @@ vkcdnservice.appspot.com^
 ||xjxtwlgfaopkp.online^
 ||xkamuhem.com^
 ||xkanzuqreeloy.store^
+||xkbqmjyqbxb.com^
 ||xkcgjgeslbxii.com^
 ||xkcsdxyexvzgj.site^
 ||xkdxkobjvspcl.space^
@@ -53247,6 +53268,7 @@ vkcdnservice.appspot.com^
 ||skyscrpr.com^
 ||skytraffix.net^
 ||slfpu.com^
+||slickstream.com^
 ||slikslik.com^
 ||slimspots.com^
 ||slopeaota.com^
@@ -56805,6 +56827,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.pingaja.com^
 ||pulse.ftools.fluege.de^
 ||lex.toss.im^
 ||dsb.yahooapis.jp^
@@ -70420,8 +70443,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 May 2026 13:46 UTC+7
-! Version: 2605251346
+! Last modified: 26 May 2026 14:34 UTC+7
+! Version: 2605261434
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -71229,8 +71252,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 25 May 2026 13:46 UTC+7
-! Version: 2605251346
+! Last modified: 26 May 2026 14:34 UTC+7
+! Version: 2605261434
 ! Blocked: 4.862 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
