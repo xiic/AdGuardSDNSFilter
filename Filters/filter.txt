@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-25T22:22:45.738Z
+! Last modified: 2026-05-26T00:35:55.510Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -502,6 +502,7 @@ vkcdnservice.appspot.com^
 ||13fbbc0ff4.com^
 ||13p76nnir.de^
 ||13withfactories.com^
+||144a54939d.com^
 ||149b5a6b84.com^
 ||14cpoff22.de^
 ||14d6b84a5f.com^
@@ -603,6 +604,7 @@ vkcdnservice.appspot.com^
 ||1lbk62l5c.de^
 ||1lj11b2ii.de^
 ||1m72cfole.de^
+||1mhr8byixlc864.cfd^
 ||1mrmsp0ki.de^
 ||1n41htq1tmvpbj.rest^
 ||1nfltpsbk.de^
@@ -1519,6 +1521,7 @@ vkcdnservice.appspot.com^
 ||88bb36fab4.com^
 ||88d3a9a9a1.com^
 ||88ddebd3d3.com^
+||88e0dcb063.com^
 ||88eq7spm.de^
 ||892azz.xyz^
 ||89cb3ribpmg8up6nzfgw92h.cfd^
@@ -4753,6 +4756,7 @@ vkcdnservice.appspot.com^
 ||axwlpzoakxokz.online^
 ||axwpbsweuwclq.space^
 ||axwyfulzdxrdi.space^
+||axxodcdufa.in^
 ||axxqqibnjdunk.space^
 ||ay.delivery^
 ||ay267.com^
@@ -6011,6 +6015,7 @@ vkcdnservice.appspot.com^
 ||bksuhvdkzfqea.site^
 ||bkuntihdhjwpd.site^
 ||bkusavcefyujz.website^
+||bkuwcvuq.com^
 ||bkuxigrmvndcr.site^
 ||bkvxjygccpkwk.space^
 ||bkwuodwvehlzr.life^
@@ -8976,6 +8981,7 @@ vkcdnservice.appspot.com^
 ||codwormtallied.com^
 ||coeditenternat.qpon^
 ||coedmediagroup.com^
+||coedsgamete.cyou^
 ||coehornsenile.cyou^
 ||coelarcrypto.qpon^
 ||coeliabumpee.com^
@@ -10304,6 +10310,7 @@ vkcdnservice.appspot.com^
 ||cyfyxkqvqfvfm.space^
 ||cygnetseuonymy.qpon^
 ||cygnus.com^
+||cygony.xyz^
 ||cyhanjealyojs.space^
 ||cyhuyykrkstae.online^
 ||cyiihoobjuxlx.space^
@@ -11182,6 +11189,7 @@ vkcdnservice.appspot.com^
 ||dfabshsgblaiei.com^
 ||dfaksbltiobcn.website^
 ||dfaqwqlnsrs.com^
+||dfb24776dd.com^
 ||dfbmfxfovn.com^
 ||dfcthngzpxiwc.site^
 ||dfcvcbrr.com^
@@ -18318,6 +18326,7 @@ vkcdnservice.appspot.com^
 ||hadtwobrightsap.com^
 ||hadute.xyz^
 ||haekefgpnpghu.site^
+||haemalcurvet.qpon^
 ||haemichellionweakish.cfd^
 ||haemoidlemuel.cfd^
 ||haenardusnapped.cfd^
@@ -21361,6 +21370,7 @@ vkcdnservice.appspot.com^
 ||isobkdvgydidw.com^
 ||isocrpsgepfchji.com^
 ||isodontaleuron.shop^
+||isodrinclothyzags.cyou^
 ||isoetesflirted.com^
 ||isofoseveralyearsf.com^
 ||isolatedcompliments.com^
@@ -22799,6 +22809,7 @@ vkcdnservice.appspot.com^
 ||jxlichhgbkxmo.website^
 ||jxljlmikdnsfb.store^
 ||jxmofulihtbzr.space^
+||jxnlkrqrjytxy.com^
 ||jxnncepmitwxh.space^
 ||jxntuwshmqcfw.site^
 ||jxpieseudktcy.site^
@@ -23834,6 +23845,7 @@ vkcdnservice.appspot.com^
 ||kucelglfptill.site^
 ||kudszedudxi.in^
 ||kudwmaucyncfk.website^
+||kuebvpq7cej16ve1xpkow.rest^
 ||kueezrtb.com^
 ||kueiretailsfenite.cyou^
 ||kuffobduumzwl.space^
@@ -32277,6 +32289,7 @@ vkcdnservice.appspot.com^
 ||pisruhakq.in^
 ||pistilsaulete.qpon^
 ||pit3wzvqf2xfnw1uml23eknmq.cfd^
+||pitangatawkinchizzel.qpon^
 ||pitchedfurs.com^
 ||piteousprinciple.com^
 ||pitfoldmolding.qpon^
@@ -47772,6 +47785,7 @@ vkcdnservice.appspot.com^
 ||wqhlaexymgkyu.site^
 ||wqhtcbynjxxfh.space^
 ||wqicmioasixaa.online^
+||wqihccfpiheuu.com^
 ||wqjdbxmhrozpy.space^
 ||wqjregsni.net^
 ||wqkjeoqjzmmyo.online^
