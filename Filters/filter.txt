@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-31T05:30:34.079Z
+! Last modified: 2026-05-31T07:17:24.732Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -890,6 +890,7 @@ vkcdnservice.appspot.com^
 ||301redirect.site^
 ||302396f6ae.com^
 ||302kslgdl.de^
+||302technologies.com^
 ||303ag0nc7.de^
 ||303bus.net^
 ||303marketplace.com^
@@ -4047,6 +4048,7 @@ vkcdnservice.appspot.com^
 ||aptitudesupposedlyaccountant.com^
 ||aptlyerring.com^
 ||aptonnerventualke.org^
+||aptoticvermil.cyou^
 ||aptpassage.com^
 ||aptqpcaw.xyz^
 ||aptwcewxlhufh.website^
@@ -4779,6 +4781,7 @@ vkcdnservice.appspot.com^
 ||avugviwuvhhd.com^
 ||avuibxulygfyx.online^
 ||avvcaqgfiqaf.in^
+||avvobqwi.in^
 ||avxskbxkmtawx.space^
 ||avytybblrvweh.space^
 ||avzaqmaoryehd.website^
@@ -5832,6 +5835,7 @@ vkcdnservice.appspot.com^
 ||betteradsystem.com^
 ||betteraudience.pro^
 ||betterdomino.com^
+||bettinebiggety.cfd^
 ||bettingcurly.com^
 ||bettinghandgun.cfd^
 ||bettinginvulnerablebarbed.com^
@@ -6054,6 +6058,7 @@ vkcdnservice.appspot.com^
 ||billboardwring.com^
 ||billbugsway.cfd^
 ||billetnimkish.shop^
+||billieshumean.cfd^
 ||billilia.com^
 ||billpussleybovoid.cfd^
 ||billyazotate.com^
@@ -7010,6 +7015,7 @@ vkcdnservice.appspot.com^
 ||brittledhowkonjak.qpon^
 ||brittlesnag.com^
 ||brittlesturdyunlovable.com^
+||brivola.net^
 ||brkttkeossvps.site^
 ||brmljcaxcchtu.space^
 ||brmrfxnpajqqx.site^
@@ -7139,6 +7145,7 @@ vkcdnservice.appspot.com^
 ||bsgoizcmrvgzj.space^
 ||bshrdr.com^
 ||bsipsynpzfzkb.online^
+||bsitxuoo.com^
 ||bsjcalhgylyxe.space^
 ||bsjigirhvfukb.online^
 ||bsjxodcvrvgbe.online^
@@ -16879,6 +16886,7 @@ vkcdnservice.appspot.com^
 ||fwxkoyoziixow.space^
 ||fwzperwuhavde.space^
 ||fwzvgdqhtxsxc.store^
+||fx55tjxkuuctxbf46zpzn87cfu34z.rest^
 ||fx9nyzm2u9p9e11yyb7.cfd^
 ||fxanwjmjbjhcq.website^
 ||fxayenbztjzdg.website^
@@ -17303,6 +17311,7 @@ vkcdnservice.appspot.com^
 ||genbalar.com^
 ||gendbkamiggxs.site^
 ||genderorganiccensus.com^
+||genekifanobeli.cyou^
 ||generalizationhazel.com^
 ||generalizebusinessman.com^
 ||generationdissolvedplease.com^
@@ -21129,6 +21138,7 @@ vkcdnservice.appspot.com^
 ||imblysxzsmwmk.website^
 ||imbrierseaportqatar.qpon^
 ||imbueprescriptionhumiliation.com^
+||imbw2o1r7i7cx5.cfd^
 ||imcdn.pro^
 ||imdprmebrbbbq.space^
 ||imeto.site^
@@ -24500,6 +24510,7 @@ vkcdnservice.appspot.com^
 ||ktwvbnfxd.com^
 ||ktxmnweyvslpo.website^
 ||ktxofwditvygq.online^
+||ktzhctcx.com^
 ||ku2d3a7pa8mdi.com^
 ||ku34bh9la09.com^
 ||ku42hjr2e.com^
@@ -33368,6 +33379,7 @@ vkcdnservice.appspot.com^
 ||plenishtyloma.shop^
 ||plenismagistorregear.cyou^
 ||plenistdizzies.cyou^
+||plenistuva.qpon^
 ||plenomedia.com^
 ||plentyhelium.com^
 ||plewhocaabo.org^
@@ -34672,6 +34684,7 @@ vkcdnservice.appspot.com^
 ||puntszarnec.cyou^
 ||punysafety.com^
 ||puoucchwtnlyp.website^
+||puoxtztceehtt.space^
 ||pupafztwe.in^
 ||pupahjjwokal.in^
 ||pupatesqueeze.com^
@@ -34992,6 +35005,7 @@ vkcdnservice.appspot.com^
 ||qadfstqrst.com^
 ||qaducxbb.com^
 ||qaeadnlcctjvh.online^
+||qaeddggqpmhrs.website^
 ||qaflyqanumeji.online^
 ||qafnatty.com^
 ||qahbicohgac.in^
@@ -35205,10 +35219,12 @@ vkcdnservice.appspot.com^
 ||qhicehhwmiwpu.space^
 ||qhivprrvldxnc.website^
 ||qhixpujxjyjkp.site^
+||qhizelbihmgvr.online^
 ||qhjfkenckadds.com^
 ||qhjneybjqcxjm.online^
 ||qhkflvounmbrq.site^
 ||qhkyoclyenren.com^
+||qhmpvwvlrglju.website^
 ||qhnbqrpobwplq.online^
 ||qhnojvbyxfgcf.click^
 ||qhoboesblendor.cyou^
@@ -35283,6 +35299,7 @@ vkcdnservice.appspot.com^
 ||qjqliyxkyyeyw.website^
 ||qjskjiztddgxp.store^
 ||qjuyaxbrnhxgm.online^
+||qjzdrmnclvgvb.online^
 ||qkaadhcu.in^
 ||qkacjgqdpvilp.website^
 ||qkbjclwirtotj.vip^
@@ -35825,6 +35842,7 @@ vkcdnservice.appspot.com^
 ||qxrcbjtqtzvdcp.com^
 ||qxrtkqsxrljbm.site^
 ||qxsgambwwkoib.site^
+||qxtjhckumnf.com^
 ||qxummanifgrjp.site^
 ||qxzfdeagblwys.space^
 ||qyaaesutjciib.site^
@@ -43269,6 +43287,7 @@ vkcdnservice.appspot.com^
 ||towmontfessing.cfd^
 ||townyomnist.shop^
 ||toworkwither.org^
+||towpywcf.com^
 ||toxanendhhcjx.site^
 ||toxanickingpeaked.cfd^
 ||toxemiaseabags.com^
@@ -46095,6 +46114,7 @@ vkcdnservice.appspot.com^
 ||veopoluoxfvtc.online^
 ||vepbwzodotfaz.online^
 ||vepnozzvgusai.space^
+||veqkjpelkiszl.com^
 ||verbalimpliedgorilla.com^
 ||verbalpedestalchilly.com^
 ||verbassistance.com^
