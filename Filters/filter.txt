@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-01T07:43:46.369Z
+! Last modified: 2026-06-01T09:48:58.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -674,6 +674,7 @@ vkcdnservice.appspot.com^
 ||2000outtechnologies.net^
 ||2001plugins.net^
 ||2020mustang.com^
+||2021group.com^
 ||2022fluxura.com^
 ||2022welcome.com^
 ||2024jphatomenesys35.top^
@@ -1028,6 +1029,7 @@ vkcdnservice.appspot.com^
 ||3nv8w7p84tlxm1nugjpwi5eyy.rest^
 ||3pkf5m0gd.com^
 ||3qfe1gfa.de^
+||3rw0usds.xyz^
 ||3tcrzmb1pvwo86m.cfd^
 ||3u3ymbqj.xyz^
 ||3uhg1kxxf4x88z.rest^
@@ -5284,6 +5286,7 @@ vkcdnservice.appspot.com^
 ||bardesstremolo.cyou^
 ||bardicjazzed.com^
 ||bardinghuggery.com^
+||bardishgonifs.cfd^
 ||bardismshagbag.com^
 ||bardsuppler.shop^
 ||bare-character.com^
@@ -5600,6 +5603,7 @@ vkcdnservice.appspot.com^
 ||beenover.com^
 ||beeperconsiderably.com^
 ||beepergaily.com^
+||beepernuntius.cyou^
 ||beeperteat.qpon^
 ||beeragecenbabyish.qpon^
 ||beerdoghoodtideful.cfd^
@@ -9737,6 +9741,7 @@ vkcdnservice.appspot.com^
 ||convrse.media^
 ||convsweeps.com^
 ||cooeyeddarbs.com^
+||cooffolkmot.cyou^
 ||coohauwhob.net^
 ||cooikoomseerun.com^
 ||cookedtower.pro^
@@ -11862,6 +11867,7 @@ vkcdnservice.appspot.com^
 ||disastrousgoal.pro^
 ||disbudswraths.com^
 ||disburychondri.shop^
+||discabrito.qpon^
 ||discernadornmentmaster.com^
 ||discernjournal.com^
 ||dischargepermit.com^
@@ -13585,6 +13591,7 @@ vkcdnservice.appspot.com^
 ||eiugequvqnhjw.online^
 ||eiul28e6jn8vu5r4u4btzy52vmtnj5z8.cfd^
 ||eiwouldlikukemyf.com^
+||eiwwvprgpeidlsa.com^
 ||eixgdeonnumrp.site^
 ||eiyqffkwnorae.space^
 ||eiyyjstblubzo.website^
@@ -13608,6 +13615,7 @@ vkcdnservice.appspot.com^
 ||ejk6fzpkxir92koj3xrz6q.rest^
 ||ejlqdcyrjsakh.site^
 ||ejmidntfgqwfh.site^
+||ejnhhchykjfyyle.com^
 ||ejnhzgcgazhjl.site^
 ||ejnrlecwlkoklw.com^
 ||ejoanpaklnyrg.space^
@@ -15635,6 +15643,7 @@ vkcdnservice.appspot.com^
 ||fhuwsmjjijivj.top^
 ||fhvfd.com^
 ||fhvgpbmarnsjv.website^
+||fhvogdiiyuzag.website^
 ||fhxgezqysdmtg.online^
 ||fhxnxqbziakfj.space^
 ||fhxyofvlnthdu.site^
@@ -16967,6 +16976,7 @@ vkcdnservice.appspot.com^
 ||fwqasyuebarqa.space^
 ||fwqszfazgzsni.website^
 ||fwrtzdlspzybl.space^
+||fwsarcasm.cfd^
 ||fwsigpacfqznc.site^
 ||fwtlvkgbmqqme.space^
 ||fwtqrul5w6uoyr81o6hqqzlbv1l.rest^
@@ -18700,6 +18710,7 @@ vkcdnservice.appspot.com^
 ||gukmodukuleqasfors.org^
 ||gukzebkckkvxv.website^
 ||guldenshalidsdossman.qpon^
+||gulesarable.qpon^
 ||gulioamsivgik.site^
 ||gulistyiddish.cfd^
 ||gullstheasum.cfd^
@@ -20459,6 +20470,7 @@ vkcdnservice.appspot.com^
 ||hundreddismayclaw.com^
 ||hundredthfellowshipprime.com^
 ||hungerblackenunequal.com^
+||hungry-exit.com^
 ||hungry-fan.pro^
 ||hunkhideliability.com^
 ||hunkiesethionsdew.cfd^
@@ -21364,6 +21376,7 @@ vkcdnservice.appspot.com^
 ||impossibleentry.com^
 ||impostdernly.com^
 ||impractical-safe.com^
+||impracticalbaseball.com^
 ||impracticalsmell.com^
 ||imprasafalter.cyou^
 ||impregnabledeceivingcoast.com^
@@ -22418,6 +22431,7 @@ vkcdnservice.appspot.com^
 ||jaapwinevat.cyou^
 ||jaattafibqjst.website^
 ||jaavnacsdw.com^
+||jabbedhambrounequal.cfd^
 ||jabgbmoddpmjp.site^
 ||jaborinrally.com^
 ||jabotsiever.qpon^
@@ -22529,6 +22543,7 @@ vkcdnservice.appspot.com^
 ||javgg.eu^
 ||javkdujthhuoj.com^
 ||javmg.com^
+||jawanbedrown.qpon^
 ||jawigcqrumbez.space^
 ||jawqgjbvrceel.website^
 ||jawyabhdlbtub.space^
@@ -26002,6 +26017,7 @@ vkcdnservice.appspot.com^
 ||loathsomeboy.com^
 ||lobbecalm.com^
 ||lobby-x.eu^
+||lobefinrewires.com^
 ||loboamoke.cyou^
 ||loboclick.com^
 ||lobparde.qpon^
@@ -28021,6 +28037,7 @@ vkcdnservice.appspot.com^
 ||mmxhaeaqhcntk.website^
 ||mn1nm.com^
 ||mn230126pb.com^
+||mn88fy5z1k6nce4.cfd^
 ||mnanrpzdpbphb.site^
 ||mnaspm.com^
 ||mnbgbnrdqihyq.site^
@@ -28114,6 +28131,7 @@ vkcdnservice.appspot.com^
 ||modifiedfloatvest.com^
 ||modifyqts.shop^
 ||modoro360.com^
+||modularskeanes.cyou^
 ||modulecooper.com^
 ||modulefetchblink.com^
 ||modulepush.com^
@@ -28615,6 +28633,7 @@ vkcdnservice.appspot.com^
 ||muemv8rubl52jn.cfd^
 ||muermoabject.shop^
 ||muermomogo.cyou^
+||muesliyoudith.cyou^
 ||muffinfeudalactually.com^
 ||muffinsum.com^
 ||muffled-rock.pro^
@@ -31158,6 +31177,7 @@ vkcdnservice.appspot.com^
 ||okx59jgw69luzkexe.cfd^
 ||okzacpzuma.in^
 ||okzqhquaktxmj.website^
+||olambalolo.cyou^
 ||olarodwood.com^
 ||olayomad.com^
 ||olbeeqbqgumdt.website^
@@ -32813,6 +32833,7 @@ vkcdnservice.appspot.com^
 ||peccantdhurna.com^
 ||peccantstuck.cfd^
 ||pechaycorbels.shop^
+||pechspemphix.cyou^
 ||pecialukizeias.info^
 ||pecialukizeias.org^
 ||pecifyspacing.com^
@@ -33744,6 +33765,7 @@ vkcdnservice.appspot.com^
 ||pohalochi.qpon^
 ||pohgrfoogvfvl.store^
 ||poidampish.com^
+||pointaceric.cyou^
 ||pointcontinentrtb.com^
 ||pointedleverelkuma.cfd^
 ||pointedmanahe.com^
@@ -33877,6 +33899,7 @@ vkcdnservice.appspot.com^
 ||popeyesativaecucking.cfd^
 ||pophandler.net^
 ||popjanuary.shop^
+||popjoynorit.cfd^
 ||poplardealtcarrying.com^
 ||poplarstazzetulchan.cyou^
 ||poplartenth.com^
@@ -34818,6 +34841,7 @@ vkcdnservice.appspot.com^
 ||pulseonclick.com^
 ||pulsesphanicminimum.qpon^
 ||pulverizefighting.com^
+||pulvmarl.cfd^
 ||pulyxlgvrlqco.space^
 ||pumaqmqix.com^
 ||pumeloricing.com^
@@ -42329,6 +42353,7 @@ vkcdnservice.appspot.com^
 ||tautedsessa.qpon^
 ||tautexternal.pro^
 ||tautingtortes.com^
+||tautogwhileengruidae.cfd^
 ||tauzo.xyz^
 ||tavaobnftgph.com^
 ||tavlomikyionr.website^
@@ -47475,6 +47500,7 @@ vkcdnservice.appspot.com^
 ||w3fc1o28kpltrl.rest^
 ||w4.com^
 ||w454n74qw.com^
+||w4iru3mmgigxjbz8obbwz.rest^
 ||w4k65h3vz538fmrt3jz1453i546h.cfd^
 ||w4w8jhqxetxbhw6e5ry625v.rest^
 ||w4yb7hw3tnor3c.cfd^
@@ -49762,6 +49788,7 @@ vkcdnservice.appspot.com^
 ||wxkvfxvujdpwl.site^
 ||wxlatgcemmkkv.site^
 ||wxlgtwrcruaui.online^
+||wxmn-defender.pro^
 ||wxmxrg3551onwl2wq.cfd^
 ||wxnbmpishocym.online^
 ||wxngociwgiqin.online^
@@ -71191,8 +71218,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-05-21 05:52:59 CEST
-# entries:        1154
+# last updated:   2026-06-01 10:43:37 CEST
+# entries:        1152
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.omappapi.com^
@@ -71880,7 +71907,6 @@ dlsdk.appsflyer.com^
 ||www.aservice.tools^
 ||www.awin1.com^
 ||www.blogtoplist.se^
-||www.championsverige.com.se^
 ||www.clarity.ms^
 ||www.creativeconsortiuminspired.com^
 ||www.dwin2.com^
@@ -72069,8 +72095,14 @@ dlsdk.appsflyer.com^
 -728-x-90.
 -728x90a.
 .1080.x.90.
+||aurum.tirto.id^
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 ||ads.gmbr.pro^
+||getandplay.web.id^
+||acquaintjokinglyscoring.com^
+||bondeddarkenedswerve.com^
+||shopnoit.com^
+||wonderfulyesterday.com^
 -bandarkiu.
 -tototix.gif
 !
@@ -72079,8 +72111,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 May 2026 13:53 UTC+7
-! Version: 2605291353
+! Last modified: 01 Jun 2026 16:45 UTC+7
+! Version: 2606011645
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -72888,8 +72920,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 29 May 2026 13:53 UTC+7
-! Version: 2605291353
+! Last modified: 01 Jun 2026 16:45 UTC+7
+! Version: 2606011645
 ! Blocked: 4.862 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -77730,6 +77762,7 @@ dlsdk.appsflyer.com^
 ||jasmine33.top^
 ||vd09de2i0.com^
 ||xzv5vu7wl.com^
+||9pyn42z6d.com^
 ||d1129ldr7.com^
 ||ddhwxwi6h.com^
 ||wk5fo6pyf.com^
