@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-01T09:48:58.359Z
+! Last modified: 2026-06-01T11:57:57.203Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -481,6 +481,7 @@ vkcdnservice.appspot.com^
 ||102cryoura.com^
 ||103092804.com^
 ||104processors.net^
+||1080zero.com^
 ||1090pjopm.de^
 ||10dc04504e.com^
 ||10desires.com^
@@ -3672,6 +3673,7 @@ vkcdnservice.appspot.com^
 ||amxwubswyl.in^
 ||amyctichourisrozzer.cfd^
 ||amyldiarian.cfd^
+||amylojobbers.cyou^
 ||amylomjemwhare.cfd^
 ||amylpiete.shop^
 ||amyrootdotiersylphs.qpon^
@@ -3940,6 +3942,7 @@ vkcdnservice.appspot.com^
 ||aowbwnomvpry.com^
 ||aoxvlbejkrvvh.online^
 ||aoybyddyyolidd.com^
+||aoykjwcqgtruy.website^
 ||aoyptpffgxcjy.website^
 ||aozltbnbfwlww.xyz^
 ||apairdeking.qpon^
@@ -4117,6 +4120,7 @@ vkcdnservice.appspot.com^
 ||aqlphayjxwevf.site^
 ||aqluiuckcnxkg.website^
 ||aqngziguqo.in^
+||aqnkraxnrbdtw.space^
 ||aqnqaohb.com^
 ||aqoifpujbbptd.space^
 ||aqpmljbvacbpi.space^
@@ -4709,6 +4713,7 @@ vkcdnservice.appspot.com^
 ||auqot.com^
 ||auras-loves-dreams.com^
 ||auratedfelinenowed.qpon^
+||aureliatmeses.com^
 ||aurhlnavjnobz.website^
 ||aurifygret.cyou^
 ||aurigodeglut.shop^
@@ -4900,12 +4905,14 @@ vkcdnservice.appspot.com^
 ||aws-itcloud.net^
 ||awsoszfpeag.in^
 ||awsurveys.com^
+||awtqzumhrmgmd.site^
 ||awtwgrpmlypwj.online^
 ||awumnf.com^
 ||awwrfiaspaxn.in^
 ||awxdlwbxqjnoi.online^
 ||awzpvorsyltel.website^
 ||awzsuxrw.in^
+||axabpelvjfqav.site^
 ||axctjlaohyoof.space^
 ||axdawwcwiq.in^
 ||axdzmrruiattf.website^
@@ -4954,6 +4961,7 @@ vkcdnservice.appspot.com^
 ||ayads.co^
 ||ayagirbxqzmkt.global^
 ||ayarkkbmakkja.top^
+||aycjortbsnnvg.online^
 ||aycompleted.com^
 ||aycplbvazmywz.space^
 ||aycrxa.com^
@@ -5950,6 +5958,7 @@ vkcdnservice.appspot.com^
 ||bfrjiwydcakxu.site^
 ||bfrrndnsbmiov.site^
 ||bfssppyxypbix.website^
+||bftbphjlcefsk.site^
 ||bftpmopxgftqs.site^
 ||bftrziwxumrpe.online^
 ||bftsvzccaoqba.website^
@@ -5957,6 +5966,7 @@ vkcdnservice.appspot.com^
 ||bfvbaujlrhep.com^
 ||bfwnbnerccsor.space^
 ||bfxytxdpnk.com^
+||bfyydwxdkefev.online^
 ||bfziqxsuvogng.space^
 ||bg-mezonet.info^
 ||bg4nxu2u5t.com^
@@ -6844,6 +6854,7 @@ vkcdnservice.appspot.com^
 ||bpifosgceukau.space^
 ||bpigydbzlrszz.online^
 ||bpihipfkop.in^
+||bpkoxaocunczy.site^
 ||bpleaaekrdvnj.site^
 ||bplpneesbsfmb.website^
 ||bpltqydasflff.online^
@@ -12696,6 +12707,7 @@ vkcdnservice.appspot.com^
 ||dsmcxxdr.com^
 ||dsmtlxxmhsdea.site^
 ||dsmueyhhycr.com^
+||dsnmip.com^
 ||dsntah.com^
 ||dsp.wtf^
 ||dsp5stero.com^
@@ -21663,6 +21675,7 @@ vkcdnservice.appspot.com^
 ||inosinosselet.qpon^
 ||inoutweiledstever.org^
 ||inouva.com^
+||inpa29d7r79.com^
 ||inpage-push.com^
 ||inpage-push.net^
 ||inpagepush.com^
@@ -24545,6 +24558,7 @@ vkcdnservice.appspot.com^
 ||kqsebncdjeuuj.site^
 ||kqtbwyrudcgeoe.com^
 ||kqtpgtgspdgir.site^
+||kquojopnmvokgf.com^
 ||kqwvgzulratqt.space^
 ||kqwvqvapfvajp.online^
 ||kqxusarzhtxgw.space^
@@ -26087,6 +26101,7 @@ vkcdnservice.appspot.com^
 ||lojsuarokgyxv.space^
 ||lojusypsa.com^
 ||lokcdn.com^
+||lokemrnxiacgod.com^
 ||lokevomitsorbical.cyou^
 ||lokglfvlixcei.online^
 ||lokilearier.shop^
@@ -33545,6 +33560,7 @@ vkcdnservice.appspot.com^
 ||playerseo.club^
 ||playeverlustinglife.space^
 ||playgroundordinarilymess.com^
+||playhere.win^
 ||playhubconnect.com^
 ||playintegrityrailing.com^
 ||playmmogames.com^
@@ -34039,6 +34055,7 @@ vkcdnservice.appspot.com^
 ||pouredtoughen.cfd^
 ||pouredtrunk.com^
 ||poussiepienaarskither.qpon^
+||pousygringosmulched.cyou^
 ||poutstow.com^
 ||poutyerenoweburin.cfd^
 ||poveuvhuxyltz.website^
@@ -38511,6 +38528,7 @@ vkcdnservice.appspot.com^
 ||same-building.com^
 ||same-curve.pro^
 ||same-replacement.pro^
+||samenumber.pro^
 ||samepresume.com^
 ||samhainbewend.com^
 ||samktxppegfqo.website^
@@ -40956,6 +40974,7 @@ vkcdnservice.appspot.com^
 ||squirtdrsuccession.com^
 ||squirtpresented.com^
 ||squishgritsalient.cyou^
+||squisscoiffed.cfd^
 ||sqvdsoxccdrkq.site^
 ||sqxbojbkjdved.online^
 ||sqxmdxrnapvnb.website^
@@ -41289,6 +41308,7 @@ vkcdnservice.appspot.com^
 ||stonerbudgy.qpon^
 ||stoneycorcle.shop^
 ||stonierteddy.com^
+||stonishbumbass.com^
 ||stonkstime.com^
 ||stonysuingtartness.com^
 ||stoolsymphony.com^
@@ -45312,6 +45332,7 @@ vkcdnservice.appspot.com^
 ||unriperglozecedula.cfd^
 ||unripewar.com^
 ||unrivedfankleoctonal.cyou^
+||unroundcakettequickly.cfd^
 ||unruderaggedy.qpon^
 ||unruedwhoring.cfd^
 ||unrulesatlijk.com^
@@ -47030,6 +47051,7 @@ vkcdnservice.appspot.com^
 ||vowthreehilarious.com^
 ||vowwyaqxc.com^
 ||voxar.xyz^
+||voxis11.com^
 ||voyagedearanatomy.com^
 ||voyageedgyglass.com^
 ||voyagessansei.com^
@@ -72095,14 +72117,8 @@ dlsdk.appsflyer.com^
 -728-x-90.
 -728x90a.
 .1080.x.90.
-||aurum.tirto.id^
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 ||ads.gmbr.pro^
-||getandplay.web.id^
-||acquaintjokinglyscoring.com^
-||bondeddarkenedswerve.com^
-||shopnoit.com^
-||wonderfulyesterday.com^
 -bandarkiu.
 -tototix.gif
 !
@@ -77763,6 +77779,8 @@ dlsdk.appsflyer.com^
 ||vd09de2i0.com^
 ||xzv5vu7wl.com^
 ||9pyn42z6d.com^
+||rl8yj74pr.com^
+||1ehioxpqe.com^
 ||d1129ldr7.com^
 ||ddhwxwi6h.com^
 ||wk5fo6pyf.com^
