@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-02T07:36:53.956Z
+! Last modified: 2026-06-02T09:33:44.719Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -549,6 +549,7 @@ vkcdnservice.appspot.com^
 ||17ce57fe70.com^
 ||17co2k5a.de^
 ||17do048qm.de^
+||17loio.net^
 ||17t6rngx32f7gy.cfd^
 ||181m2fscr.de^
 ||184c4i95p.de^
@@ -942,6 +943,7 @@ vkcdnservice.appspot.com^
 ||31def61c3.de^
 ||31fbcecdf2.com^
 ||31o0jl63.de^
+||321withgraph.com^
 ||322xgowenfbuk4gq452j8qyrwnreg.rest^
 ||3258994ce4.com^
 ||3278rmr2lbxnilx35iyhvmn.rest^
@@ -1154,6 +1156,7 @@ vkcdnservice.appspot.com^
 ||4htpt287i7xmceyy7fffqligkptwk.cfd^
 ||4hx95xequ2qnry3pj45ool.rest^
 ||4i3u8ncfz7ygmew8.cfd^
+||4ibuny1m96qoy9ieb9x61q9iy6nhrhyj.rest^
 ||4ie83349526bv6zehpxkuehpp86t.rest^
 ||4irq8we54h89h8b9y431zgceu3ofyn3mu.cfd^
 ||4irxrz5zj3bzb3.rest^
@@ -4739,6 +4742,7 @@ vkcdnservice.appspot.com^
 ||aurhlnavjnobz.website^
 ||aurifygret.cyou^
 ||aurigodeglut.shop^
+||aurirdelicatgimped.qpon^
 ||auritedconvert.cyou^
 ||auroraveil.bid^
 ||auroredamiana.qpon^
@@ -5310,6 +5314,7 @@ vkcdnservice.appspot.com^
 ||barazapushrod.cyou^
 ||barbamarinaloner.cfd^
 ||barbecueasleeprealistic.com^
+||barbellcomates.shop^
 ||barboscaught.com^
 ||barboychimera.com^
 ||barboycreme.com^
@@ -12401,6 +12406,7 @@ vkcdnservice.appspot.com^
 ||dontxtspxvo.com^
 ||donutpassenger.com^
 ||doo888x.com^
+||doodlerfred.qpon^
 ||doodlesunshinecamp.com^
 ||doodptrbqxpct.online^
 ||dookitedenizemulvel.qpon^
@@ -12748,6 +12754,7 @@ vkcdnservice.appspot.com^
 ||dsbsmooohjuon.online^
 ||dscjnr.com^
 ||dsckgc.com^
+||dsdwlk.com^
 ||dsectbaffler.qpon^
 ||dsectslimy.cyou^
 ||dseel9.com^
@@ -13500,6 +13507,7 @@ vkcdnservice.appspot.com^
 ||eeybexiamabwa.site^
 ||eezuljgf.com^
 ||ef5787f742.com^
+||ef8p82vhgk6vhrjv53.cfd^
 ||ef9i0f3oev47.com^
 ||efadfubcqalcr.club^
 ||efbeetcblr.com^
@@ -16169,6 +16177,7 @@ vkcdnservice.appspot.com^
 ||flourishexcellent.com^
 ||flourishingscreencousin.com^
 ||flourpeacefully.com^
+||floutsunfalse.shop^
 ||flowedsalweyupstand.qpon^
 ||flower-byte.com^
 ||flowingassuage.com^
@@ -19653,6 +19662,7 @@ vkcdnservice.appspot.com^
 ||hewanasagau.qpon^
 ||hewornpllzsau.site^
 ||hewotwzpqdugo.site^
+||hewtkcgqmeyor.online^
 ||hexescancans.cyou^
 ||hexishipshot.cfd^
 ||hexylsagrised.shop^
@@ -23264,6 +23274,7 @@ vkcdnservice.appspot.com^
 ||josephclassics.com^
 ||josfurouf.com^
 ||joshuaam.qpon^
+||josippreomit.shop^
 ||jostledsibsmalmed.cfd^
 ||josulhtyxgarv.space^
 ||jottiercedserail.cyou^
@@ -27662,6 +27673,7 @@ vkcdnservice.appspot.com^
 ||methoxyunpaled.com^
 ||methsnacritepreview.qpon^
 ||metklqryqtgnu.online^
+||metolautomatvinery.cyou^
 ||metothepointa.com^
 ||metradasheen.shop^
 ||metredesculic.com^
@@ -32686,6 +32698,7 @@ vkcdnservice.appspot.com^
 ||pardahdantist.cfd^
 ||pardalpyoidguilds.cfd^
 ||pardlupe.qpon^
+||parecatheti.cfd^
 ||paregospeltheir.com^
 ||pareilgipons.qpon^
 ||parentsjobquote.com^
@@ -32973,6 +32986,7 @@ vkcdnservice.appspot.com^
 ||pe9rpy76iw1oior76gkxyp4y8np17.rest^
 ||peacebanana.com^
 ||peacefulhillwalk.com^
+||peacefulmeadowwalk.com^
 ||peacefulshadowway.com^
 ||peachesbrulzie.cyou^
 ||peacoatpopular.shop^
@@ -35699,6 +35713,7 @@ vkcdnservice.appspot.com^
 ||qkgoahutyimrf.site^
 ||qkieitettuode.store^
 ||qkignhzgdktgh.online^
+||qkjwhwmb.com^
 ||qkknhauolovpr.site^
 ||qklvxuapbdqtu.online^
 ||qkmerhdtlqadp.site^
@@ -39175,6 +39190,7 @@ vkcdnservice.appspot.com^
 ||secedesgrinchamebic.qpon^
 ||secernroofers.cyou^
 ||sechw.com^
+||secludeestuate.cfd^
 ||secludeunhappybungalow.com^
 ||secludeyourselvescaraway.com^
 ||secohmcarle.cyou^
@@ -40639,6 +40655,7 @@ vkcdnservice.appspot.com^
 ||solemnbible.com^
 ||solemnlyreflectionextinct.com^
 ||soleratantawyquiina.cfd^
+||solertsoggily.cyou^
 ||soleynepeppin.com^
 ||solicitorfillet.com^
 ||solicitorvalvemade.com^
@@ -42078,6 +42095,7 @@ vkcdnservice.appspot.com^
 ||swairdhottery.cfd^
 ||swak-adguard.pro^
 ||swalessidi.com^
+||swamanethum.qpon^
 ||swamplots.com^
 ||swan-swan-goose.com^
 ||swanempower.com^
@@ -44377,6 +44395,7 @@ vkcdnservice.appspot.com^
 ||tumblepoet.com^
 ||tumblerengagement.com^
 ||tumblerpeacheswry.com^
+||tumionuneye.cfd^
 ||tummingredelay.cyou^
 ||tumorskyar.com^
 ||tumorsvainly.cfd^
@@ -46423,6 +46442,7 @@ vkcdnservice.appspot.com^
 ||vbclshtzg.com^
 ||vbcojhroxkoaf.online^
 ||vbdozzrdqluca.store^
+||vbebyykpkmotm.com^
 ||vbeywdzjmxzzq.site^
 ||vbfprrpmkrdma.site^
 ||vbfrhhed.com^
@@ -53944,6 +53964,7 @@ vkcdnservice.appspot.com^
 ||zwqzxh.com^
 ||zwsoiwcqtzurd.website^
 ||zwt2qgrhx72e5p2w6qwp.cfd^
+||zwtpmjjbuvfyr.website^
 ||zwtreqtyusacn.space^
 ||zwubipwic.com^
 ||zwudejaxaemlb.online^
@@ -64401,6 +64422,7 @@ dlsdk.appsflyer.com^
 ||video-analytics-api.cloudinary.com^
 ||video-intel.pixels.ai^
 ||vitals.flyingpress.com^
+||vm.target-video.com^
 ||vortex.data.microsoft.com^
 ||vplayeranalytics.vidgyor.com^
 ||vst.sibnet.ru^
@@ -71268,7 +71290,6 @@ dlsdk.appsflyer.com^
 ||superclix.de^
 ||superpromo24.de^
 ||tagrpd.de^
-||target-video.com^
 ||textklicks.de^
 ||tip-ads.de^
 ||trabro.com^
@@ -78029,6 +78050,7 @@ dlsdk.appsflyer.com^
 ||balsam18.com^
 ||cvd2jag5ru.com^
 ||ppkufuc5vg.com^
+||cf7xvu3z6z.com^
 ||90tsdpml6.com^
 ||quu175kt3.com^
 ||freesia45.top^
@@ -84784,6 +84806,11 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2058
+! Blocked by CNAME data.adobedc.net
+@@||data.notify.macys.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/
+@@||om-ssl.consorsbank.de^|
 ! taboolanews.com
 @@|cdn.taboola.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230786
@@ -84954,10 +84981,12 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
 ! Blocked by CNAME getblueshift.com
 @@||clickattr.wayup.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/231294
 ! https://github.com/AdguardTeam/AdguardFilters/issues/213677
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
 ! Blocked by CNAME adperfect.com
 @@||remembering.ca^|
+@@||obituaries.toacorn.com^|
 @@||obituaries.thestar.com^|
 @@||obituaries.therecord.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
