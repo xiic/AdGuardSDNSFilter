@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-04T07:36:16.087Z
+! Last modified: 2026-06-04T09:18:16.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3425,6 +3425,7 @@ vkcdnservice.appspot.com^
 ||anothereldestprogeny.com^
 ||anothingfruit.org^
 ||anotoenprmmen.space^
+||anoxicselect.com^
 ||anqvajttljxe.com^
 ||anqzpoxzaaqg.in^
 ||anrfvqiycrybr.store^
@@ -4826,6 +4827,7 @@ vkcdnservice.appspot.com^
 ||bedaslonejul.cc^
 ||beddingfetched.com^
 ||bedenphonos.qpon^
+||bedevilribber.qpon^
 ||bedlessresizes.com^
 ||bedouseschema.cyou^
 ||bedropveneers.cyou^
@@ -5441,6 +5443,7 @@ vkcdnservice.appspot.com^
 ||blmdajbsopq.com^
 ||blmihlvicnopl.store^
 ||blmpmttgukmsm.website^
+||blnfsdkskzqfh.site^
 ||bloatedumiacks.cfd^
 ||bloatingexpectantretinal.com^
 ||bloatsmatweed.com^
@@ -9744,6 +9747,7 @@ vkcdnservice.appspot.com^
 ||dfrjvdxlfisoi.website^
 ||dfudoeehau.com^
 ||dfuijqrojtvcb.site^
+||dfuufcsikcian.website^
 ||dfuvslppaxhzv.site^
 ||dfvruigpfghpi.site^
 ||dfwjcksuusdzf.site^
@@ -10677,6 +10681,7 @@ vkcdnservice.appspot.com^
 ||dsp.wtf^
 ||dsp5stero.com^
 ||dspchided.com^
+||dspktc.com^
 ||dspultra.com^
 ||dsqdbi.com^
 ||dsqyla.com^
@@ -11497,6 +11502,7 @@ vkcdnservice.appspot.com^
 ||ekenamemutuaryrough.qpon^
 ||ekerududeyuqb.space^
 ||ekfixwdupqvpt.com^
+||ekfovqfrgcrg.com^
 ||ekfqaxxwnmqdb.website^
 ||ekgjcmvac.com^
 ||ekgjddiuwwyrv.online^
@@ -15861,6 +15867,7 @@ vkcdnservice.appspot.com^
 ||gypsyairplanereign.com^
 ||gypsyproducing.com^
 ||gypsytriggerscrazy.com^
+||gypuwurlmkxrmb.com^
 ||gyqhhplfcvtrh.online^
 ||gyrallydaiker.com^
 ||gyrenesnumbs.cyou^
@@ -20942,6 +20949,7 @@ vkcdnservice.appspot.com^
 ||lackingcompare.com^
 ||lackinggirtsterefah.qpon^
 ||lacnelmsvgghz.space^
+||lacqswjjbkljb.site^
 ||lacquercheeky.com^
 ||lactoamuguis.shop^
 ||lacytrinityhissed.com^
@@ -23220,6 +23228,7 @@ vkcdnservice.appspot.com^
 ||mifonrcki.in^
 ||mifvigmz.com^
 ||mig3incvggbukg.cfd^
+||migaelqamaefp.online^
 ||migcradnebxmy.website^
 ||mignished-sility.com^
 ||migranticon.com^
@@ -24100,6 +24109,7 @@ vkcdnservice.appspot.com^
 ||musetteanstoss.com^
 ||museumoff.com^
 ||musfnoaykzyab.site^
+||musgdweqsamdg.online^
 ||mushhurried.com^
 ||mushlaregrass.com^
 ||mushroomallocationfooting.com^
@@ -30284,6 +30294,7 @@ vkcdnservice.appspot.com^
 ||qgdgcxmdccrdx.com^
 ||qgerr.com^
 ||qgfdmuyzgrosw.online^
+||qgfxocvsjgq.com^
 ||qghdzumsgojvw.online^
 ||qgitfyktwfhba.website^
 ||qgkbveukreear.site^
@@ -32263,6 +32274,7 @@ vkcdnservice.appspot.com^
 ||ridgewherevertical.com^
 ||ridgeyelpastronomy.com^
 ||ridgydefleasoboles.qpon^
+||ridijnjzkdgry.website^
 ||ridingpertconquest.com^
 ||ridottosacrumparched.cfd^
 ||ridxvydxlhiej.online^
@@ -38098,6 +38110,7 @@ vkcdnservice.appspot.com^
 ||tintedfrailespirr.cfd^
 ||tintedjoint.com^
 ||tintersloggish.com^
+||tintskrag.qpon^
 ||tintypetabid.shop^
 ||tinxawrskpuyi.site^
 ||tiny-atmosphere.com^
@@ -40108,6 +40121,7 @@ vkcdnservice.appspot.com^
 ||uncialsrefined.shop^
 ||unciatoi.com^
 ||uncinchambash.com^
+||unciteablutetercets.qpon^
 ||uncleanwindups.shop^
 ||unclesnewspaper.com^
 ||unclewhiteys.com^
@@ -41599,6 +41613,7 @@ vkcdnservice.appspot.com^
 ||vgxmagbsctvdf.online^
 ||vgzglvykuyclh.store^
 ||vh38rmbm67px9ttu8xwf3fcwl48yo.cfd^
+||vhanxmtpkluuf.online^
 ||vhazqzndinbo.com^
 ||vhbbeareiglah.website^
 ||vhbbubfytrjht.space^
@@ -58543,6 +58558,7 @@ dlsdk.appsflyer.com^
 ||dynamic.ziftsolutions.com^
 ||e.revenue.cat^
 ||e.usesneakpeek.com^
+||e.zg-api.com^
 ||e045f561.b-cdn.net^
 ||ea.youmaker.com^
 ||ec.walkme.com^
