@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-07T07:22:36.849Z
+! Last modified: 2026-06-07T09:02:32.381Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2685,6 +2685,7 @@ vkcdnservice.appspot.com^
 ||affiliride.com^
 ||affiliserve.com^
 ||affirmativebenediction.com^
+||affixmaximed.cyou^
 ||affiz.net^
 ||afflat3a1.com^
 ||afflat3d2.com^
@@ -6606,6 +6607,7 @@ vkcdnservice.appspot.com^
 ||bzicmmsfnogzz.site^
 ||bzlnqhuqbwirt.store^
 ||bzlnrcsfrxjh.com^
+||bzmhcaqwquzkj.website^
 ||bznbmqpxhi.com^
 ||bzojjabyipdsf.website^
 ||bzonvmin.com^
@@ -10844,6 +10846,7 @@ vkcdnservice.appspot.com^
 ||dsb68d.com^
 ||dsbcks.com^
 ||dsbdyr.com^
+||dsbexk.com^
 ||dsbixe.com^
 ||dsbnvctq.com^
 ||dsbohcqqdvbyt.site^
@@ -11368,6 +11371,7 @@ vkcdnservice.appspot.com^
 ||ebevdidgdjmhf.website^
 ||ebfclhdkkmeav.store^
 ||ebftaryatw.com^
+||ebgqqjsgloovg.space^
 ||ebh982icrrnxrjj3l.cfd^
 ||ebiudbsp.com^
 ||ebjzywqbpkbbi.online^
@@ -11767,6 +11771,7 @@ vkcdnservice.appspot.com^
 ||ekxuwignogvdd.site^
 ||ekylehxfxqgb.com^
 ||ekyngoyzuutls.website^
+||ekyqmiffifosj.space^
 ||ekzyqldtqnnth.online^
 ||el8e4ke81e5euv.cfd^
 ||elaborate-fan.pro^
@@ -15008,6 +15013,7 @@ vkcdnservice.appspot.com^
 ||germenbombs.cyou^
 ||germinatethick.com^
 ||germlesslukewarmmold.com^
+||gesqruyuqhdxz.website^
 ||gestaltjute.com^
 ||gesterrobotry.cyou^
 ||gesteswayland.qpon^
@@ -18110,6 +18116,7 @@ vkcdnservice.appspot.com^
 ||ijmrqatwfuemc.website^
 ||ijodznrurloac.space^
 ||ijptdajxzkxsa.space^
+||ijsthljka.com^
 ||ijtunfncxnpdp.website^
 ||ijucmzrifdaba.online^
 ||ijwedylvbjgdx.space^
@@ -40293,6 +40300,7 @@ vkcdnservice.appspot.com^
 ||tzknnxfogr.com^
 ||tzlaokwrwlmim.online^
 ||tzlxuepwpgyju.website^
+||tzmlhlehvkzea.site^
 ||tzmsouoqvysag.site^
 ||tzmupfzuwoqtl.space^
 ||tznvsmuylzbfl.website^
@@ -40488,6 +40496,7 @@ vkcdnservice.appspot.com^
 ||ueomdedzyvpdn.online^
 ||ueoxrpmuqlspj.online^
 ||uepdhsudepbiw.space^
+||ueptpuzeffsof.space^
 ||ueqkrtmgiokeg.site^
 ||ueqwqlcwuq1xny.rest^
 ||uerbcssuraiyf.space^
@@ -41523,6 +41532,7 @@ vkcdnservice.appspot.com^
 ||urgingkupper.com^
 ||urgxnorjluhwl.online^
 ||urheenexserts.cfd^
+||urimcaisson.cfd^
 ||urimnugocfr.com^
 ||urinegracefulfloating.com^
 ||urineimprobable.com^
@@ -44039,6 +44049,7 @@ vkcdnservice.appspot.com^
 ||weekendpolitely.com^
 ||weekheadlong.com^
 ||weekwambondage.cyou^
+||weemencheflung.qpon^
 ||weenierfrisian.cfd^
 ||weenxmphvvwda.space^
 ||weeoffer.com^
