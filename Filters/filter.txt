@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-08T07:39:41.118Z
+! Last modified: 2026-06-08T09:34:17.041Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -513,6 +513,7 @@ vkcdnservice.appspot.com^
 ||12r8t4e28qwz8me12yb5q.rest^
 ||12xlwin4m.com^
 ||130gelh8q.de^
+||132delta.net^
 ||13372product.net^
 ||1337visualize.net^
 ||1338f95c76.com^
@@ -10963,6 +10964,7 @@ vkcdnservice.appspot.com^
 ||dspchided.com^
 ||dspktc.com^
 ||dspultra.com^
+||dspwdz.com^
 ||dsqdbi.com^
 ||dsqvcm.com^
 ||dsqyla.com^
@@ -21296,6 +21298,7 @@ vkcdnservice.appspot.com^
 ||kubicserves.icu^
 ||kubqfszekybaw.website^
 ||kucelglfptill.site^
+||kucyhafaatzxg.space^
 ||kudszedudxi.in^
 ||kudwmaucyncfk.website^
 ||kuebvpq7cej16ve1xpkow.rest^
@@ -23027,6 +23030,7 @@ vkcdnservice.appspot.com^
 ||lyophilhoolalgins.cyou^
 ||lyopieifcjaqb.site^
 ||lyosfxbkdwt.com^
+||lypchoanqfwqz.site^
 ||lypslljhdhveu.website^
 ||lyptaszfhobhx.site^
 ||lyqktmnzhoapj.online^
@@ -23263,6 +23267,7 @@ vkcdnservice.appspot.com^
 ||mannersportalchart.com^
 ||manorflounderheady.com^
 ||manorowlapprehension.com^
+||manropeespece.cfd^
 ||mansionappointmentmoon.com^
 ||mansoundug.com^
 ||manualchaosmartial.com^
@@ -26267,6 +26272,7 @@ vkcdnservice.appspot.com^
 ||nwpwfyhnvqmxd.website^
 ||nwpxuyrumutlj.store^
 ||nwryeirpkvato.one^
+||nwszpbqwkfhdm.site^
 ||nwtdvlersdowe.space^
 ||nwvkpbrceeutp.site^
 ||nwvptbbdwhxb.com^
@@ -26627,6 +26633,7 @@ vkcdnservice.appspot.com^
 ||oedazrjbdxygw.site^
 ||oefdjrivunaqq.website^
 ||oeg9k75z9njgwpj.cfd^
+||oeghfzriitzsz.online^
 ||oegjeeuyatxcm.website^
 ||oehbh5tmjz6lc44u943.cfd^
 ||oeheupxifmgtq.website^
@@ -27276,6 +27283,7 @@ vkcdnservice.appspot.com^
 ||opulent-agency.pro^
 ||opvanillishan.com^
 ||opvvrosxfrql.com^
+||opwcpsrmhs.com^
 ||opwgvbakasvqe.online^
 ||opxglqeagamku.space^
 ||opyavarfwqcpf.store^
@@ -28711,6 +28719,7 @@ vkcdnservice.appspot.com^
 ||piestprevot.com^
 ||pievsejhampai.online^
 ||piewifezeke.com^
+||piferocrozezmudz.cfd^
 ||pifferoengird.cyou^
 ||pifowotorfwvl.online^
 ||pifwtzenjvjnn.space^
@@ -32367,6 +32376,7 @@ vkcdnservice.appspot.com^
 ||rlogcejfsgtar.site^
 ||rlogscbdafnjf.site^
 ||rloqytup54ovpyz8hpb.cfd^
+||rlovygavhheuf.com^
 ||rlrsfxkewwgww.site^
 ||rlsnntgffqnli.online^
 ||rludahcaewkfd.online^
@@ -32501,6 +32511,7 @@ vkcdnservice.appspot.com^
 ||roikingdom.com^
 ||roilskokoon.cyou^
 ||rojakplatearoche.cyou^
+||rokeemidgety.qpon^
 ||rokeyhart.qpon^
 ||rokiiuauifitv.online^
 ||rokmewled.com^
@@ -36291,6 +36302,7 @@ vkcdnservice.appspot.com^
 ||tabloidincapable.com^
 ||taboredgoops.com^
 ||tabretwicht.com^
+||tachiolcoosers.cyou^
 ||tackdisillusion.com^
 ||tackfreed.com^
 ||tackletoumnah.cyou^
@@ -43941,6 +43953,7 @@ vkcdnservice.appspot.com^
 ||yteyqwqnejfxnbi.com^
 ||ytfikvbmz.com^
 ||ytfopunfosbhj.com^
+||ytibejpiwuucg.online^
 ||ytihp.com^
 ||ytinxswlejphn.space^
 ||ytiwffwzbqxya.site^
@@ -49439,6 +49452,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||dd.qwant.com^
+||k.qwant.com^
 ||statikk.modelviewer.lol^
 ||browser.pipe.aria.microsoft.com^
 ||go-usertrack-importer.pub.rtl-api.com^
@@ -63088,8 +63103,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Jun 2026 11:10 UTC+7
-! Version: 2606081110
+! Last modified: 08 Jun 2026 16:01 UTC+7
+! Version: 2606081601
 ! Blocked: 846 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -63899,8 +63914,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 08 Jun 2026 11:10 UTC+7
-! Version: 2606081110
+! Last modified: 08 Jun 2026 16:01 UTC+7
+! Version: 2606081601
 ! Blocked: 4.864 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
