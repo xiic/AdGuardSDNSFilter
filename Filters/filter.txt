@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-09T07:12:40.865Z
+! Last modified: 2026-06-09T09:07:01.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -763,6 +763,7 @@ vkcdnservice.appspot.com^
 ||25710b5d95.com^
 ||25gju2hlz58bmryiooubhrm.rest^
 ||25obpfr.de^
+||25solutions.net^
 ||2601e2d1ea.com^
 ||262bdc3a5d.com^
 ||2639iqjkl.de^
@@ -1508,6 +1509,7 @@ vkcdnservice.appspot.com^
 ||7pobx6vqzbl8bcpgmevl395yyybblbzzk.cfd^
 ||7q7lykug234e8uu5ft.cfd^
 ||7rqol65fky3vpik44xykgj.rest^
+||7sz0wdk7.xyz^
 ||7ui7eny4lgwyfwk.cfd^
 ||7w4f7nvo9j29zl6ptzqn2ft.cfd^
 ||7wqnxuznr1zm15.cfd^
@@ -5287,6 +5289,7 @@ vkcdnservice.appspot.com^
 ||bghxhsfhrfqhr.website^
 ||bglflksg.com^
 ||bgltlqcltjwdq.com^
+||bgmdosxiwcqbs.site^
 ||bgore.xyz^
 ||bgqamxuxabntp.space^
 ||bgqantksojipe.online^
@@ -8648,6 +8651,7 @@ vkcdnservice.appspot.com^
 ||cpbsdmiolplwp.website^
 ||cpcmart.com^
 ||cpdqvdvmwlnyq.site^
+||cpgkivogfu.com^
 ||cpiutdrcihvim.space^
 ||cpjgcxcpswkai.space^
 ||cpjxmaecroqix.online^
@@ -10980,6 +10984,7 @@ vkcdnservice.appspot.com^
 ||dsdria.com^
 ||dsdwlk.com^
 ||dsdxgl.com^
+||dseauh.com^
 ||dsectslimy.cyou^
 ||dseel9.com^
 ||dsetx3.com^
@@ -11049,6 +11054,7 @@ vkcdnservice.appspot.com^
 ||dswhem.com^
 ||dswlpq.com^
 ||dswmrn.com^
+||dswppe.com^
 ||dswqea.com^
 ||dswrqh.com^
 ||dsxgwwrkecsxd.online^
@@ -19744,6 +19750,7 @@ vkcdnservice.appspot.com^
 ||jeopardpocking.qpon^
 ||jeqpqqqqwkmxk.store^
 ||jeqsuyzlpwjzy.rocks^
+||jerkilyrebop.qpon^
 ||jerktyjgpw.com^
 ||jerkystators.cyou^
 ||jeront.xyz^
@@ -21300,6 +21307,7 @@ vkcdnservice.appspot.com^
 ||kprdkhhtveo.com^
 ||kprfqilcurbct.online^
 ||kprwyomtkenby.space^
+||kpsstfmcgqkmf.website^
 ||kpsuswpcsryyq.space^
 ||kpsxmpevuhdwf.space^
 ||kpuscrsmljibk.space^
@@ -24268,6 +24276,7 @@ vkcdnservice.appspot.com^
 ||mlcwydddevumu.space^
 ||mlczxpuognpxe.store^
 ||mlfyllnkqsizp.website^
+||mlgnknuqtbsbj.space^
 ||mlhcxcgklaq.com^
 ||mlhqceja.com^
 ||mlifyigbpoxxm.top^
@@ -25486,6 +25495,7 @@ vkcdnservice.appspot.com^
 ||netobscenityoverdo.com^
 ||netstam.com^
 ||networking444.net^
+||networks1000.net^
 ||networksout9090.com^
 ||neurismstoping.com^
 ||neuroepithelium.lol^
@@ -27925,6 +27935,7 @@ vkcdnservice.appspot.com^
 ||owxpzlhikjoyj.store^
 ||owxsolpqxqyiy.space^
 ||owywlwjvvkcjc.site^
+||owzhspmfozove.site^
 ||owzunvdlycrky.online^
 ||owzwnawuyzmif.com^
 ||oxacidunfiend.shop^
@@ -30179,6 +30190,7 @@ vkcdnservice.appspot.com^
 ||ptwmemd.com^
 ||ptwmjmp.com^
 ||ptxhfxkvetqjn.online^
+||ptyalinrhodoraate.cyou^
 ||ptypfiawb.in^
 ||ptzpvltmyqdyn.online^
 ||puabvo.com^
@@ -33683,6 +33695,7 @@ vkcdnservice.appspot.com^
 ||scrapestabilitywithdrew.com^
 ||scrapmonastery.com^
 ||scrapstableappoint.com^
+||scrapyjillionauronal.cfd^
 ||scratchedgenuinely.com^
 ||scratchyhook.com^
 ||scrawlydeifies.cfd^
@@ -34655,6 +34668,7 @@ vkcdnservice.appspot.com^
 ||slavesthy.com^
 ||slavesubmarinebribery.com^
 ||slaveyscerote.cyou^
+||slaviankolobia.com^
 ||slavirappels.com^
 ||slavishpartiedose.qpon^
 ||slawhomager.com^
@@ -39922,6 +39936,7 @@ vkcdnservice.appspot.com^
 ||vbiyclipmg.com^
 ||vbjibjsftqxkq.site^
 ||vbjuqguxmgrhk.site^
+||vbkvubotujxh.com^
 ||vblaejlytzpwh.online^
 ||vblgpqgwvudxr.com^
 ||vblsunmiemmwm.space^
@@ -41566,6 +41581,7 @@ vkcdnservice.appspot.com^
 ||wftoukfy.net^
 ||wfulugammfa.in^
 ||wfurwxclgufh.com^
+||wfuynjiakdgch.site^
 ||wfvciivlotnm.com^
 ||wfvqeepnlrgxq.website^
 ||wfvuctrttrdwk.global^
@@ -44624,6 +44640,7 @@ vkcdnservice.appspot.com^
 ||zfyabxzwy.com^
 ||zfycjxxnevffb.online^
 ||zfzaxpljtwejp.site^
+||zfzeghdaedxqa.online^
 ||zfziwjgxrorda.website^
 ||zg46wi93n1v37n6z.cfd^
 ||zgannmebawpes.online^
@@ -44741,6 +44758,7 @@ vkcdnservice.appspot.com^
 ||zjfsjzzquhdcw.online^
 ||zjgtstuyztwkb.site^
 ||zjlasclkahbtq.space^
+||zjmlhgnowbdbu.space^
 ||zjmwizpyxsreb.space^
 ||zjpmswrjggpxe.site^
 ||zjqbxcdwwtvtt.site^
