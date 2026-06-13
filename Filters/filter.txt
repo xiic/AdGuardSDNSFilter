@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-13T07:17:37.612Z
+! Last modified: 2026-06-13T09:03:08.335Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -978,6 +978,7 @@ vkcdnservice.appspot.com^
 ||34f14f395e.com^
 ||34uirxnb64bygmjzxnrve4.rest^
 ||34vyxxb3rnnxnwq2x.rest^
+||34w1xmik.xyz^
 ||350fromsolar.com^
 ||352396e005.com^
 ||35464e1unkgih8e6ic.rest^
@@ -10814,6 +10815,7 @@ vkcdnservice.appspot.com^
 ||dkqfoqqcqhgyo.site^
 ||dkqpcbuliyx.com^
 ||dkrbus.com^
+||dkrcknnrtmiqv.site^
 ||dkswdqbuvzykl.site^
 ||dktjigphteqdi.site^
 ||dkyzxjlvlfjae.store^
@@ -11447,6 +11449,7 @@ vkcdnservice.appspot.com^
 ||dsygrxfwrlatx.online^
 ||dsyrogvoyrsrl.space^
 ||dszcnw.com^
+||dszdcm.com^
 ||dszqfx.com^
 ||dszqgc.com^
 ||dt4ever.com^
@@ -12973,6 +12976,7 @@ vkcdnservice.appspot.com^
 ||esclqnhxntiqt.site^
 ||escorta-torino.study^
 ||escortlist.pro^
+||escqyylhncg.com^
 ||escrowunscaly.cyou^
 ||escviyqoekkju.com^
 ||escy55gxubl6.com^
@@ -15636,6 +15640,7 @@ vkcdnservice.appspot.com^
 ||gemeledteff.qpon^
 ||geminalorion.cyou^
 ||geminisailingzillion.com^
+||gemlikefigeter.qpon^
 ||gemlikevarios.com^
 ||gemmaunhazed.shop^
 ||gemmuleaxing.cfd^
@@ -25067,6 +25072,7 @@ vkcdnservice.appspot.com^
 ||mn1nm.com^
 ||mn230126pb.com^
 ||mn88fy5z1k6nce4.cfd^
+||mnamofclltuuo.com^
 ||mnanrpzdpbphb.site^
 ||mnaspm.com^
 ||mnbgbnrdqihyq.site^
@@ -28183,6 +28189,7 @@ vkcdnservice.appspot.com^
 ||oophytemorus.com^
 ||oopxyvhtlufmp.website^
 ||ooqtjsubfcppe.life^
+||ooralisdecimagranes.cfd^
 ||oorljoimmwspw.website^
 ||ooryprosed.cyou^
 ||oosbocswffckr.website^
@@ -28212,6 +28219,7 @@ vkcdnservice.appspot.com^
 ||opdvzscgsotag.site^
 ||opeahmnyx.com^
 ||opeanresultanc.com^
+||opeluundim.qpon^
 ||openerclassify.com^
 ||openercompetent.com^
 ||openingclutter.com^
@@ -32134,6 +32142,7 @@ vkcdnservice.appspot.com^
 ||quintessentialdust.pro^
 ||quioneroudle.com^
 ||quirkyplayer.pro^
+||quixoticleading.pro^
 ||quixoticzest.com^
 ||quixova.com^
 ||quizmastersagaciousernie.com^
@@ -44047,6 +44056,7 @@ vkcdnservice.appspot.com^
 ||xdpsqlmonufvf.site^
 ||xdrelbgbndfnl.site^
 ||xdspoexdjeaab.site^
+||xdvpklyzu.com^
 ||xdwfqbniox.com^
 ||xeaozefefkx.com^
 ||xebfomhenqxin.online^
@@ -44712,6 +44722,7 @@ vkcdnservice.appspot.com^
 ||xxotdnemlifulck.com^
 ||xxpwdsggxpyrw.site^
 ||xxpzw73rq2h4vpjfepxxcbz.cfd^
+||xxqlbxfdgcnhl.website^
 ||xxrhbucdwagpr.website^
 ||xxu6kju3p5lpwx8y6o.cfd^
 ||xxugvpqcuxqhf.com^
@@ -45029,6 +45040,7 @@ vkcdnservice.appspot.com^
 ||yfsjivxuye.com^
 ||yfskbgbjqfxgf.online^
 ||yfswcwcrmslwb.website^
+||yftddfehsenhx.site^
 ||yfucuiauxwcis.space^
 ||yfuneukhskjskyp.com^
 ||yfuygmffsrdxw.website^
@@ -46464,6 +46476,7 @@ vkcdnservice.appspot.com^
 ||zxcwifosxcrlc.site^
 ||zxe2e8v2jli8wym2e73nrqi1p.cfd^
 ||zxenwgfnhknxs.click^
+||zxezyyifkdhjf.website^
 ||zxfqtqmtlldld.world^
 ||zxgdbhbsiqdib.site^
 ||zxgjrlpmaqyek.website^
@@ -70412,6 +70425,8 @@ dlsdk.appsflyer.com^
 ||un8hlx.com^
 ||0hqq3dnjf.com^
 ||h27aq0mc6.com^
+||gummy-debt.com^
+||wn4x4bzhx.com^
 ||08pkgxft0u.com^
 ||uks8suop4b.com^
 ||g6ird1tez2.com^
