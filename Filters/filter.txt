@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-14T22:25:23.499Z
+! Last modified: 2026-06-15T00:44:06.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -927,6 +927,7 @@ vkcdnservice.appspot.com^
 ||30d5shnjq.de^
 ||30dcf.com^
 ||30hccor10.de^
+||30inwarehouses.com^
 ||30koqnlks.de^
 ||30m4hpei1.de^
 ||30p70ar8m.de^
@@ -1024,6 +1025,7 @@ vkcdnservice.appspot.com^
 ||3a3df91b05.com^
 ||3ae7054c01.com^
 ||3af72b9c4c.com^
+||3b2e3a2588.com^
 ||3b374de2ee.com^
 ||3b8e4eb36d.com^
 ||3b9d481d08.com^
@@ -1713,6 +1715,7 @@ vkcdnservice.appspot.com^
 ||92orb.com^
 ||92yp.com^
 ||930networks.net^
+||934285023e.com^
 ||93553ec9d6.com^
 ||936781cc1a.com^
 ||93a72bfca9.com^
@@ -7037,6 +7040,7 @@ vkcdnservice.appspot.com^
 ||c6fuo6cx2rz5ywyh.cfd^
 ||c6qjz3jojnt43ntol4v7zbq7q.rest^
 ||c74l4kr3f2fjv8j.rest^
+||c7eyy1jmbyvt9my.rest^
 ||c7f4d1276e.com^
 ||c83ff46cc3.com^
 ||c83tof2h2uw22ehonz.cfd^
@@ -7469,6 +7473,7 @@ vkcdnservice.appspot.com^
 ||ccxqwolbriouv.site^
 ||ccxsmqmesx.com^
 ||ccyotcciskic.in^
+||cczwfqvhofriz.space^
 ||cd2ef10dae.com^
 ||cda5e3eeec.com^
 ||cdafsilizdoqm.website^
@@ -10015,6 +10020,7 @@ vkcdnservice.appspot.com^
 ||dcmbaescepqsq.space^
 ||dcmbzbtgqiyvd.website^
 ||dcmdquudzpmkc.store^
+||dcpddbgvtqujb.space^
 ||dcpiylakiagvi.site^
 ||dcpqlckkntmoc.site^
 ||dcsakxvzsdiaz.space^
@@ -10475,6 +10481,7 @@ vkcdnservice.appspot.com^
 ||dfuvslppaxhzv.site^
 ||dfvruigpfghpi.site^
 ||dfwjcksuusdzf.site^
+||dfxfummjkssyf.online^
 ||dfyphpuaqk.com^
 ||dfzuxtkanxwxx.space^
 ||dgafgadsgkjg.top^
@@ -11513,6 +11520,7 @@ vkcdnservice.appspot.com^
 ||dsntah.com^
 ||dsnyts.com^
 ||dsofhw.com^
+||dsohrd.com^
 ||dsojyi.com^
 ||dsp.wtf^
 ||dsp5stero.com^
@@ -11938,6 +11946,7 @@ vkcdnservice.appspot.com^
 ||e7e0addf05.com^
 ||e8370630f3.com^
 ||e86ee537fe.com^
+||e8976d7841.com^
 ||e897lgevwo5h4iq.rest^
 ||e89d45b16370ee7e43daeaf6ce8d9547.com^
 ||e8ew6h7nkt2t21v.cfd^
@@ -12891,6 +12900,7 @@ vkcdnservice.appspot.com^
 ||eodnprwxgjixj.online^
 ||eodtgeuvmff.com^
 ||eoejzyqfdmidn.space^
+||eoexrsrevolat.website^
 ||eofqgwtzojvks.space^
 ||eofrmcwut.com^
 ||eofwlnyaxwfqt.global^
@@ -14947,6 +14957,7 @@ vkcdnservice.appspot.com^
 ||fphycqwimelhk.online^
 ||fphzedckwhuab.website^
 ||fpiakdalzo.in^
+||fpitqqbnlehse.site^
 ||fpjehnliiuopfw.com^
 ||fpjkarweguqyo.online^
 ||fplandxtxba.com^
@@ -15112,6 +15123,7 @@ vkcdnservice.appspot.com^
 ||frillystyle.pro^
 ||frimieht.com^
 ||frioencwksyur.website^
+||friont.xyz^
 ||frippettegmina.com^
 ||friscooutrant.cfd^
 ||friseurash.com^
@@ -15311,6 +15323,7 @@ vkcdnservice.appspot.com^
 ||functionsinfix.net^
 ||functionsout9.net^
 ||functionssubqueries.com^
+||functionswith5555.net^
 ||fundamentalobjected.com^
 ||fundescended.com^
 ||fundraiserprestigedescent.com^
@@ -15515,6 +15528,7 @@ vkcdnservice.appspot.com^
 ||fzev75-rtbix.top^
 ||fzfzmmijhsmpd.online^
 ||fzhlcpylcgicc.online^
+||fziooefedsvny.space^
 ||fzizacvhya.in^
 ||fzju14tzv7z12gq2cf7gve3ij1m58.cfd^
 ||fzkucdrcghazy.website^
@@ -17510,6 +17524,7 @@ vkcdnservice.appspot.com^
 ||hclcvthefqyac.space^
 ||hclmnarlsmleo.site^
 ||hcntfxihubqde.website^
+||hcrjyrvbwbgluii.com^
 ||hcsbbnilecce.com^
 ||hctgwbignhfoz.website^
 ||hctkpfwgbobyz.site^
@@ -19190,6 +19205,7 @@ vkcdnservice.appspot.com^
 ||ikyrltdeqlgjm.space^
 ||ikzwvkuxrymqu.space^
 ||ilaterdeallyig.info^
+||ilbvhxrixnoqf.online^
 ||ilcstuywgiayu.com^
 ||ildr3vij.xyz^
 ||ileacringes.com^
@@ -24929,6 +24945,7 @@ vkcdnservice.appspot.com^
 ||mfwbsveljxjsq.space^
 ||mfwktcbgnpbgg.space^
 ||mfyavsmiha.com^
+||mfynaxrri.in^
 ||mfynwrbjbbybm.site^
 ||mfzjiodzpsjdk.space^
 ||mgbogrrrytrtb.online^
@@ -29930,6 +29947,7 @@ vkcdnservice.appspot.com^
 ||pfoaclkupfhu.in^
 ||pfosuclihgjxi.space^
 ||pfpmdbyighkrn.online^
+||pfqdxmkwtqvfl.site^
 ||pfrejcjrja.com^
 ||pftselngpwaxt.vip^
 ||pftufoszjdneq.online^
@@ -31696,6 +31714,7 @@ vkcdnservice.appspot.com^
 ||pvxdkuvwipwbr.online^
 ||pvxdtqkqx.com^
 ||pvylvhvp.com^
+||pvypsxskoojya.site^
 ||pvzesryoifiit.online^
 ||pvzhjmmhmsjyk.com^
 ||pw1zz56d.xyz^
@@ -32297,6 +32316,7 @@ vkcdnservice.appspot.com^
 ||qqqajygpfmdea.space^
 ||qqqbvlafzdqwr.space^
 ||qqqfrcxyeecpp.space^
+||qqr8fbtcln552b1pvbkxtzc5r.cfd^
 ||qqrkcmwxsoreq.space^
 ||qqsfafvkgsyto.online^
 ||qqskjmyhfyosr.website^
@@ -32580,6 +32600,7 @@ vkcdnservice.appspot.com^
 ||qwskjvlutemqg.website^
 ||qwtag.com^
 ||qwtcmhgblnfeu.site^
+||qwtrynpy.com^
 ||qwubjdcxzwwpw.site^
 ||qwuomggalxp.in^
 ||qwvqbeqorrobv.top^
@@ -36338,6 +36359,7 @@ vkcdnservice.appspot.com^
 ||sneezedisarraystrew.com^
 ||sneezegridtasting.com^
 ||sneezewrestling.com^
+||snellsmacrlislare.qpon^
 ||snhgshztmhr.com^
 ||snickbarrenashy.com^
 ||snickedstimiesluridly.cfd^
@@ -37479,6 +37501,7 @@ vkcdnservice.appspot.com^
 ||submissivejuice.com^
 ||submissivemate.pro^
 ||subornpohnachronal.qpon^
+||subploterwinatom.cyou^
 ||subracedi.cyou^
 ||subscriberridenarcotic.com^
 ||subscriptionfolk.com^
@@ -44091,6 +44114,7 @@ vkcdnservice.appspot.com^
 ||wqpgjenwxsbyd.space^
 ||wqpkffkrcnqyw.online^
 ||wqqjalyvktvus.site^
+||wqsbkvlehqipsec.com^
 ||wqtfijyhoppfk.website^
 ||wqtpdbegijbuz.website^
 ||wqtrndlf.com^
@@ -77477,6 +77501,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter third-party ad servers
 ! Source: https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/filterslists/adblocking/filters-share/3rd_domains.txt
 !
+||api.adapi.co.kr^
 ||adv.imadrep.co.kr^
 ||delivery.pryzmads.com^
 ||barohere.xyz^
