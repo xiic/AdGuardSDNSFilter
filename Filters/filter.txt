@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-16T13:42:59.369Z
+! Last modified: 2026-06-16T15:39:34.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -967,6 +967,7 @@ vkcdnservice.appspot.com^
 ||35c82e35f3.com^
 ||360degreesprojects.com^
 ||360fromcrypto.net^
+||360hyperspace.com^
 ||360protected.com^
 ||360yield-basic.com^
 ||360yield.com^
@@ -4650,6 +4651,7 @@ vkcdnservice.appspot.com^
 ||b7ec509038.com^
 ||b8036a31fa.com^
 ||b851eqrlmvcqyyou1jqcexbn33cxbzb9xg67.rest^
+||b87pvoit88io55x6geih8xiiix.cfd^
 ||b8bd2d84d4.com^
 ||b8e2af647f.com^
 ||b8pfulzbyj7h.com^
@@ -5937,12 +5939,14 @@ vkcdnservice.appspot.com^
 ||bonwtunwgboos.online^
 ||bonyboeoctal.qpon^
 ||bonyspecialist.pro^
+||bonzermixupclaxons.cyou^
 ||bonzesthomism.qpon^
 ||boobausauhipsa.net^
 ||boobbounds.com^
 ||boodhseatersspecks.cyou^
 ||boodsprank.cfd^
 ||boofsignorypurlieu.qpon^
+||booingtruddo.cfd^
 ||bookadil.com^
 ||bookbannershop.com^
 ||bookersowse.qpon^
@@ -9254,6 +9258,7 @@ vkcdnservice.appspot.com^
 ||cvifydnvxdxrk.site^
 ||cvlfbpymwyulj.site^
 ||cvmrmpaepcmpa.site^
+||cvngacuwqodke.site^
 ||cvpdkmzxvnzng.online^
 ||cvpotrpkppdq.com^
 ||cvqfwzrnkvtun.website^
@@ -9283,6 +9288,7 @@ vkcdnservice.appspot.com^
 ||cwmgdpescuqtc.space^
 ||cwqctcmhswrth.online^
 ||cwqhagwjoppbb.website^
+||cwqtqpxudxicq.space^
 ||cwrlsjkvjdgff.site^
 ||cwsbrxarjnaav.space^
 ||cwtervpgcjuqa.website^
@@ -11166,6 +11172,7 @@ vkcdnservice.appspot.com^
 ||dspktc.com^
 ||dspultra.com^
 ||dspwdz.com^
+||dspyzx.com^
 ||dsqdbi.com^
 ||dsqgyn.com^
 ||dsqnnx.com^
@@ -19731,6 +19738,7 @@ vkcdnservice.appspot.com^
 ||jcerqxksfqyqc.com^
 ||jcfocrpceqtwa.site^
 ||jcgklkxkrltcy.store^
+||jchnourjtrbiw.space^
 ||jcimdpqfp.com^
 ||jcnqpuregmpkqy.com^
 ||jconceoormurg.online^
@@ -19752,6 +19760,7 @@ vkcdnservice.appspot.com^
 ||jczglhsmeexjk.space^
 ||jdauflfpdmoop.online^
 ||jdaxvtlwprmlz.space^
+||jdbbrohkuubhdh.com^
 ||jdecansbndbbg.website^
 ||jdewvyxxyuv.com^
 ||jdfanqhqkgfhfk.com^
@@ -28899,6 +28908,7 @@ vkcdnservice.appspot.com^
 ||pinatasyuckel.cyou^
 ||pinchingrapacitydragged.com^
 ||pinchunnecessaryaggregate.com^
+||pindastilet.cyou^
 ||pinderecphory.com^
 ||pine-assets.space^
 ||pinealrulers.com^
@@ -29014,6 +29024,7 @@ vkcdnservice.appspot.com^
 ||pkmyexkljzdfy.site^
 ||pknlagnbfzxoy.online^
 ||pkqkuaguyyxjr.online^
+||pkquohzukaqvsu.com^
 ||pkvmnaqhxcgql.website^
 ||pkwhsweefrsfb.space^
 ||pkxpiuwxhtdbe.space^
@@ -32998,6 +33009,7 @@ vkcdnservice.appspot.com^
 ||ruderalweiring.com^
 ||rudeteach.pro^
 ||ruecaeeedvyel.online^
+||ruehofmdhvu.com^
 ||ruehplprkkeeh.com^
 ||rufcdstpjdcrd.site^
 ||rufdbymsjiwsg.website^
@@ -34999,6 +35011,7 @@ vkcdnservice.appspot.com^
 ||solujav.my^
 ||solusobdurearapaho.qpon^
 ||solutionbiologyisle.com^
+||solutions110.net^
 ||solutionsin103.net^
 ||solutionswith401.com^
 ||soluujnjqwsta.online^
@@ -35871,6 +35884,7 @@ vkcdnservice.appspot.com^
 ||strugglefeatherappreciate.com^
 ||strugglingelevenfallout.com^
 ||strugglingpersist.com^
+||struthroiled.qpon^
 ||strutinbring.cyou^
 ||struvlichi.com^
 ||stscczovfaipx.website^
@@ -41991,6 +42005,7 @@ vkcdnservice.appspot.com^
 ||wmqkbndplnkrqy.com^
 ||wmqlqtbzcbvri.site^
 ||wmqmejnpkcaoc.com^
+||wmrhidwwfqbsc.online^
 ||wmrnhjhjamiev.website^
 ||wmtchliztxcvp.website^
 ||wmtten.com^
@@ -43014,6 +43029,7 @@ vkcdnservice.appspot.com^
 ||xnrzeuweyrwyx.online^
 ||xnsdayearqlpo.space^
 ||xntlhvmcfqdxf.website^
+||xntvkciajqria.online^
 ||xnuewypvwoziz.store^
 ||xnurnqmhkkmfe.online^
 ||xnvjjkinsmqyu.site^
@@ -43327,6 +43343,7 @@ vkcdnservice.appspot.com^
 ||xxpzw73rq2h4vpjfepxxcbz.cfd^
 ||xxqlbxfdgcnhl.website^
 ||xxrvsepkg.com^
+||xxshdknfgltfr.site^
 ||xxu6kju3p5lpwx8y6o.cfd^
 ||xxugvpqcuxqhf.com^
 ||xxvfswapdzisf.website^
@@ -43394,6 +43411,7 @@ vkcdnservice.appspot.com^
 ||y2mmqm12x629ok.cfd^
 ||y3gt29zfgkxcr1cwelguvzigbf33.cfd^
 ||y5lbtcie4bgyuwiz5ij1x66.cfd^
+||y8vi9uwpkqgpyb1mwn.rest^
 ||yabagaisiityc.site^
 ||yachtuppiles.qpon^
 ||yacnbvkmpxerf.com^
@@ -44408,6 +44426,7 @@ vkcdnservice.appspot.com^
 ||zealousversion.pro^
 ||zealshaving.com^
 ||zeatinfleabag.com^
+||zeatinspremoldhuffier.qpon^
 ||zeawppuaetasp.fun^
 ||zeblaitjiznqv.space^
 ||zebpqonnhezmt.store^
