@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-17T09:36:25.991Z
+! Last modified: 2026-06-17T11:33:43.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4402,6 +4402,7 @@ vkcdnservice.appspot.com^
 ||avhlvyyhjhvli.site^
 ||avhmfatkalwy.in^
 ||avhtaapxml.com^
+||avichistaverkhasa.cfd^
 ||aviiivsxdmbgc.site^
 ||avionbatfowl.shop^
 ||avjlllfpqvloi.website^
@@ -5834,6 +5835,7 @@ vkcdnservice.appspot.com^
 ||bmurfsjsvvfhy.space^
 ||bmwaeghntpfdb.online^
 ||bmxavtdjqvdqn.store^
+||bmzvbwcmaueqo.space^
 ||bn5x.net^
 ||bnastskoaol.com^
 ||bnbgdqjurxsoo.site^
@@ -7243,6 +7245,7 @@ vkcdnservice.appspot.com^
 ||ccjfxvnyiqcfv.space^
 ||ccjzuavqrh.com^
 ||ccmiocw.com^
+||ccmrcrxtgllza.online^
 ||ccn08sth.de^
 ||ccncyngyyiwpz.space^
 ||ccoyaballots.com^
@@ -8526,6 +8529,7 @@ vkcdnservice.appspot.com^
 ||content-item.pro^
 ||content-rec.com^
 ||content-row.com^
+||content-website-analytics.com^
 ||contentabc.com^
 ||contentblanksupersede.com^
 ||contentcave.co.kr^
@@ -9287,6 +9291,7 @@ vkcdnservice.appspot.com^
 ||cuwpuvatxafw.in^
 ||cuxyfxwormano.online^
 ||cuybnvyuqlizr.space^
+||cuyibbedfiswg.space^
 ||cuynpzpajvniy.space^
 ||cuzkqk1z39e749vk18x.cfd^
 ||cuzqaskcyjyut.site^
@@ -9428,6 +9433,7 @@ vkcdnservice.appspot.com^
 ||cyxbmqbsncgll.site^
 ||cyxexdscsaphd.space^
 ||cyxyzrpolrjnh.online^
+||czabtzbcciqyn.space^
 ||czamfgpnexsxo.vip^
 ||czb1wgqx79lef2c.rest^
 ||czcmgagjthwgu.site^
@@ -12539,6 +12545,7 @@ vkcdnservice.appspot.com^
 ||eoiafkmvuee.com^
 ||eoievavdtucqs.online^
 ||eojfxignjyzev.website^
+||eojzavghefldu.online^
 ||eokbuxljvlfwm.space^
 ||eoknzbxdujqff.website^
 ||eondunpea.com^
@@ -22993,6 +23000,7 @@ vkcdnservice.appspot.com^
 ||lqeijhkneyrm.com^
 ||lqepkvudjwgwn.space^
 ||lqfldcimkgtejj.com^
+||lqivhsbmqcc.com^
 ||lqliraxqkwqzw.site^
 ||lqljgkcjsuzer.store^
 ||lqllisdlizrix.site^
@@ -24528,6 +24536,7 @@ vkcdnservice.appspot.com^
 ||mobsmenfauns.cyou^
 ||mobtyb.com^
 ||mocean.mobi^
+||mochasrouping.cyou^
 ||mochuditrothed.com^
 ||mockdealzone.com^
 ||mockerumist.cfd^
@@ -25752,6 +25761,7 @@ vkcdnservice.appspot.com^
 ||ngexcelelernodyd.org^
 ||ngexcelelernodyde.org^
 ||nghnbogvkojlk.space^
+||ngiythskwknpf.site^
 ||ngjmbezvfwwmf.website^
 ||ngksmiemlxfik.website^
 ||nglmedia.com^
@@ -30549,6 +30559,7 @@ vkcdnservice.appspot.com^
 ||pvgwfonlx.com^
 ||pvhhpwbdy.com^
 ||pvhlrsqduzzfv.website^
+||pvitijtdfihijb.com^
 ||pvixgcirbpcrm.com^
 ||pvlllrrqnmjyz.online^
 ||pvmcjknr8nr7v9y1p3zi57l.cfd^
@@ -33112,6 +33123,7 @@ vkcdnservice.appspot.com^
 ||rtdpfwzxfajfl.online^
 ||rtgio.co^
 ||rthgioiiitlww.space^
+||rthnuxnihggml.site^
 ||rthpetahceiol.space^
 ||rtibriolhapk.com^
 ||rtichevre.cfd^
@@ -36642,6 +36654,7 @@ vkcdnservice.appspot.com^
 ||systemsfromhybrid.net^
 ||systyleunplug.cyou^
 ||syuaqkkanztrx.site^
+||syunuirjlfgekn.com^
 ||syvxdjgvgfuct.com^
 ||sywijqrehycts.website^
 ||sywxrvcisdjxe.store^
@@ -37625,6 +37638,7 @@ vkcdnservice.appspot.com^
 ||tmmjwelxryxod.site^
 ||tmmunzeyobwst.online^
 ||tmnkaqnaubucu.site^
+||tmokdsxzhowt.com^
 ||tmopcaxczgrgb.store^
 ||tmpevbnnasziy.site^
 ||tmpqccktfymwv.online^
@@ -41566,6 +41580,7 @@ vkcdnservice.appspot.com^
 ||webbed-doctor.pro^
 ||webbed-leadership.com^
 ||webbedwine.pro^
+||webbierusherermona.cyou^
 ||webcampromo.com^
 ||webcampromotions.com^
 ||webclickengine.com^
@@ -51443,6 +51458,7 @@ prd.api.bleacherreport.com^
 ||sgtm.simoahava.com^
 ||lists.ccmbg.com^
 ||track-srv.vietnamnet.vn^
+||stw.zone-telechargement.
 ||stats.zone-telechargement.
 ||stats.tirexo.blue^
 ||tracking.univtec.com^
