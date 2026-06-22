@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-22T13:51:46.549Z
+! Last modified: 2026-06-22T15:39:04.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -964,6 +964,7 @@ vkcdnservice.appspot.com^
 ||33fd1ab248.com^
 ||33fromsource.net^
 ||33services.net^
+||33ssl.com^
 ||34-new-lambda.net^
 ||342imaging.com^
 ||3434849c2e.com^
@@ -9147,6 +9148,7 @@ vkcdnservice.appspot.com^
 ||crocodail-dandy.com^
 ||crogctnujttuy.site^
 ||cromerelaine.com^
+||crommeunplug.shop^
 ||cronaura.com^
 ||croni.site^
 ||cronianlavage.cyou^
@@ -11365,6 +11367,7 @@ vkcdnservice.appspot.com^
 ||dseauh.com^
 ||dsectslimy.cyou^
 ||dseel9.com^
+||dsefow.com^
 ||dseiqr.com^
 ||dsejzd.com^
 ||dsekhn.com^
@@ -16500,6 +16503,7 @@ vkcdnservice.appspot.com^
 ||granularcloud.com^
 ||granularconsideration.pro^
 ||granulargame.com^
+||granularwedding.com^
 ||granumchemmysiphons.cyou^
 ||graphicspikedisaster.com^
 ||graphsmeth.qpon^
@@ -21192,6 +21196,7 @@ vkcdnservice.appspot.com^
 ||kaaldtwx.com^
 ||kaascypher.com^
 ||kabardcurite.cfd^
+||kabfoody.cyou^
 ||kabqgaklabehk.website^
 ||kabtcvhaiacccf.com^
 ||kacharinamecowhage.qpon^
@@ -24433,6 +24438,7 @@ vkcdnservice.appspot.com^
 ||menacingresource.pro^
 ||menacingtrick.pro^
 ||menatnonuses.cfd^
+||mendejobnamepanama.cyou^
 ||mendersquats.cfd^
 ||menfraswagmenkeglers.cfd^
 ||menrdrxjpdvky.space^
@@ -25726,6 +25732,7 @@ vkcdnservice.appspot.com^
 ||mxzxdugzqayax.site^
 ||my-pu.sh^
 ||my1elitclub.com^
+||my1mfqmej21ml69yre6bl.rest^
 ||my96eg8fhwnjgchp1zl3qkb476l1.cfd^
 ||myaceacringedpommery.qpon^
 ||myadcash.com^
@@ -27199,6 +27206,7 @@ vkcdnservice.appspot.com^
 ||o5kbgigoq9gu4k8.cfd^
 ||o5tir3zfugeo6ej.rest^
 ||o626b32etkg6.com^
+||o6hq5vt4j62p36x.cfd^
 ||o6ujlhhvm4pl5pqc7.cfd^
 ||o6z2a2kq8fatj3ch0x5ow6v82ha2gja8x8c7w6pc5gx2ls0zia7bx1n28b5d.com^
 ||o7lf1m1fl1ki6fel4e1.cfd^
@@ -27583,6 +27591,7 @@ vkcdnservice.appspot.com^
 ||ogfjibazwmi.in^
 ||ogfna.net^
 ||ogfxrbhcnvspnk.com^
+||oghamicupcropgerbera.cyou^
 ||oghfgyoqzguvq.space^
 ||oghqvffmnt.com^
 ||oghwpeamn.in^
@@ -31403,6 +31412,7 @@ vkcdnservice.appspot.com^
 ||qcsvxobneexyu.site^
 ||qcurkzogaukec.space^
 ||qcuwpicccoscr.online^
+||qcvtsmdkymigu.site^
 ||qcvxpyrlsyevn.online^
 ||qcxpoulxosxnf.site^
 ||qcyfngmkrhcmg.website^
@@ -31653,6 +31663,7 @@ vkcdnservice.appspot.com^
 ||qmvlotyxmdjoy.website^
 ||qmvwjbawxsese.site^
 ||qmwonwowmytqf.store^
+||qmyoclrszpanh.website^
 ||qmyonfatxab.in^
 ||qmyzawzrqryjj.top^
 ||qmzikvkk.business^
@@ -32245,6 +32256,7 @@ vkcdnservice.appspot.com^
 ||rameshdipseypitying.cfd^
 ||ramismtears.qpon^
 ||ramistbeaborith.cfd^
+||ramjgqvuswua.com^
 ||ramlvunszdcxt.website^
 ||rammagepertly.qpon^
 ||rammibielby.cyou^
@@ -33436,6 +33448,7 @@ vkcdnservice.appspot.com^
 ||rmqaquvofzwds.space^
 ||rmqgscbitoadp.site^
 ||rmqtqrtxhwilx.store^
+||rmrjqlpjdlxzd.online^
 ||rmshqa.com^
 ||rmsktnoqvhzrq.com^
 ||rmtagvivdrbwd.icu^
@@ -39413,6 +39426,7 @@ vkcdnservice.appspot.com^
 ||tyaxztldkgmmv.website^
 ||tybffeppxwzmm.website^
 ||tyburnpenalty.com^
+||tycbjtlpydnwm.website^
 ||tychon.bid^
 ||tydrumgmari.org^
 ||tyhxysuulzzmr.site^
@@ -41021,6 +41035,7 @@ vkcdnservice.appspot.com^
 ||vdulz.org^
 ||vdwdxuhakn.com^
 ||vdxsvladcihnm.online^
+||vdzepdkifdmeg.site^
 ||vebejgenfzchn.space^
 ||vebv8me7q.com^
 ||vecjjpptcohjbld.com^
@@ -42023,6 +42038,7 @@ vkcdnservice.appspot.com^
 ||vzwskvcarieny.website^
 ||vzwvakkmefryp.space^
 ||vzydopxwdqnqt.space^
+||vzzaelhtofrwm.site^
 ||w0we.com^
 ||w2t2ft6zl1zbivnu9emoizw.cfd^
 ||w3fc1o28kpltrl.rest^
@@ -43943,6 +43959,7 @@ vkcdnservice.appspot.com^
 ||xibijryda.com^
 ||xicomfier.cyou^
 ||xidxktydwzica.website^
+||xieduajahaonu.space^
 ||xihoqsajpap.com^
 ||xihpfehwez.in^
 ||xihvhwbgdm.com^
@@ -44242,6 +44259,7 @@ vkcdnservice.appspot.com^
 ||xrefwashery.cyou^
 ||xrff-adguard.pro^
 ||xrllratggofic.online^
+||xrlrtpdjmtqfy.space^
 ||xrnrhowppgvxdhm.com^
 ||xrotlrpauwlaa.online^
 ||xrpaqyeyjpmafs.com^
@@ -44304,6 +44322,7 @@ vkcdnservice.appspot.com^
 ||xtirtlpvihklp.site^
 ||xtitjpiaoedam.space^
 ||xtmhzidqppsit.online^
+||xtnjojmkwxrnp.website^
 ||xtoogcyzmwmvf.space^
 ||xtotmkmljtznt.website^
 ||xtpegcqocrkwv.com^
@@ -45143,6 +45162,7 @@ vkcdnservice.appspot.com^
 ||yqfabscq.com^
 ||yqfkcckuuk.com^
 ||yqgbrupozdfrn.site^
+||yqgwaodkf.com^
 ||yqgyfmjmtnace.online^
 ||yqi71w58zyi9hwk3yb6k5.cfd^
 ||yqjsyabpzegzd.space^
@@ -63158,7 +63178,6 @@ dlsdk.appsflyer.com^
 ||adrolays.de^
 ||ads4allweb.de^
 ||adscads.de^
-||adspectacle.net^
 ||adspirit.net^
 ||adsplash.de^
 ||adsushi.de^
@@ -64398,8 +64417,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Jun 2026 14:18 UTC+7
-! Version: 2606221418
+! Last modified: 22 Jun 2026 22:07 UTC+7
+! Version: 2606222207
 ! Blocked: 846 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -65209,9 +65228,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 22 Jun 2026 14:18 UTC+7
-! Version: 2606221418
-! Blocked: 4.865 rules
+! Last modified: 22 Jun 2026 22:07 UTC+7
+! Version: 2606222207
+! Blocked: 4.866 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -69584,6 +69603,7 @@ dlsdk.appsflyer.com^
 ||vnc63661s.com^
 ||vnc69977s.com^
 ||vnc75635s.com^
+||vndichvuconggov.com^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
 ||vneid.vieegovn.cc^
@@ -70052,6 +70072,11 @@ dlsdk.appsflyer.com^
 ||d7rn5gu7i2.com^
 ||exponent69.com^
 ||tzlbzndiezpzro.com^
+||lel704cjev.com^
+||pn9f3utrxu.com^
+||7kqn7qz4g4.com^
+||thralgrean.com^
+||ydholdred.com^
 ||roywc0iql.com^
 ||s002o2hkg.com^
 ||fraction05.com^
