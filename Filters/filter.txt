@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-25T07:10:11.939Z
+! Last modified: 2026-06-25T09:04:43.136Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3240,6 +3240,7 @@ vkcdnservice.appspot.com^
 ||akahpvdbdmwdu.website^
 ||akanexterna.com^
 ||akbqatlacasb.in^
+||akcorigiudwgm.site^
 ||akdbr.com^
 ||akdnhszqeqasz.store^
 ||akdnhyxhnftfv.website^
@@ -4139,6 +4140,7 @@ vkcdnservice.appspot.com^
 ||arwriptatfwe.in^
 ||arwzyuzkblj.com^
 ||arxonmumfexiqyc.com^
+||arylsynetic.cyou^
 ||arzawaswarfpratt.qpon^
 ||as5000.com^
 ||asacdn.com^
@@ -7770,6 +7772,7 @@ vkcdnservice.appspot.com^
 ||cgthnxnovsmml.xyz^
 ||cgtkclfydnqhp.site^
 ||cguunwxpkld.com^
+||cgw46pe4.xyz^
 ||cgyemhvxgjwub.com^
 ||chabadokor.com^
 ||chaconayautias.qpon^
@@ -9783,6 +9786,7 @@ vkcdnservice.appspot.com^
 ||czqvtn3elk64hq.rest^
 ||czsttsmgndlni.website^
 ||czsusasfoyqln.website^
+||czsuxtbbaaryw.space^
 ||cztmmijwxiafu.click^
 ||czuatpotvqip.in^
 ||czuwprnlhxpdh.site^
@@ -10745,6 +10749,7 @@ vkcdnservice.appspot.com^
 ||dipperflightrecommend.com^
 ||dippergeologyprescribe.com^
 ||dippingearlier.com^
+||dipsiecandielpollux.cfd^
 ||dipwsxfgtliob.online^
 ||diqartxheos.com^
 ||diqbgqeteua.com^
@@ -20686,6 +20691,7 @@ vkcdnservice.appspot.com^
 ||jefyelpksrbke.space^
 ||jegrbkenarvan.website^
 ||jehqreubicoagss.com^
+||jeixbwlazmpzc.site^
 ||jejlaueaxfsjt.website^
 ||jejunanieves.qpon^
 ||jen8hf15cfe82cg12g21nnfiy.cfd^
@@ -31505,6 +31511,7 @@ vkcdnservice.appspot.com^
 ||pubtrky.com^
 ||pubxeumpifbtj.online^
 ||puckishverdin.qpon^
+||pudwqcpwgemml.website^
 ||pueriledod.qpon^
 ||puffsrubiest.cyou^
 ||pufted.com^
@@ -35569,6 +35576,7 @@ vkcdnservice.appspot.com^
 ||sfhosaynztxlb.space^
 ||sfiaxvhhy.in^
 ||sfixretarum.com^
+||sfjswyvtktvwo.site^
 ||sfjwwywgeyoak.website^
 ||sfjynmfvwpaja.space^
 ||sflcvbxgpgayq.website^
@@ -37106,6 +37114,7 @@ vkcdnservice.appspot.com^
 ||staminhereout.cyou^
 ||stampbesidescontrived.com^
 ||stampstallionpalpable.com^
+||standalone4instances.com^
 ||standardaccount.pro^
 ||standardcable.pro^
 ||standicohornatavus.cyou^
@@ -38339,6 +38348,7 @@ vkcdnservice.appspot.com^
 ||tcxoatcplzqai.website^
 ||td5xffxsx4.com^
 ||tdbcctiulenif.site^
+||tdckosagbzsoz.online^
 ||tdcxbhtwexl.com^
 ||tdfwaghkdwwpg.com^
 ||tdgubsetqwufm.online^
@@ -38714,6 +38724,7 @@ vkcdnservice.appspot.com^
 ||thisiswaldo.com^
 ||thisrocks.top^
 ||thjxvlrjnbqbs.store^
+||thlkctdfqkewue.com^
 ||thloklglh.com^
 ||thlwxlbelo.com^
 ||thnbexpkdif.com^
