@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-27T10:39:02.994Z
+! Last modified: 2026-06-27T12:26:26.962Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1113,6 +1113,7 @@ vkcdnservice.appspot.com^
 ||44216f3fdf.com^
 ||4444insettings.net^
 ||4446k.com^
+||444inexecutors.com^
 ||4498a6bb1e.com^
 ||44cd912290.com^
 ||44d3bd20fb.com^
@@ -7705,6 +7706,7 @@ vkcdnservice.appspot.com^
 ||cdsbnrs.com^
 ||cdslhsycb.com^
 ||cdtbox.rocks^
+||cdtxbhqvcrv.com^
 ||cdvhrthcua.com^
 ||cdwjfbxaffndd.com^
 ||cdwmpt.com^
@@ -10774,6 +10776,7 @@ vkcdnservice.appspot.com^
 ||dialergruf.cyou^
 ||dialling-abutory.com^
 ||diamattinny.shop^
+||diamidelambish.qpon^
 ||diamylthills.shop^
 ||dianebauckie.qpon^
 ||dianomioffers.co.uk^
@@ -13540,6 +13543,7 @@ vkcdnservice.appspot.com^
 ||etzfcwsafuw.com^
 ||eu8759jwcy6q6nw.rest^
 ||eubobpzucyagl.online^
+||eubteyfzbwnqk.online^
 ||euchresgabbart.cyou^
 ||eucleidoban.cyou^
 ||eucmlcosmfxyz.online^
@@ -13867,6 +13871,7 @@ vkcdnservice.appspot.com^
 ||exyjahomxj.com^
 ||exzocglvthjxr.space^
 ||exzumzcaqqdny.site^
+||ey3jun9c55oov13uwvhoozxmbu.cfd^
 ||ey43.com^
 ||eyaganyfyivhw.online^
 ||eybliyhosnp.com^
@@ -14774,6 +14779,7 @@ vkcdnservice.appspot.com^
 ||fkwlwfjlavrcb.online^
 ||fkwyacjudejyf.store^
 ||fkydrcmyucibm.space^
+||fkyelofoqnndn.space^
 ||fkzcrofqtjawk.space^
 ||flaconshe.qpon^
 ||flagads.net^
@@ -15454,6 +15460,7 @@ vkcdnservice.appspot.com^
 ||frizzymembership.pro^
 ||frizzyshocked.com^
 ||frjbyduygjwbk.site^
+||frjcysbrsmklq.site^
 ||frjnnudnmborf.store^
 ||frjrwixwogqjt.site^
 ||frkehycifykyq.site^
@@ -17526,6 +17533,7 @@ vkcdnservice.appspot.com^
 ||gzgejhwjeoufd.store^
 ||gzipuspfu.in^
 ||gziwrearm.in^
+||gzkfofbgedfor.website^
 ||gzkignkqikrix.online^
 ||gzmakcylabxgv.site^
 ||gznyfblintdcj.website^
@@ -18010,6 +18018,7 @@ vkcdnservice.appspot.com^
 ||helib.xyz^
 ||helicient.com^
 ||heliconthrap.qpon^
+||heliumads.com^
 ||helixingroszy.shop^
 ||hellboxdelude.cfd^
 ||hellmanloriesupdraw.qpon^
@@ -18279,6 +18288,7 @@ vkcdnservice.appspot.com^
 ||hiobplukootgn.site^
 ||hip-97166b.com^
 ||hipals.com^
+||hipcskzwilnnw.website^
 ||hipjjdrfpdmqt.com^
 ||hippaqueans.qpon^
 ||hippenbatton.cyou^
@@ -18286,6 +18296,7 @@ vkcdnservice.appspot.com^
 ||hippingdsectspitapat.qpon^
 ||hippobulse.com^
 ||hiprofitnetworks.com^
+||hipzpktsyugcu.website^
 ||hiqjgqdjkv.com^
 ||hirony.xyz^
 ||hirselsousted.qpon^
@@ -19279,6 +19290,7 @@ vkcdnservice.appspot.com^
 ||icubeswire.co^
 ||iculpiumiyznp.space^
 ||icunvveszpzxa.online^
+||icvdfreyonpur.space^
 ||icwmsalkqywyp.fun^
 ||icxtalveexksf.space^
 ||icxyqoonmogdn.online^
@@ -32216,6 +32228,7 @@ vkcdnservice.appspot.com^
 ||pwmrbjzjee.com^
 ||pwmthueoypkvj.online^
 ||pwnyvbfsuetef.site^
+||pwoitwkrmybesf.com^
 ||pwrgamerz.com^
 ||pwrgrowthapi.com^
 ||pwtcsinrsozat.space^
@@ -35164,6 +35177,7 @@ vkcdnservice.appspot.com^
 ||rxhifyyzvrwzj.space^
 ||rxjdbeabdctcn.website^
 ||rxjvmsvfvstue.website^
+||rxk67z8ec43qo9bj346.rest^
 ||rxkayupbjvt.com^
 ||rxkrnofyhchvm.site^
 ||rxnvg.com^
@@ -44677,6 +44691,7 @@ vkcdnservice.appspot.com^
 ||woulddegree.com^
 ||woulukdliketob.org^
 ||woundmarkaching.com^
+||wournilboschdustmen.cyou^
 ||wovufaobxkzie.online^
 ||wowgwmezvkuav.site^
 ||wowjqgmrmjgsp.website^
@@ -45945,6 +45960,7 @@ vkcdnservice.appspot.com^
 ||yadyrtedybjftu.com^
 ||yaebhbyweyxvt.store^
 ||yagtyjaefiecu.online^
+||yahandillisbegunk.cyou^
 ||yahdrctswmvax.space^
 ||yajjppbbzrxfk.space^
 ||yajwwgdogebga.space^
@@ -47514,6 +47530,7 @@ vkcdnservice.appspot.com^
 ||zukzevqvnxels.space^
 ||zulindeskerretdepress.cfd^
 ||zuljosrdnilpj.online^
+||zulphaqaq.in^
 ||zumlgprkpoain.site^
 ||zummnibfearqs.store^
 ||zumrieth.com^
@@ -56792,6 +56809,7 @@ dlsdk.appsflyer.com^
 ||analytics.disney.go.com^
 ||analytics.disneyinternational.com^
 ||analytics.distributednews.com^
+||analytics.divulg.org^
 ||analytics.dv.socure.io^
 ||analytics.dvidshub.net^
 ||analytics.eggoffer.com^
@@ -63847,7 +63865,6 @@ dlsdk.appsflyer.com^
 !
 !
 ||lopfly.com^
-||heliumads.com^
 ||proxy.ads.canalplus-bo.net^
 ||7bd92.v.fwmrm.net^
 ||7cbf2.v.fwmrm.net^
