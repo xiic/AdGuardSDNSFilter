@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-02T07:06:41.150Z
+! Last modified: 2026-07-02T09:02:56.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1287,6 +1287,7 @@ vkcdnservice.appspot.com^
 ||6000function.com^
 ||6000nexeo.com^
 ||600977f9ec.com^
+||600fiber.net^
 ||600network.com^
 ||600rexola.net^
 ||600z.com^
@@ -5644,6 +5645,7 @@ vkcdnservice.appspot.com^
 ||bngwlt.com^
 ||bnhlpsmhvodae.online^
 ||bnhtml.com^
+||bnkofmbmxc.com^
 ||bnmqtggqjoqic.buzz^
 ||bnp3.com^
 ||bnpubjzodmhew.site^
@@ -9333,6 +9335,7 @@ vkcdnservice.appspot.com^
 ||ddrsemxv.com^
 ||ddxiejwiegzxa.website^
 ||ddynlqwtkjlyg.website^
+||ddytwtumsiopf.space^
 ||ddzk5l3bd.com^
 ||ddzyijhyaujus.site^
 ||de2bdad928.com^
@@ -13205,6 +13208,7 @@ vkcdnservice.appspot.com^
 ||findingexchange.com^
 ||findromanticdates.com^
 ||finds-girls-junction.com^
+||fine-specialist.pro^
 ||fineaffluent.com^
 ||fineeravistiderip.qpon^
 ||finescanopid.cfd^
@@ -13325,6 +13329,7 @@ vkcdnservice.appspot.com^
 ||fkrwxzvxljbyh.website^
 ||fksnk.com^
 ||fkuotemqjqirnv.com^
+||fkvbhtjlwpyep.site^
 ||fkwlwfjlavrcb.online^
 ||fkwyacjudejyf.store^
 ||fkydrcmyucibm.space^
@@ -14745,6 +14750,7 @@ vkcdnservice.appspot.com^
 ||ghwgiqvsogkrt.space^
 ||ghxjliswdiiax.space^
 ||ghxvylxnexmbc.website^
+||ghyblpybhskgh.website^
 ||ghyzimfjilvbt.online^
 ||ghzxqtvqjybuj.online^
 ||gialamebxneob.space^
@@ -16053,6 +16059,7 @@ vkcdnservice.appspot.com^
 ||hbr2czm7pfy994i.rest^
 ||hbudqnvaytwdc.world^
 ||hbutwehaveinour.com^
+||hbuwnkqnpsskn.space^
 ||hbvgidhsgmjrz.website^
 ||hbwztfpirtboe.site^
 ||hbxpjlbmhffda.space^
@@ -16360,6 +16367,7 @@ vkcdnservice.appspot.com^
 ||hhqpardpagdgq.website^
 ||hhtteocvkxvph.online^
 ||hhuobnajd.com^
+||hhvhpxvuu.com^
 ||hhxqadbgokgtb.online^
 ||hhysnzwzyvjht.online^
 ||hhztfzqnmduga.space^
@@ -16550,6 +16558,7 @@ vkcdnservice.appspot.com^
 ||hlqyasinvckmo.online^
 ||hlsebwqdwrvpv.website^
 ||hlserve.com^
+||hltgrgqeodrti.site^
 ||hltmncqxayyhu.website^
 ||hlufsqadxupgr.website^
 ||hlumreexivler.space^
@@ -18146,6 +18155,7 @@ vkcdnservice.appspot.com^
 ||inwardupsettingcudgel.com^
 ||inweedapili.cyou^
 ||inwmizqchqjlk.space^
+||inwrapswint.shop^
 ||inxzfyeonudds.global^
 ||inysdszuyapfb.website^
 ||inznbvtcgmfzn.store^
@@ -18564,6 +18574,7 @@ vkcdnservice.appspot.com^
 ||izrnvo.com^
 ||izsbrnugzqrqq.online^
 ||izubaoknanmwa.online^
+||izucnttxblmpg.website^
 ||izvclwnnwbytd.site^
 ||izvryzfwgldrg.site^
 ||izwhgqdebwqmq.site^
@@ -19307,6 +19318,7 @@ vkcdnservice.appspot.com^
 ||jssckcpqylmzc.site^
 ||jssearch.net^
 ||jsshidzmbryny.online^
+||jssuuqiylxoga.site^
 ||jstacqabgeuzl.space^
 ||jstzvtmgiybkd.xyz^
 ||jswlnhcfmotapnm.com^
@@ -21882,6 +21894,7 @@ vkcdnservice.appspot.com^
 ||lwwthwxurerat.online^
 ||lwxoothcoq.com^
 ||lwxuo.com^
+||lwywgysunkygy.site^
 ||lwzzgwonlrvgr.site^
 ||lx2rv.com^
 ||lxbwquyuoovrx.space^
@@ -22135,6 +22148,7 @@ vkcdnservice.appspot.com^
 ||mandrelkluckerbeisa.cyou^
 ||mandscarus.cfd^
 ||manehconule.cfd^
+||manganaexserttomb.qpon^
 ||mangananesokia.qpon^
 ||mangerolympicssnort.com^
 ||maniefenrir.cyou^
@@ -25783,6 +25797,7 @@ vkcdnservice.appspot.com^
 ||op01.biz^
 ||op02.biz^
 ||op3rgwq5meu56r9eu5u5eu9h1ofecnjp.rest^
+||opaledmistful.cyou^
 ||opaloidrepayal.cfd^
 ||opchqpnpdvbqn.website^
 ||opclck.com^
@@ -26051,6 +26066,7 @@ vkcdnservice.appspot.com^
 ||otologydiploic.qpon^
 ||otomiandeleted.cyou^
 ||otowlgplnxtmk.website^
+||otqbmlcodvbqg.website^
 ||otsoasxgsyabr.online^
 ||otswhtxkfprcy.online^
 ||otunmakpjbtga.website^
@@ -26474,6 +26490,7 @@ vkcdnservice.appspot.com^
 ||paletteeasily.com^
 ||palibs.tech^
 ||paliliaimbriumvansire.qpon^
+||palishcanapcrocky.cfd^
 ||palishhunchy.cfd^
 ||palissestrake.cfd^
 ||palletbeef.cyou^
@@ -66045,6 +66062,8 @@ dlsdk.appsflyer.com^
 ||yahzsa6o2o.com^
 ||rsfzjtdmbmxdfq.com^
 ||rhombus74.com^
+||5bpajgg436.com^
+||6s78n1rj4r.com^
 ||1k1bd77k9.com^
 ||tpjhxbwkvjjvtq.com^
 ||kgou4s5dz.com^
