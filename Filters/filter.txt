@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-02T18:30:34.589Z
+! Last modified: 2026-07-02T20:28:24.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1529,6 +1529,7 @@ vkcdnservice.appspot.com^
 ||7wl4ewbiey6py5.cfd^
 ||7wqnxuznr1zm15.cfd^
 ||7xylvi8v9up5pbxbj.cfd^
+||7ycmoi6cn24n9knolu.rest^
 ||7zvhi46y.xyz^
 ||8000inpulse.com^
 ||800482112b.com^
@@ -3247,6 +3248,7 @@ vkcdnservice.appspot.com^
 ||allstat-pp.ru^
 ||allxgwgogikhd.site^
 ||allyes.com^
+||allytextlore.qpon^
 ||almasatten.com^
 ||almightypush.com^
 ||almiqueleeful.qpon^
@@ -4682,6 +4684,7 @@ vkcdnservice.appspot.com^
 ||barrackmuppetunhealthy.com^
 ||barrasdockage.com^
 ||barrelaffloofatrophy.qpon^
+||barrier2plugins.net^
 ||barsshrug.com^
 ||bartcons.com^
 ||bartererfaxtingling.com^
@@ -8347,6 +8350,7 @@ vkcdnservice.appspot.com^
 ||cosshencoital.com^
 ||cosystraight.com^
 ||cothambaumetoroid.cyou^
+||coticealophasmuffs.qpon^
 ||coticoffee.com^
 ||cotrck.com^
 ||cottaeinglesaforold.qpon^
@@ -12273,6 +12277,7 @@ vkcdnservice.appspot.com^
 ||etjrkgaqrkfad.space^
 ||etkybhmigxoyt.site^
 ||etneanlaos.cfd^
+||etnxtlqhknmmb.space^
 ||etphoneme.com^
 ||ettaletted.cfd^
 ||etuiplucktuchit.qpon^
@@ -14034,6 +14039,7 @@ vkcdnservice.appspot.com^
 ||fsmfceljvhwfg.space^
 ||fsmozsiqsdapq.store^
 ||fsnkdjtnifxze.site^
+||fsoqblxrfljyf.site^
 ||fsqgocmhgaikr.site^
 ||fsrqhkcwfsrlc.online^
 ||fssrdeeivg.com^
@@ -16833,6 +16839,7 @@ vkcdnservice.appspot.com^
 ||hotterydiseur.shop^
 ||hottiecwm.shop^
 ||hottmatchy.com^
+||hotueyhvfuqhh.space^
 ||hotwords.com^
 ||houbmjcujavil.store^
 ||houcedqscszcu.space^
@@ -20843,6 +20850,7 @@ vkcdnservice.appspot.com^
 ||lczoidhsuvuyu.site^
 ||ldcumoqpdhule.store^
 ||ldeemoyx.com^
+||ldhmeqlxdgksm.site^
 ||ldinfoprocyon.cfd^
 ||ldjkgoeognmgj.space^
 ||ldjsypolwypxy.space^
@@ -21444,6 +21452,7 @@ vkcdnservice.appspot.com^
 ||lmgyjug31.com^
 ||lmhvhlxacgtmb.site^
 ||lmim51jmbfiqik.rest^
+||lmjvywakjupgv.site^
 ||lmlasnwtqygbw.space^
 ||lmngvqqskhppa.online^
 ||lmqfjjxnyxuud.site^
@@ -23142,6 +23151,7 @@ vkcdnservice.appspot.com^
 ||mochuditrothed.com^
 ||mockdealzone.com^
 ||mockerumist.cfd^
+||mockingphoticgritter.cyou^
 ||mocluvrxsluqj.space^
 ||mocqmhwjcouzb.space^
 ||mocuvmnjp1p83l2g9lgvu1qcghg3ibrg.cfd^
@@ -25249,6 +25259,7 @@ vkcdnservice.appspot.com^
 ||oc876xxlzehio8.cfd^
 ||ocafujphzaqww.space^
 ||ocardoniel.com^
+||occasional-prize.pro^
 ||occasionalmanner.com^
 ||occasionforfeitarray.com^
 ||occiputumbrinebenzoic.cfd^
@@ -27623,6 +27634,7 @@ vkcdnservice.appspot.com^
 ||pmmxeavnflhkl.website^
 ||pmnlcpdlljaie.website^
 ||pmpvkncwwmlpd.site^
+||pmpyxdoysqzxh.site^
 ||pmqnknenfcrgq.space^
 ||pmuegdgqaqyqz.website^
 ||pmwbbhfazupps.space^
@@ -28007,6 +28019,7 @@ vkcdnservice.appspot.com^
 ||praystakeinstinct.com^
 ||prayswash.cfd^
 ||prbxckwtajncq.space^
+||prchnloyitvdf.website^
 ||prcsybiihhrrv.site^
 ||prdredir.com^
 ||prebornsynemadarrell.cyou^
@@ -30979,6 +30992,7 @@ vkcdnservice.appspot.com^
 ||roots.baby^
 ||rootzaffiliates.com^
 ||roowt5l491yq6hb2v.cfd^
+||ropabcagapfvy.com^
 ||ropakkmnqyglf.site^
 ||ropesscrapeboutique.com^
 ||roqeke.xyz^
@@ -40344,6 +40358,7 @@ vkcdnservice.appspot.com^
 ||xlmamdeykpist.online^
 ||xlmevfxdcbeak.site^
 ||xlmuhiaozekzh.site^
+||xlraqugclbwly.space^
 ||xlrdr.com^
 ||xlrm-tech.com^
 ||xlsfswiaqcrxc.xyz^
