@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-05T14:31:23.163Z
+! Last modified: 2026-07-05T16:22:25.957Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4719,6 +4719,7 @@ vkcdnservice.appspot.com^
 ||baqtxlxxvtnwx.online^
 ||baqzkiajgyidm.site^
 ||barbaracitreanamiga.cyou^
+||barbeauluhinga.qpon^
 ||barbecueasleeprealistic.com^
 ||barbellcomates.shop^
 ||barbopposit.qpon^
@@ -11360,6 +11361,7 @@ vkcdnservice.appspot.com^
 ||eadhakmcmzslj.online^
 ||eadziukwqzeeb.space^
 ||eaeiacjiwsufg.site^
+||eafxamdfbmr.com^
 ||eagerlycuisinecast.com^
 ||eagjohwicefoq.website^
 ||eaglewarfareconclusions.com^
@@ -14215,6 +14217,7 @@ vkcdnservice.appspot.com^
 ||frightenedcraft.com^
 ||frighteningrelative.com^
 ||frightfulvisitorimportant.com^
+||frijoleponabode.cyou^
 ||frillhetaery.com^
 ||frioencwksyur.website^
 ||friont.xyz^
@@ -14242,6 +14245,7 @@ vkcdnservice.appspot.com^
 ||frnaqbeavtdvm.website^
 ||frnmtunhqvpon.website^
 ||froaqldtuqssk.website^
+||frockkabikisjianyun.cyou^
 ||frockssilk.qpon^
 ||frocompactcountless.com^
 ||frodo.space^
@@ -18731,6 +18735,7 @@ vkcdnservice.appspot.com^
 ||irvjwpajppvxi.site^
 ||irxjqekijejhe.website^
 ||iryiikxealejx.site^
+||irz4zfhtxwzw56.cfd^
 ||irzdkfmbzbhcm.site^
 ||irzebpsbojrbp.space^
 ||isabellaentire.com^
@@ -20395,6 +20400,7 @@ vkcdnservice.appspot.com^
 ||kifmzfvnusgoh.space^
 ||kihbjhizmskug.online^
 ||kihudevo.pro^
+||kihweywjuj.com^
 ||kiijuuntjunmd.site^
 ||kijbwvznaofju.website^
 ||kikarsundown.com^
@@ -27796,6 +27802,7 @@ vkcdnservice.appspot.com^
 ||phytolcowfish.cfd^
 ||phytonsfurner.com^
 ||pi243rnxjmqx6be3.cfd^
+||pi8nrmi7tpcbjlg3rtehy.rest^
 ||pi95lzihjbh91375yf.rest^
 ||piabaccw.cfd^
 ||piaculaagrote.com^
@@ -31646,6 +31653,7 @@ vkcdnservice.appspot.com^
 ||rotgutsricker.cyou^
 ||rothermophony.com^
 ||rotifersalutes.cyou^
+||rotiferwah.cyou^
 ||rotondasoothegged.cyou^
 ||rotshe.cfd^
 ||rotsurroundings.com^
@@ -33273,6 +33281,7 @@ vkcdnservice.appspot.com^
 ||sitaoabuser.com^
 ||sitarvarletsroseola.cyou^
 ||sitathurls.cfd^
+||sitdpsxxqbfkh.site^
 ||sitellabrabantmoqui.cfd^
 ||siteoid.com^
 ||sitewithg.com^
@@ -38669,6 +38678,7 @@ vkcdnservice.appspot.com^
 ||vhawtckxtqesq.online^
 ||vhbbeareiglah.website^
 ||vhbbubfytrjht.space^
+||vhbprmbdywfke.website^
 ||vhdoxakztfwdp.website^
 ||vhewpprxfnprc.space^
 ||vhfwzzdxybakb.site^
@@ -38960,6 +38970,7 @@ vkcdnservice.appspot.com^
 ||vm2u8e8vcgyqjx5pywk.rest^
 ||vmapojovqesek.online^
 ||vmawhaylmkxpv.vip^
+||vmcljlrddxcbn.website^
 ||vmeacwefprekg.website^
 ||vmecbdkpvugpj.website^
 ||vmenlgdowysab.website^
@@ -40577,6 +40588,7 @@ vkcdnservice.appspot.com^
 ||wqmnhaxnmdvdu.space^
 ||wqmnnnsigesgf.online^
 ||wqmnvspyjhgqhqn.com^
+||wqonahwbvbucq.site^
 ||wqoruynunigia.website^
 ||wqpgjenwxsbyd.space^
 ||wqpkffkrcnqyw.online^
@@ -41615,6 +41627,7 @@ vkcdnservice.appspot.com^
 ||yapthsxetvebmx.com^
 ||yaq17.com^
 ||yaqdcfkkxjqkc.space^
+||yaqdohxkohwpc.website^
 ||yardnamesake.com^
 ||yardr.net^
 ||yardsterrar.cfd^
@@ -41819,6 +41832,7 @@ vkcdnservice.appspot.com^
 ||ygqakovleohew.website^
 ||ygqikkpytkhlt.space^
 ||ygtonnwghswtx.space^
+||ygulyvzqxshmn.website^
 ||ygvdvdcbogjcu.site^
 ||ygxiwlteyplry.website^
 ||ygxmyhimubyyl.website^
@@ -41889,6 +41903,7 @@ vkcdnservice.appspot.com^
 ||yjiakbkecywgij.com^
 ||yjiqwytzluwhs.site^
 ||yjjfvcbzbrppe.store^
+||yjmnlblrazyhi.online^
 ||yjonbxthuxllt.website^
 ||yjotqzesimahl.online^
 ||yjpehuogudsoy.site^
@@ -67053,6 +67068,7 @@ dlsdk.appsflyer.com^
 ||polygon58.top^
 ||f3a95oy5m.com^
 ||nlthaiu88.com^
+||oe9s24wy9.com^
 ||m6cx48b0e.com^
 ||tbthrfrgkqltpw.com^
 ||snmytvt.com^
