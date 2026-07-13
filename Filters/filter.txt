@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-13T03:02:54.668Z
+! Last modified: 2026-07-13T05:09:10.781Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -874,6 +874,7 @@ vkcdnservice.appspot.com^
 ||2k6eh90gs.de^
 ||2kb8co7v6kejm7.cfd^
 ||2kn40j226.de^
+||2ko2x7p1orh92xo9.cfd^
 ||2kx16mi9yjo1inympq5j4ku.cfd^
 ||2linkpath.com^
 ||2lqcd8s9.de^
@@ -3712,6 +3713,7 @@ vkcdnservice.appspot.com^
 ||aohegrogmzgxy.space^
 ||aoicixdnneinb.online^
 ||aoiferegauge.cfd^
+||aokbsmygff.com^
 ||aokqftjypnrrg.website^
 ||aokrbjfklqvsd.space^
 ||aokxcojgnjjkv.online^
@@ -6039,6 +6041,7 @@ vkcdnservice.appspot.com^
 ||bonusmaniac.com^
 ||bonuspis.com^
 ||bonwtunwgboos.online^
+||bonxbtlkitmt.com^
 ||bonyboeoctal.qpon^
 ||bonyspecialist.pro^
 ||bonzermixupclaxons.cyou^
@@ -7547,6 +7550,7 @@ vkcdnservice.appspot.com^
 ||cfpisltkhedst.online^
 ||cfqrooirsgecg.space^
 ||cfqzcuasbvwva.website^
+||cfrfph55mhtk7r.rest^
 ||cfszapashpahn.space^
 ||cfusionsys.com^
 ||cfxoaljlopydq.online^
@@ -11373,6 +11377,7 @@ vkcdnservice.appspot.com^
 ||dsxtea.com^
 ||dsyaae.com^
 ||dsyatr.com^
+||dsybif.com^
 ||dsydvb.com^
 ||dsygrxfwrlatx.online^
 ||dsyhha.com^
@@ -18606,6 +18611,7 @@ vkcdnservice.appspot.com^
 ||illinformed-imagination.com^
 ||illinformed-summer.com^
 ||illipekincob.com^
+||illiterate-birth.pro^
 ||illiticbogdermis.cyou^
 ||illogicalinvitationexaltation.com^
 ||illuminateastonishing.com^
@@ -21129,6 +21135,7 @@ vkcdnservice.appspot.com^
 ||kineckekyu.com^
 ||kinepeda.cyou^
 ||kinesesduply.cyou^
+||kinetiksoft.com^
 ||king3rsc7ol9e3ge.com^
 ||kingbole.com^
 ||kingcoderschacker.qpon^
@@ -26385,6 +26392,7 @@ vkcdnservice.appspot.com^
 ||nunletchingma.shop^
 ||nunryvespers.cfd^
 ||nuntcnartgyaj.site^
+||nuoajfndg.com^
 ||nuolvunldkuuy.space^
 ||nuqwe.com^
 ||nuqxpulhjilij.space^
@@ -26993,6 +27001,7 @@ vkcdnservice.appspot.com^
 ||oihqicgerrfoo.site^
 ||oiismyzivtine.website^
 ||oijcphjwiabsg.online^
+||oilcansfumarinbeaker.cfd^
 ||oilcasekareeta.qpon^
 ||oilcontainsdisaster.com^
 ||oilrjign.com^
@@ -28815,6 +28824,7 @@ vkcdnservice.appspot.com^
 ||pigeonsresourcefulretired.com^
 ||piggyquarterbackascension.com^
 ||pightlerepugn.cyou^
+||pightpolkagargle.cyou^
 ||pigmiespercher.qpon^
 ||pigrootbld.shop^
 ||pigtre.com^
@@ -36502,6 +36512,7 @@ vkcdnservice.appspot.com^
 ||taluhetviciousanorexy.cfd^
 ||tamablejuntodewitt.qpon^
 ||tamarixramanaswaypost.cyou^
+||tamiasramhood.shop^
 ||taminemyricas.shop^
 ||taminyunsmart.cfd^
 ||tampionsley.com^
@@ -38514,6 +38525,7 @@ vkcdnservice.appspot.com^
 ||uelclnfeaxlur.online^
 ||ueleensadcyxh.site^
 ||uemrtknwjbgzp.one^
+||uenrrmxuhjdm.com^
 ||ueobjmimltuci.website^
 ||ueobtcrdeefau.space^
 ||ueomdedzyvpdn.online^
@@ -40543,6 +40555,7 @@ vkcdnservice.appspot.com^
 ||vtuzzlfmnpxdq.website^
 ||vtxnfezsswgbq.website^
 ||vtxutkucrrxoj.website^
+||vtyusrunq.com^
 ||vtzmfhdyaemzg.online^
 ||vuainqkmjdiqp.site^
 ||vuavjqnpxa.com^
@@ -54667,7 +54680,6 @@ dlsdk.appsflyer.com^
 ||track.fusionmedia.io^
 ||track.getgobot.com^
 ||track.juno.com^
-||track.kinetiksoft.com^
 ||track.mailerlite.com^
 ||track.mituo.cn^
 ||track.mp4.center^
@@ -68534,6 +68546,7 @@ dlsdk.appsflyer.com^
 ||bzxkfnsexolzbu.com^
 ||4pyszxxaw.com^
 ||myiqvn5w3.com^
+||h40q9nv18.com^
 ||4c0wa2ml2f.com^
 ||fretsaw55.top^
 ||vwbptvlcrlxzpo.com^
