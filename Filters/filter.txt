@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-13T05:09:10.781Z
+! Last modified: 2026-07-13T07:04:57.539Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -974,6 +974,7 @@ vkcdnservice.appspot.com^
 ||31instances.com^
 ||31o0jl63.de^
 ||31outsystems.net^
+||31uv8ur14pvjop8y1le49.rest^
 ||320style.com^
 ||320toservices.com^
 ||3258994ce4.com^
@@ -1723,6 +1724,7 @@ vkcdnservice.appspot.com^
 ||9001car.com^
 ||9001kolix.net^
 ||900f44159b.com^
+||901radius.net^
 ||903e9c75f6.com^
 ||905trk.com^
 ||9075bcc610.com^
@@ -1739,6 +1741,7 @@ vkcdnservice.appspot.com^
 ||92qiwk6tyuwnyx.cfd^
 ||92yp.com^
 ||930networks.net^
+||930outblend.com^
 ||930outinstances.net^
 ||93423fa56d.com^
 ||934285023e.com^
@@ -6327,6 +6330,7 @@ vkcdnservice.appspot.com^
 ||bricklylobbers.cfd^
 ||bridelyspeel.cfd^
 ||bridgeploesti.cfd^
+||bridgeskeyword.shop^
 ||bridgetrack.com^
 ||bridiefaraway.cyou^
 ||bridlearctic.com^
@@ -6937,6 +6941,7 @@ vkcdnservice.appspot.com^
 ||cachedstrawy.cyou^
 ||cachegorilla.com^
 ||cachotditing.com^
+||cachousbahut.qpon^
 ||cachuadirked.top^
 ||cacklegrievingtank.com^
 ||cacksencl.com^
@@ -7772,6 +7777,7 @@ vkcdnservice.appspot.com^
 ||choconart.com^
 ||chokrarundle.cfd^
 ||cholosaxweedpigment.cyou^
+||cholumrom.cyou^
 ||chooseroverlaidspecies.com^
 ||chopacapataz.cyou^
 ||choppedremains.com^
@@ -9179,6 +9185,7 @@ vkcdnservice.appspot.com^
 ||ctdowlapwyuwq.site^
 ||cteahqozkatk.com^
 ||ctebiooadmfty.space^
+||ctegbfavb.com^
 ||ctengine.io^
 ||ctexueogshbdo.online^
 ||ctgkrtjuarrzp.online^
@@ -10731,6 +10738,7 @@ vkcdnservice.appspot.com^
 ||dmlnznrxcwfeo.store^
 ||dmmyamvrjsbws.site^
 ||dmonastydrumgm.org^
+||dmoolzpziad.com^
 ||dmozazelsojos.website^
 ||dmqalkgfdpeca.space^
 ||dmrtx.com^
@@ -12642,10 +12650,12 @@ vkcdnservice.appspot.com^
 ||eojfxignjyzev.website^
 ||eokbuxljvlfwm.space^
 ||eoknzbxdujqff.website^
+||eolrjhouwnzrz.site^
 ||eondunpea.com^
 ||eonwuljgmyjep.site^
 ||eookanmfhqjkh.online^
 ||eooprm7n3zhqc72y.cfd^
+||eophytebeigel.qpon^
 ||eoqevfahzwzef.online^
 ||eoqsokfzdlzpp.website^
 ||eoquzuxnjkjoh.online^
@@ -12762,6 +12772,7 @@ vkcdnservice.appspot.com^
 ||eralway.com^
 ||eraschutedmisfire.qpon^
 ||erasingrushberstel.qpon^
+||erasmusbhil.cfd^
 ||erateaster.cyou^
 ||erbiscusysexbu.org^
 ||erbqwgtbxifxz.online^
@@ -17228,6 +17239,7 @@ vkcdnservice.appspot.com^
 ||herparquet.com^
 ||herpassages.com^
 ||herryimmixed.com^
+||hersevomitus.shop^
 ||herslarinae.cfd^
 ||herynore.com^
 ||hesitationsection.com^
@@ -17417,6 +17429,7 @@ vkcdnservice.appspot.com^
 ||hilariouseconomics.com^
 ||hilerant.site^
 ||hillaryluvian.shop^
+||hillghibli.shop^
 ||hillglamorous.com^
 ||hillsudic.cfd^
 ||hilltopads.com^
@@ -18246,6 +18259,7 @@ vkcdnservice.appspot.com^
 ||i5lty436q2mgw1q.cfd^
 ||i5pm6w1o1xzo8nc.cfd^
 ||i6cgvqmrr5kfyf.cfd^
+||i84g1yziwtzbxlox.cfd^
 ||i8xkjci7nd.com^
 ||i993.com^
 ||i9pyfcl6ouoljr.rest^
@@ -20029,6 +20043,7 @@ vkcdnservice.appspot.com^
 ||jhkfd.com^
 ||jhlxmodmknxce.online^
 ||jhncmokruwmhd.website^
+||jhnvsxmcitxye.site^
 ||jhnwr.com^
 ||jhopy6fxqlzcjyxnn.cfd^
 ||jhoqgfgm.com^
@@ -21575,6 +21590,7 @@ vkcdnservice.appspot.com^
 ||kubxxkuuecqww.site^
 ||kucelglfptill.site^
 ||kucyhafaatzxg.space^
+||kuduschert.cfd^
 ||kudwmaucyncfk.website^
 ||kueezrtb.com^
 ||kueiretailsfenite.cyou^
@@ -21950,6 +21966,7 @@ vkcdnservice.appspot.com^
 ||lawfullylimetreecharges.com^
 ||lawfulpatience.com^
 ||lawgxwwkgxuho.space^
+||lawksister.shop^
 ||lawnedllamas.qpon^
 ||lawrieominousclogwyn.cfd^
 ||lawyeritalyaching.com^
@@ -24134,6 +24151,7 @@ vkcdnservice.appspot.com^
 ||miliolaentria.cyou^
 ||militantrelieve.com^
 ||milkencarajas.cfd^
+||milksopeffront.shop^
 ||milky-silver.pro^
 ||milkywaynewspaper.com^
 ||milladvocacyunderstandable.com^
@@ -24708,6 +24726,7 @@ vkcdnservice.appspot.com^
 ||moustachemailboxdesirable.com^
 ||moustacheoverloadwar.com^
 ||moustoctopaswafd.cfd^
+||moutonstumeric.com^
 ||mov43zcm93zim84ul.cfd^
 ||movad.de^
 ||movad.net^
@@ -28971,6 +28990,7 @@ vkcdnservice.appspot.com^
 ||pjrtamlmqaaoe.space^
 ||pjskajwflepfp.space^
 ||pjsos.xyz^
+||pjsrmjwufwithw.com^
 ||pjvcbvjfrzniy.site^
 ||pjzftkxmyzuat.space^
 ||pk910324e.com^
@@ -29083,6 +29103,7 @@ vkcdnservice.appspot.com^
 ||plcxocydjdfhe.space^
 ||pleasantinformation.com^
 ||pleasemedic.com^
+||pleasingsnow.pro^
 ||pleasurewardrobeversatile.com^
 ||pleatfertilemiss.com^
 ||plebesursa.shop^
@@ -29404,6 +29425,7 @@ vkcdnservice.appspot.com^
 ||porikatha.com^
 ||porionsstalkslibkin.qpon^
 ||porketplums.qpon^
+||porkierpappyri.qpon^
 ||porkpielepidin.com^
 ||porksleevemigraine.com^
 ||porlyymwdsvhf.online^
@@ -31147,6 +31169,7 @@ vkcdnservice.appspot.com^
 ||quxzryrnmaqlz.online^
 ||quyhwurkmryjqd.com^
 ||quyiucbigjgng.site^
+||quyvluxndhb.com^
 ||quyxwohgpxsue.online^
 ||quzdwlwqnxrta.website^
 ||qv7epv7przcqukppr.cfd^
@@ -31813,6 +31836,7 @@ vkcdnservice.appspot.com^
 ||refinepiledcumbersome.com^
 ||refinespaesmatsue.cfd^
 ||refinessilkmen.shop^
+||refiredhomessabaton.cfd^
 ||refkxilsrghro.store^
 ||reflamebilosotogyps.qpon^
 ||reflectingbunaloud.com^
@@ -36623,6 +36647,7 @@ vkcdnservice.appspot.com^
 ||tavryuhcshdsr.website^
 ||tawersmylodonvoulge.qpon^
 ||tawingteutons.cyou^
+||tawnieracheron.shop^
 ||taxaffections.com^
 ||taxdifferenceinvestor.com^
 ||taxieskelehsibbs.cyou^
@@ -36750,6 +36775,7 @@ vkcdnservice.appspot.com^
 ||teemnooseeliminate.com^
 ||teemtechnique.com^
 ||teenersqueueunbear.cyou^
+||teenierstatue.cyou^
 ||teensexgfs.com^
 ||teentitsass.com^
 ||teethesmitsvah.com^
@@ -37176,6 +37202,7 @@ vkcdnservice.appspot.com^
 ||timidlyindy.cyou^
 ||timingdownvolatile.com^
 ||timingrunaway.com^
+||timoncommixtlumber.cyou^
 ||timot-cvk.info^
 ||timsef.com^
 ||timspar.cfd^
@@ -39903,6 +39930,7 @@ vkcdnservice.appspot.com^
 ||versionspactpeeks.com^
 ||versionsphysicaldropper.com^
 ||versionsprobabilitydeposit.com^
+||verstesdaggle.cfd^
 ||verticallysaturate.com^
 ||vertigovitalitywieldable.com^
 ||vervespeaked.cyou^
@@ -68547,6 +68575,8 @@ dlsdk.appsflyer.com^
 ||4pyszxxaw.com^
 ||myiqvn5w3.com^
 ||h40q9nv18.com^
+||d4cxdtup9.com^
+||vvogrqq6r.com^
 ||4c0wa2ml2f.com^
 ||fretsaw55.top^
 ||vwbptvlcrlxzpo.com^
