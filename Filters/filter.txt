@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-14T14:33:42.969Z
+! Last modified: 2026-07-14T16:26:47.308Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1136,6 +1136,7 @@ vkcdnservice.appspot.com^
 ||460functions.net^
 ||463v4yvm73x2ru.rest^
 ||4690y10pvpq8.com^
+||469jyxtxgwye74l4.rest^
 ||46fjf4eyc6f4f9v7.rest^
 ||47c50e31a9.com^
 ||47txg6pezhmbzeyb8k4gze.rest^
@@ -2147,6 +2148,7 @@ vkcdnservice.appspot.com^
 ||accompanynovemberexclusion.com^
 ||accomplicetextgenetically.com^
 ||accomplishedpersuadedprinter.com^
+||accomplishedsimilarly.com^
 ||accomplishedstrain.com^
 ||accomplishmentailmentinsane.com^
 ||accomplishmentfreeze.com^
@@ -25068,6 +25070,7 @@ vkcdnservice.appspot.com^
 ||mrcuqjfaneqvv.space^
 ||mrdmca.com^
 ||mrdmjqbjgty.com^
+||mrdobbjlssee.com^
 ||mrdxkdkoqv.com^
 ||mrdzuibek.com^
 ||mrebfofligkfs.site^
@@ -25622,6 +25625,7 @@ vkcdnservice.appspot.com^
 ||nativesprivately.com^
 ||nativessupervisor.com^
 ||nativevegetablesentered.com^
+||natpeiezp.com^
 ||natprb.ru^
 ||natqurshes.shop^
 ||natqzyaatmnga.store^
@@ -26128,6 +26132,7 @@ vkcdnservice.appspot.com^
 ||niyandastoneyhexsub.qpon^
 ||niyimu.xyz^
 ||nizarstream.xyz^
+||nizddsyrlfmpo.website^
 ||njatwiklklyae.site^
 ||njcgtyxmkrkqv.space^
 ||njcgxydbhmckv.site^
@@ -26549,6 +26554,7 @@ vkcdnservice.appspot.com^
 ||nrkfcdbuor.com^
 ||nrlhvfqxwstsb.website^
 ||nrnma.com^
+||nrqanspcgunos.website^
 ||nrqihuzvyunel.website^
 ||nrrofvqgzprnb.space^
 ||nrs6ffl9w.com^
@@ -27106,6 +27112,7 @@ vkcdnservice.appspot.com^
 ||oestpq.com^
 ||oeszxeerssjsn.site^
 ||oetawrpidwqzj.website^
+||oetremlyfmekm.site^
 ||oetvmdsvpckci.site^
 ||oeu3it2m.xyz^
 ||oeufihzttngjt.website^
@@ -27762,6 +27769,7 @@ vkcdnservice.appspot.com^
 ||orientationcutlet.com^
 ||orientscoigne.shop^
 ||orientsweptautopsy.com^
+||orificeairthresinic.cyou^
 ||origanhunyak.cyou^
 ||origin1266.fun^
 ||origin8888.com^
@@ -28083,6 +28091,7 @@ vkcdnservice.appspot.com^
 ||owajwdyuesrbl.space^
 ||owcocjnvemjlo.com^
 ||owdefgcqhxtyf.store^
+||owdkghznkkocb.online^
 ||owedicing.cyou^
 ||owenismyeggmen.cfd^
 ||owfijkhomxdfo.space^
@@ -28115,6 +28124,7 @@ vkcdnservice.appspot.com^
 ||owwirzikteowa.online^
 ||owwqbgkedrqeh.space^
 ||owxjmqrzgzyou.site^
+||owxnsqfyeyzph.website^
 ||owxpzlhikjoyj.store^
 ||owxsolpqxqyiy.space^
 ||owywlwjvvkcjc.site^
@@ -28208,6 +28218,7 @@ vkcdnservice.appspot.com^
 ||ozmafxvzuv.in^
 ||ozmbrfwzfreie.space^
 ||ozmmzgezcybxp.website^
+||oznggpyfrnnso.space^
 ||ozonateplock.qpon^
 ||ozonemedia.com^
 ||ozonicarboret.qpon^
@@ -28261,6 +28272,7 @@ vkcdnservice.appspot.com^
 ||packlenseavesdrop.com^
 ||packouabain.cfd^
 ||packsofgood.com^
+||pacutishri.qpon^
 ||pacvrvuworosd.website^
 ||paddlefidget.com^
 ||paddleweekendnudge.com^
@@ -29859,6 +29871,7 @@ vkcdnservice.appspot.com^
 ||pqexpfqppdfqe.site^
 ||pqfdfzjajlqhk.website^
 ||pqixbnllqzmfp.space^
+||pqkgglsxdovex.website^
 ||pqlrfrtotmzpt.website^
 ||pqluujnrudl.com^
 ||pqmv5xir9y5zb6h.rest^
@@ -31325,6 +31338,7 @@ vkcdnservice.appspot.com^
 ||qtrqasyavyzcx.online^
 ||qtslcoufpilnd.com^
 ||qtutulebptizh.website^
+||qtyjaeozpufux.online^
 ||qtyjvrosgqwsq.online^
 ||quachilratingspsoroid.cfd^
 ||quachilsidder.shop^
@@ -31575,6 +31589,7 @@ vkcdnservice.appspot.com^
 ||qzizvxzcdvxnd.website^
 ||qzjcjpugwmdda.site^
 ||qzogulnggdfsi.online^
+||qzonbrrnisqql.space^
 ||qzoxaijuvxzwv.online^
 ||qzpifnofrtvrd.store^
 ||qzpnlrckbpcwe.online^
@@ -31969,6 +31984,7 @@ vkcdnservice.appspot.com^
 ||rearrangecomecosy.com^
 ||rearrangesubsequentlyloosen.com^
 ||reasonable-bet.com^
+||reasonable-satisfaction.pro^
 ||reasonable-source.com^
 ||reasonable-track.pro^
 ||reasoningcarry.com^
@@ -32864,6 +32880,7 @@ vkcdnservice.appspot.com^
 ||rlovygavhheuf.com^
 ||rlrsfxkewwgww.site^
 ||rlsnntgffqnli.online^
+||rlsuohvbqvbxa.space^
 ||rltovwwkqqxbd.space^
 ||rludahcaewkfd.online^
 ||rluhlgvsxabon.online^
@@ -33646,6 +33663,7 @@ vkcdnservice.appspot.com^
 ||saltestinwraps.cyou^
 ||saltierenvies.cfd^
 ||saltiesbiomass.cfd^
+||saltilydrewbasten.cyou^
 ||saltpancansephebe.qpon^
 ||saltsleaseholder.com^
 ||saltuseisell.cyou^
@@ -39648,6 +39666,7 @@ vkcdnservice.appspot.com^
 ||upyuxrgoeiwcn.site^
 ||upzmuerwksotm.site^
 ||upznliourhwyz.fun^
+||uq42b79ynln1tejn.cfd^
 ||uqanrpcrts.com^
 ||uqarbdiuhttwo.website^
 ||uqbdkzcwhdiqa.online^
@@ -44099,6 +44118,7 @@ vkcdnservice.appspot.com^
 ||yucvgdirvufyw.space^
 ||yudrrrrerqovu.site^
 ||yuegtnkkiqnkd.website^
+||yuegypcw.com^
 ||yueifltdoegld.space^
 ||yugkagyfbrdkl.online^
 ||yuhuads.com^
@@ -56344,6 +56364,7 @@ dlsdk.appsflyer.com^
 ||homebizplaza.com^
 ||homelycrown.com^
 ||homelyheater.com^
+||homerunfood.com^
 ||homeslick.com^
 ||honestharbor.com^
 ||honeybulb.com^
@@ -57034,6 +57055,7 @@ dlsdk.appsflyer.com^
 ||scentedkindly.com^
 ||scholarloop.com^
 ||sciencedart.com^
+||sciencevault.net^
 ||scientificshirt.com^
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
@@ -69008,6 +69030,7 @@ dlsdk.appsflyer.com^
 ||mc0pagg4ao.com^
 ||pvino9yhp3.com^
 ||6bgubwkwoh.com^
+||t5gp7rzz4.com^
 ||xxp4802or.com^
 ||x94pjnejo.com^
 ||wheelbarrow64.com^
