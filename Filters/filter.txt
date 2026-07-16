@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-16T18:23:47.041Z
+! Last modified: 2026-07-16T20:18:01.655Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1188,6 +1188,7 @@ vkcdnservice.appspot.com^
 ||4g0b1inr.de^
 ||4hjiic33j1ovqvz1.cfd^
 ||4htpt287i7xmceyy7fffqligkptwk.cfd^
+||4i14fctlthrbq74j713guv1qjik.rest^
 ||4i3u8ncfz7ygmew8.cfd^
 ||4iw7gbmv757zm59k7wfhn5.cfd^
 ||4k761wkepx1nux7zfnoppbf.cfd^
@@ -5027,6 +5028,7 @@ vkcdnservice.appspot.com^
 ||battutoallium.shop^
 ||battutocritics.com^
 ||batzenabies.cyou^
+||bauchleaweek.shop^
 ||bauderyhistory.cfd^
 ||bauleashilled.qpon^
 ||bavbfmokxwqtn.space^
@@ -8958,6 +8960,7 @@ vkcdnservice.appspot.com^
 ||cougarsblaflum.shop^
 ||couhagesignaryrotten.cfd^
 ||couijnmkgjdim.site^
+||coukpvrioimecb.com^
 ||couleefancifycalpul.cfd^
 ||councernedasesi.org^
 ||counciladvertising.net^
@@ -13728,6 +13731,7 @@ vkcdnservice.appspot.com^
 ||fandomsalauntapathic.cyou^
 ||fanegasinflue.shop^
 ||fangmoonlight.com^
+||fannersrhytinarandon.cyou^
 ||fantabro.com^
 ||fantastic-read.com^
 ||fantasticclosing.com^
@@ -15692,6 +15696,7 @@ vkcdnservice.appspot.com^
 ||gdg4yih5.xyz^
 ||gdgfmtrpducob.online^
 ||gdhpgsgtechuz.site^
+||gdiqegwfbftrq.space^
 ||gdjurefuxajcg.site^
 ||gdjzrobyzulpx.site^
 ||gdkhthxgdvefr.online^
@@ -21452,6 +21457,7 @@ vkcdnservice.appspot.com^
 ||kfjwapsftuxtw.online^
 ||kfkewuaghmbfm.website^
 ||kfkgfumirrdtr.space^
+||kflnfccqidisy.online^
 ||kflosfpnwfzrc.store^
 ||kflzavsgedkhu.online^
 ||kfnxjtzh.com^
@@ -29144,6 +29150,7 @@ vkcdnservice.appspot.com^
 ||peppermintthorpeguess.com^
 ||peppy2lon1g1stalk.com^
 ||peqfgslwvqndy.space^
+||peqwbqnjexjdf.site^
 ||perackwutexkp.site^
 ||perailamista.shop^
 ||peraurod.qpon^
@@ -29601,6 +29608,7 @@ vkcdnservice.appspot.com^
 ||pizp757rzt6f9k.cfd^
 ||pizzaapparenthalted.com^
 ||pizzlessclimb.top^
+||pjauhyjfuubqd.site^
 ||pjb9vnr3knxiewvuojr35fxlijeb31jmymj8x75.cfd^
 ||pjbgowoswnxul.website^
 ||pjbiopwnemoditc.com^
@@ -34222,6 +34230,7 @@ vkcdnservice.appspot.com^
 ||sblfdxsencirl.website^
 ||sblhp.com^
 ||sbndcrqwcfkvg.store^
+||sbnhctenrfzib.site^
 ||sboehtuuoyggh.space^
 ||sbqjioehjqnzb.site^
 ||sbsbetlinfevn.site^
@@ -34462,6 +34471,7 @@ vkcdnservice.appspot.com^
 ||seawarerealerqueenly.qpon^
 ||sebaitbedmate.cyou^
 ||sebkhasteers.qpon^
+||sebsivtovqmnd.website^
 ||secancylogjam.qpon^
 ||secantwedged.qpon^
 ||seccosstronganimo.cyou^
@@ -35039,6 +35049,7 @@ vkcdnservice.appspot.com^
 ||shsrqndzhaqdo.site^
 ||shstvvexwudrg.website^
 ||shticksyahuna.com^
+||shtipukdnuusx.site^
 ||shuanshu.com.com^
 ||shubadubadlskjfkf.com^
 ||shucktaxite.qpon^
@@ -39151,6 +39162,7 @@ vkcdnservice.appspot.com^
 ||txicptqg.com^
 ||txjgnbljkekft.space^
 ||txjjuoxttdlhl.store^
+||txjuuftyjkdlo.online^
 ||txljgipkkispw.space^
 ||txmbrmustuayj.space^
 ||txmzgt912ujx47rkqu2g352h1.cfd^
