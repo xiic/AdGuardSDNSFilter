@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-20T07:03:01.061Z
+! Last modified: 2026-07-20T09:02:15.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -5848,6 +5848,7 @@ vkcdnservice.appspot.com^
 ||bjdnqdbmktbhm.website^
 ||bjdsmnjybmjdl.site^
 ||bjgjunljwykym.space^
+||bjhpnzkjyibyx.site^
 ||bjjky.cfd^
 ||bjk3irj9inujonozb9k3qygw.cfd^
 ||bjlg2lhfw1vpo4.cfd^
@@ -7619,6 +7620,7 @@ vkcdnservice.appspot.com^
 ||ccgateway.net^
 ||ccgbernpkbwid.com^
 ||cchvgvgnqxrjr.space^
+||ccidedogerppw.space^
 ||cciqjddkvgljm.site^
 ||ccjfxvnyiqcfv.space^
 ||ccjkxpbgfjoiw.space^
@@ -8256,6 +8258,7 @@ vkcdnservice.appspot.com^
 ||ckmghmpfmdfvk.online^
 ||ckndisjiwbc.com^
 ||ckogfgjeuxixw.online^
+||ckogpjlm.com^
 ||ckp329gz98txo71crunvpeo.cfd^
 ||ckpchhhnhbsle.site^
 ||ckpyqgorlfdko.site^
@@ -11635,6 +11638,7 @@ vkcdnservice.appspot.com^
 ||dscpxz.com^
 ||dscsky.com^
 ||dscsqe.com^
+||dscsvtuvftoso.website^
 ||dsctja.com^
 ||dscuug.com^
 ||dscykd.com^
@@ -11716,6 +11720,7 @@ vkcdnservice.appspot.com^
 ||dslebb.com^
 ||dslgfw.com^
 ||dslqpa.com^
+||dslrix.com^
 ||dslrph.com^
 ||dslxrh.com^
 ||dsmbdi.com^
@@ -17237,6 +17242,7 @@ vkcdnservice.appspot.com^
 ||gutlessparsec.qpon^
 ||guttldzqtedhr.space^
 ||gutuymfvnw1bvpeg.cfd^
+||guuulmhvdijwj.space^
 ||guuzmczcfmhnt.com^
 ||guvmmaolnk.com^
 ||guwupmxscowhp.online^
@@ -20758,6 +20764,7 @@ vkcdnservice.appspot.com^
 ||jecisyqvowdzx.website^
 ||jeddingdelator.cyou^
 ||jedrgrklutyni.site^
+||jedwishersfurdel.cfd^
 ||jeemgurnntav.com^
 ||jeepearlobe.com^
 ||jeepviolinasoueef.qpon^
@@ -25212,6 +25219,7 @@ vkcdnservice.appspot.com^
 ||millsurfaces.com^
 ||millsuspect.com^
 ||milosdyvours.cfd^
+||miltingtuchitanthill.cfd^
 ||miltlametta.com^
 ||miltzuhmlwqrn.website^
 ||miluwo.com^
@@ -28587,6 +28595,7 @@ vkcdnservice.appspot.com^
 ||oppressiveindifferent.com^
 ||opskiwzwtvfic.store^
 ||opsonicchaharcraizey.cyou^
+||opsqbrqhqcamb.online^
 ||optad360.io^
 ||optad360.net^
 ||opticlygremio.com^
@@ -39711,6 +39720,7 @@ vkcdnservice.appspot.com^
 ||tsuhjkrwtayqx.space^
 ||tsuutrmpeop.com^
 ||tswanafldxt.com^
+||tswhilcaxlrnd.website^
 ||tswzrqpkvltnx.website^
 ||tsxccsxbdloxt.online^
 ||tsxrqncxqgcpl.online^
@@ -44082,6 +44092,7 @@ vkcdnservice.appspot.com^
 ||wxqhhskaltnbw.site^
 ||wxqlynazgmk.com^
 ||wxrgjdkxhegjn.online^
+||wxstlzxmilqom.website^
 ||wxtldkydabpmz.online^
 ||wxutv386vrm757.cfd^
 ||wxwdpvolofgdt.site^
@@ -45457,6 +45468,7 @@ vkcdnservice.appspot.com^
 ||youhavequited.com^
 ||youlamedia.com^
 ||youlouk.com^
+||young-assistant.com^
 ||young-expert.pro^
 ||youngfun.pro^
 ||youngrecover.pro^
