@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-21T10:42:00.070Z
+! Last modified: 2026-07-21T12:31:44.983Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -841,6 +841,7 @@ vkcdnservice.appspot.com^
 ||2c4b614013.com^
 ||2c4rrl8pe.de^
 ||2ch-d.fun^
+||2chrukggk3ezr9p5j.rest^
 ||2cjlj3c15.de^
 ||2cnjuh34jbman.com^
 ||2cnjuh34jbstar.com^
@@ -1323,6 +1324,7 @@ vkcdnservice.appspot.com^
 ||5icim50.de^
 ||5ivy3ikkt.com^
 ||5iwxlqurwvzjf8wmw4zco24lqlmhkvxhc.rest^
+||5j4m4y41x5mgwb8.cfd^
 ||5jvc6fp55m3txovvnrt67ic1.cfd^
 ||5kj9ve1k8wv9qxp76y8i2yz.cfd^
 ||5kov1f2o.xyz^
@@ -6720,6 +6722,7 @@ vkcdnservice.appspot.com^
 ||browsiprod.com^
 ||browsobsolete.com^
 ||brphcvsebhffc.site^
+||brpkcyantouos.website^
 ||brqxtydteljet.website^
 ||brrymylzryxdd.site^
 ||brsnnzgydzkpv.site^
@@ -6852,6 +6855,7 @@ vkcdnservice.appspot.com^
 ||buaontzlplobx.website^
 ||bubblemayflowernephew.com^
 ||bubbly-sound.com^
+||bubuklerevoirlurg.cfd^
 ||bucabjnocfjgu.website^
 ||bucayoninederk.cyou^
 ||buccamestome.cfd^
@@ -10768,6 +10772,7 @@ vkcdnservice.appspot.com^
 ||dhupptmedfhss.site^
 ||dhurrapois.cfd^
 ||dhvziqebhusgt.space^
+||dhwtgxjayjmaf.online^
 ||dhwusndjyxipsw.com^
 ||dhxbrqtpallzi.site^
 ||dhxnhvawducul.site^
@@ -11783,6 +11788,7 @@ vkcdnservice.appspot.com^
 ||dslqpa.com^
 ||dslrix.com^
 ||dslrph.com^
+||dslvji.com^
 ||dslxrh.com^
 ||dsmbdi.com^
 ||dsmcnw.com^
@@ -12627,6 +12633,7 @@ vkcdnservice.appspot.com^
 ||egitqmdbccuih.space^
 ||eglujzjlgxlhq.space^
 ||egmjqaoequdsv.site^
+||egmoytcwvwfnc.website^
 ||egnuuwxqajmao.site^
 ||egoismillogicaldegradation.com^
 ||egoizeweskits.qpon^
@@ -12689,6 +12696,7 @@ vkcdnservice.appspot.com^
 ||eiotqjelvrceb.online^
 ||eipapwgvmipdi.online^
 ||eipmjigkkvyq.com^
+||eipthcppmxhmh.website^
 ||eirxggijnfnto.space^
 ||eiteribesshaints.com^
 ||eitherhaum.cfd^
@@ -13654,6 +13662,7 @@ vkcdnservice.appspot.com^
 ||everywhererecorded.com^
 ||evetideparodos.com^
 ||evgberthedabater.cyou^
+||evgjwbhvxhkdv.online^
 ||eviafiegoxsru.space^
 ||evidencenulls.com^
 ||evidentlystraighteneddecimal.com^
@@ -14476,6 +14485,7 @@ vkcdnservice.appspot.com^
 ||fggjrptybynnt.space^
 ||fggovwtouynec.site^
 ||fggxupklylewk.online^
+||fghhyntrkwikf.online^
 ||fghpitdrwjbbr.space^
 ||fghwqfybjktvq.space^
 ||fgilpsxltypf.com^
@@ -14971,6 +14981,7 @@ vkcdnservice.appspot.com^
 ||flyteinfile.qpon^
 ||flywithexecutors.net^
 ||flyxutjhemkgg.space^
+||flzrsrikaaymy.online^
 ||fmaiyleoxlfbm.online^
 ||fmamrxcycaote.space^
 ||fmazwqtzwcfym.website^
@@ -14998,6 +15009,7 @@ vkcdnservice.appspot.com^
 ||fmpkdawgv.com^
 ||fmpub.net^
 ||fmqppppgvltit.site^
+||fmrdwywbvqusa.website^
 ||fmsads.com^
 ||fmvemhntgm.com^
 ||fmvrilqsboddt.space^
@@ -17738,6 +17750,7 @@ vkcdnservice.appspot.com^
 ||hastenassume.com^
 ||hastenedassessmentbaking.com^
 ||hasteninto.com^
+||hastifsaveypiecers.cyou^
 ||hatagashira.com^
 ||hatbandwouchlyrical.cfd^
 ||hatchneat.com^
@@ -38390,6 +38403,7 @@ vkcdnservice.appspot.com^
 ||tamiasramhood.shop^
 ||taminemyricas.shop^
 ||taminyunsmart.cfd^
+||tammagkh.in^
 ||tampionsley.com^
 ||tamurepiercedcuracoa.cfd^
 ||tamxlmwxtizil.website^
@@ -40492,6 +40506,7 @@ vkcdnservice.appspot.com^
 ||udpgdwnhvltik.website^
 ||udplgiotjursc.website^
 ||udppercfezmis.online^
+||udsxhdtukvz.com^
 ||udurcyzcjpotp.site^
 ||uduwdbhmot.com^
 ||udxosygwyfabo.space^
@@ -51398,6 +51413,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||t.mmganalytics.com^
 ||stat.ip.sb^
 ||bzrcdn.openai.com^
 ||lc-event.pixiv.net^
@@ -56933,7 +56949,6 @@ dlsdk.appsflyer.com^
 ||t.ltiquery.com^
 ||t.menepe.com^
 ||t.metrilo.com^
-||t.mmganalytics.com^
 ||t.mydialoginsight.com^
 ||t.nc0.co^
 ||t.pointandplace.com^
