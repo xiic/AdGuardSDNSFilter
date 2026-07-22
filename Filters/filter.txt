@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-22T14:39:31.879Z
+! Last modified: 2026-07-22T16:29:48.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1006,6 +1006,7 @@ vkcdnservice.appspot.com^
 ||33ssl.com^
 ||34-new-lambda.net^
 ||3434849c2e.com^
+||345l5yutmz7lu5pbuqy17umn1m.cfd^
 ||34c7655983.com^
 ||34d04ccb2e.com^
 ||34f14f395e.com^
@@ -11993,6 +11994,7 @@ vkcdnservice.appspot.com^
 ||dszkfk.com^
 ||dszkvm.com^
 ||dszlbx.com^
+||dszmtq.com^
 ||dszqfx.com^
 ||dszqgc.com^
 ||dszqsm.com^
@@ -15511,6 +15513,7 @@ vkcdnservice.appspot.com^
 ||frijoleponabode.cyou^
 ||frillhetaery.com^
 ||frimambeerstecture.qpon^
+||fringesplasherbatteau.cyou^
 ||frioencwksyur.website^
 ||friont.xyz^
 ||frippettegmina.com^
@@ -21986,6 +21989,7 @@ vkcdnservice.appspot.com^
 ||karelobolesgelate.cyou^
 ||karezmoonish.qpon^
 ||karlingglues.qpon^
+||karthliunstagy.com^
 ||karvalrebelstypists.cfd^
 ||karvarlectentete.cyou^
 ||kaseryonner.shop^
@@ -23731,6 +23735,7 @@ vkcdnservice.appspot.com^
 ||lindmayas.qpon^
 ||lindychat.com^
 ||linear-policy.com^
+||linen-static.online^
 ||linenvirginityclient.com^
 ||linenychyak.cfd^
 ||lineodtpdajrz.store^
@@ -25234,6 +25239,7 @@ vkcdnservice.appspot.com^
 ||megassehermeleforum.qpon^
 ||megawebify.my^
 ||megdexchange.com^
+||megergortyganmamluks.cfd^
 ||megpngcejxazj.website^
 ||megtdbhknznfx.website^
 ||mehallatompon.qpon^
@@ -28136,6 +28142,7 @@ vkcdnservice.appspot.com^
 ||oawkaajvnfkcu.site^
 ||oaxcyzqojnyxy.online^
 ||oazkpymbsfmxo.site^
+||ob32ul1h8bj3tjz2g7x.rest^
 ||obafigsydginf.space^
 ||obakkaqbwcnlh.global^
 ||obbpynvgqolcf.space^
@@ -33404,6 +33411,7 @@ vkcdnservice.appspot.com^
 ||rbipvkasmggrm.site^
 ||rbjixtnbjdcnd.online^
 ||rbjnuporihrye.store^
+||rbkdjzbflecky.space^
 ||rblezsuhrvhor.space^
 ||rbnfyqwhkwffg.website^
 ||rbp-gen1.site^
@@ -34160,6 +34168,7 @@ vkcdnservice.appspot.com^
 ||rhaphaedottelhumans.cfd^
 ||rhbgsycloyttn.website^
 ||rhclcbvwtdvfa.com^
+||rhcrybpcpbaua.online^
 ||rhcvbndidmyqt.site^
 ||rheebokparlor.cfd^
 ||rheinicanna.qpon^
@@ -37748,6 +37757,7 @@ vkcdnservice.appspot.com^
 ||stgowan.com^
 ||sthenianootkaonefold.cfd^
 ||sthhbqpjfdves.space^
+||sthqkewgwdgky.online^
 ||stickingallot.com^
 ||stickingholdingconcussion.com^
 ||stickscoltdependent.com^
@@ -40250,6 +40260,7 @@ vkcdnservice.appspot.com^
 ||tstdhmtyf.com^
 ||tstgotkendna.qpon^
 ||tstwomzhxzkhf.site^
+||tsuccwavchpvh.website^
 ||tsuhjkrwtayqx.space^
 ||tsuutrmpeop.com^
 ||tswanafldxt.com^
@@ -40492,6 +40503,7 @@ vkcdnservice.appspot.com^
 ||twentydowrylocate.com^
 ||twentytrek.com^
 ||twerpuveitic.com^
+||twesexmxzlcim.site^
 ||twgtgpovwbqdy.website^
 ||twieriofyxkqe.space^
 ||twigcrucialpal.com^
@@ -40520,6 +40532,7 @@ vkcdnservice.appspot.com^
 ||twiselaveria.com^
 ||twistads.com^
 ||twistconcept.com^
+||twitchegotistical.com^
 ||twittad.com^
 ||twittenbemole.shop^
 ||twitterchest.com^
@@ -41718,6 +41731,7 @@ vkcdnservice.appspot.com^
 ||usurv.com^
 ||usvhlnrwdosj.com^
 ||usvrkrkqfnzbh.online^
+||usvzmdlvbunkz.website^
 ||uswgjyclbvtjj.space^
 ||uswtritons.shop^
 ||uswuqobthjruq.website^
@@ -41890,6 +41904,7 @@ vkcdnservice.appspot.com^
 ||uyruipmifdodo.space^
 ||uyrxaojxhlahg.space^
 ||uyshhyqje.com^
+||uytlqsttxotoe.space^
 ||uyvfljocpfef.com^
 ||uywfpprhavyog.site^
 ||uyxphejmf.com^
@@ -42141,6 +42156,7 @@ vkcdnservice.appspot.com^
 ||vdhflgzfvuoae.online^
 ||vdhvldghccavh.site^
 ||vdkdxarnqiaedw.com^
+||vdkhkcnrddefp.online^
 ||vdkjlpxycgylsw.com^
 ||vdkvjefuqvfoh.site^
 ||vdlvry.com^
@@ -42327,6 +42343,7 @@ vkcdnservice.appspot.com^
 ||vftdlwsuesedd.com^
 ||vfthr.com^
 ||vftsnnkkoitbp.space^
+||vfubcqlnnyovu.online^
 ||vfulirgkuogp.in^
 ||vfuttiawfmix.in^
 ||vfuvsnwofwbtn.space^
@@ -48520,6 +48537,7 @@ vkcdnservice.appspot.com^
 ||gahroundwhat.com^
 ||gahyuck.com^
 ||geeunlessarcade.com^
+||gladlythattoady.com^
 ||goshoverfeed.com^
 ||greedilyperky.com^
 ||gutickyum.com^
@@ -58580,6 +58598,7 @@ dlsdk.appsflyer.com^
 ||hippojump.com^
 ||historicalbeam.com^
 ||historytrade.com^
+||hitboxdesigns.com^
 ||hocgeese.com^
 ||hockeyfool.com^
 ||hollowafterthought.com^
