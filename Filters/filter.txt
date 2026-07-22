@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-22T03:02:12.171Z
+! Last modified: 2026-07-22T05:02:49.052Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1488,6 +1488,7 @@ vkcdnservice.appspot.com^
 ||6xoj7le6hnyxtk8j6clhf.cfd^
 ||6xuitim7p2pie86hw.cfd^
 ||6yc42wvfw99n58u.rest^
+||6zbjbrjhlry7qlub6o.cfd^
 ||6znvp3ntipfwknn4r.cfd^
 ||6zr116wrcjmcy3g86.cfd^
 ||6zy9yqe1ew.com^
@@ -3269,6 +3270,7 @@ vkcdnservice.appspot.com^
 ||aj2551.bid^
 ||aj2555.bid^
 ||aj2635.bid^
+||ajagwlvjvxreh.space^
 ||ajar-sister.com^
 ||ajarmargaritaalmond.com^
 ||ajblcygde.com^
@@ -9858,6 +9860,7 @@ vkcdnservice.appspot.com^
 ||cwchjisabnnmx.space^
 ||cwclrbjglcccp.website^
 ||cwdjhtwyieytw.website^
+||cwebssjqruhfn.website^
 ||cwfxbleusptyc.space^
 ||cwhjirncjhrmo.site^
 ||cwicybzyryttv.space^
@@ -11779,6 +11782,7 @@ vkcdnservice.appspot.com^
 ||dsgdef.com^
 ||dsgeln.com^
 ||dsgldf.com^
+||dsgnbu.com^
 ||dsgnjf.com^
 ||dsgvgw.com^
 ||dsgwoa.com^
@@ -16129,6 +16133,7 @@ vkcdnservice.appspot.com^
 ||gbxvvcynqbzxb.site^
 ||gcadhsxb.com^
 ||gcbjctupujjsn.website^
+||gcdviminadaubes.cyou^
 ||gcfgtwcmexaik.space^
 ||gcfubeywqiffq.website^
 ||gcgrabxewyxwe.website^
@@ -19399,6 +19404,7 @@ vkcdnservice.appspot.com^
 ||ienxtfmazlvyb.website^
 ||ieogwnrsgnfsz.online^
 ||iepovvpyzudnn.online^
+||ieqtogeunzhjz.site^
 ||iequiguknwrsk.store^
 ||iermahgynbwks.website^
 ||ietwzcakupkfs.store^
@@ -21479,6 +21485,7 @@ vkcdnservice.appspot.com^
 ||jreanjvuvpmy.in^
 ||jrjexx.com^
 ||jrkihvllezsla.space^
+||jrkqaustuajsv.website^
 ||jrkveqlzvpcmd.space^
 ||jrkylxrnktjbo.store^
 ||jrmkpvntxat.com^
@@ -33342,6 +33349,7 @@ vkcdnservice.appspot.com^
 ||rcvarwsudnwxa.website^
 ||rcvlink.com^
 ||rcvlinks.com^
+||rcvobudipmrke.site^
 ||rcxbznsriheku.website^
 ||rcxltnjszmheg.space^
 ||rcxtaenbaktmr.site^
@@ -36462,6 +36470,7 @@ vkcdnservice.appspot.com^
 ||skinnedunsame.com^
 ||skinnycrawlinglax.com^
 ||skinnygrove.com^
+||skinnyvisit.pro^
 ||skinstackpeculiarity.com^
 ||skipdissatisfactionengland.com^
 ||skipperturncap.qpon^
@@ -38338,6 +38347,7 @@ vkcdnservice.appspot.com^
 ||sxprtoqjwbvuq.website^
 ||sxsftevgkwlam.site^
 ||sxsgyawsmtbxxt.com^
+||sxtpqpipfpzip.site^
 ||sxwlhjqbukqlt.site^
 ||sxxiocnjyqhxe.website^
 ||sxyrrjgrkwsvw.site^
@@ -38720,6 +38730,7 @@ vkcdnservice.appspot.com^
 ||tdfxtfgst.com^
 ||tdgubsetqwufm.online^
 ||tdgvugryo.com^
+||tdhcdlnvrhyyj.site^
 ||tdhkpzazswjqj.site^
 ||tdhvk8we.xyz^
 ||tdiziyfbhydbu.online^
@@ -41332,6 +41343,7 @@ vkcdnservice.appspot.com^
 ||uooumilwtodnh.website^
 ||uorfbphtqebtu.site^
 ||uorksewkwesln.space^
+||uosvpkrplvxlr.online^
 ||uoutube.com^
 ||uovveljjaoxfe.store^
 ||uoxocwxakddyq.space^
@@ -44339,6 +44351,7 @@ vkcdnservice.appspot.com^
 ||wrathyblesmol.com^
 ||wrazdlwgbgrvt.online^
 ||wrbaboroypgmq.online^
+||wrc6iq6efhvlzn.rest^
 ||wrcbaiyrpmsza.website^
 ||wreckcentigradecleared.com^
 ||wreckingfaucethealth.com^
@@ -44361,6 +44374,7 @@ vkcdnservice.appspot.com^
 ||wrimplecirsiumseptuor.qpon^
 ||wringbible.com^
 ||wringlerheen.cfd^
+||wringsvalvaevinculo.cyou^
 ||wristample.com^
 ||wristedbirdleterring.cfd^
 ||wristicalit.com^
@@ -45644,6 +45658,7 @@ vkcdnservice.appspot.com^
 ||yfqnujpniizil.website^
 ||yfqrdeewqnwvy.net^
 ||yfqtpyfxcfbyq.online^
+||yfrxjeickksim.site^
 ||yfsisdewaeush.site^
 ||yfskbgbjqfxgf.online^
 ||yfswcwcrmslwb.website^
@@ -45996,6 +46011,7 @@ vkcdnservice.appspot.com^
 ||yoyjdfpylpyfl.space^
 ||yozturzruysxj.site^
 ||yozxgwnjsbspo.website^
+||ypcjcsejyrhgk.online^
 ||ypcjhbwvrwpoo.com^
 ||ypddxuwxyifaa.site^
 ||ypfrqqgjhaxqk.space^
@@ -65430,6 +65446,7 @@ dlsdk.appsflyer.com^
 -ikln.
 -1080x140-
 -1080x140.
+-1080x180-
 -720x90-
 -728-x-90-
 -728-x-90.
@@ -65451,6 +65468,9 @@ dlsdk.appsflyer.com^
 ||shopnoit.com^
 ||thoroughgear.com^
 ||tokoviral.online^
+||cek.to^
+||klik.best^
+||klik.top^
 -bandarkiu.
 -cina777.
 -indo666.
