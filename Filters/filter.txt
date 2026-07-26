@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-26T03:02:03.428Z
+! Last modified: 2026-07-26T05:06:54.885Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6255,6 +6255,7 @@ vkcdnservice.appspot.com^
 ||bmcpwyswhczxa.space^
 ||bmdeit3.site^
 ||bmdeit4.site^
+||bmfczkmrtnfzr.site^
 ||bmfnopvd.com^
 ||bmgzspzuahkgq.online^
 ||bmicmpktyo.com^
@@ -8438,6 +8439,7 @@ vkcdnservice.appspot.com^
 ||cixcljugcznlu.site^
 ||ciyxejfqrtvqq.site^
 ||cizzyuqdwvdhf.space^
+||cj1eiygwp4i4o5brfl9p.rest^
 ||cj2550.com^
 ||cjatrtlyqngiv.site^
 ||cjdisuisubvkq.website^
@@ -10252,6 +10254,7 @@ vkcdnservice.appspot.com^
 ||daerhogoocclude.qpon^
 ||daffaite.com^
 ||daffierponchostirr.qpon^
+||daffleuraliancountor.cyou^
 ||daffyforcat.qpon^
 ||dafgdmabrnjnk.store^
 ||daftarbeds.cyou^
@@ -18651,6 +18654,7 @@ vkcdnservice.appspot.com^
 ||hiddenmilk.com^
 ||hiddenseet.com^
 ||hidecatastropheappend.com^
+||hideous-pack.pro^
 ||hideousnumber.com^
 ||hidestats.online^
 ||hidingallelic.cfd^
@@ -21536,6 +21540,7 @@ vkcdnservice.appspot.com^
 ||jheypehwgocjq.space^
 ||jhfjslomqzfte.site^
 ||jhfqbgimqqllry.com^
+||jhgjceleynqza.website^
 ||jhhaekcwnbqhp.site^
 ||jhihubntybpu.com^
 ||jhjgzxkdlztab.site^
@@ -21731,6 +21736,7 @@ vkcdnservice.appspot.com^
 ||jnaxmcnlzsnox.com^
 ||jnbhi.com^
 ||jndcdxcoqjroj.store^
+||jnjkkvkfwnlrd.site^
 ||jnkscznwuxvlp.online^
 ||jnlevhmebqcxc.website^
 ||jnmqhpecyjrnf.online^
@@ -23771,6 +23777,7 @@ vkcdnservice.appspot.com^
 ||leafletstoesimplicity.com^
 ||leagueinfantry.com^
 ||leaguewarskeleton.com^
+||leaiajhejlzgw.website^
 ||leaklitre.com^
 ||leakprudence.com^
 ||leaktrailercondo.com^
@@ -27182,6 +27189,7 @@ vkcdnservice.appspot.com^
 ||mzol7lbm.com^
 ||mzqoazvdctmny.website^
 ||mzrawmzkdtbvd.online^
+||mzrmtvkcuboqg.space^
 ||mzsantsemsgll.website^
 ||mztecqbedrxpi.site^
 ||mztqypcygmeii.online^
@@ -33005,6 +33013,7 @@ vkcdnservice.appspot.com^
 ||qehcierotgrrk.site^
 ||qeicbuekdqyna.website^
 ||qeiqpltdr.com^
+||qejhysxugaotd.online^
 ||qejsyzyisvzzg.space^
 ||qekbmjyvbbjkr.top^
 ||qekdrdaajvcfx.space^
@@ -37687,6 +37696,7 @@ vkcdnservice.appspot.com^
 ||softballpeckrobust.com^
 ||softchest.com^
 ||softcloudtrail.com^
+||softencorvees.cyou^
 ||softenedimmortalityprocedure.com^
 ||softensdarkest.cfd^
 ||softentears.com^
@@ -41639,6 +41649,7 @@ vkcdnservice.appspot.com^
 ||ugueolbcmmrlq.site^
 ||ugusgaowkksnr.online^
 ||ugvldssehyptdj.com^
+||ugvodheoadvmj.website^
 ||ugxjixmdhprzr.site^
 ||ugyokhycezstl.site^
 ||ugyppaqollegn.online^
@@ -43454,6 +43465,7 @@ vkcdnservice.appspot.com^
 ||vkjhbnngmefp.com^
 ||vkjiwgmipziva.space^
 ||vkkcpopwaoehpl.com^
+||vklzhsplergwb.site^
 ||vkofmhfpfjyak.online^
 ||vkofmxopxieit.space^
 ||vkoqaquif.com^
@@ -47980,6 +47992,7 @@ vkcdnservice.appspot.com^
 ||zteeavqibjsgj.space^
 ||ztekyvgdsgzdf.site^
 ||ztepgvftyskyq.store^
+||ztf576yl6r95gne.cfd^
 ||ztg7hqds.xyz^
 ||ztgktnbuvsmbl.online^
 ||zticbxigsdhau.space^
@@ -72252,6 +72265,8 @@ dlsdk.appsflyer.com^
 ||8csgiuclxz.com^
 ||phbyrmvjn.icu^
 ||zzhizbzowrzlvy.com^
+||e68k5d1yw6.com^
+||2c4nzn0rn8.com^
 ||bellows83.top^
 ||kfbmswmmo.com^
 ||g89eyc8a1.com^
