@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-27T03:03:11.955Z
+! Last modified: 2026-07-27T05:16:28.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1933,6 +1933,7 @@ vkcdnservice.appspot.com^
 ||9w5tit2p821ykm83ginrhw73v4crph9yc.rest^
 ||9warehouses.com^
 ||9wdjf9va.xyz^
+||9wu8vigxo2hb45.cfd^
 ||9xeqynu3gt7c.com^
 ||9xob25oszs.com^
 ||9yf9kv16zvrh5595nclvkp.rest^
@@ -5825,6 +5826,7 @@ vkcdnservice.appspot.com^
 ||bhfrnzxxcxhbn.store^
 ||bhfrttttyyruo.store^
 ||bhheuhvupxzpk.space^
+||bhhrdwjpagbze.space^
 ||bhhzypgiuhttg.website^
 ||bhievvhkokfxk.website^
 ||bhikanaj.in^
@@ -7260,6 +7262,7 @@ vkcdnservice.appspot.com^
 ||bwqteixclqazk.store^
 ||bwrlnmpgstsel.website^
 ||bwrpihqndmsio.site^
+||bwshqcruzzojr.online^
 ||bwttasdajpduj.site^
 ||bwulutvvdfvtv.online^
 ||bwvgtmxrqmkwv.website^
@@ -8542,6 +8545,7 @@ vkcdnservice.appspot.com^
 ||cl0udh0st1ng.com^
 ||cl18qe3li3cee4qnbeb6b.rest^
 ||clabberscended.com^
+||clacksconchaeobv.qpon^
 ||cladupius.com^
 ||claim-reward.vidox.net^
 ||claimedpasquil.cyou^
@@ -10401,6 +10405,7 @@ vkcdnservice.appspot.com^
 ||dapbkeomzbu.com^
 ||daphnews.com^
 ||dapper.net^
+||dapsreqegging.cfd^
 ||darbhatahakinkier.qpon^
 ||darbspanagia.qpon^
 ||darcycassena.cyou^
@@ -11146,6 +11151,7 @@ vkcdnservice.appspot.com^
 ||digitaldateroom.online^
 ||digitaldsp.com^
 ||digitalmediapp.com^
+||digitsreenact.qpon^
 ||digmeatrid.shop^
 ||digneabrus.cyou^
 ||digubpgjkdmsl.website^
@@ -19376,6 +19382,7 @@ vkcdnservice.appspot.com^
 ||hsynxmsytsxil.site^
 ||htajztellrgmu.space^
 ||htaufyjvn.com^
+||htbwsdfunldff.space^
 ||htcgcwfh.xyz^
 ||htdixisbyvulc.store^
 ||htdvt.com^
@@ -21732,6 +21739,7 @@ vkcdnservice.appspot.com^
 ||jjjgqtzlslhzi.online^
 ||jjjtbiggzzucf.online^
 ||jjjusezeikjzn.site^
+||jjk292uyip4j52.rest^
 ||jjkcvjpoyplou.website^
 ||jjkrwhppriwog.space^
 ||jjlhwdgrrqjzo.space^
@@ -21888,6 +21896,7 @@ vkcdnservice.appspot.com^
 ||jokiestacuandemeans.cfd^
 ||jokingaspirant.com^
 ||jokingsummonyuri.com^
+||jokulbochism.qpon^
 ||jokulhid.cyou^
 ||jol8kr6jym6l6t6m9mq75.cfd^
 ||jolecyclist.com^
@@ -24138,6 +24147,7 @@ vkcdnservice.appspot.com^
 ||lhpkpjdhpifie.website^
 ||lhprbxdlreffqi.com^
 ||lhpxdrdhau.com^
+||lhqhimusvdmpm.site^
 ||lhqmmqmbqtezs.space^
 ||lhqzzfdpqemuq.space^
 ||lhrkrdamnqojl.site^
@@ -25421,6 +25431,7 @@ vkcdnservice.appspot.com^
 ||mandrelkluckerbeisa.cyou^
 ||mandscarus.cfd^
 ||manehconule.cfd^
+||mangabolt.com^
 ||manganaexserttomb.qpon^
 ||mangananesokia.qpon^
 ||mangerolympicssnort.com^
@@ -25713,6 +25724,7 @@ vkcdnservice.appspot.com^
 ||mcoscsxewhv.com^
 ||mcppsh.com^
 ||mcpuwpsh.com^
+||mcqwrnmksxvdm.site^
 ||mcsvudycufzgo.site^
 ||mcxuorwlaqtyd.site^
 ||mcyaabdssxdlg.space^
@@ -40247,6 +40259,7 @@ vkcdnservice.appspot.com^
 ||thzqzvwmpxrdm.website^
 ||tialfxfcipqnq.site^
 ||tiamatols.qpon^
+||tianguestab.cyou^
 ||tiangzwrvnify.website^
 ||tiaoconf.qpon^
 ||tiatmuadwuhwy.online^
@@ -41845,6 +41858,7 @@ vkcdnservice.appspot.com^
 ||ugmmmbheyvcih.space^
 ||ugmqisybzpplo.space^
 ||ugnyuemxxrdsv.site^
+||ugotggfd.com^
 ||ugpdpileygmoa.site^
 ||ugqpgweplprjq.website^
 ||ugrgujwxjxsuf.space^
@@ -43909,6 +43923,7 @@ vkcdnservice.appspot.com^
 ||vpzylnyswpjei.site^
 ||vq7qg289qrq85ztcc4x449k4rwmfl.rest^
 ||vqdqbloehwafw.online^
+||vqdxejiolkutu.website^
 ||vqelkqlaavjmm.top^
 ||vqethcnsna.com^
 ||vqfdpwwodstou.space^
@@ -44378,6 +44393,7 @@ vkcdnservice.appspot.com^
 ||warkbanefulscaly.cfd^
 ||warlikebcfspheric.cyou^
 ||warlikecouple.com^
+||warlikeexcitement.pro^
 ||warliketruck.com^
 ||warlockstallioniso.com^
 ||warlocktoenailfantastic.com^
@@ -44774,6 +44790,7 @@ vkcdnservice.appspot.com^
 ||wfhrjmzhzzlmw.space^
 ||wfijlh6zfzhcc44bke3z3mlb4n9h2t.rest^
 ||wfiphsftezywo.space^
+||wfiplwlnuhuqr.site^
 ||wfiutburadoho.online^
 ||wfivgvbqbbmtf.site^
 ||wfjcsraqoiwxw.online^
@@ -48319,6 +48336,7 @@ vkcdnservice.appspot.com^
 ||zwaar.net^
 ||zwcuougbmsdbl.online^
 ||zwfbkyofoaqlj.site^
+||zwfgkhgtljgka.website^
 ||zwgsousozhihm.space^
 ||zwicmxszmrhpt.space^
 ||zwiweqftobuvd.space^
@@ -62261,6 +62279,7 @@ dlsdk.appsflyer.com^
 ||ac.prism-world.jp.net^
 ||acclog001.shop-pro.jp^
 ||acclog002.shop-pro.jp^
+||acv.mira-dsp.com^
 ||analytics-beacon.p.uliza.jp^
 ||analytics-collect.karakuri.ai^
 ||analytics.contents.by-fw.jp^
