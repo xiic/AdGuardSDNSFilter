@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-28T16:32:01.063Z
+! Last modified: 2026-07-28T18:28:29.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -874,6 +874,7 @@ vkcdnservice.appspot.com^
 ||2gux4l7q2lrmef1z.cfd^
 ||2h4els889.com^
 ||2h6skj2da.de^
+||2hcm3cg8h4j6kh.cfd^
 ||2hm3yqe4xf2hbvugeve4ec57fo.cfd^
 ||2hpb1i5th.de^
 ||2i30i8h6i.de^
@@ -3373,6 +3374,7 @@ vkcdnservice.appspot.com^
 ||ajmivgvmaclye.online^
 ||ajnqtzvjphmnv.online^
 ||ajourerabbity.com^
+||ajowanscomals.qpon^
 ||ajptwiopvptab.website^
 ||ajrkm1.com^
 ||ajrkm3.com^
@@ -4097,6 +4099,7 @@ vkcdnservice.appspot.com^
 ||apshmpzjmglgj.site^
 ||apt-shine.com^
 ||aptestabend.qpon^
+||aptianashed.qpon^
 ||aptitudebruise.com^
 ||aptitudesupposedlyaccountant.com^
 ||aptlyerring.com^
@@ -4675,6 +4678,7 @@ vkcdnservice.appspot.com^
 ||auroraveil.bid^
 ||aurousroseola.com^
 ||aurumsaucestapirs.cyou^
+||aurylforgett.qpon^
 ||ausfddqtpiwim.online^
 ||ausmflow.com^
 ||ausonesbrodee.cfd^
@@ -4700,6 +4704,7 @@ vkcdnservice.appspot.com^
 ||automatedtraffic.com^
 ||automatic-profit.pro^
 ||automobiledeem.com^
+||autonymtootsie.qpon^
 ||auxdciugyclyi.space^
 ||auxesestailorspiligan.cyou^
 ||auxgkjsoqgzko.space^
@@ -8938,6 +8943,7 @@ vkcdnservice.appspot.com^
 ||cobolapiprine.qpon^
 ||cobolgammed.com^
 ||cobradaunder.cfd^
+||cobrasvirger.cyou^
 ||cobwebhauntedallot.com^
 ||cobwebsituationstyling.com^
 ||coccidshubbubs.cyou^
@@ -10492,6 +10498,7 @@ vkcdnservice.appspot.com^
 ||darbhatahakinkier.qpon^
 ||darbspanagia.qpon^
 ||darcycassena.cyou^
+||dareddebat.qpon^
 ||daredjadedormitory.com^
 ||darenasseize.qpon^
 ||darerlasket.qpon^
@@ -13562,6 +13569,7 @@ vkcdnservice.appspot.com^
 ||engagementlawfully.com^
 ||engagementpolicelick.com^
 ||engbjwqvwznxg.website^
+||enghlemurinus.shop^
 ||enghlescotist.shop^
 ||engif88e1noqt2epbqu6mbx5xmzk.cfd^
 ||engildsbabydom.cfd^
@@ -17311,6 +17319,7 @@ vkcdnservice.appspot.com^
 ||glxtest.site^
 ||glycoseunite.shop^
 ||glymanicale.com^
+||glyoxalkoibal.cfd^
 ||glyoxylpowered.cfd^
 ||glyrcioxzpvvh.site^
 ||gmads.net^
@@ -17684,6 +17693,7 @@ vkcdnservice.appspot.com^
 ||grbsgqafqhkux.store^
 ||grdjxdybqwjgr.online^
 ||greaseguts.com^
+||greasygrabbyorbical.cyou^
 ||great-coach.pro^
 ||greatdexchange.com^
 ||greaterjoke.com^
@@ -21727,6 +21737,7 @@ vkcdnservice.appspot.com^
 ||jeroud.com^
 ||jerseydiploma.com^
 ||jertburi.cfd^
+||jertsangah.cfd^
 ||jerviabrigued.shop^
 ||jervinegenital.cyou^
 ||jesjes.xyz^
@@ -23951,6 +23962,7 @@ vkcdnservice.appspot.com^
 ||lavageryal.cfd^
 ||lavagessoggily.qpon^
 ||lavatoryhitschoolmaster.com^
+||laveerschantedtaskit.qpon^
 ||laveertouart.cyou^
 ||lavemutsjecobourg.qpon^
 ||lavishboot.com^
@@ -24204,6 +24216,7 @@ vkcdnservice.appspot.com^
 ||lepalohare.cyou^
 ||lepbukrf.com^
 ||lepetitdiary.com^
+||lepteralidars.cfd^
 ||leqfrrxllfeft.online^
 ||leqrcirjuawwi.site^
 ||lernodydenknow.info^
@@ -25508,6 +25521,7 @@ vkcdnservice.appspot.com^
 ||magahipipey.shop^
 ||magasinpanda.qpon^
 ||maggielimper.com^
+||maggingsins.cfd^
 ||maghicultch.cyou^
 ||maghoutwell.com^
 ||maghribnubbins.cfd^
@@ -29299,6 +29313,7 @@ vkcdnservice.appspot.com^
 ||oewvsysoeceah.store^
 ||oeyqfwftrbzvh.space^
 ||of-bo.com^
+||of-results.com^
 ||ofaskphdspgqe.online^
 ||ofbcfjafesiuu.website^
 ||ofbdaktxxxldn.space^
@@ -33299,6 +33314,7 @@ vkcdnservice.appspot.com^
 ||q42b27eefv15onxw1r5nq.rest^
 ||q46rwqubuywumq1q3pfqyibgu4vj4w.cfd^
 ||q4c2nhc4zfhrvy1klkj.cfd^
+||q4hx1v8euyxf81li354p2km.rest^
 ||q5d3.top^
 ||q5n5kpn155jni6nympw621.cfd^
 ||q5obpt5gg8xouhjuopu5t.rest^
@@ -34715,6 +34731,7 @@ vkcdnservice.appspot.com^
 ||redfinsraiment.shop^
 ||redfishtottingtintie.cyou^
 ||redipsopaquer.com^
+||rediptbumbard.qpon^
 ||redirect-path1.com^
 ||redirect-verde.com^
 ||redirecthitnspin.com^
@@ -37229,6 +37246,7 @@ vkcdnservice.appspot.com^
 ||sfzlowball.qpon^
 ||sgaijlnojrrok.site^
 ||sgben.com^
+||sgbrftxioksgf.online^
 ||sgcjwdshiacfv.space^
 ||sgdanjzdfjtwr.site^
 ||sgfinery.com^
@@ -39429,6 +39447,7 @@ vkcdnservice.appspot.com^
 ||superxxxfree.com^
 ||supewfflaymnr.online^
 ||suphelper.com^
+||suphfcfgvpefh.space^
 ||supilxaimmfkp.site^
 ||suplexderipia.qpon^
 ||suppertalas.cfd^
@@ -39981,6 +40000,7 @@ vkcdnservice.appspot.com^
 ||tarochaledspiting.qpon^
 ||tarokortetdehair.cyou^
 ||taroksdesmose.qpon^
+||tarorumpy.cyou^
 ||tarotaffirm.com^
 ||tarpagainst.qpon^
 ||tarpturfdom.cfd^
@@ -42149,6 +42169,7 @@ vkcdnservice.appspot.com^
 ||ueyruzhljmhac.website^
 ||uezbiytinfnyn.site^
 ||uezeoqumpbhxr.site^
+||ufaewhzkyigmp.space^
 ||ufaexpert.com^
 ||ufbpqmryrrctn.site^
 ||ufcxoaidboqxt.site^
@@ -42939,6 +42960,7 @@ vkcdnservice.appspot.com^
 ||upxtgbgyfecfs.space^
 ||upyayfmrdocin.space^
 ||upymgrtnacpco.site^
+||upynbobwoijzx.website^
 ||upytayqjunonm.online^
 ||upyuxrgoeiwcn.site^
 ||upzmuerwksotm.site^
@@ -43060,6 +43082,7 @@ vkcdnservice.appspot.com^
 ||uselessmigraine.com^
 ||usemlpacyzqxi.online^
 ||userimmediate.com^
+||usersasa.com^
 ||userstat.net^
 ||usertag.online^
 ||usewmeukdgmnh.website^
@@ -44593,6 +44616,7 @@ vkcdnservice.appspot.com^
 ||wabdlzedugcrd.site^
 ||wabewxwoytqpi.website^
 ||wabifuzzily.qpon^
+||wabkutohq.in^
 ||wabsyederly.com^
 ||wacagosamechsapochae.qpon^
 ||wackphebelyance.cyou^
@@ -44836,6 +44860,7 @@ vkcdnservice.appspot.com^
 ||waxfromcache.net^
 ||waxworksoperate.com^
 ||wayanatomyunavailable.com^
+||wayaopotgirl.qpon^
 ||wayfarerniece.com^
 ||wayfarerorthodox.com^
 ||waygonenegrita.qpon^
@@ -60487,6 +60512,7 @@ dlsdk.appsflyer.com^
 ||nervoussummer.com^
 ||nestbuyers.com^
 ||netandbytes.com^
+||netsurfconsult.com^
 ||networklast.com^
 ||newarkdriving.com^
 ||newsbotnet.com^
@@ -62411,6 +62437,7 @@ dlsdk.appsflyer.com^
 ||log.worldsoft-cms.info^
 ||mastertag.q-sis.de^
 ||nexxtv-events.servicebus.windows.net^
+||nltcs.idfnet.net^
 ||nlytcs.idfnet.net^
 ||orbidder.otto.de^
 ||owen.prolitteris.ch^
