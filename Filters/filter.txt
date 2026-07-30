@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-29T22:18:57.756Z
+! Last modified: 2026-07-30T00:26:16.772Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -682,6 +682,7 @@ vkcdnservice.appspot.com^
 ||1p8ln1dtr.de^
 ||1pqfa71mc.de^
 ||1push.io^
+||1q86qcyjnhtwvq866p583b2n22ql1x.cfd^
 ||1qgxtxd2n.com^
 ||1r4g65b63.de^
 ||1rx.io^
@@ -1023,6 +1024,7 @@ vkcdnservice.appspot.com^
 ||33ssl.com^
 ||34-new-lambda.net^
 ||3434849c2e.com^
+||344d12bc9b.com^
 ||345l5yutmz7lu5pbuqy17umn1m.cfd^
 ||34c7655983.com^
 ||34d04ccb2e.com^
@@ -1414,6 +1416,7 @@ vkcdnservice.appspot.com^
 ||61011fc558.com^
 ||612fc22a02.com^
 ||613f15a070.com^
+||6143e5d2b7.com^
 ||61847b1398.com^
 ||61buor.net^
 ||61edd03ae1.com^
@@ -2007,6 +2010,7 @@ vkcdnservice.appspot.com^
 ||aaaaaco.com^
 ||aaacompany.net^
 ||aaaconnect.info^
+||aaatqwduv.com^
 ||aada35c15f.com^
 ||aaedhstbycxih.space^
 ||aafcwvjpryevi.online^
@@ -3000,6 +3004,7 @@ vkcdnservice.appspot.com^
 ||aeym37jp.xyz^
 ||af305e6c77.com^
 ||af30ee9e36.com^
+||af9bb5da67.com^
 ||afanglffjywuu.site^
 ||afbavrlcwefya.space^
 ||afbpolkaed.qpon^
@@ -4747,6 +4752,7 @@ vkcdnservice.appspot.com^
 ||avbsqhunnykee.site^
 ||avcguvqizap.com^
 ||avcrsbfeawskd.online^
+||avdinxmjv.com^
 ||avdludlmpseoe.space^
 ||avebeentriflin.com^
 ||avelpwnzhdoyx.site^
@@ -10631,6 +10637,7 @@ vkcdnservice.appspot.com^
 ||datingwithmee.net^
 ||datiscamatting.shop^
 ||daubwhereupon.com^
+||daudedinutile.cyou^
 ||daudedtangles.cfd^
 ||daughtersvariedfalse.com^
 ||daupuwhcjcleb.site^
@@ -12653,6 +12660,7 @@ vkcdnservice.appspot.com^
 ||dwightcontributor.com^
 ||dwiiugjfzvsgj.site^
 ||dwjmmeepcsyut.website^
+||dwjopwzlaflpm.website^
 ||dwkfdahogaipo.website^
 ||dwkgpxohcasvp.site^
 ||dwnxvqyxjdhqu.site^
@@ -17550,6 +17558,7 @@ vkcdnservice.appspot.com^
 ||gogoga.xyz^
 ||gogosearlier.cfd^
 ||gogpusley.qpon^
+||gohdtttgdiwsw.site^
 ||gohlmuwpqwxen.space^
 ||gohotygirl.com^
 ||goilyklykgejy.website^
@@ -21595,6 +21604,7 @@ vkcdnservice.appspot.com^
 ||j5ebf952lvfob1pf3b.cfd^
 ||j6ixu4h5vtotkxx1y.cfd^
 ||j6mn99mr0m2n.com^
+||j6p3g7j9jckht6wgp.rest^
 ||j6xi94453pjc84qengv1w466yf5c7ovq7l5zl7.cfd^
 ||j6yl1961rtnmuymq3n45y.cfd^
 ||j8geljwqehp8mlhq48.cfd^
@@ -24020,6 +24030,7 @@ vkcdnservice.appspot.com^
 ||langielbeicecresc.cfd^
 ||langleimproof.cyou^
 ||languesninosbruises.qpon^
+||languestweezed.com^
 ||languishbrook.com^
 ||languishcharmingwidely.com^
 ||languishmonthly.com^
@@ -31424,6 +31435,7 @@ vkcdnservice.appspot.com^
 ||perishauthorsharrow.com^
 ||perky-fight.com^
 ||perky-method.com^
+||perkyabroad.pro^
 ||perkyawaitingmammoth.com^
 ||perkyexcitedlyscenario.com^
 ||perlidmayfair.qpon^
@@ -31589,6 +31601,7 @@ vkcdnservice.appspot.com^
 ||phgop1.com^
 ||phhbwcfwxgbh.com^
 ||phialedamende.com^
+||phialscuts.com^
 ||phicmune.net^
 ||phidianowlet.com^
 ||phidonatome.com^
@@ -34277,6 +34290,7 @@ vkcdnservice.appspot.com^
 ||qvbnjnsodshaj.site^
 ||qvcnveqlnmrcg.click^
 ||qvdcwnmcgwdrj.site^
+||qvddslkqbidha.site^
 ||qvdmgzzgpgrei.website^
 ||qvducxfxslowu.store^
 ||qvgmgjysbwpgb.website^
@@ -38282,6 +38296,7 @@ vkcdnservice.appspot.com^
 ||smugglerefreshing.com^
 ||smurseawife.cyou^
 ||smutchyalarbus.qpon^
+||smutchynowtsubgape.cyou^
 ||smvmtnlvqymso.online^
 ||smwadnuydogrh.space^
 ||smwhfqkljpmyp.online^
@@ -39812,6 +39827,7 @@ vkcdnservice.appspot.com^
 ||svzpgxz.com^
 ||svzshmeczqudx.site^
 ||swabbleeditor.qpon^
+||swabsanglersloculus.qpon^
 ||swagehowdie.cyou^
 ||swak-adguard.pro^
 ||swalessidi.com^
@@ -40147,6 +40163,7 @@ vkcdnservice.appspot.com^
 ||talajeguttier.qpon^
 ||talckyslodder.top^
 ||talcoidsakis.com^
+||talcoseliukiu.com^
 ||talealfaki.cyou^
 ||talesapricot.com^
 ||talesteak.com^
@@ -43267,6 +43284,7 @@ vkcdnservice.appspot.com^
 ||urban-signal.pro^
 ||urchinsamentum.cfd^
 ||urdatingassistant.com^
+||urdzerofwvtao.site^
 ||urealath.com^
 ||uredineelodea.cyou^
 ||uredomayey.cfd^
@@ -44649,6 +44667,7 @@ vkcdnservice.appspot.com^
 ||vtndhqsmzwrzc.space^
 ||vtojhgymssztr.site^
 ||vtoqtpohhrghk.online^
+||vtqistmhzfumk.website^
 ||vtrbgosvdozfp.online^
 ||vtrrvqbcptsis.space^
 ||vtsufsdkrzthc.space^
@@ -48530,6 +48549,7 @@ vkcdnservice.appspot.com^
 ||zgxzeicunptms.store^
 ||zgyrvygvthohy.site^
 ||zgzkehraslqgf.online^
+||zhakcdizeyfqb.online^
 ||zhaner.xyz^
 ||zhbvngnzljaqb.website^
 ||zhcyrfxkupdvs.store^
@@ -50847,6 +50867,7 @@ vkcdnservice.appspot.com^
 ||customer.heartinternet.co.uk^
 ||datacluster.club^
 ||ddfdgfgfghjhjbnnmklojhgfdghgbcvbnnmmdfgfvvvvbpvlgbdknfidgh.pages.dev^
+||delivery.pryzmads.com^
 ||dev-adblocker.workers.dev^
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^
@@ -73239,6 +73260,10 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||8d3jrboxxy.com^
+||penknife87.com^
+||31ezrbosr6.com^
+||hlbitfukldzbrk.com^
 ||pickaxe98.top^
 ||ajvznxaox.com^
 ||7k4c36c1r.com^
@@ -79585,7 +79610,6 @@ analytics-*.aasaam.com
 ||optbeacon.net^
 ||api.adapi.co.kr^
 ||adv.imadrep.co.kr^
-||delivery.pryzmads.com^
 ||barohere.xyz^
 ||ad.adwiser.kr^
 ||digitalcamp.co.kr^
