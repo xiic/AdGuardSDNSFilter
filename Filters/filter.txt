@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-31T06:57:39.815Z
+! Last modified: 2026-07-31T09:00:28.151Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1928,6 +1928,7 @@ vkcdnservice.appspot.com^
 ||9da190a7d9.com^
 ||9db168b3bd.com^
 ||9dca841dfa.com^
+||9dd7d84e00.com^
 ||9dmnv9z0gtoh.com^
 ||9e031f589f.com^
 ||9e11ec3a56.com^
@@ -5451,6 +5452,7 @@ vkcdnservice.appspot.com^
 ||bct2gukt38ycb7ui.cfd^
 ||bctuafpdwarbm.site^
 ||bctyeythbiuiq.site^
+||bcvxynjpdtrcc.space^
 ||bcwjqztpkeeop68n5me9q44m5vog3l.cfd^
 ||bcwpdvigokzca.space^
 ||bcxauquczqgci.site^
@@ -8149,6 +8151,7 @@ vkcdnservice.appspot.com^
 ||ceeyuofq.com^
 ||cefazaaycjdqi.store^
 ||ceget.xyz^
+||cegwdxrlymdbm.space^
 ||cehbmaknzpyic.store^
 ||ceidjaq.life^
 ||ceilingcrashpardon.com^
@@ -10827,6 +10830,7 @@ vkcdnservice.appspot.com^
 ||dealdivorceathwart.com^
 ||dealerskaolins.qpon^
 ||dealtoneoddly.com^
+||deaningpassecanamo.qpon^
 ||dear-soil.com^
 ||dearerslarthfanes.cfd^
 ||dearestaccess.pro^
@@ -16067,6 +16071,7 @@ vkcdnservice.appspot.com^
 ||fqhbmwgaeisiz.website^
 ||fqhucslrtysrl.site^
 ||fqhueanslwpyi.site^
+||fqiaizkfzuqgs.online^
 ||fqibwvatzzcdj.space^
 ||fqjxmzlhmfmuk.online^
 ||fqkrlarigtylp.site^
@@ -19970,6 +19975,7 @@ vkcdnservice.appspot.com^
 ||hvpieoqfwvxlx.site^
 ||hvpojkilqqykq.website^
 ||hvqndbbmvbcrc.online^
+||hvqnfgvusjsnc.space^
 ||hvqwjvoisrnhx.website^
 ||hvvaoxrjglkhd.online^
 ||hvvbqayabpuoi.website^
@@ -25117,6 +25123,7 @@ vkcdnservice.appspot.com^
 ||lnysqawivggyf.online^
 ||lnyupxlxqv.com^
 ||lnzitobjnmskk.space^
+||lnzphfagyhpxi.space^
 ||lnzsinagpafgv.website^
 ||load-res-static.lol^
 ||load-static-res.xyz^
@@ -31215,6 +31222,7 @@ vkcdnservice.appspot.com^
 ||paslrdcizpgdw.online^
 ||paslsa.com^
 ||passengercomprehend.com^
+||passersspiered.qpon^
 ||passeura.com^
 ||passfixx.com^
 ||passingcounselrueful.com^
@@ -32559,6 +32567,7 @@ vkcdnservice.appspot.com^
 ||popviking.com^
 ||popxperts.com^
 ||popxyz.com^
+||poqwepljjnepo.online^
 ||porchadvertise.com^
 ||porcineawiggle.cyou^
 ||porgerdaytale.cfd^
@@ -36080,6 +36089,7 @@ vkcdnservice.appspot.com^
 ||robbdowtndoib.website^
 ||robberrelative.com^
 ||robberyfilcheurope.com^
+||robbqjyn.com^
 ||robeheadlong.com^
 ||robesadvertisement.com^
 ||robinsaxenic.shop^
@@ -37474,6 +37484,7 @@ vkcdnservice.appspot.com^
 ||senahuchnom.qpon^
 ||sendexcepting.com^
 ||sendingcoursecryable.cyou^
+||senegalimproof.cfd^
 ||sengimirexes.shop^
 ||senhorcoost.com^
 ||seniorointmentseminar.com^
@@ -37788,6 +37799,7 @@ vkcdnservice.appspot.com^
 ||shaumtol.com^
 ||shavingwitchcraft.com^
 ||shawmrebind.shop^
+||shawskinboteembolon.cyou^
 ||shbeltian.com^
 ||shbihdhotyxzj.space^
 ||shbnnjesjisqi.site^
