@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-02T14:30:20.246Z
+! Last modified: 2026-08-02T16:20:05.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1842,6 +1842,7 @@ vkcdnservice.appspot.com^
 ||8wl57n3vciqi6bcw4wo2zylux1bi9x5pc.cfd^
 ||8wp91cpf.xyz^
 ||8wtlp3rplgumqq.cfd^
+||8wu3qmt1c5xynq8fppvmqir6exex.rest^
 ||8ww4mtxh9lioib.cfd^
 ||8wz758q9w8grex6t84k.cfd^
 ||8xcy73zn1kyek9k3n.cfd^
@@ -5180,6 +5181,7 @@ vkcdnservice.appspot.com^
 ||baffiesriccia.cyou^
 ||baffingtamises.cyou^
 ||baffledoko.shop^
+||bafflestimar.cyou^
 ||bafircvoj.com^
 ||bafpfsxcio.com^
 ||bafvhdnsctdd.com^
@@ -5902,6 +5904,7 @@ vkcdnservice.appspot.com^
 ||betweenprimarily.com^
 ||betwinner1.com^
 ||beuebcvprjjij.online^
+||bevelscouriewarnt.cfd^
 ||bevelwrox.qpon^
 ||beveyckzdzheo.site^
 ||bevwcymvettup.space^
@@ -6476,6 +6479,7 @@ vkcdnservice.appspot.com^
 ||bmfczkmrtnfzr.site^
 ||bmfnopvd.com^
 ||bmgzspzuahkgq.online^
+||bmhdfmjvtu.com^
 ||bmicmpktyo.com^
 ||bmiiwcynpnses.website^
 ||bmjmtewumbiqx.website^
@@ -6584,6 +6588,7 @@ vkcdnservice.appspot.com^
 ||bofrlsnvqxbbf.space^
 ||boganhands.cyou^
 ||boget.xyz^
+||bogetetouffedrowns.qpon^
 ||bogeyedoutbye.com^
 ||bogeyliberastabs.cyou^
 ||bogfernboopis.shop^
@@ -18836,6 +18841,7 @@ vkcdnservice.appspot.com^
 ||harmful-hire.pro^
 ||harmful-park.com^
 ||harmfulevery.com^
+||harmless-prior.pro^
 ||harmlesstranquilizer.com^
 ||harmo-woe.com^
 ||harmoniouspolice.pro^
@@ -22688,6 +22694,7 @@ vkcdnservice.appspot.com^
 ||joyousandarkoboskage.cyou^
 ||joypopsbrooky.cfd^
 ||joyridewhump.qpon^
+||joysomelusty.qpon^
 ||joytechnicallynew.com^
 ||joywnxixpjyrx.website^
 ||jozchgyqfzqcf.online^
@@ -23102,6 +23109,7 @@ vkcdnservice.appspot.com^
 ||jyczddycqnckw.store^
 ||jyfyrcnskjjhy.space^
 ||jygotubvpyguak.com^
+||jygowfxkzsajg.space^
 ||jygyrxjwiccts.online^
 ||jyhtexckqb.com^
 ||jyipnkrogfjra.online^
@@ -24312,6 +24320,7 @@ vkcdnservice.appspot.com^
 ||kznuodtvjuirx.site^
 ||kzoixqlmnwtjg.space^
 ||kzouzvisztpxs.site^
+||kzpdojptbpgne.online^
 ||kzqjctpvdjmwc.store^
 ||kzqwgdgurmjnc.site^
 ||kzslzfuvnrmxz.online^
@@ -25644,6 +25653,7 @@ vkcdnservice.appspot.com^
 ||lpcqrynsjihwr.site^
 ||lpcqyjyhfhets.space^
 ||lpdemlzlgezac.site^
+||lpehqxxrwifzy.website^
 ||lpfvuqqyplupy.site^
 ||lpfwocjuxhbxo.space^
 ||lpgouuzcqcfjz.site^
@@ -25958,6 +25968,7 @@ vkcdnservice.appspot.com^
 ||lwxoothcoq.com^
 ||lwxqoxksaruzc.space^
 ||lwxuo.com^
+||lwybzvryvcjqc.online^
 ||lwywgysunkygy.site^
 ||lwzzgwonlrvgr.site^
 ||lx2rv.com^
@@ -26572,6 +26583,7 @@ vkcdnservice.appspot.com^
 ||mcgengegvbodx.online^
 ||mcgo2.com^
 ||mchhwxtoxpmdm.website^
+||mchzknxaekqpc.website^
 ||mciipgsntyqok.site^
 ||mcizas.com^
 ||mclmgjkp4him3t.rest^
@@ -26976,6 +26988,7 @@ vkcdnservice.appspot.com^
 ||mierslkkekrml.website^
 ||miewocoaedlin.online^
 ||miffedcrave.cyou^
+||mifqncbyfjyyu.space^
 ||mifvigmz.com^
 ||mifxikofn.in^
 ||mig3incvggbukg.cfd^
@@ -29725,6 +29738,7 @@ vkcdnservice.appspot.com^
 ||o911o.com^
 ||o99yebioe3z7koxlfmomzjqnxg.cfd^
 ||o9immkxcy9ru72jhx1m.rest^
+||o9yt5w6t7x3z2vtncjn9.cfd^
 ||oaanjdfjzjfrq.store^
 ||oacameawwxibl.website^
 ||oadehibut.xyz^
@@ -31687,6 +31701,7 @@ vkcdnservice.appspot.com^
 ||paytheicjmncr.online^
 ||pbbsyfhhwpypl.site^
 ||pbcde.com^
+||pbdasszdkbtic.online^
 ||pbdiasnrimgbo.online^
 ||pbergjgkhbjqc.online^
 ||pbfh96fltj24y5frhvxwbe4r53yzi.cfd^
@@ -33585,6 +33600,7 @@ vkcdnservice.appspot.com^
 ||prudityaeron.shop^
 ||prudyascape.com^
 ||pruegirtingpolypi.cfd^
+||prunerbeam.qpon^
 ||prunusclarkia.cfd^
 ||prurigohdbk.cyou^
 ||prussicbabble.shop^
@@ -34072,6 +34088,7 @@ vkcdnservice.appspot.com^
 ||pyveeczzppsye.space^
 ||pyvenjyewteku.website^
 ||pyvfwe972772o26uv.rest^
+||pyvhosskljrr.com^
 ||pyxheed.qpon^
 ||pzbtbwepicwjn.site^
 ||pzbxnlourkdrv.site^
@@ -36477,6 +36494,7 @@ vkcdnservice.appspot.com^
 ||rnotraff.com^
 ||rntcycudcyzdu.online^
 ||rnuxzqjkiwiry.website^
+||rnvaldvmrqkdv.website^
 ||rnvkragiebeuy.online^
 ||rnvondsyjfcjq.online^
 ||rnwswnvddrykq.website^
