@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-04T14:48:53.504Z
+! Last modified: 2026-08-04T16:35:58.349Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1975,6 +1975,7 @@ vkcdnservice.appspot.com^
 ||9foz3ujhiymihlgnru8jkznwu.rest^
 ||9fz8rn9rqlfeimjoyic3uij.cfd^
 ||9g9fg6jh6y2vftvz7x6y.rest^
+||9gz5q1l1tm3puxk.rest^
 ||9h6wuyen6kmm6rptqujjm2mkuij3bbpo6.cfd^
 ||9hcemeufb7t9i8rpxf7zi.cfd^
 ||9instatement.com^
@@ -7752,6 +7753,7 @@ vkcdnservice.appspot.com^
 ||cahootdisodic.com^
 ||cainginburrocagmag.cfd^
 ||caingincagers.qpon^
+||cainianbussockguars.qpon^
 ||cairnedmacacus.qpon^
 ||caissonlatitat.qpon^
 ||caitifafrete.qpon^
@@ -11671,6 +11673,7 @@ vkcdnservice.appspot.com^
 ||dinosaurprinciples.com^
 ||dioboldualistpenile.qpon^
 ||dioboljizzen.cyou^
+||diobolssorrowlr.cyou^
 ||diobolsuseable.cfd^
 ||diocoelstentonsurer.qpon^
 ||dioptralbw.shop^
@@ -27288,6 +27291,7 @@ vkcdnservice.appspot.com^
 ||milkencarajas.cfd^
 ||milksopeffront.shop^
 ||milky-silver.pro^
+||milkysell.pro^
 ||milkywaynewspaper.com^
 ||milladvocacyunderstandable.com^
 ||millennialmedia.com^
@@ -31224,6 +31228,7 @@ vkcdnservice.appspot.com^
 ||otomiandeleted.cyou^
 ||otowlgplnxtmk.website^
 ||otqbmlcodvbqg.website^
+||otsdpeypxueki.website^
 ||otsoasxgsyabr.online^
 ||otswhtxkfprcy.online^
 ||otsygurelkncw.site^
@@ -32111,6 +32116,7 @@ vkcdnservice.appspot.com^
 ||pdhwgryymgvyr.website^
 ||pdiiclqzeglig.site^
 ||pditfcqewnobw.site^
+||pdixvlkcnchon.online^
 ||pdjbkuevogfks.online^
 ||pdkiqznelwvdj.site^
 ||pdkxnkjozibbf.website^
@@ -32771,6 +32777,7 @@ vkcdnservice.appspot.com^
 ||pitylusjuckiescolove.cyou^
 ||pityneedsdads.com^
 ||piucvzvncenei.site^
+||piupvzxrjejxr.online^
 ||piuyt.com^
 ||pivciahcdzvlm.website^
 ||pivotrunner.com^
@@ -33410,6 +33417,7 @@ vkcdnservice.appspot.com^
 ||ppctraffic.co^
 ||ppduaejaozsch.website^
 ||pperkvadtvtxk.online^
+||ppezbvebaffvx.online^
 ||ppggkvponl.com^
 ||pphieftkuwccw.site^
 ||pphnereis.cyou^
@@ -34338,6 +34346,7 @@ vkcdnservice.appspot.com^
 ||pvuaypsrfcecd.site^
 ||pvuznrtadztxu.space^
 ||pvvkigebunabd.site^
+||pvvobffbwykcv.website^
 ||pvwmszjztmcoh.site^
 ||pvzesryoifiit.online^
 ||pw1zz56d.xyz^
@@ -38873,6 +38882,7 @@ vkcdnservice.appspot.com^
 ||sikuptdybwuwp.site^
 ||silanesyampa.shop^
 ||silaselsehold.com^
+||silbucoxhstkd.space^
 ||sildsloverly.qpon^
 ||silebu.xyz^
 ||sileemis.cfd^
@@ -39020,6 +39030,7 @@ vkcdnservice.appspot.com^
 ||sjambokcursesramex.qpon^
 ||sjbnwzwwmcubf.site^
 ||sjbtqzptourxf.online^
+||sjcjqbxogouxr.online^
 ||sjdkqtmogbnhq.website^
 ||sjeiqeuhroksi.site^
 ||sjfyupmvpazsj.store^
@@ -39939,6 +39950,7 @@ vkcdnservice.appspot.com^
 ||sponsorinserttimeout.com^
 ||sponsorpay.com^
 ||sponsorshipprickly.com^
+||spooferfacial.cyou^
 ||spooksmalldowny.com^
 ||spookyascentfranchise.com^
 ||spoolssacrary.cfd^
@@ -44392,6 +44404,7 @@ vkcdnservice.appspot.com^
 ||upkmxceubeyuz.space^
 ||upknodzbfkxmm.space^
 ||upkpezmxsosqa.today^
+||upkqznujuodgb.online^
 ||upleandiocoel.cyou^
 ||upleaptmuffins.cyou^
 ||upliftsearch.com^
@@ -46017,6 +46030,7 @@ vkcdnservice.appspot.com^
 ||vwcmeebcmvgbq.website^
 ||vwcsjufzjcqen.site^
 ||vwcwncsrsedyd.space^
+||vwe2gntbzifptkfpukh87rwg.cfd^
 ||vwfurlcwpujuz.site^
 ||vwfwdxariknxp.website^
 ||vwfxuhjgwwent.online^
@@ -62152,6 +62166,7 @@ dlsdk.appsflyer.com^
 ||messyoranges.com^
 ||metajaws.com^
 ||metawelcome.com^
+||metricfresh.com^
 ||midnightmead.com^
 ||mightyspiders.com^
 ||millswell.com^
@@ -74667,6 +74682,9 @@ dlsdk.appsflyer.com^
 ||xikprjbbp.com^
 ||faoda4xd2.com^
 ||esudrp.cn^
+||bmjtlfhahyhhru.com^
+||y89fjgm3vc.com^
+||mousse32.com^
 ||3927fqw3xd.com^
 ||q643s5wiiz.com^
 ||ftrgpdecexhzto.com^
