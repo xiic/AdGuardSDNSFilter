@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-04T18:31:16.138Z
+! Last modified: 2026-08-04T20:29:53.823Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -12741,6 +12741,7 @@ vkcdnservice.appspot.com^
 ||dsvgxs.com^
 ||dsvhko.com^
 ||dsvidbernlibi.site^
+||dsvjgw.com^
 ||dsvkxa.com^
 ||dsvopb.com^
 ||dsvosm.com^
@@ -14057,6 +14058,7 @@ vkcdnservice.appspot.com^
 ||enigmaswhereas.com^
 ||eniont.xyz^
 ||enityvopmweej.site^
+||enjellyclysma.com^
 ||enjoyablefax.com^
 ||enjoyedcomputefatality.com^
 ||enjoyermossers.cyou^
@@ -16531,6 +16533,7 @@ vkcdnservice.appspot.com^
 ||frettepili.shop^
 ||frezero.net^
 ||frfhnsqzngbvy.website^
+||frfkzxnooufpx.website^
 ||frgmpqsctzels.site^
 ||frhaelmqfuudc.website^
 ||frhcqkaqcqldu.space^
@@ -19696,6 +19699,7 @@ vkcdnservice.appspot.com^
 ||hjxajf.com^
 ||hjyhqbgodfdzg.website^
 ||hkaixrkwqwubw.website^
+||hkbkamjgwyocd.site^
 ||hkcdwvzfosepe.online^
 ||hkcqpidtxaqkl.online^
 ||hkepexmqrg.com^
@@ -31573,6 +31577,7 @@ vkcdnservice.appspot.com^
 ||oyl8v127pepp6l7ik37ieu.cfd^
 ||oyllhwxhhwlir.site^
 ||oymfopsxkdygv.online^
+||oyn79g2o8y6ekubntoomr.rest^
 ||oynveturupdut.site^
 ||oyo4d.com^
 ||oyqxdtshsivhl.online^
@@ -31716,6 +31721,7 @@ vkcdnservice.appspot.com^
 ||pahtnf.tech^
 ||pahtoa.tech^
 ||pahtqo.tech^
+||pahtuo.tech^
 ||pahtwt.tech^
 ||pahtzh.tech^
 ||pahzvkxwkxtzm.website^
@@ -31759,6 +31765,7 @@ vkcdnservice.appspot.com^
 ||palermosonovox.cfd^
 ||paletteeasily.com^
 ||palibs.tech^
+||palibzh.tech^
 ||paliliaimbriumvansire.qpon^
 ||palingrombos.cfd^
 ||palisclochanfother.qpon^
@@ -34658,6 +34665,7 @@ vkcdnservice.appspot.com^
 ||qeogeasqdfowh.site^
 ||qepcdyswlsodj.space^
 ||qepeerkeskxhn.site^
+||qeqxpaqpsiwsq.space^
 ||qeqyswhipqrgu.space^
 ||qerelink.qpon^
 ||qernnbahzjdjf.online^
@@ -40046,6 +40054,7 @@ vkcdnservice.appspot.com^
 ||spumiercithara.qpon^
 ||spunkurinoselesleya.cyou^
 ||spurrerklamath.shop^
+||spurtlecucuyo.com^
 ||spurtshrubvending.com^
 ||spurtvastsummer.com^
 ||sputumshrog.cyou^
@@ -41167,6 +41176,7 @@ vkcdnservice.appspot.com^
 ||synchednombles.cfd^
 ||syncsmussick.shop^
 ||syndenizen.shop^
+||syndetsparrowdubious.cyou^
 ||syndicatedsearch.goog^
 ||syndromehart.com^
 ||syndromekaleidoscope.com^
@@ -42244,6 +42254,7 @@ vkcdnservice.appspot.com^
 ||tktzgajycssox.site^
 ||tkufgovqqbeqh.site^
 ||tkwkrdsoaldaw.com^
+||tkxnwxhhahmmh.space^
 ||tkyjmfwjnzyov.site^
 ||tkytthdefsrmf.online^
 ||tkzcgceruyjcz.online^
@@ -42874,6 +42885,7 @@ vkcdnservice.appspot.com^
 ||trimchafegrove.com^
 ||trimreaddrunken.com^
 ||trineplurals.cfd^
+||trinkumazygotejoss.cyou^
 ||trinolkgf.cfd^
 ||trioletfused.com^
 ||tripcarriagewaving.com^
@@ -43615,6 +43627,7 @@ vkcdnservice.appspot.com^
 ||ucwkvipzetzxc.space^
 ||ucwypnemwclwd.online^
 ||ucyierazwsrpa.store^
+||ucymngnbsdc.com^
 ||udasihaterpionic.qpon^
 ||udbaa.com^
 ||udclumpy.cfd^
@@ -47897,6 +47910,7 @@ vkcdnservice.appspot.com^
 ||wzqpvfcijrjlv.online^
 ||wzuarqzexkjiy.website^
 ||wzutebvjpxwwu.site^
+||wzvqgevepjmwi.online^
 ||wzwndbifflvvw.website^
 ||wzwyavcyaxwlp.online^
 ||wzxxconhwowni.space^
@@ -48263,6 +48277,7 @@ vkcdnservice.appspot.com^
 ||xkuxohmppjzjo.site^
 ||xkwvzesueefsn.website^
 ||xkybsvfhjuznn.space^
+||xkyjdirnktpao.space^
 ||xlakqgtnzjcix.online^
 ||xlanhtyyexjqb.space^
 ||xlbbptatopcat.online^
@@ -49885,6 +49900,7 @@ vkcdnservice.appspot.com^
 ||zesainuxaimoots.net^
 ||zesrsywjvphmj.store^
 ||zesty-lead.pro^
+||zesty-schedule.pro^
 ||zetadeo.com^
 ||zetjmzwbpuhbh.site^
 ||zeusadx.com^
@@ -50446,6 +50462,7 @@ vkcdnservice.appspot.com^
 ||zvlfeheeolslq.online^
 ||zvlsctfwctmhe.website^
 ||zvmxpklpnnenv.site^
+||zvpmktldiqxdk.site^
 ||zvqiczfvvisdr.website^
 ||zvrokbqvqvvbw.top^
 ||zvrrzpfobezka.space^
@@ -50543,6 +50560,7 @@ vkcdnservice.appspot.com^
 ||zyxbltkkgkmon.site^
 ||zyzapldgfoosg.site^
 ||zzbcje.com^
+||zzbkcfkcglkhm.online^
 ||zzdvsgnxamcmq.website^
 ||zzfikyawmqtmw.website^
 ||zzhlssowvzfds.online^
@@ -62808,6 +62826,7 @@ dlsdk.appsflyer.com^
 ||sombersticks.com^
 ||sombersurprise.com^
 ||songsterritory.com^
+||sonicsessions.net^
 ||soothingglade.com^
 ||sophisticatedstove.com^
 ||sorebear.com^
