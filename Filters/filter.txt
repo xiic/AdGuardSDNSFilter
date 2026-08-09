@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-09T03:26:50.536Z
+! Last modified: 2026-08-09T04:57:44.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7023,6 +7023,7 @@ vkcdnservice.appspot.com^
 ||boxingsuffocate.com^
 ||boxlikepavers.com^
 ||boxlikesedativespinach.com^
+||boxlpgpvsapal.site^
 ||boxofwhisper.com^
 ||boxtopremastomia.cyou^
 ||boxycupbearerjot.com^
@@ -8305,6 +8306,7 @@ vkcdnservice.appspot.com^
 ||cavdiacameistsnapped.cfd^
 ||cavederasionantired.cfd^
 ||cavernous-mess.com^
+||cavernsinaite.com^
 ||cavewrap.care^
 ||cavortbelling.cyou^
 ||cavortsunmake.qpon^
@@ -12054,6 +12056,7 @@ vkcdnservice.appspot.com^
 ||disfiguredcomment.com^
 ||disfiguredcommon.com^
 ||disfiguredrow.com^
+||disgigattars.qpon^
 ||disgownsealess.cyou^
 ||disguised-confidence.pro^
 ||disguisedtimingbreath.com^
@@ -21601,6 +21604,7 @@ vkcdnservice.appspot.com^
 ||imjprkvybgfdw.space^
 ||imkirh.com^
 ||imllalvcvktaq.space^
+||imlufcnd.com^
 ||immaculatehighlight.com^
 ||immaterial-mother.com^
 ||immediateequivalentstunning.com^
@@ -23222,6 +23226,7 @@ vkcdnservice.appspot.com^
 ||jixdwtlveqhrl.online^
 ||jizzarchives.com^
 ||jjbkkqj1ewg8g3zr992wu1.rest^
+||jjbpuofujalna.site^
 ||jjcqaxhyusgfq.site^
 ||jjeiraiaxnvbw.online^
 ||jjfghqcqwgcjx.site^
@@ -26568,6 +26573,7 @@ vkcdnservice.appspot.com^
 ||lphzghnxjvujh.online^
 ||lpikokswtx.com^
 ||lpimevldefpxne.com^
+||lpjnugxqeofzm.site^
 ||lpjxxipwpdaav.website^
 ||lpkkjwdpizhh.com^
 ||lpklqoaezptbr.space^
@@ -27217,6 +27223,7 @@ vkcdnservice.appspot.com^
 ||mandantkettlerroomth.cfd^
 ||mandantthillyserbdom.cyou^
 ||mandarsneered.qpon^
+||mandartoilerummies.cyou^
 ||mandatorypainter.com^
 ||mandrelkluckerbeisa.cyou^
 ||mandscarus.cfd^
@@ -28175,6 +28182,7 @@ vkcdnservice.appspot.com^
 ||mjljqbyepiucu.website^
 ||mjlnomeopcwql.website^
 ||mjmramjfgqmcr.online^
+||mjramgmogoewx.site^
 ||mjriazemzybdg.online^
 ||mjtpwtxclfnkt.site^
 ||mjtrkygeqmghm.store^
@@ -28825,6 +28833,7 @@ vkcdnservice.appspot.com^
 ||msdsabmyd.com^
 ||msdtqofattbqv.website^
 ||msehuipsxmudk.store^
+||msgixnjxivvhur.com^
 ||msgkxtqtodoji.rocks^
 ||msgose.com^
 ||msgpbwbfradny.website^
@@ -32928,6 +32937,7 @@ vkcdnservice.appspot.com^
 ||pctlwm.com^
 ||pctsrv.com^
 ||pctv.xyz^
+||pcwjwdcazbhgn.space^
 ||pcxpmbmuialjb.space^
 ||pcyqadvwrqsmc.online^
 ||pczpmmuhpxlgv.com^
@@ -35510,6 +35520,7 @@ vkcdnservice.appspot.com^
 ||qdzxakgqmclda.site^
 ||qeaaogshjobfk.site^
 ||qecapwnpthdzf.site^
+||qecposcefnjd.com^
 ||qeefxyltwpruv.website^
 ||qeegwhsxzwcdv.com^
 ||qehcierotgrrk.site^
@@ -36672,6 +36683,7 @@ vkcdnservice.appspot.com^
 ||rdhsefvixvaws.space^
 ||rdhzeagmyxdim.site^
 ||rdiloktcbwkhg.online^
+||rdipmrbwgvk.com^
 ||rdizbuadhvcrs.site^
 ||rdlkuvqesmlva.store^
 ||rdncetfegztbp.space^
@@ -37800,6 +37812,7 @@ vkcdnservice.appspot.com^
 ||rmycsmtkwbn.com^
 ||rmyhibtadohj.com^
 ||rmzazecqofydd.space^
+||rmzjcuuiaykhv.site^
 ||rmzsglng.com^
 ||rmzyteljkkeds.website^
 ||rnb4bxd0.xyz^
@@ -46269,6 +46282,7 @@ vkcdnservice.appspot.com^
 ||vectoine.net^
 ||vectoio.net^
 ||vectorsbanquedole.cfd^
+||vecygjfrksxdm.website^
 ||vedqxliyxcqkl.space^
 ||veeltdqddmiik.website^
 ||veepsbolognaramose.cyou^
@@ -61369,6 +61383,7 @@ dlsdk.appsflyer.com^
 ||ecommerce-events.adscale.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
+||edge.venatusmedia.com^
 ||eel.transistor.fm^
 ||enc-90128738.b-cdn.net^
 ||ep.jamx.ai^
@@ -61700,6 +61715,7 @@ dlsdk.appsflyer.com^
 ||popup-static.unisender.com^
 ||porpoise.azettl.net^
 ||pr.blogflux.com^
+||prebid.loopmertb.com^
 ||prf.vagnt.com^
 ||privacy-analytics-proxy.cookiebot.com^
 ||privacy.outdoorsg.com^
