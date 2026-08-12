@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-12T18:53:02.489Z
+! Last modified: 2026-08-12T20:36:08.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2660,6 +2660,7 @@ vkcdnservice.appspot.com^
 ||aerksrxqolhmf.website^
 ||aerobeebalak.qpon^
 ||aerolix61.com^
+||aescocherwhither.qpon^
 ||aespmnbpqhpvu.space^
 ||aesrfmkkyhlei.online^
 ||aesvnxentohkew.com^
@@ -10815,6 +10816,7 @@ vkcdnservice.appspot.com^
 ||dsyatr.com^
 ||dsybif.com^
 ||dsydvb.com^
+||dsyfrh.com^
 ||dsygrxfwrlatx.online^
 ||dsyhha.com^
 ||dsyqua.com^
@@ -17500,6 +17502,7 @@ vkcdnservice.appspot.com^
 ||iicvdlmypkugr.space^
 ||iicwmzxgqsjfu.space^
 ||iidpomfgxqpgx.online^
+||iidvopxi.com^
 ||iifvcfwiqi.com^
 ||iigmlx.com^
 ||iihqiezojdtcx.online^
@@ -20949,6 +20952,7 @@ vkcdnservice.appspot.com^
 ||leanperjury.com^
 ||leapedspam.com^
 ||leapedunarmed.com^
+||leaperskcmalist.qpon^
 ||leapingkhaya.cfd^
 ||leapretrieval.com^
 ||leaptanymore.com^
@@ -26904,6 +26908,7 @@ vkcdnservice.appspot.com^
 ||pchmkqbkyupsn.site^
 ||pchtkxbomdohto.com^
 ||pcidcacaroff.in^
+||pcimbyicebtyeuw.com^
 ||pcitaaeimgifl.online^
 ||pckagkewuqfox.website^
 ||pcktmkfjnkfqm.club^
@@ -38839,6 +38844,7 @@ vkcdnservice.appspot.com^
 ||wantingmethodelegance.com^
 ||wantspunishrile.com^
 ||wapbaze.com^
+||wapcqhzqvitlh.website^
 ||wappatopunnerzaurak.qpon^
 ||wappatoregrets.cyou^
 ||wappatoskee.cyou^
@@ -39026,6 +39032,7 @@ vkcdnservice.appspot.com^
 ||wcyvjdpduqxym.site^
 ||wdagsdtshldmg.online^
 ||wdavsaljbdlqj.online^
+||wdaybyzzjnpri.online^
 ||wdbecodqxlyuu.site^
 ||wdczlavbweeby.online^
 ||wdemwdmwehswi.online^
@@ -39326,6 +39333,7 @@ vkcdnservice.appspot.com^
 ||wheybkethenic.qpon^
 ||wheyeymesial.cfd^
 ||whfambxpjlyos.online^
+||whfeiacex.com^
 ||whglicfodltns.space^
 ||whgugqkhydhg.net^
 ||which-impact.pro^
@@ -39922,6 +39930,7 @@ vkcdnservice.appspot.com^
 ||wpushsdk.com^
 ||wpwnejtixioio.website^
 ||wpyirxebjtvdh.site^
+||wpzqienjqrgyk.website^
 ||wqbeavbpztwsm.website^
 ||wqbghtlchfeir.online^
 ||wqbuwbiuowblc.store^
@@ -40231,6 +40240,7 @@ vkcdnservice.appspot.com^
 ||wzelipmfuva.com^
 ||wzeocharram.com^
 ||wzfbttjqtjygc.website^
+||wzlxdodimkqef.online^
 ||wzobwendrydoi.website^
 ||wzqotpvpbyqhc.store^
 ||wzqpvfcijrjlv.online^
@@ -40317,6 +40327,7 @@ vkcdnservice.appspot.com^
 ||xbzcorkefbfrl.site^
 ||xcazgiktebquy.website^
 ||xcbaaofcfwrhc.website^
+||xcdfoveggqqlw.website^
 ||xcdizpnjkxwsc.website^
 ||xcdtszsdpafzx.online^
 ||xceavbango.in^
@@ -40330,6 +40341,7 @@ vkcdnservice.appspot.com^
 ||xcirtefata.in^
 ||xcjtshagwamsa.website^
 ||xckmiovstahqy.website^
+||xckmixodejzep.online^
 ||xcognklpyq.com^
 ||xcohzwdmnkryw.online^
 ||xcowuheclvwryh.com^
@@ -40482,6 +40494,7 @@ vkcdnservice.appspot.com^
 ||xiapuhdhbdsmd.online^
 ||xiaxslpsgdblw.site^
 ||xicakemoter.cyou^
+||xicvwcqmqwkrm.website^
 ||xidxktydwzica.website^
 ||xieduajahaonu.space^
 ||xihoqsajpap.com^
@@ -41978,6 +41991,7 @@ vkcdnservice.appspot.com^
 ||zewuwkawo.com^
 ||zexyivyvafozx.space^
 ||zeydoo.com^
+||zeypohcitwnca.website^
 ||zeziswrbpmhez.site^
 ||zezxeuydapept.site^
 ||zezyjywaaqzke.top^
