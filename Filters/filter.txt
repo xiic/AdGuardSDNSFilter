@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-12T10:54:58.097Z
+! Last modified: 2026-08-12T12:53:40.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3047,6 +3047,7 @@ vkcdnservice.appspot.com^
 ||akdnhszqeqasz.store^
 ||akdrclfipxvkj.store^
 ||akftqsaedhfqt.space^
+||akfzziowsd.in^
 ||akhflmskoecmk.site^
 ||akhghskywdfoz.website^
 ||akhixtnfdikba.com^
@@ -6399,6 +6400,7 @@ vkcdnservice.appspot.com^
 ||bxtubfjlscnxw.space^
 ||bxtxxmqhrhtge.site^
 ||bxtzeegktwvkx.website^
+||bxuujknh.com^
 ||bxvvzylxihzoh.space^
 ||bxwwtoeemvgrq.website^
 ||bxxfjlqlpprrq.online^
@@ -10151,6 +10153,7 @@ vkcdnservice.appspot.com^
 ||doboscymene.cyou^
 ||dobrhoovkxoru.website^
 ||docenttracey.qpon^
+||docileshockszulus.qpon^
 ||docpicvggkfcp.site^
 ||doctrinekettleworsening.com^
 ||doctusflaxman.com^
@@ -10374,6 +10377,7 @@ vkcdnservice.appspot.com^
 ||dragstergibletshaded.com^
 ||drainalmost.com^
 ||drakerecitalpraised.com^
+||drakpaihsdnbr.space^
 ||dramaticdeterpulverize.com^
 ||drammercheng.com^
 ||drankclosed.com^
@@ -11470,6 +11474,7 @@ vkcdnservice.appspot.com^
 ||ehegoajxjinwc.online^
 ||ehfeuvyalaxlm.online^
 ||ehftkujvqceyl.site^
+||ehhgsjomfqqwu.online^
 ||ehiyxlnuujkps.store^
 ||ehlbjnnzlhpv.com^
 ||ehlfnpduxldcy.online^
@@ -11698,6 +11703,7 @@ vkcdnservice.appspot.com^
 ||embedx.name^
 ||embeliapodalectypes.cyou^
 ||ember-assets.online^
+||ember-assets.space^
 ||ember-assets.xyz^
 ||ember4replicas.com^
 ||embezzlementclearedbake.com^
@@ -11779,6 +11785,7 @@ vkcdnservice.appspot.com^
 ||emuloushonans.cfd^
 ||emumsazpndymr.space^
 ||emv3qtl986wv6q.cfd^
+||emvlgutgkxcwq.website^
 ||emwksqauungjg.website^
 ||emxdgt.com^
 ||emxipsmjhingj.website^
@@ -12063,6 +12070,7 @@ vkcdnservice.appspot.com^
 ||eqilyppdackel.website^
 ||eqizpgutcgers.online^
 ||eqjrbxmpvetckjw.com^
+||eqjxnkbemrecr.com^
 ||eqkltgnbbygnv.website^
 ||eqlzbrictopyi.space^
 ||eqmlxrnvioogj.space^
@@ -12338,6 +12346,7 @@ vkcdnservice.appspot.com^
 ||evopmncakdrrg.site^
 ||evprikdjbw.com^
 ||evqtnqrcwknyj.website^
+||evrfoazjvoism.website^
 ||evrgtqetom.com^
 ||evulseraring.qpon^
 ||evuuiytrdkshg.website^
@@ -13480,6 +13489,7 @@ vkcdnservice.appspot.com^
 ||fluxivelatebra.qpon^
 ||fluxivetsknummus.cyou^
 ||fluxyt.xyz^
+||flvgskmoswnct.website^
 ||flyads1.com^
 ||flyersuaraycuterbium.qpon^
 ||flyingadvert.com^
@@ -14522,6 +14532,7 @@ vkcdnservice.appspot.com^
 ||geargrope.com^
 ||gebebrfkdqsci.store^
 ||gebir.xyz^
+||gebrgzpilmidz.website^
 ||geckad.com^
 ||gecksastrict.cfd^
 ||geckxmcccnhbc.space^
@@ -28459,6 +28470,7 @@ vkcdnservice.appspot.com^
 ||psywarbobo.qpon^
 ||pszggsvbtzzaa.space^
 ||pt-xb.xyz^
+||pt44uxtx9puj64mh.rest^
 ||pt5ugnxnyle3zw.rest^
 ||pta.wcm.pl^
 ||ptalribs.xyz^
@@ -29494,6 +29506,7 @@ vkcdnservice.appspot.com^
 ||quotedrigorous.com^
 ||quotes.com^
 ||quovwtlokqoebl.com^
+||quowwfycuuvlzqr5tbiuooej1oi81nuj.cfd^
 ||qupnxsdvarzew.site^
 ||qurushreviews.shop^
 ||qusoznqtkabsj.space^
@@ -30008,6 +30021,7 @@ vkcdnservice.appspot.com^
 ||receiptcadenceresurrection.com^
 ||receiverbookwormlazy.com^
 ||recentathwartknew.com^
+||recentbaseball.pro^
 ||recentdisruptprocessed.com^
 ||recentlathe.com^
 ||recentlylamentharmful.com^
@@ -30428,6 +30442,7 @@ vkcdnservice.appspot.com^
 ||retreatregular.com^
 ||retrudewomprewires.qpon^
 ||retruseairshedpurples.qpon^
+||retscopperchorook.cyou^
 ||rettornrhema.com^
 ||rettypholos.com^
 ||returfhamburg.cfd^
@@ -34939,6 +34954,7 @@ vkcdnservice.appspot.com^
 ||tfamwgkiacqwb.space^
 ||tfb7jc.de^
 ||tfbwbzmzisbif.online^
+||tfdsqnjgt.com^
 ||tfeableandwo.org^
 ||tfflrmlygarjj.online^
 ||tfjaycmztwmdp.site^
@@ -35031,6 +35047,7 @@ vkcdnservice.appspot.com^
 ||thermometerworm.com^
 ||therocketlanguages.com^
 ||thesaurusdefrostwoodlands.com^
+||these-catch.pro^
 ||these-organization.pro^
 ||thesisadornpathetic.com^
 ||thetrendytales.com^
@@ -37934,6 +37951,7 @@ vkcdnservice.appspot.com^
 ||vhrghfgq.com^
 ||vhrubgqfopfgw.space^
 ||vhwwndglwji.com^
+||vhxddievp.com^
 ||vhxzcsapqgtda.site^
 ||vhzcewosjxcxe.website^
 ||viaanswerwillow.com^
@@ -51898,6 +51916,7 @@ dlsdk.appsflyer.com^
 ||data.emb-api.com^
 ||data.embeddables.com^
 ||data.gosquared.com^
+||data.hailuo.ai^
 ||data.jaytuckwell.com^
 ||data.minute.ly^
 ||data.nexxt.com^
@@ -52321,6 +52340,7 @@ dlsdk.appsflyer.com^
 ||rtxpx-a.akamaihd.net^
 ||rudder-tracking.rudderstack.com^
 ||rum-collector.leaderint.workers.dev^
+||rum-openway.guance.com^
 ||rum.aliyuncs.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^
@@ -66607,6 +66627,7 @@ dlsdk.appsflyer.com^
 ||cnsy8lwlyv.com^
 ||bickiron84.com^
 ||cl1npfik45.com^
+||2j9banjbst.com^
 ||95ktftpt6.com^
 ||dhrbpvqqoovnxm.com^
 ||ped146qez.com^
