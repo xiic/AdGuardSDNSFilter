@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-15T06:25:33.690Z
+! Last modified: 2026-08-15T08:19:34.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3194,6 +3194,7 @@ vkcdnservice.appspot.com^
 ||alitems.co^
 ||alitems.site^
 ||alive-airport.com^
+||alive-track.pro^
 ||alivecordoba.cfd^
 ||aliveprompt.com^
 ||aliveswim.pro^
@@ -6392,6 +6393,7 @@ vkcdnservice.appspot.com^
 ||burlersplanxty.shop^
 ||burlytonight.pro^
 ||burnetsasgmt.com^
+||burnetschurl.shop^
 ||bursesinlands.cyou^
 ||burspiak.in^
 ||burstingsteed.com^
@@ -9407,6 +9409,7 @@ vkcdnservice.appspot.com^
 ||de2bdad928.com^
 ||dea21aeefc.com^
 ||deabrrtkyiibk.site^
+||deaconpitangacolory.cfd^
 ||dead-put.com^
 ||deadelegantannotation.com^
 ||deadlinescreechvisit.com^
@@ -11040,6 +11043,7 @@ vkcdnservice.appspot.com^
 ||dtzoenoduqopn.space^
 ||dtzvavrnbzemd.space^
 ||dualinvirallyfatuism.cyou^
+||dualismaflower.qpon^
 ||duantgrouped.shop^
 ||dubfrntsjlpwfp.com^
 ||dubietybialy.com^
@@ -15705,6 +15709,7 @@ vkcdnservice.appspot.com^
 ||grixix.com^
 ||grizaqtzuwaz.in^
 ||grkhxqiwpic.com^
+||grmazkqokosxm.space^
 ||grmpeyjzuqibv5jygvzf.rest^
 ||grmpxwtgdspjk.online^
 ||grmtas.com^
@@ -16813,6 +16818,7 @@ vkcdnservice.appspot.com^
 ||hkkxsnav.com^
 ||hknztzqlkjzhc.space^
 ||hko7xcemkfzl4uwo.rest^
+||hkoosgxqn.com^
 ||hkpjnieraypcn.site^
 ||hkq1b3v4wiwzo9zi77.cfd^
 ||hkrpmavrbw.com^
@@ -22447,6 +22453,7 @@ vkcdnservice.appspot.com^
 ||lysategriphus.cfd^
 ||lysateseagres.shop^
 ||lysinerbiums.qpon^
+||lyswbpryuotvs.space^
 ||lyticaframeofm.com^
 ||lyusuwiuwhwtl.online^
 ||lyvkvqitzktkx.store^
@@ -23373,6 +23380,7 @@ vkcdnservice.appspot.com^
 ||misstepknock.cyou^
 ||mistakeapartgolan.com^
 ||mistellovigermvalse.cyou^
+||mistimetearbaclin.cyou^
 ||mistresscoat.com^
 ||mistydeposit.pro^
 ||mistysteel.co^
@@ -24948,6 +24956,7 @@ vkcdnservice.appspot.com^
 ||njgkzmkkapqjv.online^
 ||njgxjzvgsrzfb.website^
 ||njhinxgrdyjur.space^
+||njibcaxlfwh.com^
 ||njkaptewb.com^
 ||njkixvgivjaeg.online^
 ||njmpqalqerpmp.space^
@@ -26449,6 +26458,7 @@ vkcdnservice.appspot.com^
 ||oratorbelievinginvention.com^
 ||orbbanate.qpon^
 ||orbit-cdn.xyz^
+||orbit-static.click^
 ||orbit-static.xyz^
 ||orbitcarrot.com^
 ||orbiteleveed.com^
@@ -27349,6 +27359,7 @@ vkcdnservice.appspot.com^
 ||pcfqdmiowvcx.com^
 ||pchmkqbkyupsn.site^
 ||pchtkxbomdohto.com^
+||pchxdjwzgxgfb.website^
 ||pcidcacaroff.in^
 ||pcimbyicebtyeuw.com^
 ||pcitaaeimgifl.online^
@@ -31331,6 +31342,7 @@ vkcdnservice.appspot.com^
 ||rj544378k3hwihjbz8xllh5o65v6ij.cfd^
 ||rjacftfazbyjq.online^
 ||rjawuengkzqki.space^
+||rjcljqxkdvrmh.site^
 ||rjemafqzprwxc.space^
 ||rjfhtwwdkebho.online^
 ||rjfskgjstkfts.website^
@@ -37855,6 +37867,7 @@ vkcdnservice.appspot.com^
 ||uovveljjaoxfe.store^
 ||uowgxktrrenny.site^
 ||uoxocwxakddyq.space^
+||uoydzaom.xyz^
 ||uozbwocqypahe.site^
 ||upahkyuklnigb.com^
 ||upaitqexpunnz.online^
@@ -42765,6 +42778,7 @@ vkcdnservice.appspot.com^
 ||zhylvhqdlkacm.space^
 ||zhzijmkcplrch.store^
 ||zi8ivy4b0c7l.com^
+||ziaapdlsrpl.com^
 ||ziametbaff.com^
 ||ziblo.cloud^
 ||ziccxwyfkathr.website^
@@ -67446,6 +67460,8 @@ dlsdk.appsflyer.com^
 ||n12rk1r9h.com^
 ||cuk180l9v.com^
 ||hdo0zseqy.com^
+||2lpwji3xr.com^
+||ujj1ndg5i.com^
 ||2ormhhabgb.com^
 ||fdfjxhpqxxjdby.com^
 ||gj8ph3gw8z.com^
