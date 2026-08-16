@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-16T14:15:26.378Z
+! Last modified: 2026-08-16T16:15:58.579Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2912,6 +2912,7 @@ vkcdnservice.appspot.com^
 ||agreeableoccasion.com^
 ||agreedaboriginal.com^
 ||agreedairdalton.com^
+||agriasdustingmobile.qpon^
 ||agricnipper.qpon^
 ||agriculturebasssettling.com^
 ||agriculturedoubloonsdesk.com^
@@ -7503,6 +7504,7 @@ vkcdnservice.appspot.com^
 ||chzhqwirsxmad.online^
 ||chzowqzedjocl.space^
 ||cibhmyowgsmpa.store^
+||cicaleogdoas.com^
 ||ciclagmbabdin.online^
 ||cicutacyclian.cyou^
 ||ciderconcluded.com^
@@ -8533,6 +8535,7 @@ vkcdnservice.appspot.com^
 ||cqfzpkcswpwiq.space^
 ||cqjfqrupph.com^
 ||cqjgztejpzvkd.space^
+||cqkjpsnluoblh.space^
 ||cqkpoxtlakibf.space^
 ||cqkzgchjtlllo.store^
 ||cqnehbxviuboz.space^
@@ -9416,6 +9419,7 @@ vkcdnservice.appspot.com^
 ||dc036be5b9.com^
 ||dcapugcaiirxs.site^
 ||dcavixmtxjxra.site^
+||dcaynjhiywz.com^
 ||dcazkddmpuwkw.website^
 ||dcbnameendplay.qpon^
 ||dcbvegzfz.com^
@@ -20825,6 +20829,7 @@ vkcdnservice.appspot.com^
 ||kqbgqbylklejl.online^
 ||kqbxjkzsyuygg.site^
 ||kqcidwipqpnmd.space^
+||kqdzzzaqvbgot.site^
 ||kqfjrwzx.com^
 ||kqftc.com^
 ||kqgohxbrqclyo.online^
@@ -22536,6 +22541,7 @@ vkcdnservice.appspot.com^
 ||lvtezhupqcvtq.site^
 ||lvubwrnhxktlo.online^
 ||lvvbqeaqvrmvy.top^
+||lvvjsnuqhalcx.space^
 ||lvwytobyemady.online^
 ||lvyrokjbvvoor.top^
 ||lvyvxkmvrjrul.online^
@@ -23720,6 +23726,7 @@ vkcdnservice.appspot.com^
 ||mmirvipxdumpx.online^
 ||mmismm.com^
 ||mmjpvdrhgjfyj.space^
+||mmjytuhyxkcje.space^
 ||mmkhhxfkjkcgt.online^
 ||mmm5l.com^
 ||mmmdn.net^
@@ -26096,6 +26103,7 @@ vkcdnservice.appspot.com^
 ||oescornrow.shop^
 ||oestpq.com^
 ||oeszxeerssjsn.site^
+||oetqvicnhifip.site^
 ||oetremlyfmekm.site^
 ||oetvmdsvpckci.site^
 ||oeufihzttngjt.website^
@@ -26320,6 +26328,7 @@ vkcdnservice.appspot.com^
 ||ojtuqqiohqadx.online^
 ||ojuvjqymmcyos.site^
 ||ojvgrxtyje.com^
+||ojwkmgtrygxra.space^
 ||ojyneijlxlekv.site^
 ||ojzgnfxidbjur.space^
 ||ojzpcvipynqhw.online^
@@ -27030,6 +27039,7 @@ vkcdnservice.appspot.com^
 ||ovgkunasfx.in^
 ||ovgpljyqpochn.store^
 ||ovhrismxnkmdc.online^
+||ovisacscapashantih.cyou^
 ||ovjocjgro.in^
 ||ovlfuwrcekghx.site^
 ||ovmwaehsvypnq.space^
@@ -32686,6 +32696,7 @@ vkcdnservice.appspot.com^
 ||scbkgjktowyuz.site^
 ||sccotxcyhkpsm.site^
 ||scdzsazeeqmta.online^
+||sceatorthid.qpon^
 ||scenarycareme.com^
 ||scenaryrithe.cfd^
 ||scendeogaea.cfd^
@@ -36328,6 +36339,7 @@ vkcdnservice.appspot.com^
 ||tjswoufpfcltp.online^
 ||tjtawartfkjpb.site^
 ||tjtsctymepnds.space^
+||tjwrauutwtbdc.online^
 ||tjwsg.com^
 ||tjwveazohmjzd.online^
 ||tkagifhhvchjf.website^
@@ -37012,6 +37024,7 @@ vkcdnservice.appspot.com^
 ||truigugrwqguh.store^
 ||truismlodge.cfd^
 ||trulysuitedcharges.com^
+||trumanopes.shop^
 ||trumpgorry.com^
 ||truoptik.com^
 ||trusa.xyz^
@@ -38421,6 +38434,7 @@ vkcdnservice.appspot.com^
 ||usifzaajrpmzb.site^
 ||usihecbkdzxbw.site^
 ||usingstrikingindoors.com^
+||usiyyeuvirl.com^
 ||usjbwvtqwv.com^
 ||usjeardahfoqc.online^
 ||uskdkvjda.com^
@@ -38852,6 +38866,7 @@ vkcdnservice.appspot.com^
 ||vdxagufwubpfb.space^
 ||vdxaxf.com^
 ||vdxsvladcihnm.online^
+||ve8wil7nvknmvkobvtiebepppj7xfqyn.cfd^
 ||ve99cncwycr8pwep5y4tzj.rest^
 ||vealerwiver.cfd^
 ||vebefsusofpzg.space^
@@ -40721,6 +40736,7 @@ vkcdnservice.appspot.com^
 ||wlntzdjktaskn.website^
 ||wloalafswtvlk.site^
 ||wlqnhqufcicpa.space^
+||wlrbsqgjlvxwm.space^
 ||wltvpgcwsvndn.online^
 ||wluenozwkxvfe.site^
 ||wlupsmxczpcml.online^
@@ -42185,6 +42201,7 @@ vkcdnservice.appspot.com^
 ||ycjhwnqmlchll.space^
 ||yckzwrlrapwbk.site^
 ||ycmksqoykzgyf.website^
+||ycmzapvswjfnd.site^
 ||ycnvuhcrdomqz.space^
 ||ycoecgqypbqtv.space^
 ||ycoxikgxkmddm.online^
@@ -42720,6 +42737,7 @@ vkcdnservice.appspot.com^
 ||ytjvnutks.pro^
 ||ytluqctugedmm.site^
 ||ytmwqfftkvood.store^
+||ytqe4iezptbuily1qetmnxrkizm1o.rest^
 ||ytqlqvguttjuf.store^
 ||ytsa.net^
 ||ytsuptbpkgdq.net^
@@ -74661,15 +74679,10 @@ analytics-*.aasaam.com
 ||safeframe.googlesyndication.com^
 ||adservice.google.com^
 ||ad.qanda.ai^
-!
-! DOMAIN-REFRESHER: START
-!
 ||ntkimg.cloud^
 ||ttse.b-cdn.net^
 ||i.keezip.com^
 ||awd.spochak.com^
-!
-! DOMAIN-REFRESHER: END
 !
 ! Source name: Additional rules
 ! Source: Filters/rules.txt
