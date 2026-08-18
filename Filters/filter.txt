@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-18T06:30:57.948Z
+! Last modified: 2026-08-18T08:27:25.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1716,6 +1716,7 @@ vkcdnservice.appspot.com^
 ||a11.click^
 ||a11ybar.com^
 ||a14net.com^
+||a21b624502.com^
 ||a26e7bb99f.com^
 ||a273656d15.com^
 ||a29f24b2a6.com^
@@ -3041,6 +3042,7 @@ vkcdnservice.appspot.com^
 ||akdbr.com^
 ||akdnhszqeqasz.store^
 ||akdrclfipxvkj.store^
+||akeleygrego.qpon^
 ||akftqsaedhfqt.space^
 ||akfzziowsd.in^
 ||akhflmskoecmk.site^
@@ -4743,6 +4745,7 @@ vkcdnservice.appspot.com^
 ||bbehvkrkbzcyw.online^
 ||bbexwxh978vugbij4zctewh5o9bnbj4ohmmpxk.cfd^
 ||bbgfssicevqpa.space^
+||bbgqypfqaojga.online^
 ||bbhszcabrptsq.space^
 ||bbiklzuzmsylk.online^
 ||bbikmvkmebxn.com^
@@ -6605,6 +6608,7 @@ vkcdnservice.appspot.com^
 ||calathicolleen.cfd^
 ||calcpol.com^
 ||calculatingequal.pro^
+||calculatingreveal.pro^
 ||calculationcovetous.com^
 ||calculationperildomestic.com^
 ||calendsshouldn.cfd^
@@ -10309,6 +10313,7 @@ vkcdnservice.appspot.com^
 ||domesticsomebody.com^
 ||domicileperil.com^
 ||domicilesweetheart.com^
+||domineehexer.com^
 ||domingbesnarecrex.qpon^
 ||dominionclatterrounded.com^
 ||dominioneastern.com^
@@ -10936,6 +10941,7 @@ vkcdnservice.appspot.com^
 ||dszkfk.com^
 ||dszkvm.com^
 ||dszlbx.com^
+||dszmeo.com^
 ||dszmga.com^
 ||dszmtq.com^
 ||dszqfx.com^
@@ -17414,6 +17420,7 @@ vkcdnservice.appspot.com^
 ||ibrapush.com^
 ||ibrhknuigvlev.website^
 ||ibryte.com^
+||ibutkbannljgd.site^
 ||ibvaohvdhgypx.com^
 ||ibvrruekneixz.site^
 ||ibw6mih2eej1lm29iolfrfpbt.cfd^
@@ -18784,6 +18791,7 @@ vkcdnservice.appspot.com^
 ||jagisjbavpwdj.space^
 ||jaguarinstils.cfd^
 ||jaguarsoutwent.qpon^
+||jahvistcleekyimplial.cyou^
 ||jahwgcaskcxdl.space^
 ||jaimeecartebung.qpon^
 ||jaixajhu.com^
@@ -18896,6 +18904,7 @@ vkcdnservice.appspot.com^
 ||jcvtdoqmifyzt.site^
 ||jcwylmuatiaqv.store^
 ||jcxnwlwjigrjr.online^
+||jdabrdxqtvzrb.site^
 ||jdauflfpdmoop.online^
 ||jdaxvtlwprmlz.space^
 ||jdbbrohkuubhdh.com^
@@ -25545,6 +25554,7 @@ vkcdnservice.appspot.com^
 ||oedazrjbdxygw.site^
 ||oefdjrivunaqq.website^
 ||oegjeeuyatxcm.website^
+||oeguaxuwhizbr.site^
 ||oeheupxifmgtq.website^
 ||oeibagiwhfltb.site^
 ||oeicqhzlvnlpc.online^
@@ -57112,6 +57122,7 @@ dlsdk.appsflyer.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||otzads.net^
 ||bivogrvfyoj.in^
 ||chorumebbbbgoza.xyz^
 ||comprargratis.com.br^
@@ -61409,8 +61420,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Aug 2026 14:14 UTC+7
-! Version: 2608101414
+! Last modified: 18 Aug 2026 13:56 UTC+7
+! Version: 2608181356
 ! Blocked: 847 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -62221,8 +62232,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Aug 2026 14:14 UTC+7
-! Version: 2608101414
+! Last modified: 18 Aug 2026 13:56 UTC+7
+! Version: 2608181356
 ! Blocked: 4.891 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -67097,6 +67108,7 @@ dlsdk.appsflyer.com^
 ||i16vlgqdhh.com^
 ||jnes2uutqu.com^
 ||tva4k92u14.com^
+||m8ysv4ckls.com^
 ||t4s8t6p39.com^
 ||hztrfbokggvlle.com^
 ||qvijpi426.com^
@@ -73528,7 +73540,6 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/filterslists/adblocking/filters-share/1st_domains.txt
 !
-||serv.ds.kakao.com^
 ||cafe-ads-api.daum.net^
 ||worker.gsr-ads.co.kr^
 ||get*bannerads-6egeg2u34q-du.a.run.app^
@@ -73549,7 +73560,6 @@ analytics-*.aasaam.com
 ||cp.edl.co.kr^
 ||ad.*.doubleclick.net^
 ||cdn-adn-*.rayjump.com^
-||shoppingcall.me^
 ||bidr.io^
 ||quantserve.com^
 ||widerplanet.com^
@@ -73567,6 +73577,7 @@ analytics-*.aasaam.com
 ||adbinead.com^
 ||cizion.com^
 ||stax.kr^
+||shoppingcall.me^
 ||kodcad.kr^
 ||hancomad.com^
 ||ahnlabad.com^
@@ -73654,10 +73665,10 @@ analytics-*.aasaam.com
 ||ad.admine.co.kr^
 ||ads.sportsseoul.com^
 ||ad.cyycoy.com^
-||wmars-client.wemakeprice.com^
 ||displayad.lotteon.com^
 ||ad-script.viewus.co.kr^
 ||ad-insight.sellermill.com^
+||serv.ds.kakao.com^
 ||ad.auction.co.kr^
 ||dadispapi.auction.co.kr^
 ||aduniv.nesin.com^
