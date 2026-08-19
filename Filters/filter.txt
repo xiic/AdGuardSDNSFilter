@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-19T00:51:37.525Z
+! Last modified: 2026-08-19T02:51:04.008Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3115,6 +3115,7 @@ vkcdnservice.appspot.com^
 ||alcoholcheckoccur.com^
 ||alczpohhzjaag.online^
 ||aldaminsteeks.cyou^
+||aldolchawlwakiup.cyou^
 ||aldosesmajeure.com^
 ||aldyrtdxccuep.space^
 ||aleikumchimb.qpon^
@@ -4323,6 +4324,7 @@ vkcdnservice.appspot.com^
 ||awuwozpbulprb.online^
 ||awvrnescbvwlo.website^
 ||awxdlwbxqjnoi.online^
+||awxkqrbeinzlj.site^
 ||awzpvorsyltel.website^
 ||axabpelvjfqav.site^
 ||axcqjjymlon.com^
@@ -5240,6 +5242,7 @@ vkcdnservice.appspot.com^
 ||bhwgdvpavsfzw.site^
 ||bhwkyiddqyole.space^
 ||biancasunlit.com^
+||biauralpatency.cyou^
 ||biaxalabiezer.cfd^
 ||biaxalwoibe.com^
 ||bibasicsmriti.cfd^
@@ -6332,6 +6335,7 @@ vkcdnservice.appspot.com^
 ||bunksniff.com^
 ||bunningscapple.com^
 ||bunnyassetsworn.com^
+||bunsenavoyer.qpon^
 ||buntedalive.shop^
 ||bunth.net^
 ||buntyplouky.com^
@@ -6411,6 +6415,7 @@ vkcdnservice.appspot.com^
 ||bvlconyoly.com^
 ||bvmcdn.com^
 ||bvmcdn.net^
+||bvnuaylhqmvcy.online^
 ||bvryckykikvhh.website^
 ||bvtmvalgidefh.store^
 ||bvtpk.com^
@@ -6574,6 +6579,7 @@ vkcdnservice.appspot.com^
 ||caballoptic.cfd^
 ||cabbagereporterpayroll.com^
 ||cabbagyflagger.qpon^
+||cabberjasey.qpon^
 ||cabccumqxzevy.space^
 ||cabhwq.com^
 ||cabindasillockelevons.cyou^
@@ -6917,6 +6923,7 @@ vkcdnservice.appspot.com^
 ||cbihvjploytkp.store^
 ||cbizitmyaprju.com^
 ||cbjflptthbjnb.space^
+||cbjmoseezbnbe.online^
 ||cbjtfkjfukuyb.store^
 ||cbluygxyvtfhv.site^
 ||cbogxhsvaqfxd.website^
@@ -6965,6 +6972,7 @@ vkcdnservice.appspot.com^
 ||cdahuceceqiqt.space^
 ||cdc4dd5d44.com^
 ||cdceed.de^
+||cdcptuedzjxal.site^
 ||cdcresxhvfo.com^
 ||cdctwm.com^
 ||cddtsecure.com^
@@ -8988,6 +8996,7 @@ vkcdnservice.appspot.com^
 ||cyiihoobjuxlx.space^
 ||cyitjpwmockuc.online^
 ||cyjzstlbndlby.online^
+||cyjztqjjwashz.space^
 ||cylinder502.net^
 ||cylindrical-good.pro^
 ||cylindrical-occasion.com^
@@ -12498,6 +12507,7 @@ vkcdnservice.appspot.com^
 ||evasemayfowl.cfd^
 ||evasiuywadnox.space^
 ||eveabberantprovide.com^
+||evectedlithely.cyou^
 ||evelinavendage.cyou^
 ||evendeprivation.com^
 ||evendisciplineseedlings.com^
@@ -12938,6 +12948,7 @@ vkcdnservice.appspot.com^
 ||farflung-switch.com^
 ||farflunglong.pro^
 ||fargwyn.com^
+||farmagewhooper.cyou^
 ||farmingrebused.cfd^
 ||farosdidal.shop^
 ||farrantmirexesdruidry.cyou^
@@ -14396,6 +14407,7 @@ vkcdnservice.appspot.com^
 ||fvxttknut.com^
 ||fw7u7ub6kkux9woj48bcu57p7x.cfd^
 ||fwbntw.com^
+||fwbuftcunyfgw.space^
 ||fwcvdfgoeayyo.site^
 ||fwepmrpj.com^
 ||fwfzomszkhywg.online^
@@ -19032,6 +19044,7 @@ vkcdnservice.appspot.com^
 ||jeiwumcsw.com^
 ||jejlaueaxfsjt.website^
 ||jeknoeqcgedl.com^
+||jelliesfabula.cyou^
 ||jelskefrankspt.cyou^
 ||jeneirlidqrms.website^
 ||jennjstpdb.com^
@@ -22905,6 +22918,7 @@ vkcdnservice.appspot.com^
 ||menagesvoes.cfd^
 ||mencrepey.shop^
 ||mendejobnamepanama.cyou^
+||mendelagonies.cfd^
 ||menialsforpass.qpon^
 ||meniseparcook.qpon^
 ||mennlumqmgddz.site^
@@ -23067,6 +23081,7 @@ vkcdnservice.appspot.com^
 ||mhwnlmindermr.space^
 ||mhyacjinulgvu.store^
 ||mhydndfvgzvwu.site^
+||mhygfmwlfclki.online^
 ||mi82ltk3veb7.com^
 ||miasmiccushing.qpon^
 ||miayarus.com^
@@ -23233,6 +23248,7 @@ vkcdnservice.appspot.com^
 ||mitresaxillae.com^
 ||mittenagregelatania.cfd^
 ||mittendrownministry.com^
+||mittentstandee.shop^
 ||mitvoppwqjiqo.space^
 ||mitvothgieing.cfd^
 ||mitymosurmisdo.cfd^
@@ -25503,6 +25519,7 @@ vkcdnservice.appspot.com^
 ||obqj2.com^
 ||obqj5.com^
 ||obqodwozfrho.in^
+||obrazilthuggeekabab.cfd^
 ||obrdhgxncafcx.store^
 ||obrqupzkarrdx.site^
 ||obscenityforearm.com^
@@ -28506,6 +28523,7 @@ vkcdnservice.appspot.com^
 ||prgvexaammwrj.online^
 ||prholuhyzkeea.site^
 ||prhykyumvljjx.space^
+||pricesunburn.cyou^
 ||priceynight.com^
 ||prickly-tradition.com^
 ||pricklyassociation.com^
@@ -31173,6 +31191,7 @@ vkcdnservice.appspot.com^
 ||rliclcdbwdmsg.site^
 ||rlijekthflfes.website^
 ||rliqfusopkcqy.space^
+||rljlailocyftr.site^
 ||rljwrjeuhszis.site^
 ||rlkgonihsmmsh.online^
 ||rlmtpmsnojdaa.online^
@@ -31684,6 +31703,7 @@ vkcdnservice.appspot.com^
 ||rusoezjtmlqix.site^
 ||russelawn.qpon^
 ||russellminorpresumptuous.com^
+||russenehaiku.shop^
 ||russianwoodencrown.com^
 ||russulamisname.qpon^
 ||rustredspeight.shop^
@@ -32137,6 +32157,7 @@ vkcdnservice.appspot.com^
 ||scale960.net^
 ||scalibur.io^
 ||scallopafford.com^
+||scalpdoubtless.com^
 ||scamblefeedman.com^
 ||scamforgottenbyte.com^
 ||scammerfail.com^
@@ -32841,6 +32862,7 @@ vkcdnservice.appspot.com^
 ||shoersdogies.shop^
 ||shoeskeleton.com^
 ||shogaolenvoisunample.qpon^
+||shogtrust.com^
 ||shojissowan.shop^
 ||sholke.com^
 ||shonehelotsconeen.cyou^
@@ -33013,6 +33035,7 @@ vkcdnservice.appspot.com^
 ||silverangleshookup.com^
 ||silverforestpath.com^
 ||silverleafroad.com^
+||silvernfatcake.qpon^
 ||silverwhitebirds.co^
 ||simbaresumeangered.cfd^
 ||simblumpunter.shop^
@@ -33815,6 +33838,7 @@ vkcdnservice.appspot.com^
 ||speraspace.com^
 ||speritybraggle.shop^
 ||spermaousia.cfd^
+||speronwombier.shop^
 ||spevybdnwkzzd.space^
 ||spfuiiitfethh.site^
 ||spherepsoai.com^
@@ -34570,6 +34594,7 @@ vkcdnservice.appspot.com^
 ||sukmdrkbkegsx.space^
 ||sukuesca.cyou^
 ||sulafatedeagra.cyou^
+||sulfitebedye.shop^
 ||sulkgrinseafood.com^
 ||sulkweapon.com^
 ||sultrymomentarily.com^
@@ -37881,6 +37906,7 @@ vkcdnservice.appspot.com^
 ||usoxhzmpfqehe.space^
 ||uspltmnovyy.com^
 ||ussmtrack.com^
+||ussrdekares.cyou^
 ||ust-ad.com^
 ||usthirstypsalm.com^
 ||ustivofcu.com^
@@ -38931,6 +38957,7 @@ vkcdnservice.appspot.com^
 ||vqzoqqnjolnbl.site^
 ||vrabeggfdjcsww.com^
 ||vrauwhahnrjuh.space^
+||vrcccaebjamyl.site^
 ||vrcyxqjipj.com^
 ||vrgbaevvadiwn.site^
 ||vrilleburgess.cyou^
