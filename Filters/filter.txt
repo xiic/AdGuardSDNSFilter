@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-20T14:28:40.404Z
+! Last modified: 2026-08-20T16:26:14.088Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1225,6 +1225,7 @@ vkcdnservice.appspot.com^
 ||5d5e0ea8b7.com^
 ||5df40cfbf3.com^
 ||5e1jng5u4lfi5i9qqi.rest^
+||5e3b98515a.com^
 ||5ee515d98a.com^
 ||5ei1zlm7w7ut9bezxfj5.cfd^
 ||5f242f7db1.com^
@@ -6572,6 +6573,7 @@ vkcdnservice.appspot.com^
 ||bysdobjxcazfv.site^
 ||byswxkgrsbekt.website^
 ||byte69.net^
+||byvdtugfdxznh.site^
 ||byxueqlbopuwx.com^
 ||byykynkjbmf.com^
 ||byzantoutride.cfd^
@@ -9101,6 +9103,7 @@ vkcdnservice.appspot.com^
 ||cyrola.net^
 ||cysclatowtdxq.website^
 ||cysodwprdoejs.online^
+||cysrqxsrmxtha.website^
 ||cytulajerviawomby.cyou^
 ||cyutuwsoxyjju.online^
 ||cyvzavjhmduqn.online^
@@ -9792,6 +9795,7 @@ vkcdnservice.appspot.com^
 ||detachmentcancelsuspicion.com^
 ||detachteethsolitude.com^
 ||detailedguitar.pro^
+||detarkepisworsle.cyou^
 ||detectbravecomfy.com^
 ||detectczechs.cyou^
 ||detectedpeculiaritiesmartial.com^
@@ -11284,6 +11288,7 @@ vkcdnservice.appspot.com^
 ||dwjmmeepcsyut.website^
 ||dwkfdahogaipo.website^
 ||dwkgpxohcasvp.site^
+||dwlladiupirrc.site^
 ||dwnxvqyxjdhqu.site^
 ||dwocjxvzwnkmv.online^
 ||dwppouflpwfxo.website^
@@ -11508,6 +11513,7 @@ vkcdnservice.appspot.com^
 ||ebaaabtwibf.com^
 ||ebannertraffic.com^
 ||ebatndolrzsxc.space^
+||ebbingarsinesyardarm.cfd^
 ||ebbscouture.cfd^
 ||ebd.cda-hd.co^
 ||ebdljicttjddk.store^
@@ -19377,6 +19383,7 @@ vkcdnservice.appspot.com^
 ||jilwueaoshhby.site^
 ||jimhloyoiczgn.space^
 ||jimjampatted.com^
+||jimsonamabel.cfd^
 ||jingobreaths.cfd^
 ||jinniespottagy.com^
 ||jinraoiahbrhg.online^
@@ -21944,6 +21951,7 @@ vkcdnservice.appspot.com^
 ||llxmbjgtshhd.com^
 ||llxqcrbjflbop.online^
 ||llykjmzkqvvqy.top^
+||llykjmzrjvrmy.top^
 ||lm1668.com^
 ||lm62z6ixx7opro5uug1xpbg1br2lm7.cfd^
 ||lmaowukrqnyiu.site^
@@ -24940,6 +24948,7 @@ vkcdnservice.appspot.com^
 ||nhzokhbzxbdqx.website^
 ||nhzylwcpmcchb.space^
 ||ni8b5yobfth1eebp.cfd^
+||ni8py19ozhrz4n.rest^
 ||niagaraswails.com^
 ||niatachang.shop^
 ||niaumxovmqpur.online^
@@ -29242,6 +29251,7 @@ vkcdnservice.appspot.com^
 ||pugmarktagua.com^
 ||pugreeakoleftish.qpon^
 ||puhtml.com^
+||puhvfc7n5t7gvf92t6vh.cfd^
 ||puhyjyf.com^
 ||puibjylihoygx.online^
 ||puinnjsexnlbo.space^
@@ -29629,6 +29639,7 @@ vkcdnservice.appspot.com^
 ||qdlrbnjioxxnl.website^
 ||qdmil.com^
 ||qdmizarqbbyqv.online^
+||qdmjtjfnzuqsr.online^
 ||qdougjzllrxyv.site^
 ||qdpvnjhzcafbl.space^
 ||qdpwywwuatvno.site^
@@ -30386,6 +30397,7 @@ vkcdnservice.appspot.com^
 ||raibblzfnoctm.space^
 ||raidfrightbritain.com^
 ||raidingsoftie.qpon^
+||railbowyers.cfd^
 ||railroadignorant.com^
 ||rainbowwhereaccording.com^
 ||rainexceptionrabbit.com^
@@ -31275,6 +31287,7 @@ vkcdnservice.appspot.com^
 ||rhnoikbhtktjx.space^
 ||rhnrzqbydtuxc.space^
 ||rhnwjjffbdcra.site^
+||rhnyglwshzaya.website^
 ||rho3ihhlouug529z8eneu.rest^
 ||rhobqhafjhhwl.store^
 ||rhoditepoudretstipule.cyou^
@@ -31831,6 +31844,7 @@ vkcdnservice.appspot.com^
 ||rrpuoifwzxgkh.site^
 ||rrqwarwrewrlj.top^
 ||rrrucdrkmpqed.website^
+||rrvllvxqfobil.site^
 ||rryev3je4nh1bo6t7.cfd^
 ||rrypbcicshtso.online^
 ||rryqvnolzfufd.site^
@@ -34389,6 +34403,7 @@ vkcdnservice.appspot.com^
 ||srfqdoboesecb.site^
 ||srgkeyuenriyi.website^
 ||srgtwfqptfcxf.online^
+||srhmzkdwrasrb.online^
 ||srhwazpvlyxua.online^
 ||srirambiles.cfd^
 ||srjqcahmdvhuh.online^
@@ -36059,6 +36074,7 @@ vkcdnservice.appspot.com^
 ||tieluzdhmokbw.website^
 ||tiercedtargingphasm.cyou^
 ||tiercedthae.com^
+||tiesbcgfsmpwe.space^
 ||tiesprosos.qpon^
 ||tifptxvtraamu.store^
 ||tig1ttn3utk88xvcok.cfd^
@@ -36094,6 +36110,7 @@ vkcdnservice.appspot.com^
 ||tilxgwpyoigje.store^
 ||timaffixes.shop^
 ||timeforagreement.com^
+||timelymaybe.pro^
 ||timesmonarchcivil.com^
 ||timetoagree.com^
 ||timingdownvolatile.com^
@@ -42258,6 +42275,7 @@ vkcdnservice.appspot.com^
 ||ymnu5j7kptf716ch859rcon2wte.cfd^
 ||ymokzqilqggeh.space^
 ||ymovooiljamnc.space^
+||ympzhpbzkurpz.website^
 ||ymrghezhbhfie.website^
 ||ymtcthpn.com^
 ||ymufgwkbhzygn.online^
@@ -53892,6 +53910,7 @@ dlsdk.appsflyer.com^
 ||adorableattention.com^
 ||adventurousamount.com^
 ||aerialapps.com^
+||afeteforfood.com^
 ||affectionknit.com^
 ||afraidlanguage.com^
 ||agencysignals.com^
@@ -57434,6 +57453,7 @@ dlsdk.appsflyer.com^
 ||event-tracker-library.mediaownerscloud.com^
 ||metrics.find.gr^
 ||stats-real-clients.zentech.gr^
+||radar.wizzo.media^
 ||tag.weezmo.com^
 ||heartbeat.pmd.444.hu^
 ||pixel.barion.com^
@@ -62048,7 +62068,6 @@ dlsdk.appsflyer.com^
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 ||ads.gmbr.pro^
 ||acquaintjokinglyscoring.com^
-||aqcaphatjoxv.com^
 ||hubapi.my.id^
 ||wonderfulyesterday.com^
 ||getandplay.web.id^
@@ -62061,7 +62080,6 @@ dlsdk.appsflyer.com^
 ||team-168.com^
 ||thoroughgear.com^
 ||tokoviral.online^
-||zzuolmapj.com^
 ||cek.to^
 ||klik.best^
 ||klik.top^
