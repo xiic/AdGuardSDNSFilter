@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-22T10:15:48.455Z
+! Last modified: 2026-08-22T12:24:43.046Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -678,6 +678,7 @@ vkcdnservice.appspot.com^
 ||1ts17.top^
 ||1ts19.top^
 ||1ts24.top^
+||1tyt5qgk9ygxfjoe.rest^
 ||1ufztt6mkpt1p1krt3.cfd^
 ||1w1yhg23m2kzp4v.cfd^
 ||1web.me^
@@ -15725,6 +15726,7 @@ vkcdnservice.appspot.com^
 ||gositego.live^
 ||gossardagathin.cfd^
 ||gossipwheelbarrowmajority.com^
+||gossipycompetitive.com^
 ||gossipyperennial.com^
 ||gotibetho.pro^
 ||gotmerchantford.com^
@@ -17223,6 +17225,7 @@ vkcdnservice.appspot.com^
 ||holidayslettucecircumvent.com^
 ||holierjezails.shop^
 ||holiesforgrow.cyou^
+||holilymerida.com^
 ||holloainnyardklans.cfd^
 ||hollow-population.pro^
 ||hollowaglet.cfd^
@@ -17661,6 +17664,7 @@ vkcdnservice.appspot.com^
 ||hvqndbbmvbcrc.online^
 ||hvqnfgvusjsnc.space^
 ||hvqwjvoisrnhx.website^
+||hvsfbiflxxx.com^
 ||hvvaoxrjglkhd.online^
 ||hvvmslekmyomk.site^
 ||hvwbspbolgupm.site^
@@ -19728,6 +19732,7 @@ vkcdnservice.appspot.com^
 ||jokerkibber.cfd^
 ||jokfrivqogtwq.site^
 ||jokingaspirant.com^
+||jokingflashlights.com^
 ||jokingsummonyuri.com^
 ||jokulbochism.qpon^
 ||jol8kr6jym6l6t6m9mq75.cfd^
@@ -19864,6 +19869,7 @@ vkcdnservice.appspot.com^
 ||jraaraflargqt.website^
 ||jravekvyeyyvq.top^
 ||jrbbavbvqmbaz.top^
+||jrbbavkejwloz.top^
 ||jreanjvuvpmy.in^
 ||jrhxzhuyetzma.website^
 ||jrjexx.com^
@@ -29771,6 +29777,7 @@ vkcdnservice.appspot.com^
 ||pyriteshumean.shop^
 ||pyroium.net^
 ||pysdvwrawkwjz.space^
+||pysvfggnwzzf.com^
 ||pytkdwpsaghfp.site^
 ||pytswepoazpej.website^
 ||pyudirsgzbzbq.site^
@@ -32991,6 +32998,7 @@ vkcdnservice.appspot.com^
 ||searchresultsworld.com^
 ||searchsecurer.com^
 ||searforsear.online^
+||seasansheenie.cyou^
 ||seasideunevenbowl.com^
 ||seasonendued.cyou^
 ||seatbaizesnoiler.cfd^
@@ -34052,6 +34060,7 @@ vkcdnservice.appspot.com^
 ||smilingill.com^
 ||smitchbakongo.qpon^
 ||smiteanimatedbeaker.com^
+||smiterdacusalumite.cyou^
 ||smithburka.com^
 ||smixldswntjcf.site^
 ||smjulynews.com^
@@ -35648,6 +35657,7 @@ vkcdnservice.appspot.com^
 ||syoxjuntp.com^
 ||syrcaufle.cfd^
 ||syrdgbyaktgsw.space^
+||syrhftrrhcll.com^
 ||syriacgrumose.com^
 ||syringesornerssimars.cyou^
 ||syrupimmediate.com^
@@ -37733,6 +37743,7 @@ vkcdnservice.appspot.com^
 ||ubtvonp3bfqkomvirgro2.rest^
 ||ubtypconlbqil.site^
 ||ubuqgtiumevh.com^
+||ubva-defender.pro^
 ||ubvjcdskxosze.site^
 ||ubydqaebqwnit.space^
 ||ubzmzxtdosgdh.online^
@@ -38943,6 +38954,7 @@ vkcdnservice.appspot.com^
 ||vanishedfragranceracial.com^
 ||vannetlignone.qpon^
 ||vanquishnorthern.com^
+||vanrcoanza.in^
 ||vaokbuyvpiyzw.website^
 ||vapedia.com^
 ||vapidnou.qpon^
@@ -40314,6 +40326,7 @@ vkcdnservice.appspot.com^
 ||wearadmiration.com^
 ||wearbald.care^
 ||wearbulbed.com^
+||weardogtiepirned.cfd^
 ||wearinessattached.com^
 ||wearinessgiddy.com^
 ||wearisomejudge.com^
@@ -40406,6 +40419,7 @@ vkcdnservice.appspot.com^
 ||weilanghoin.cyou^
 ||weiledsteverm.org^
 ||weirdergapes.shop^
+||weirderunwise.qpon^
 ||weirdopt.com^
 ||weirdsentence.com^
 ||weirdusual.pro^
@@ -43408,6 +43422,7 @@ vkcdnservice.appspot.com^
 ||zkcxoywtprkuz.website^
 ||zkczzltlhp6y.com^
 ||zkdtpucowdlat.website^
+||zke7f34g1p2ghtl.cfd^
 ||zkexr4458l2goqb.rest^
 ||zkfjdxlwwcilg.website^
 ||zkggtossfobzd.space^
@@ -68199,6 +68214,7 @@ dlsdk.appsflyer.com^
 ||1j397opcuw.com^
 ||4hf2saujov.com^
 ||lo2xxp73v7.com^
+||danpy3riac.com^
 ||dhgyq2twp.com^
 ||nzvmpjjkpinlbi.com^
 ||t5a64j1v4.com^
