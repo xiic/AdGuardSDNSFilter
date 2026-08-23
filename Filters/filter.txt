@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-22T22:14:17.874Z
+! Last modified: 2026-08-23T00:55:22.219Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1281,6 +1281,7 @@ vkcdnservice.appspot.com^
 ||613f15a070.com^
 ||6143e5d2b7.com^
 ||61buor.net^
+||61d1b409d4.com^
 ||61edd03ae1.com^
 ||61v17rij.xyz^
 ||620cyris.net^
@@ -1673,6 +1674,7 @@ vkcdnservice.appspot.com^
 ||987f9e203d.com^
 ||989d4c4ec9.com^
 ||98d4403b02.com^
+||98f496bbc2.com^
 ||98ufpen6j96mbk785ty.cfd^
 ||98withalt.net^
 ||993d52a9bd.com^
@@ -4409,6 +4411,7 @@ vkcdnservice.appspot.com^
 ||axfwlkeyqdntp.site^
 ||axgbr.com^
 ||axhifblxmqrdr.space^
+||axhonvtr.in^
 ||axilix.net^
 ||axilxcqvilg.com^
 ||axis13.net^
@@ -4788,6 +4791,7 @@ vkcdnservice.appspot.com^
 ||bastardnonethelessuseless.com^
 ||bastitemomme.shop^
 ||basylraias.cyou^
+||bataannabkreiced.cfd^
 ||batatacarline.qpon^
 ||batbwkbxpd.com^
 ||batcrack.icu^
@@ -5653,6 +5657,7 @@ vkcdnservice.appspot.com^
 ||blondspeaker.com^
 ||blondtongue.com^
 ||bloomssarong.cfd^
+||bloomsuncoyduoviri.qpon^
 ||bloopsbordel.cfd^
 ||blorestomium.shop^
 ||blotecardthumb.com^
@@ -9258,12 +9263,10 @@ vkcdnservice.appspot.com^
 ||d0main.ru^
 ||d194f6c2fc.com^
 ||d1b0ccfa6c.com^
-||d23uh58cc2jksn.cloudfront.net^
 ||d24ak3f2b.top^
 ||d285ff9533.com^
 ||d2ship.com^
 ||d334591460.com^
-||d3q5i0g1zfzd69.cloudfront.net^
 ||d4020f5f0f.com^
 ||d487fdd2a5.com^
 ||d4dc5a447c.com^
@@ -12463,6 +12466,7 @@ vkcdnservice.appspot.com^
 ||eostvofsqqsvi.site^
 ||eousnkffnnbes.space^
 ||eovhjagicwtxn.site^
+||eowgbrrjpapgt.space^
 ||eoxmqlvcylamr.online^
 ||eoymwwdawroxg.website^
 ||epacash.com^
@@ -12585,6 +12589,7 @@ vkcdnservice.appspot.com^
 ||ergotinmedleyseggars.cyou^
 ||erhkyebogpkfk.online^
 ||erhlyvjhetcad.online^
+||erhn4lwfrj24mi2.cfd^
 ||ericasedea.cyou^
 ||erikengager.shop^
 ||erisyngolerda.space^
@@ -12709,6 +12714,7 @@ vkcdnservice.appspot.com^
 ||etjrkgaqrkfad.space^
 ||etkybhmigxoyt.site^
 ||etmke315cfnqqoqwl.cfd^
+||etmurmcxyfsvg.online^
 ||etnxtlqhknmmb.space^
 ||etphoneme.com^
 ||etrownlnplynt.website^
@@ -13065,6 +13071,7 @@ vkcdnservice.appspot.com^
 ||ezvtfyjvrdbzx.site^
 ||ezvthdrknbfad.space^
 ||ezxkarybihqoo.space^
+||f00e275c9a.com^
 ||f07neg4p.de^
 ||f0d974daed.com^
 ||f0dee35014.com^
@@ -20524,6 +20531,7 @@ vkcdnservice.appspot.com^
 ||kfeiovrksdezl.online^
 ||kfesqxzagfxgr.online^
 ||kffrbabivwwpskn.com^
+||kfgxuiyutbwav.space^
 ||kfiqxtcuthefp.online^
 ||kfjhd.com^
 ||kfjwapsftuxtw.online^
@@ -20808,6 +20816,7 @@ vkcdnservice.appspot.com^
 ||kmoesupgtczcr.online^
 ||kmoxtvkjuxbgt.space^
 ||kmppuccaxcxyz.website^
+||kmqdyowlogcbu.website^
 ||kmqqewmthmocc.online^
 ||kmrplbwqdevox.space^
 ||kmrvvsdgfainp.space^
@@ -24228,6 +24237,7 @@ vkcdnservice.appspot.com^
 ||movesickly.com^
 ||moveyouforward.co^
 ||movfull.com^
+||movgkclvqkrub.online^
 ||movie-pass.club^
 ||moviead55.ru^
 ||movieexhibit.com^
@@ -24411,6 +24421,7 @@ vkcdnservice.appspot.com^
 ||muapuxxyabwtfo.com^
 ||mubahlbipxmo.in^
 ||mubdhqiyroo.com^
+||muchellustred.qpon^
 ||mucinataxias.cfd^
 ||mucinfainter.cfd^
 ||muckilymidpitlives.cfd^
@@ -24882,6 +24893,7 @@ vkcdnservice.appspot.com^
 ||navahonotusitalite.qpon^
 ||navaidaosmic.top^
 ||navalrememberedcarve.com^
+||navelbobbin.cyou^
 ||navetetelurgy.shop^
 ||navigatingnautical.xyz^
 ||navigcutler.cyou^
@@ -27391,6 +27403,7 @@ vkcdnservice.appspot.com^
 ||p12acx.com^
 ||p1bx5v5pr25memcfu.cfd^
 ||p2ed.site^
+||p2lr8fuc6n2nxixe.rest^
 ||p2r25bl4vlylij.rest^
 ||p2wdb.com^
 ||p2yn.com^
@@ -29552,6 +29565,7 @@ vkcdnservice.appspot.com^
 ||ptwmjmp.com^
 ||ptwmstcnt.com^
 ||ptyceotacvpon.site^
+||ptygaqelxcelu.website^
 ||ptznzsju.com^
 ||ptzpvltmyqdyn.online^
 ||ptzryllzneptn.site^
@@ -30628,6 +30642,7 @@ vkcdnservice.appspot.com^
 ||qygpcxfqqvfhr.online^
 ||qykvkfccj.com^
 ||qylkhwawxhomr.site^
+||qylmbeoryzzbj.top^
 ||qylofdsbhdluj.space^
 ||qymswdusycdvz.space^
 ||qypqafuymygkj.online^
@@ -31665,6 +31680,7 @@ vkcdnservice.appspot.com^
 ||rhombicsomeday.com^
 ||rhousoasopersb.org^
 ||rhovpfjrbncv.com^
+||rhoytfteww.com^
 ||rhpjmzgkw3mlj3m7h.rest^
 ||rhploidy.com^
 ||rhpytfij.com^
@@ -32465,6 +32481,7 @@ vkcdnservice.appspot.com^
 ||rwlkmstaerhrt.site^
 ||rwlqbrfsmtvyd.online^
 ||rwmswevrmftrr.website^
+||rwnlfmazqkzdz.space^
 ||rwofesciqvzgr.site^
 ||rwohxheuqhmqy.site^
 ||rwolbykeddxca.website^
@@ -40093,6 +40110,7 @@ vkcdnservice.appspot.com^
 ||vzwvakkmefryp.space^
 ||vzxanjusfczgl.site^
 ||vzxdzrbzeesko.site^
+||vzxffcbjvfsee.site^
 ||vzydopxwdqnqt.space^
 ||w0we.com^
 ||w3fc1o28kpltrl.rest^
@@ -41094,6 +41112,7 @@ vkcdnservice.appspot.com^
 ||wmhq8tw8t5ju3y.rest^
 ||wmkyrnbejgyku.website^
 ||wmlatpmbcaebl.space^
+||wmmgtwnqyf.com^
 ||wmndlomarcydl.site^
 ||wmnxcxftfbpbr.space^
 ||wmober.com^
@@ -43877,6 +43896,7 @@ vkcdnservice.appspot.com^
 ||zvmxpklpnnenv.site^
 ||zvpmktldiqxdk.site^
 ||zvrokbqvqvvbw.top^
+||zvrqdwonycpfm.space^
 ||zvrrzpfobezka.space^
 ||zvthanutunpww.site^
 ||zvvajeommbajz.top^
@@ -46164,6 +46184,7 @@ vkcdnservice.appspot.com^
 ||d23pdhuxarn9w2.cloudfront.net^
 ||d23rx8p5l6yry7.cloudfront.net^
 ||d23spca806c5fu.cloudfront.net^
+||d23uh58cc2jksn.cloudfront.net^
 ||d23xhr62nxa8qo.cloudfront.net^
 ||d24502rd02eo9t.cloudfront.net^
 ||d2483bverkkvsp.cloudfront.net^
@@ -46558,6 +46579,7 @@ vkcdnservice.appspot.com^
 ||d3klfyy4pvmpzb.cloudfront.net^
 ||d3kpkrgd3aj4o7.cloudfront.net^
 ||d3l320urli0p1u.cloudfront.net^
+||d3l739e8r8y9v7.cloudfront.net^
 ||d3lcz8vpax4lo2.cloudfront.net^
 ||d3lk5upv0ixky2.cloudfront.net^
 ||d3lliyjbt3afgo.cloudfront.net^
@@ -46600,6 +46622,7 @@ vkcdnservice.appspot.com^
 ||d3pk1qkob3uzgp.cloudfront.net^
 ||d3pvcolmug0tz6.cloudfront.net^
 ||d3q33rbmdkxzj.cloudfront.net^
+||d3q5i0g1zfzd69.cloudfront.net^
 ||d3q762vmkbqrah.cloudfront.net^
 ||d3qeaw5w9eu3lm.cloudfront.net^
 ||d3qgd3yzs41yp.cloudfront.net^
@@ -68332,6 +68355,10 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||fwslpa9ks.com^
+||f1jonnzc8.com^
+||jsnznlmiboptzo.com^
+||zrgnoey.icu^
 ||pjcvnamenr.com^
 ||pqurxlh7xk.com^
 ||spatula93.top^
