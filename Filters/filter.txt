@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-23T14:16:18.638Z
+! Last modified: 2026-08-23T16:16:38.349Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1264,6 +1264,7 @@ vkcdnservice.appspot.com^
 ||5toft8or7on8tt.com^
 ||5vbs96dea.com^
 ||5vpbnbkiey24.com^
+||5ygpzehz27pbji6qtbe5.cfd^
 ||6-partner.com^
 ||6000brixtix.com^
 ||6000function.com^
@@ -1360,6 +1361,7 @@ vkcdnservice.appspot.com^
 ||6f0247be0c.com^
 ||6f218410f7.com^
 ||6f9ijuvegiwnhx6o7l1bwev2n7jo.rest^
+||6fr977irn38yb4umkjh.rest^
 ||6g0sggey.xyz^
 ||6glece4homah8dweracea.com^
 ||6hyzv838nt4u7bg89cxxnnqhnb6.rest^
@@ -2971,6 +2973,7 @@ vkcdnservice.appspot.com^
 ||ahuvgjyj.com^
 ||ahvqvvjjlgntl.online^
 ||ahvxmwukrdlkk.website^
+||ahwdctomlghib.space^
 ||ahwzqqlumpyba.website^
 ||ahxpudoydaraw.site^
 ||ahxqqfgmfumpo.website^
@@ -8882,6 +8885,7 @@ vkcdnservice.appspot.com^
 ||crutterlaughychulpa.cfd^
 ||cruxgpnyrvvur.website^
 ||crwdcntrl.net^
+||crwflkxzpcrmq.site^
 ||crwlmdpzabosr.online^
 ||crwthpong.com^
 ||crxcr2.com^
@@ -10453,6 +10457,7 @@ vkcdnservice.appspot.com^
 ||dktjigphteqdi.site^
 ||dkvesauf.com^
 ||dkyzxjlvlfjae.store^
+||dkzfwhvpezgkk.space^
 ||dkzkxfcv.com^
 ||dl-rms.com^
 ||dlbamllhgjhdx.online^
@@ -11681,6 +11686,7 @@ vkcdnservice.appspot.com^
 ||ebfidkiilncan.site^
 ||ebknwhbdwqmvr.site^
 ||eblastengine.com^
+||ebmekwyilybyp.online^
 ||ebmjaufmqljbw.site^
 ||ebonisegorhenssnottie.cyou^
 ||ebonizerebake.com^
@@ -15014,6 +15020,7 @@ vkcdnservice.appspot.com^
 ||gathersguidon.qpon^
 ||gatlingmallow.qpon^
 ||gatrgoqldtooe.site^
+||gattineeplotsahiwal.qpon^
 ||gaubcopouts.shop^
 ||gaudsfervour.qpon^
 ||gaugerightfully.com^
@@ -15109,6 +15116,7 @@ vkcdnservice.appspot.com^
 ||gdmconvtrck.com^
 ||gdmgsecure.com^
 ||gdonqrdtzhvfq.space^
+||gdqkptppe.com^
 ||gdqmnvweycjnl.website^
 ||gdruivkdk.com^
 ||gdsfkwghjspep.site^
@@ -17617,6 +17625,7 @@ vkcdnservice.appspot.com^
 ||htneakzcupxkt.space^
 ||htnykujbhbmeu.site^
 ||htqaumcmsqrtl.com^
+||httaybjfiob.com^
 ||htufkxrviozxm.space^
 ||htukmobukvkdi.website^
 ||htuyvpnaurqxn.website^
@@ -22192,6 +22201,7 @@ vkcdnservice.appspot.com^
 ||ljline.com^
 ||ljmbfywawrrrg.online^
 ||ljnqievhkrsia.online^
+||ljoaqeqolobmk.top^
 ||ljpdwxykkqyxk.online^
 ||ljpnovfknjqyl.space^
 ||ljsishfjryjxreo.com^
@@ -26041,6 +26051,7 @@ vkcdnservice.appspot.com^
 ||nxxoxununzefm.website^
 ||nxxpgruglnfha.online^
 ||nxxxpmyejmudz.space^
+||nxzartzlbwoid.space^
 ||nya2.com^
 ||nybjwktlrcwca.site^
 ||nybkctzmldnye.space^
@@ -26629,6 +26640,7 @@ vkcdnservice.appspot.com^
 ||okyytrasubnjx.online^
 ||olarodwood.com^
 ||olayomad.com^
+||olbvzoebyc.com^
 ||olchibegum.cyou^
 ||olcrdqatcewmf.online^
 ||olderdisciplinary.com^
@@ -33798,6 +33810,7 @@ vkcdnservice.appspot.com^
 ||shrugverificationauto.com^
 ||shrunkcakes.shop^
 ||shrupsgnarred.com^
+||shsdxfkcguooa.site^
 ||shsrqndzhaqdo.site^
 ||shstvvexwudrg.website^
 ||shticksyahuna.com^
@@ -33807,6 +33820,7 @@ vkcdnservice.appspot.com^
 ||shubadubadlskjfkf.com^
 ||shudderviolence.com^
 ||shudogdoms.cyou^
+||shufdgapqiekr.space^
 ||shuffleentrust.com^
 ||shuhvohkdzjfm.site^
 ||shukriya90.com^
@@ -35494,6 +35508,7 @@ vkcdnservice.appspot.com^
 ||sudsesusuarycoman.qpon^
 ||suedinepredate.cfd^
 ||suejvtxdvjtqc.website^
+||suetyparteduello.qpon^
 ||suevicnettie.com^
 ||suezbonuses.shop^
 ||sufferpounceo.com^
@@ -37571,6 +37586,7 @@ vkcdnservice.appspot.com^
 ||tsshern.shop^
 ||tstdhmtyf.com^
 ||tstgotkendna.qpon^
+||tstsoe.com^
 ||tstwomzhxzkhf.site^
 ||tsuccwavchpvh.website^
 ||tsuutrmpeop.com^
@@ -38517,6 +38533,7 @@ vkcdnservice.appspot.com^
 ||unjustsubmerge.com^
 ||unkefcmhoyycz.online^
 ||unkemptbirth.com^
+||unkeptheisted.cyou^
 ||unkeyedstoped.shop^
 ||unkfrqeoymzbw.online^
 ||unkindpendulum.com^
@@ -43292,6 +43309,7 @@ vkcdnservice.appspot.com^
 ||yweakelandorde.org^
 ||ywfrxohexnykc.online^
 ||ywfwgkclolrob.space^
+||ywfxjkoaeiojz.site^
 ||ywhrqheqsdgry.website^
 ||ywiicadcuvilo.online^
 ||ywijwpoaqfunt.space^
@@ -43738,6 +43756,7 @@ vkcdnservice.appspot.com^
 ||zkcxoywtprkuz.website^
 ||zkczzltlhp6y.com^
 ||zkdtpucowdlat.website^
+||zkdvaodpyoxvd.online^
 ||zke7f34g1p2ghtl.cfd^
 ||zkexr4458l2goqb.rest^
 ||zkfjdxlwwcilg.website^
