@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-24T06:42:04.324Z
+! Last modified: 2026-08-24T08:39:24.344Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2833,6 +2833,7 @@ vkcdnservice.appspot.com^
 ||agenteimmobiliare.info^
 ||agentrylaicise.com^
 ||agfasjfhveoqf.online^
+||agfhnmcbghwzp.online^
 ||aggravatingchicken.pro^
 ||aggravatingoil.com^
 ||aggravationbabysitterplumbing.com^
@@ -4679,6 +4680,7 @@ vkcdnservice.appspot.com^
 ||barbuleclionacowbird.qpon^
 ||bardatm.ru^
 ||bardesswaxbill.cfd^
+||bardiccuckoo.com^
 ||bardinghuggery.com^
 ||bare-type.pro^
 ||baredagin.com^
@@ -7962,6 +7964,7 @@ vkcdnservice.appspot.com^
 ||coffanthrax.cyou^
 ||coffeavirify.com^
 ||coffinlapflight.com^
+||cofmspotdj.com^
 ||coftfdtcjtnjt.website^
 ||coggingbrocard.com^
 ||cogglyumbrose.com^
@@ -8640,6 +8643,7 @@ vkcdnservice.appspot.com^
 ||crescentstocky.com^
 ||cresfpho2ntesepapillo3.com^
 ||cresoxyformicmunandi.cyou^
+||cressforhowcoree.cyou^
 ||crestedsibylstopper.qpon^
 ||cretgate.com^
 ||crevicedepressingpumpkin.com^
@@ -17673,6 +17677,7 @@ vkcdnservice.appspot.com^
 ||icxyqoonmogdn.online^
 ||icyassimilateparchment.com^
 ||icyporno.com^
+||icyscokzsxbmd.site^
 ||id5-sync.com^
 ||idabignou.qpon^
 ||idaeanaplite.cyou^
@@ -19850,6 +19855,7 @@ vkcdnservice.appspot.com^
 ||jvqlisbixnxaz.space^
 ||jvrbmsrtvpzst.site^
 ||jvsrqsqh.com^
+||jvsspnnctftej.site^
 ||jvwuejwrelcst.space^
 ||jvxlfrzupukvh.online^
 ||jvxzqiwzgxglg.website^
@@ -19943,6 +19949,7 @@ vkcdnservice.appspot.com^
 ||jzayjohqhvuxa.online^
 ||jzbhqlgvsxdwb.store^
 ||jzcvpqoorkigm.site^
+||jzfnsoyepswtm.site^
 ||jzhkmgdeesljp.online^
 ||jzhnqycanbvsn.space^
 ||jziweafbssqyj.store^
@@ -23377,6 +23384,7 @@ vkcdnservice.appspot.com^
 ||mishandlepretty.com^
 ||misjudgebuoyeye.com^
 ||misleadgifted.com^
+||mismeetchelpwur.cyou^
 ||misnamefilters.cfd^
 ||misovxorsrti.in^
 ||missalsphasemysnickey.cfd^
@@ -27096,6 +27104,7 @@ vkcdnservice.appspot.com^
 ||palsifyeslisor.cyou^
 ||palsybecamedislike.com^
 ||paltry-blind.pro^
+||paltry-current.pro^
 ||paluinho.cloud^
 ||palulusshojo.shop^
 ||pameladayside.qpon^
@@ -32047,6 +32056,7 @@ vkcdnservice.appspot.com^
 ||ryknsblynbifq.store^
 ||ryminos.com^
 ||ryotswaffles.cfd^
+||rypmbgkfsnkjg.space^
 ||ryqtxakilhprz.site^
 ||ryqxryaytwbpx.website^
 ||rytinaparred.cfd^
@@ -32172,6 +32182,7 @@ vkcdnservice.appspot.com^
 ||saithpersicoathwart.qpon^
 ||saixcbzjrieif.site^
 ||sajldwpvqcikz.website^
+||sakncwtbggxik.site^
 ||sakosbqjogbna.site^
 ||sakura-traffic.com^
 ||sakyxoyes.com^
@@ -41768,6 +41779,7 @@ vkcdnservice.appspot.com^
 ||xzqpz.com^
 ||xzsbqmrblpozc.website^
 ||xzshonsscrjzu.online^
+||xzwiksdswxjvu.online^
 ||xzzgndpecxrwj.online^
 ||xzzoiprvfobyw.space^
 ||y1jxiqds7v.com^
@@ -42653,6 +42665,7 @@ vkcdnservice.appspot.com^
 ||zcfkamumyzzle.online^
 ||zcfuoqjyzgksa.online^
 ||zcgjefvwecrez.space^
+||zchfzbgaozhle.space^
 ||zckfjcotzjdty.space^
 ||zcmywlwnaequm.online^
 ||zcok7117voqo35mz4yffzu72ji.cfd^
@@ -47802,6 +47815,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||p.softmedia.cz^
 ||analytics.sportera.fans^
 ||analytics.sen.go.kr^
 ||scollect.17173.com^
@@ -62015,8 +62029,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Aug 2026 13:56 UTC+7
-! Version: 2608181356
+! Last modified: 24 Aug 2026 13:45 UTC+7
+! Version: 2608241345
 ! Blocked: 847 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -62827,9 +62841,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 18 Aug 2026 13:56 UTC+7
-! Version: 2608181356
-! Blocked: 4.891 rules
+! Last modified: 24 Aug 2026 13:45 UTC+7
+! Version: 2608241345
+! Blocked: 4.894 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -62852,6 +62866,7 @@ dlsdk.appsflyer.com^
 ||1cash.info^
 ||1is7m7.cyou^
 ||1ksale.com^
+||2305748.cc^
 ||24-7-vidientu.com^
 ||24-7bank.com^
 ||247-banking.com^
@@ -62874,6 +62889,8 @@ dlsdk.appsflyer.com^
 ||365bet.shop^
 ||3tght76h.com^
 ||456vdghgj30.dyndns.org^
+||462215.help^
+||4668843.cc^
 ||50gb034.xyz^
 ||555lotte.com^
 ||555shopify.com^
@@ -67699,6 +67716,7 @@ dlsdk.appsflyer.com^
 ||pqpauhtkbh.icu^
 ||umrd62a7zy.com^
 ||5knltyfcfy.com^
+||k5s3263xhu.com^
 ||fwslpa9ks.com^
 ||f1jonnzc8.com^
 ||jsnznlmiboptzo.com^
