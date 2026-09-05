@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-09-05T17:51:32.999Z
+! Last modified: 2026-09-05T19:47:41.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6851,6 +6851,7 @@ vkcdnservice.appspot.com^
 ||bwcvzbjbrbolk.site^
 ||bwdsnvwtnvuhl.store^
 ||bwgbqdhuyvkqu.site^
+||bwhrurrkgt1x6g.rest^
 ||bwitahqriaz.in^
 ||bwjdgmsebmnub.online^
 ||bwjdlppiimfli.com^
@@ -7277,6 +7278,7 @@ vkcdnservice.appspot.com^
 ||carrelsfrankly.shop^
 ||carriedamiral.com^
 ||carrotsmacaca.qpon^
+||carryedgandum.com^
 ||carryglanced.com^
 ||cartedatafter.qpon^
 ||cartelcabiria.cyou^
@@ -15470,6 +15472,7 @@ vkcdnservice.appspot.com^
 ||fxbojoywozehj.website^
 ||fxbprfogjabel.online^
 ||fxdepo.com^
+||fxepofupedgjq.space^
 ||fxewupiyppjkg.website^
 ||fxghyhcifmyel.store^
 ||fxgrscstakhxi.space^
@@ -18710,6 +18713,7 @@ vkcdnservice.appspot.com^
 ||hzgh8czw3nfyyb58vzjvkp1ptk1pt.cfd^
 ||hzgqew41ebe92rfcy97eml1.cfd^
 ||hzhlgkoxzgkok.site^
+||hzhtnsqgkmcau.website^
 ||hzlhxlivfnxur.site^
 ||hzlswdkrcutie.website^
 ||hznenxxzupeym.site^
@@ -23857,6 +23861,7 @@ vkcdnservice.appspot.com^
 ||lvyowwyvymbv.top^
 ||lvyrokjbvvoor.top^
 ||lvyvxkmvrjrul.online^
+||lw1z4e5zuqhlfetegbmfgi.cfd^
 ||lwahyysblqbez.site^
 ||lwdblrksolqvt.store^
 ||lwdmfhylcfj.com^
@@ -24613,6 +24618,7 @@ vkcdnservice.appspot.com^
 ||mencrepey.shop^
 ||mendejobnamepanama.cyou^
 ||mendelagonies.cfd^
+||mengwepruneszarfs.cfd^
 ||menialsforpass.qpon^
 ||meniseparcook.qpon^
 ||mennlumqmgddz.site^
@@ -24910,6 +24916,7 @@ vkcdnservice.appspot.com^
 ||minniecrpe.qpon^
 ||minningsutu.com^
 ||minorcabaganda.shop^
+||minosurgence.com^
 ||minotaur107.com^
 ||mintaza.xyz^
 ||minty-statement.pro^
@@ -26975,6 +26982,7 @@ vkcdnservice.appspot.com^
 ||npeeggzb.com^
 ||npfbhhacnbios.space^
 ||npfnnmbcuotel.website^
+||npftdfmceyenp.website^
 ||nphxtgyzxotgf.online^
 ||npjdvywxsbtbz.online^
 ||npjozfqmxlror.space^
@@ -29436,6 +29444,7 @@ vkcdnservice.appspot.com^
 ||personal-study.pro^
 ||personalparcelmarker.com^
 ||personifyproposition.com^
+||personsetruria.cfd^
 ||perspectivebriefing.com^
 ||perstoppedsunken.com^
 ||pertauthentic.com^
@@ -32737,6 +32746,7 @@ vkcdnservice.appspot.com^
 ||red-shopping.com^
 ||redameslurbs.shop^
 ||redamgdzdedoe.site^
+||redbugsengoue.cyou^
 ||redbugturkisinwalls.qpon^
 ||reddlemoonbowpurlieu.qpon^
 ||redeemcontagiontransmitted.com^
@@ -34009,6 +34019,7 @@ vkcdnservice.appspot.com^
 ||rugiomyh2vmr.com^
 ||rugpowerfully.com^
 ||ruhfpcfkysoxw.site^
+||ruhoxlli.in^
 ||ruikwyqprpluu.space^
 ||ruinerobvolve.com^
 ||ruinousmanipulation.com^
@@ -41579,6 +41590,7 @@ vkcdnservice.appspot.com^
 ||villainindiscreetnewsletter.com^
 ||villainous-track.pro^
 ||villainshogged.cfd^
+||villanwinnocksetsman.cfd^
 ||villarsepta.cyou^
 ||villoserebused.cyou^
 ||vilytaku.com^
@@ -42070,6 +42082,7 @@ vkcdnservice.appspot.com^
 ||vv48nwxec8e9bf4z6b34673.cfd^
 ||vvaervdbcntvs.online^
 ||vvcszpzpuceps.space^
+||vvewkblqoyjyq.top^
 ||vvfndxeumlfbn.com^
 ||vvjacrtsivivq.online^
 ||vvkholowfoeku.website^
@@ -42193,6 +42206,7 @@ vkcdnservice.appspot.com^
 ||vzlizfsrjievg.space^
 ||vzmdzpqymjiho.online^
 ||vzmilkdaptnug.online^
+||vzmmlnlafhbxgz.com^
 ||vzmqnfbmdcmny.online^
 ||vzofbsmlnuumm.space^
 ||vzstscoagbdvv.online^
@@ -44517,6 +44531,7 @@ vkcdnservice.appspot.com^
 ||xwqxwfzhjsxom.space^
 ||xwrwajlqlpkvw.space^
 ||xwskxrfsvcooqt.com^
+||xwstwgaxdfchg.space^
 ||xwtpdmsgkfbrz.online^
 ||xwvsmeuegpbfne.com^
 ||xwvtqtsrlgedu.space^
@@ -45732,6 +45747,7 @@ vkcdnservice.appspot.com^
 ||zicwghowpuhbj.website^
 ||zidaunsoud.net^
 ||ziddichqrttva.online^
+||ziddlzeeddlmv.website^
 ||zieifgajfzyvs.space^
 ||ziekvasufucub.website^
 ||ziffsthanked.shop^
@@ -58861,6 +58877,7 @@ dlsdk.appsflyer.com^
 ||substantialgrade.com^
 ||successbuffet.com^
 ||successmenu.com^
+||successoutcome.com^
 ||suggestionbridge.com^
 ||sulkycook.com^
 ||summerobject.com^
