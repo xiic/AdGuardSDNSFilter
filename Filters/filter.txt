@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-09-06T21:53:25.286Z
+! Last modified: 2026-09-06T23:23:29.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2930,6 +2930,7 @@ vkcdnservice.appspot.com^
 ||aggregationmodest.com^
 ||aggressivestruggle.com^
 ||aggrosnavetymara.cyou^
+||aghasstomiumcloyed.cyou^
 ||aghoririvell.shop^
 ||agiaxpdoiuunbbm.com^
 ||agibbaptillet.cfd^
@@ -4597,6 +4598,7 @@ vkcdnservice.appspot.com^
 ||awxdlwbxqjnoi.online^
 ||awzpvorsyltel.website^
 ||axabpelvjfqav.site^
+||axaebrfvh.com^
 ||axcqjjymlon.com^
 ||axdzmrruiattf.website^
 ||axeldivision.com^
@@ -16836,6 +16838,7 @@ vkcdnservice.appspot.com^
 ||greenplasticdua.com^
 ||greeslumpier.cyou^
 ||greetedenumeratehundreds.com^
+||greetedsoneri.com^
 ||greetingnoise.com^
 ||grefutiwhe.com^
 ||greggedisrate.shop^
@@ -18326,6 +18329,7 @@ vkcdnservice.appspot.com^
 ||hooliganrosebuddescendent.com^
 ||hooligs.app^
 ||hooliredir.com^
+||hoolockstelene.com^
 ||hoolydekare.cyou^
 ||hoomigri.com^
 ||hoood.info^
@@ -18405,6 +18409,7 @@ vkcdnservice.appspot.com^
 ||houndinflateclassmate.com^
 ||houndsouvenirs.com^
 ||hourcontributor.com^
+||hourdelayed.com^
 ||hourglasshookupviolation.com^
 ||hourglassinedible.com^
 ||hourspaltrypointed.com^
@@ -21200,6 +21205,7 @@ vkcdnservice.appspot.com^
 ||juicyads.me^
 ||juicycash.net^
 ||juicycontext.com^
+||juicyjacens.com^
 ||juicymortgage.com^
 ||jujuflatwaypolt.cyou^
 ||juklfwgznmzky.site^
@@ -22762,6 +22768,7 @@ vkcdnservice.appspot.com^
 ||lbfespmneslew.space^
 ||lbhtkeffrcqxz.site^
 ||lbiusrlvwnqgw.online^
+||lbkchkpnwsqbp.site^
 ||lbkezllrokbev.top^
 ||lbkezllywkyjy.top^
 ||lbkvxrzvqveom.online^
@@ -27413,6 +27420,7 @@ vkcdnservice.appspot.com^
 ||nvpbwocxzbumr.space^
 ||nvqvibvtalsmj.online^
 ||nvrblck.com^
+||nvriycdhvqwrp.online^
 ||nvsucjifrawbf.online^
 ||nvsvlphrynhoq.website^
 ||nvwfdjlpjpzpt.site^
@@ -28300,6 +28308,7 @@ vkcdnservice.appspot.com^
 ||ooktgltucmhnf.site^
 ||oolakunlight.qpon^
 ||oolemmafname.cyou^
+||oolitesgulp.cfd^
 ||oolongmatlow.com^
 ||oolwiatgt.com^
 ||oomaugnaps.net^
@@ -30661,6 +30670,7 @@ vkcdnservice.appspot.com^
 ||poweriworth.shop^
 ||powferads.com^
 ||powsnbzvggnpk.site^
+||powtertriaryl.com^
 ||poxorfdldbzdr.online^
 ||poybirdcrubeenarmpits.cfd^
 ||pozkbycypzgty.site^
@@ -31935,6 +31945,7 @@ vkcdnservice.appspot.com^
 ||qjsepjbndeeot.site^
 ||qjuyaxbrnhxgm.online^
 ||qjvyvtffjirwg.website^
+||qjvzjpvjdnrij.space^
 ||qjxotsmkitqdt.site^
 ||qjyrtmqoyz.com^
 ||qkacjgqdpvilp.website^
@@ -32050,6 +32061,7 @@ vkcdnservice.appspot.com^
 ||qoiqfckhwinup.online^
 ||qojeoccuereut.space^
 ||qokzrwccbilzz.website^
+||qolaaapgfh.com^
 ||qolulyawnfyup.space^
 ||qomqxzufyzmit.site^
 ||qonlkzvgaunke.site^
@@ -35471,6 +35483,7 @@ vkcdnservice.appspot.com^
 ||shafiicrates.cyou^
 ||shaggysinner.com^
 ||shahdomdemark.cfd^
+||shaheenmagyarsmavis.cfd^
 ||shahinbarbas.shop^
 ||shaigiashouldtittup.qpon^
 ||shaikhicalyon.qpon^
@@ -41272,6 +41285,7 @@ vkcdnservice.appspot.com^
 ||uwlgobzldxdun.space^
 ||uwoaptee.com^
 ||uwppdmkzyykwk.site^
+||uwquislrblyii.space^
 ||uwqxdgtenyjdd.online^
 ||uwsmamsebynub.site^
 ||uwsxggozgndtg.online^
@@ -44474,6 +44488,7 @@ vkcdnservice.appspot.com^
 ||xiqrciamgw.com^
 ||xiqtuegppgjra.website^
 ||xir6hny6lxxpu5o2un1t.cfd^
+||xiroiirhaqhru.space^
 ||xirugcrbfagsb.space^
 ||xismhhxnxzfdj.online^
 ||xitsievucdlde.space^
@@ -44826,6 +44841,7 @@ vkcdnservice.appspot.com^
 ||xurkvrrdbevqc.website^
 ||xurucnjfjhsjg.site^
 ||xusqqicassjoh.website^
+||xussewijdhxcj.website^
 ||xutjjrvscjjny.website^
 ||xutpiayukwxsl.online^
 ||xutwjkyhpmayq.space^
